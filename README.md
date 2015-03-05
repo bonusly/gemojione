@@ -2,7 +2,7 @@
 
 A gem for EmojiOne
 
-[![Build Status](https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master)](https://travis-ci.org/jonathanwiesel/gemojione)
+[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl]
 
 This gem exposes the [emojione](http://emojione.com/) unicode/image assets and APIs for working with them.
 
@@ -124,3 +124,9 @@ gem 'escape_utils'
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+[travisUrl]: https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master
+[travisProject]: https://travis-ci.org/jonathanwiesel/gemojione
+[downs]: https://img.shields.io/gem/dt/gemojione.svg
+[version]: https://img.shields.io/gem/v/gemojione.svg
+[rubyUrl]: https://rubygems.org/gems/gemojione
