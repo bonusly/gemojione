@@ -1,10 +1,10 @@
-# Emoji
+# Gemojione
 
-A Ruby gem. For emoji. For everyone. :heart:
+A gem for EmojiOne
 
-[![Build Status](https://travis-ci.org/steveklabnik/emoji.svg?branch=master)](https://travis-ci.org/steveklabnik/emoji)
+[![Build Status](https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master)](https://travis-ci.org/jonathanwiesel/gemojione)
 
-This gem exposes the [Phantom Open Emoji library](https://github.com/Genshin/PhantomOpenEmoji) unicode/image assets and APIs for working with them.
+This gem exposes the [emojione](http://emojione.com/) unicode/image assets and APIs for working with them.
 
 Easily lookup emoji name, unicode character, or image assets and convert emoji representations.
 
@@ -13,7 +13,7 @@ Easily lookup emoji name, unicode character, or image assets and convert emoji r
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'emoji'
+gem 'gemojione'
 ```
 
 And then execute:
@@ -22,11 +22,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install emoji
-    
+    $ gem install gemojione
+
 Install emoji image library assets:
 
-    $ rake emoji:install_assets
+    $ rake gemojione:install_assets
     ====================================================================
     = emoji image assets install
     = Target: /Users/user/src/rails-app/app/assets/images/emoji
@@ -43,13 +43,13 @@ Image Replacement APIs:
 
 ```ruby
 > Emoji.replace_unicode_moji_with_images('I ❤ Emoji')
-=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/heart.png\"> Emoji"
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
 > Emoji.image_url_for_unicode_moji('❤')
-=> "http://localhost:3000/assets/emoji/heart.png"
+=> "http://localhost:3000/assets/emoji/2764.png"
 
 > Emoji.image_url_for_name('heart')
-=> "http://localhost:3000/assets/emoji/heart.png"
+=> "http://localhost:3000/assets/emoji/2764.png"
 ```
 
 Emoji Library Index APIs:
@@ -58,40 +58,41 @@ Emoji Library Index APIs:
 > index = Emoji::Index.new
 
 > index.find_by_name('heart')
-=> {"moji"=>"❤", "name"=>"heart", "name-ja"=>"ハート", "category"=>"abstract", "unicode"=>"2764"}
+
+=> {"moji"=>"❤", "unicode"=>"2764", "unicode_alternates"=>["2764-FE0F"], "name"=>"heart", "shortname"=>":heart:", "category"=>"emoticons", "category_order"=>"173", "aliases"=>[], "aliases_ascii"=>["<3"], "keywords"=>["like", "love", "red", "pink", "black", "heart", "love", "passion", "romance", "intense", "desire", "death", "evil", "cold", "valentines"], "description"=>"heavy black heart"}
 
 > index.find_by_moji('❤')
-=> {"moji"=>"❤", "name"=>"heart", "name-ja"=>"ハート", "category"=>"abstract", "unicode"=>"2764"}
+=> {"moji"=>"❤", "unicode"=>"2764", "unicode_alternates"=>["2764-FE0F"], "name"=>"heart", "shortname"=>":heart:", "category"=>"emoticons", "category_order"=>"173", "aliases"=>[], "aliases_ascii"=>["<3"], "keywords"=>["like", "love", "red", "pink", "black", "heart", "love", "passion", "romance", "intense", "desire", "death", "evil", "cold", "valentines"], "description"=>"heavy black heart"}
 ```
 Default configuration integrates with Rails, but you can change it with an initializer:
-   
-```ruby 
-# config/initializers/emoji.rb
-Emoji.asset_host = "emoji.cdn.com"
-Emoji.asset_path = '/assets/emoji'
+
+```ruby
+# config/initializers/gemojione.rb
+Gemojione.asset_host = "emoji.cdn.com"
+Gemojione.asset_path = '/assets/emoji'
 ```
 
 String Helper Methods:
 
-You can also 
+You can also
 
 ```ruby
-include 'emoji/string_ext'
+include 'gemojione/string_ext'
 ```
 
 and call methods directly on your string to return the same results:
 
 ```ruby
 > 'I ❤ Emoji'.with_emoji_images
-=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/heart.png\"> Emoji"
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
 > 'heart'.image_url
 > '❤'.image_url
-=> "http://localhost:3000/assets/emoji.heart.png"
+=> "http://localhost:3000/assets/emoji/2764.png"
 
 > 'heart'.emoji_data
 > '❤'.emoji_data
-=> {"moji"=>"❤", "name"=>"heart", "name-ja"=>"ハート", "category"=>"abstract", "unicode"=>"2764"}
+=> {"moji"=>"❤", "unicode"=>"2764", "unicode_alternates"=>["2764-FE0F"], "name"=>"heart", "shortname"=>":heart:", "category"=>"emoticons", "category_order"=>"173", "aliases"=>[], "aliases_ascii"=>["<3"], "keywords"=>["like", "love", "red", "pink", "black", "heart", "love", "passion", "romance", "intense", "desire", "death", "evil", "cold", "valentines"], "description"=>"heavy black heart"}
 ```
 
 ## HTML Safety and Performance
@@ -112,6 +113,7 @@ gem 'escape_utils'
 * [@semanticart](https://github.com/semanticart): Cleanup/Ruby 1.9.3 support
 * [@parndt](https://github.com/parndt): README doc fixes
 * [@neuegram](https://github.com/neuegram): XSS Security Audit
+* [@jonathanwiesel](https://github.com/jonathanwiesel): Emojione support
 
 ## Contributing
 
