@@ -1,20 +1,20 @@
 # encoding: UTF-8
 
-require 'emoji/string_ext'
+require 'gemojione/string_ext'
 
 describe String, 'with Emoji extensions' do
   describe '#with_emoji_images' do
     it 'should replace unicode moji with an img tag' do
       base_string = "I ❤ Emoji"
       replaced_string = base_string.with_emoji_images
-      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/heart.png\"> Emoji", replaced_string
+      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
   end
 
   describe '#image_url' do
     it 'should generate image_url' do
-      assert_equal 'http://localhost:3000/cyclone.png', '🌀'.image_url
-      assert_equal 'http://localhost:3000/cyclone.png', 'cyclone'.image_url
+      assert_equal 'http://localhost:3000/1F300.png', '🌀'.image_url
+      assert_equal 'http://localhost:3000/1F300.png', 'cyclone'.image_url
     end
   end
 

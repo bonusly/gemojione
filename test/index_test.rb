@@ -2,8 +2,8 @@
 
 require File.absolute_path File.dirname(__FILE__) + '/test_helper'
 
-describe Emoji::Index do
-  let(:index) { Emoji::Index.new }
+describe Gemojione::Index do
+  let(:index) { Gemojione::Index.new }
 
   describe "find_by_name" do
     it 'should find cyclone emoji' do

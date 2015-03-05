@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'bundler/setup'
 
-require 'emoji'
+require 'gemojione'
 
 require 'minitest/autorun'
 require 'minitest/pride'
