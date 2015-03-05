@@ -42,20 +42,20 @@ You can use this gem to replace unicode emoji characters with img tags linking t
 Image Replacement APIs:
 
 ```ruby
-> Emoji.replace_unicode_moji_with_images('I ❤ Emoji')
+> Gemojione.replace_unicode_moji_with_images('I ❤ Emoji')
 => "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
-> Emoji.image_url_for_unicode_moji('❤')
+> Gemojione.image_url_for_unicode_moji('❤')
 => "http://localhost:3000/assets/emoji/2764.png"
 
-> Emoji.image_url_for_name('heart')
+> Gemojione.image_url_for_name('heart')
 => "http://localhost:3000/assets/emoji/2764.png"
 ```
 
 Emoji Library Index APIs:
 
 ```ruby
-> index = Emoji::Index.new
+> index = Gemojione::Index.new
 
 > index.find_by_name('heart')
 
