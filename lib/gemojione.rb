@@ -1,4 +1,4 @@
-require 'emoji/version'
+require 'gemojione/version'
 require 'json'
 
 # Optionally load EscapeUtils if it's available
@@ -8,11 +8,11 @@ rescue LoadError
   require 'cgi'
 end
 
-require 'emoji/index'
+require 'gemojione/index'
 
-require "emoji/railtie" if defined?(Rails)
+require "gemojione/railtie" if defined?(Rails)
 
-module Emoji
+module Gemojione
   @asset_host = nil
   @asset_path = nil
   @escaper = defined?(EscapeUtils) ? EscapeUtils : CGI
@@ -34,7 +34,8 @@ module Emoji
   end
 
   def self.image_url_for_name(name)
-    "#{asset_host}#{ File.join(asset_path, name) }.png"
+    emoji = index.find_by_name(name)
+    "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.png"
   end
 
   def self.image_url_for_unicode_moji(moji)
