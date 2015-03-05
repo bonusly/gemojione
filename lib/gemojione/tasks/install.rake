@@ -1,9 +1,9 @@
-namespace :emoji do
+namespace :gemojione do
   desc "Install Emoji Image Assets"
   task :install_assets do
     target_dir = ENV['TARGET'] ||= File.join(Rails.root, 'app/assets/images/emoji')
     source_dir = File.absolute_path(File.dirname(__FILE__) + '/../../../assets/images')
-    
+
     puts "===================================================================="
     puts "= emoji image assets install"
     puts "= Target: #{target_dir}"
