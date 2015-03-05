@@ -1,4 +1,6 @@
-Copyright (c) 2013 Steve Klabnik
+Copyright (c) 2013 Jonathan Wiesel
+
+Original work by Steve Klabnik on [emoji gem](https://github.com/steveklabnik/emoji)
 
 MIT License
 
