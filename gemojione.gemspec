@@ -1,16 +1,16 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'emoji/version'
+require 'gemojione/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "emoji"
-  spec.version       = Emoji::VERSION
-  spec.authors       = ["Steve Klabnik", "Winfield Peterson"]
-  spec.email         = ["steve@steveklabnik.com", "winfield.peterson@gmail.com"]
-  spec.description   = %q{A Ruby gem. For emoji. For everyone. :heart:}
-  spec.summary       = %q{A Ruby gem. For emoji. For everyone. :heart:}
-  spec.homepage      = "http://github.com/steveklabnik/emoji"
+  spec.name          = "gemojione"
+  spec.version       = Gemojione::VERSION
+  spec.authors       = ["Steve Klabnik", "Winfield Peterson", "Jonathan Wiesel"]
+  spec.email         = ["steve@steveklabnik.com", "winfield.peterson@gmail.com", "jonathanwiesel@gmail.com"]
+  spec.description   = %q{A gem for EmojiOne}
+  spec.summary       = %q{A gem for EmojiOne}
+  spec.homepage      = "http://github.com/jonathanwiesel/gemojione"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
