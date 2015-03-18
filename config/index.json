@@ -9330,7 +9330,9 @@
 		"shortname": ":pencil:",
 		"category": "objects",
 		"category_order": "99",
-		"aliases": [],
+		"aliases": [
+			":memo:"
+		],
 		"aliases_ascii": [],
 		"keywords": [
 			"documents",
