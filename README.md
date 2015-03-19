@@ -1,8 +1,8 @@
 # Gemojione
 
-A gem for EmojiOne
+[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl] [![Dependencies][gemnasiumDeps]][gemnasiumProject]
 
-[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl]
+A gem for EmojiOne
 
 This gem exposes the [emojione](http://emojione.com/) unicode/image assets and APIs for working with them.
 
@@ -130,3 +130,5 @@ gem 'escape_utils'
 [downs]: https://img.shields.io/gem/dt/gemojione.svg
 [version]: https://img.shields.io/gem/v/gemojione.svg
 [rubyUrl]: https://rubygems.org/gems/gemojione
+[gemnasiumDeps]: https://img.shields.io/gemnasium/jonathanwiesel/gemojione.svg
+[gemnasiumProject]: https://gemnasium.com/jonathanwiesel/gemojione
