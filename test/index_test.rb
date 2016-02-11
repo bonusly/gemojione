@@ -24,4 +24,12 @@ describe Gemojione::Index do
       assert "🌀".match(regex)
     end
   end
+
+  describe "images_path" do
+    it "returns a valid path" do
+      path = index.images_path
+
+      assert Dir.exist?(path)
+    end
+  end
 end

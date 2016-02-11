@@ -37,5 +37,9 @@ module Gemojione
     def unicode_moji_regex
       @emoji_moji_regex
     end
+
+    def images_path
+      File.expand_path("../../assets/images", File.dirname(__FILE__))
+    end
   end
 end
