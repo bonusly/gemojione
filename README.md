@@ -72,6 +72,14 @@ Gemojione.asset_host = "emoji.cdn.com"
 Gemojione.asset_path = '/assets/emoji'
 ```
 
+You can also serve the assets directly from the gem in your rails app:
+
+```ruby
+# config/application.rb
+config.assets.paths << Gemojione::Index.images_path
+config.assets.precompile << "emoji/*.png"
+```
+
 String Helper Methods:
 
 You can also
