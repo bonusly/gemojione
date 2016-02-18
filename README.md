@@ -76,7 +76,7 @@ You can also serve the assets directly from the gem in your rails app:
 
 ```ruby
 # config/application.rb
-config.assets.paths << Gemojione::Index.images_path
+config.assets.paths << Gemojione.index.images_path
 config.assets.precompile << "emoji/*.png"
 ```
 
