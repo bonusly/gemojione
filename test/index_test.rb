@@ -17,6 +17,12 @@ describe Gemojione::Index do
     end
   end
 
+  describe 'find by ascii' do
+    it 'returns the heart emoji' do
+      assert index.find_by_ascii('<3')['unicode'] == "2764"
+    end
+  end
+
   describe "unicode_moji_regex" do
     it "should return complex moji regex" do
       regex = index.unicode_moji_regex
