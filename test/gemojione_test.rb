@@ -114,7 +114,7 @@ describe Gemojione do
     end
   end
 
-  describe 'replace_ascii_moji_with_images' do
+  describe 'replace_named_moji_with_images' do
 
     it 'should return original string without emoji' do
       assert_equal 'foo', Gemojione.replace_named_moji_with_images('foo')
