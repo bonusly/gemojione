@@ -116,6 +116,8 @@ gem 'escape_utils'
 ```
 ## Contributors: :heart:
 
+This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem that has been adapted for EmojiOne.
+
 * [@ryan-orr](https://github.com/ryan-orr): Granted the official `emoji` rubygems account
 * [@mikowitz](https://github.com/mikowitz): `String` ext helpers
 * [@semanticart](https://github.com/semanticart): Cleanup/Ruby 1.9.3 support
