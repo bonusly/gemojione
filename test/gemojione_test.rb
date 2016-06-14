@@ -114,6 +114,78 @@ describe Gemojione do
     end
   end
 
+  describe 'replace_named_moji_with_images' do
+
+    it 'should return original string without emoji' do
+      assert_equal 'foo', Gemojione.replace_named_moji_with_images('foo')
+    end
+
+    it 'should escape html in non html_safe aware strings' do
+      replaced_string = Gemojione.replace_named_moji_with_images(':heart:<script>')
+      assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+    end
+
+    it 'should replace coded moji with img tag' do
+      base_string = "I :heart: Emoji"
+      replaced_string = Gemojione.replace_named_moji_with_images(base_string)
+      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+    end
+
+    it 'should handle nil string' do
+      assert_equal nil, Gemojione.replace_named_moji_with_images(nil)
+    end
+
+    describe 'with html_safe buffer' do
+      it 'should escape non html_safe? strings in emoji' do
+        string = HtmlSafeString.new(':heart:<script>')
+
+        replaced_string = string.stub(:html_safe?, false) do
+          Gemojione.replace_named_moji_with_images(string)
+        end
+
+        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+      end
+
+      it 'should escape non html_safe? strings in all strings' do
+        string = HtmlSafeString.new('XSS<script>')
+
+        replaced_string = string.stub(:html_safe?, false) do
+          Gemojione.replace_named_moji_with_images(string)
+        end
+
+        assert_equal "XSS&lt;script&gt;", replaced_string
+      end
+
+      it 'should not escape html_safe strings' do
+        string = HtmlSafeString.new(':heart:<a href="harmless">')
+
+        replaced_string = string.stub(:html_safe?, true) do
+          Gemojione.replace_named_moji_with_images(string)
+        end
+
+        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"><a href=\"harmless\">", replaced_string
+      end
+
+      it 'should always return an html_safe string for emoji' do
+        string = HtmlSafeString.new(':heart:')
+        replaced_string = string.stub(:html_safe, 'safe_buffer') do
+          Gemojione.replace_named_moji_with_images(string)
+        end
+
+        assert_equal "safe_buffer", replaced_string
+      end
+
+      it 'should always return an html_safe string for any string' do
+        string = HtmlSafeString.new('Content')
+        replaced_string = string.stub(:html_safe, 'safe_buffer') do
+          Gemojione.replace_named_moji_with_images(string)
+        end
+
+        assert_equal "Content", replaced_string
+      end
+    end
+  end
+
   class HtmlSafeString < String
     def initialize(*); super; end
     def html_safe; self; end

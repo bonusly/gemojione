@@ -45,6 +45,9 @@ Image Replacement APIs:
 > Gemojione.replace_unicode_moji_with_images('I ❤ Emoji')
 => "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
+> Gemojione.replace_named_moji_with_images('I :heart: Emoji')
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
+
 > Gemojione.image_url_for_unicode_moji('❤')
 => "http://localhost:3000/assets/emoji/2764.png"
 
