@@ -9,6 +9,7 @@ module Gemojione
       @emoji_by_name = {}
       @emoji_by_moji = {}
       @emoji_by_ascii = {}
+      @emoji_by_code = {}
 
       emoji_list.each do |key, emoji_hash|
 
@@ -25,9 +26,14 @@ module Gemojione
           @emoji_by_ascii[emoji_ascii] = emoji_hash if emoji_ascii
         end
 
+        code = emoji_hash['shortname']
+        @emoji_by_code[code] = emoji_hash if code
+
         moji = emoji_hash['moji']
         @emoji_by_moji[moji] = emoji_hash if moji
       end
+
+      @emoji_code_regex = /#{@emoji_by_code.keys.join('|')}/
       @emoji_moji_regex = /#{@emoji_by_moji.keys.join('|')}/
     end
 
@@ -45,6 +51,10 @@ module Gemojione
 
     def unicode_moji_regex
       @emoji_moji_regex
+    end
+
+    def shortname_moji_regex
+      @emoji_code_regex
     end
 
     def images_path

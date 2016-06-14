@@ -10,7 +10,7 @@ end
 
 require 'gemojione/index'
 
-require "gemojione/railtie" if defined?(Rails)
+require 'gemojione/railtie' if defined?(Rails::Railtie)
 
 module Gemojione
   @asset_host = nil
@@ -52,6 +52,23 @@ module Gemojione
     safe_string = safe_string(string.dup)
     safe_string.gsub!(index.unicode_moji_regex) do |moji|
       %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }">}
+    end
+    safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
+
+    safe_string
+  end
+
+  def self.replace_named_moji_with_images(string)
+    return string unless string
+    unless string.match(index.shortname_moji_regex)
+      return safe_string(string)
+    end
+
+    safe_string = safe_string(string.dup)
+    safe_string.gsub!(index.shortname_moji_regex) do |code|
+      name = code.tr(':','')
+      moji = index.find_by_name(name)['moji']
+      %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_name(name) }">}
     end
     safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
 
