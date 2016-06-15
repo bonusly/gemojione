@@ -43,6 +43,30 @@ describe Gemojione do
     end
   end
 
+  describe 'default size' do
+    it 'should default to nil' do
+      assert_equal nil, Gemojione.default_size
+    end
+
+    it 'should be configurable' do
+      with_emoji_config(:default_size, '32px') do
+        assert_equal '32px', Gemojione.default_size
+      end
+    end
+  end
+
+  describe 'image_tag_for_moji' do
+    it 'should generate a clean img tag if default_size undefined' do
+      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png">', Gemojione.image_tag_for_moji('🌀')
+    end
+
+    it 'should generate a img tag with style tag if default_size is defined' do
+      Gemojione.default_size='42px'
+      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png" style="width: 42px;">', Gemojione.image_tag_for_moji('🌀')
+      Gemojione.default_size=nil
+    end
+  end
+
   describe "replace_unicode_moji_with_images" do
     it 'should return original string without emoji' do
       assert_equal "foo", Gemojione.replace_unicode_moji_with_images('foo')

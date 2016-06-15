@@ -15,6 +15,8 @@ require "gemojione/railtie" if defined?(Rails)
 module Gemojione
   @asset_host = nil
   @asset_path = nil
+  @default_size = nil
+
   @escaper = defined?(EscapeUtils) ? EscapeUtils : CGI
 
   def self.asset_host
@@ -33,6 +35,14 @@ module Gemojione
     @asset_path = path
   end
 
+  def self.default_size
+    @default_size
+  end
+
+  def self.default_size=(size)
+    @default_size = size
+  end
+
   def self.image_url_for_name(name)
     emoji = index.find_by_name(name)
     "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.png"
@@ -43,6 +53,10 @@ module Gemojione
     image_url_for_name(emoji['name'])
   end
 
+  def self.image_tag_for_moji(moji)
+    %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
+  end
+
   def self.replace_unicode_moji_with_images(string)
     return string unless string
     unless string.match(index.unicode_moji_regex)
@@ -51,7 +65,7 @@ module Gemojione
 
     safe_string = safe_string(string.dup)
     safe_string.gsub!(index.unicode_moji_regex) do |moji|
-      %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }">}
+      Gemojione.image_tag_for_moji(moji)
     end
     safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
 
@@ -68,7 +82,7 @@ module Gemojione
     safe_string.gsub!(index.shortname_moji_regex) do |code|
       name = code.tr(':','')
       moji = index.find_by_name(name)['moji']
-      %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_name(name) }">}
+      Gemojione.image_tag_for_moji(moji)
     end
     safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
 
