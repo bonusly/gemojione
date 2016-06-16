@@ -198,7 +198,8 @@
       "jumbo",
       "boeing",
       "airbus"
-    ]
+    ],
+    "moji": "🛬"
   },
   "airplane_departure": {
     "unicode": "1F6EB",
@@ -222,7 +223,8 @@
       "boeing",
       "airbus",
       "leaving"
-    ]
+    ],
+    "moji": "🛫"
   },
   "airplane_northeast": {
     "unicode": "1F6EA",
@@ -262,7 +264,8 @@
       "jumbo",
       "boeing",
       "airbus"
-    ]
+    ],
+    "moji": "🛩"
   },
   "airplane_small_up": {
     "unicode": "1F6E8",
@@ -320,7 +323,8 @@
       "chemistry",
       "object",
       "tool"
-    ]
+    ],
+    "moji": "⚗"
   },
   "alien": {
     "unicode": "1F47D",
@@ -365,7 +369,8 @@
     "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏺"
   },
   "anchor": {
     "unicode": "2693",
@@ -548,7 +553,8 @@
       "communication",
       "comic",
       "angry"
-    ]
+    ],
+    "moji": "🗯"
   },
   "angry": {
     "unicode": "1F620",
@@ -1135,7 +1141,8 @@
     "aliases_ascii": [],
     "keywords": [
       "atheist"
-    ]
+    ],
+    "moji": "⚛"
   },
   "b": {
     "unicode": "1F171",
@@ -1321,7 +1328,8 @@
     "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏸"
   },
   "baggage_claim": {
     "unicode": "1F6C4",
@@ -1375,7 +1383,8 @@
     "aliases_ascii": [],
     "keywords": [
       "vote"
-    ]
+    ],
+    "moji": "🗳"
   },
   "ballot_box_check": {
     "unicode": "1F5F9",
@@ -1595,7 +1604,8 @@
     "keywords": [
       "sport",
       "travel"
-    ]
+    ],
+    "moji": "⛹"
   },
   "basketball_player_tone1": {
     "unicode": "26F9-1F3FB",
@@ -1860,7 +1870,8 @@
       "tanning",
       "tan",
       "swimming"
-    ]
+    ],
+    "moji": "🏖"
   },
   "beach_umbrella": {
     "unicode": "26F1",
@@ -1878,7 +1889,8 @@
       "sun",
       "travel",
       "weather"
-    ]
+    ],
+    "moji": "⛱"
   },
   "bear": {
     "unicode": "1F43B",
@@ -1910,7 +1922,8 @@
       "twin",
       "king",
       "mattress"
-    ]
+    ],
+    "moji": "🛏"
   },
   "bee": {
     "unicode": "1F41D",
@@ -2063,7 +2076,8 @@
       "hotel",
       "porter",
       "ding"
-    ]
+    ],
+    "moji": "🛎"
   },
   "bento": {
     "unicode": "1F371",
@@ -2255,7 +2269,8 @@
     "aliases_ascii": [],
     "keywords": [
       "symbol"
-    ]
+    ],
+    "moji": "☣"
   },
   "bird": {
     "unicode": "1F426",
@@ -2721,7 +2736,8 @@
       ":archery:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏹"
   },
   "bow_tone1": {
     "unicode": "1F647-1F3FB",
@@ -3236,7 +3252,8 @@
     "category": "foods",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🌯"
   },
   "bus": {
     "unicode": "1F68C",
@@ -3413,7 +3430,8 @@
       "schedule",
       "date",
       "day"
-    ]
+    ],
+    "moji": "🗓"
   },
   "calling": {
     "unicode": "1F4F2",
@@ -3480,7 +3498,8 @@
     "keywords": [
       "photo",
       "picture"
-    ]
+    ],
+    "moji": "📸"
   },
   "camping": {
     "unicode": "1F3D5",
@@ -3496,7 +3515,8 @@
       "wilderness",
       "roughing",
       "activity"
-    ]
+    ],
+    "moji": "🏕"
   },
   "cancellation_x": {
     "unicode": "1F5D9",
@@ -3548,7 +3568,8 @@
     "keywords": [
       "light",
       "wax"
-    ]
+    ],
+    "moji": "🕯"
   },
   "candy": {
     "unicode": "1F36C",
@@ -3622,7 +3643,8 @@
     "keywords": [
       "index",
       "organization"
-    ]
+    ],
+    "moji": "🗃"
   },
   "card_index": {
     "unicode": "1F4C7",
@@ -3733,7 +3755,8 @@
       "computer",
       "object",
       "office"
-    ]
+    ],
+    "moji": "💿"
   },
   "celtic_cross": {
     "unicode": "1F548",
@@ -3759,7 +3782,8 @@
     "keywords": [
       "chain",
       "object"
-    ]
+    ],
+    "moji": "⛓"
   },
   "champagne": {
     "unicode": "1F37E",
@@ -3771,7 +3795,8 @@
       ":bottle_with_popping_cork:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🍾"
   },
   "chart": {
     "unicode": "1F4B9",
@@ -3846,7 +3871,8 @@
       ":cheese_wedge:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🧀"
   },
   "cherries": {
     "unicode": "1F352",
@@ -3953,7 +3979,8 @@
     "keywords": [
       "animal",
       "nature"
-    ]
+    ],
+    "moji": "🐿"
   },
   "chocolate_bar": {
     "unicode": "1F36B",
@@ -4125,7 +4152,8 @@
       "lights",
       "buiildings",
       "metropolis"
-    ]
+    ],
+    "moji": "🏙"
   },
   "cl": {
     "unicode": "1F191",
@@ -4143,7 +4171,8 @@
       "clear",
       "symbol",
       "word"
-    ]
+    ],
+    "moji": "🆑"
   },
   "clap": {
     "unicode": "1F44F",
@@ -4302,7 +4331,8 @@
       "history",
       "iconic",
       "genre"
-    ]
+    ],
+    "moji": "🏛"
   },
   "clipboard": {
     "unicode": "1F4CB",
@@ -4330,7 +4360,8 @@
     "aliases_ascii": [],
     "keywords": [
       "time"
-    ]
+    ],
+    "moji": "🕰"
   },
   "clock1": {
     "unicode": "1F550",
@@ -4427,7 +4458,8 @@
     "keywords": [
       "clock",
       "time"
-    ]
+    ],
+    "moji": "🕧"
   },
   "clock130": {
     "unicode": "1F55C",
@@ -4762,7 +4794,8 @@
     "keywords": [
       "weather",
       "thunder"
-    ]
+    ],
+    "moji": "🌩"
   },
   "cloud_rain": {
     "unicode": "1F327",
@@ -4777,7 +4810,8 @@
     "keywords": [
       "weather",
       "wet"
-    ]
+    ],
+    "moji": "🌧"
   },
   "cloud_snow": {
     "unicode": "1F328",
@@ -4792,7 +4826,8 @@
     "keywords": [
       "weather",
       "cold"
-    ]
+    ],
+    "moji": "🌨"
   },
   "cloud_tornado": {
     "unicode": "1F32A",
@@ -4808,7 +4843,8 @@
       "weather",
       "destruction",
       "funnel"
-    ]
+    ],
+    "moji": "🌪"
   },
   "clubs": {
     "unicode": "2663",
@@ -4878,7 +4914,8 @@
     "keywords": [
       "death",
       "object"
-    ]
+    ],
+    "moji": "⚰"
   },
   "cold_sweat": {
     "unicode": "1F630",
@@ -4908,7 +4945,8 @@
     "keywords": [
       "object",
       "space"
-    ]
+    ],
+    "moji": "☄"
   },
   "compression": {
     "unicode": "1F5DC",
@@ -4920,7 +4958,8 @@
     "aliases_ascii": [],
     "keywords": [
       "reduce"
-    ]
+    ],
+    "moji": "🗜"
   },
   "computer": {
     "unicode": "1F4BB",
@@ -5074,7 +5113,8 @@
       "site",
       "work",
       "place"
-    ]
+    ],
+    "moji": "🏗"
   },
   "construction_worker": {
     "unicode": "1F477",
@@ -5177,7 +5217,8 @@
     "aliases_ascii": [],
     "keywords": [
       "dial"
-    ]
+    ],
+    "moji": "🎛"
   },
   "contruction_site": {
     "unicode": "1F3D7",
@@ -5192,7 +5233,8 @@
     "keywords": [
       "site",
       "work"
-    ]
+    ],
+    "moji": "🏗"
   },
   "convenience_store": {
     "unicode": "1F3EA",
@@ -5398,7 +5440,8 @@
       "microfiber",
       "sit",
       "relax"
-    ]
+    ],
+    "moji": "🛋"
   },
   "couple": {
     "unicode": "1F46B",
@@ -5546,7 +5589,8 @@
     "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🦀"
   },
   "crayon": {
     "unicode": "1F58D",
@@ -5563,7 +5607,8 @@
       "draw",
       "color",
       "wax"
-    ]
+    ],
+    "moji": "🖍"
   },
   "credit_card": {
     "unicode": "1F4B3",
@@ -5622,7 +5667,8 @@
       ":cricket_bat_ball:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏏"
   },
   "crocodile": {
     "unicode": "1F40A",
@@ -5657,7 +5703,8 @@
       "religion",
       "symbol",
       "christian"
-    ]
+    ],
+    "moji": "✝"
   },
   "cross_heavy": {
     "unicode": "1F547",
@@ -5729,7 +5776,8 @@
     "keywords": [
       "object",
       "weapon"
-    ]
+    ],
+    "moji": "⚔"
   },
   "crown": {
     "unicode": "1F451",
@@ -5761,7 +5809,8 @@
       "titanic",
       "transportation",
       "boat"
-    ]
+    ],
+    "moji": "🛳"
   },
   "cry": {
     "unicode": "1F622",
@@ -5970,7 +6019,8 @@
     "keywords": [
       "blade",
       "knife"
-    ]
+    ],
+    "moji": "🗡"
   },
   "dancer": {
     "unicode": "1F483",
@@ -6172,7 +6222,8 @@
     "keywords": [
       "shades",
       "eyes"
-    ]
+    ],
+    "moji": "🕶"
   },
   "dart": {
     "unicode": "1F3AF",
@@ -6296,7 +6347,8 @@
       "cactus",
       "sunny",
       "barren"
-    ]
+    ],
+    "moji": "🏜"
   },
   "desktop": {
     "unicode": "1F5A5",
@@ -6310,7 +6362,8 @@
     "aliases_ascii": [],
     "keywords": [
       "cpu"
-    ]
+    ],
+    "moji": "🖥"
   },
   "desktop_window": {
     "unicode": "1F5D4",
@@ -6417,7 +6470,8 @@
     "keywords": [
       "stationery",
       "rolodex"
-    ]
+    ],
+    "moji": "🗂"
   },
   "dizzy": {
     "unicode": "1F4AB",
@@ -6684,7 +6738,8 @@
     "keywords": [
       "symbol",
       "bird"
-    ]
+    ],
+    "moji": "🕊"
   },
   "dragon": {
     "unicode": "1F409",
@@ -7372,7 +7427,8 @@
       "look",
       "peek",
       "watch"
-    ]
+    ],
+    "moji": "👁"
   },
   "eye_in_speech_bubble": {
     "unicode": "1F441-1F5E8",
@@ -7939,7 +7995,8 @@
       "boat",
       "place",
       "travel"
-    ]
+    ],
+    "moji": "⛴"
   },
   "field_hockey": {
     "unicode": "1F3D1",
@@ -7949,7 +8006,8 @@
     "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏑"
   },
   "file_cabinet": {
     "unicode": "1F5C4",
@@ -7964,7 +8022,8 @@
       "office",
       "documents",
       "storage"
-    ]
+    ],
+    "moji": "🗄"
   },
   "file_folder": {
     "unicode": "1F4C1",
@@ -7994,7 +8053,8 @@
       "16mm",
       "reel",
       "celluloid"
-    ]
+    ],
+    "moji": "🎞"
   },
   "finger_pointing_down": {
     "unicode": "1F597",
@@ -8793,7 +8853,8 @@
     "keywords": [
       "symbol",
       "signal"
-    ]
+    ],
+    "moji": "🏴"
   },
   "flag_bm": {
     "unicode": "1F1E7-1F1F2",
@@ -12354,7 +12415,8 @@
     "keywords": [
       "symbol",
       "signal"
-    ]
+    ],
+    "moji": "🏳"
   },
   "flag_ws": {
     "unicode": "1F1FC-1F1F8",
@@ -12515,7 +12577,8 @@
     "aliases_ascii": [],
     "keywords": [
       "symbol"
-    ]
+    ],
+    "moji": "⚜"
   },
   "flip_phone": {
     "unicode": "1F581",
@@ -12651,7 +12714,8 @@
       "damp",
       "cloud",
       "hazy"
-    ]
+    ],
+    "moji": "🌫"
   },
   "foggy": {
     "unicode": "1F301",
@@ -12769,7 +12833,8 @@
       "dinner",
       "utensils",
       "setting"
-    ]
+    ],
+    "moji": "🍽"
   },
   "fountain": {
     "unicode": "26F2",
@@ -12839,7 +12904,8 @@
     "aliases_ascii": [],
     "keywords": [
       "photo"
-    ]
+    ],
+    "moji": "🖼"
   },
   "frame_tiles": {
     "unicode": "1F5BD",
@@ -12972,7 +13038,8 @@
     "keywords": [
       "frown",
       "person"
-    ]
+    ],
+    "moji": "☹"
   },
   "fuelpump": {
     "unicode": "26FD",
@@ -13068,7 +13135,8 @@
     "keywords": [
       "object",
       "tool"
-    ]
+    ],
+    "moji": "⚙"
   },
   "gem": {
     "unicode": "1F48E",
@@ -13325,7 +13393,8 @@
       "birdie",
       "eagle",
       "mulligan"
-    ]
+    ],
+    "moji": "🏌"
   },
   "grapes": {
     "unicode": "1F347",
@@ -13806,7 +13875,8 @@
     "keywords": [
       "object",
       "tool"
-    ]
+    ],
+    "moji": "⚒"
   },
   "hamster": {
     "unicode": "1F439",
@@ -13837,7 +13907,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐"
   },
   "hand_splayed_reverse": {
     "unicode": "1F591",
@@ -14060,7 +14131,8 @@
       ":face_with_head_bandage:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤕"
   },
   "headphones": {
     "unicode": "1F3A7",
@@ -14164,7 +14236,8 @@
       "emotion",
       "punctuation",
       "symbol"
-    ]
+    ],
+    "moji": "❣"
   },
   "heart_eyes": {
     "unicode": "1F60D",
@@ -14408,7 +14481,8 @@
       "face",
       "hat",
       "person"
-    ]
+    ],
+    "moji": "⛑"
   },
   "herb": {
     "unicode": "1F33F",
@@ -14489,7 +14563,8 @@
     "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏒"
   },
   "hole": {
     "unicode": "1F573",
@@ -14502,7 +14577,8 @@
     "keywords": [
       "pit",
       "well"
-    ]
+    ],
+    "moji": "🕳"
   },
   "homes": {
     "unicode": "1F3D8",
@@ -14522,7 +14598,8 @@
       "bungalow",
       "ranch",
       "craftsman"
-    ]
+    ],
+    "moji": "🏘"
   },
   "honey_pot": {
     "unicode": "1F36F",
@@ -14694,7 +14771,8 @@
       "cayenne",
       "habanero",
       "jalapeno"
-    ]
+    ],
+    "moji": "🌶"
   },
   "hotdog": {
     "unicode": "1F32D",
@@ -14706,7 +14784,8 @@
       ":hot_dog:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🌭"
   },
   "hotel": {
     "unicode": "1F3E8",
@@ -14822,7 +14901,8 @@
       "vacant",
       "run down",
       "shoddy"
-    ]
+    ],
+    "moji": "🏚"
   },
   "house_with_garden": {
     "unicode": "1F3E1",
@@ -14849,7 +14929,8 @@
       ":hugging_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤗"
   },
   "hushed": {
     "unicode": "1F62F",
@@ -14906,7 +14987,8 @@
       "place",
       "sport",
       "travel"
-    ]
+    ],
+    "moji": "⛸"
   },
   "icecream": {
     "unicode": "1F366",
@@ -14947,7 +15029,8 @@
       "identity",
       "symbol",
       "word"
-    ]
+    ],
+    "moji": "🆔"
   },
   "ideograph_advantage": {
     "unicode": "1F250",
@@ -15258,7 +15341,8 @@
       "land",
       "solitude",
       "alone"
-    ]
+    ],
+    "moji": "🏝"
   },
   "izakaya_lantern": {
     "unicode": "1F3EE",
@@ -15491,7 +15575,8 @@
       "games",
       "atari",
       "controller"
-    ]
+    ],
+    "moji": "🕹"
   },
   "kaaba": {
     "unicode": "1F54B",
@@ -15501,7 +15586,8 @@
     "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🕋"
   },
   "key": {
     "unicode": "1F511",
@@ -15533,7 +15619,8 @@
       "lock",
       "password",
       "skeleton"
-    ]
+    ],
+    "moji": "🗝"
   },
   "keyboard": {
     "unicode": "1F5AE",
@@ -15845,7 +15932,8 @@
     "aliases_ascii": [],
     "keywords": [
       "tag"
-    ]
+    ],
+    "moji": "🏷"
   },
   "large_blue_circle": {
     "unicode": "1F535",
@@ -16122,7 +16210,8 @@
     "aliases_ascii": [],
     "keywords": [
       "controls"
-    ]
+    ],
+    "moji": "🎚"
   },
   "levitate": {
     "unicode": "1F574",
@@ -16137,7 +16226,8 @@
     "keywords": [
       "hover",
       "exclamation"
-    ]
+    ],
+    "moji": "🕴"
   },
   "libra": {
     "unicode": "264E",
@@ -16180,7 +16270,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋"
   },
   "lifter_tone1": {
     "unicode": "1F3CB-1F3FB",
@@ -16322,7 +16413,8 @@
       ":lion:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🦁"
   },
   "lips": {
     "unicode": "1F444",
@@ -16994,7 +17086,8 @@
       "atlas",
       "earth",
       "cartography"
-    ]
+    ],
+    "moji": "🗺"
   },
   "maple_leaf": {
     "unicode": "1F341",
@@ -17161,7 +17254,8 @@
       "show",
       "reward",
       "achievement"
-    ]
+    ],
+    "moji": "🏅"
   },
   "mega": {
     "unicode": "1F4E3",
@@ -17204,7 +17298,8 @@
     "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🕎"
   },
   "mens": {
     "unicode": "1F6B9",
@@ -17243,7 +17338,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘"
   },
   "metal_tone1": {
     "unicode": "1F918-1F3FB",
@@ -17386,7 +17482,8 @@
       "mic",
       "audio",
       "recording"
-    ]
+    ],
+    "moji": "🎙"
   },
   "microscope": {
     "unicode": "1F52C",
@@ -17415,7 +17512,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕"
   },
   "middle_finger_tone1": {
     "unicode": "1F595-1F3FB",
@@ -17501,7 +17599,8 @@
       "purple heart",
       "heroism",
       "veteran"
-    ]
+    ],
+    "moji": "🎖"
   },
   "milky_way": {
     "unicode": "1F30C",
@@ -17583,7 +17682,8 @@
       ":money_mouth_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤑"
   },
   "money_with_wings": {
     "unicode": "1F4B8",
@@ -17761,7 +17861,8 @@
     "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🕌"
   },
   "motorboat": {
     "unicode": "1F6E5",
@@ -17777,7 +17878,8 @@
       "boat",
       "speedboat",
       "powerboat"
-    ]
+    ],
+    "moji": "🛥"
   },
   "motorcycle": {
     "unicode": "1F3CD",
@@ -17792,7 +17894,8 @@
     "keywords": [
       "bike",
       "speed"
-    ]
+    ],
+    "moji": "🏍"
   },
   "motorway": {
     "unicode": "1F6E3",
@@ -17808,7 +17911,8 @@
       "freeway",
       "traffic",
       "travel"
-    ]
+    ],
+    "moji": "🛣"
   },
   "mount_fuji": {
     "unicode": "1F5FB",
@@ -17836,7 +17940,8 @@
     "aliases_ascii": [],
     "keywords": [
       "place"
-    ]
+    ],
+    "moji": "⛰"
   },
   "mountain_bicyclist": {
     "unicode": "1F6B5",
@@ -17996,7 +18101,8 @@
       "elevation",
       "hiking",
       "peak"
-    ]
+    ],
+    "moji": "🏔"
   },
   "mouse": {
     "unicode": "1F42D",
@@ -18060,7 +18166,8 @@
       "computer",
       "object",
       "office"
-    ]
+    ],
+    "moji": "🖱"
   },
   "movie_camera": {
     "unicode": "1F3A5",
@@ -18426,7 +18533,8 @@
       ":nerd_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤓"
   },
   "network": {
     "unicode": "1F5A7",
@@ -18543,7 +18651,8 @@
     "keywords": [
       "headline",
       "press"
-    ]
+    ],
+    "moji": "🗞"
   },
   "ng": {
     "unicode": "1F196",
@@ -18558,7 +18667,8 @@
       "no good",
       "symbol",
       "word"
-    ]
+    ],
+    "moji": "🆖"
   },
   "night_with_stars": {
     "unicode": "1F303",
@@ -19088,7 +19198,8 @@
     "aliases_ascii": [],
     "keywords": [
       "stationery"
-    ]
+    ],
+    "moji": "🗒"
   },
   "notes": {
     "unicode": "1F3B6",
@@ -19236,7 +19347,8 @@
     "aliases_ascii": [],
     "keywords": [
       "petroleum"
-    ]
+    ],
+    "moji": "🛢"
   },
   "ok": {
     "unicode": "1F197",
@@ -19719,7 +19831,8 @@
       "buddhism",
       "jainism",
       "meditate"
-    ]
+    ],
+    "moji": "🕉"
   },
   "on": {
     "unicode": "1F51B",
@@ -20021,7 +20134,8 @@
       "christian",
       "religion",
       "symbol"
-    ]
+    ],
+    "moji": "☦"
   },
   "outbox_tray": {
     "unicode": "1F4E4",
@@ -20144,7 +20258,8 @@
       "brush",
       "art",
       "painting"
-    ]
+    ],
+    "moji": "🖌"
   },
   "palm_tree": {
     "unicode": "1F334",
@@ -20220,7 +20335,8 @@
     "keywords": [
       "documents",
       "stationery"
-    ]
+    ],
+    "moji": "🖇"
   },
   "park": {
     "unicode": "1F3DE",
@@ -20239,7 +20355,8 @@
       "forest",
       "wilderness",
       "national"
-    ]
+    ],
+    "moji": "🏞"
   },
   "parking": {
     "unicode": "1F17F",
@@ -20335,7 +20452,8 @@
       "pause",
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏸"
   },
   "peace": {
     "unicode": "262E",
@@ -20349,7 +20467,8 @@
     "aliases_ascii": [],
     "keywords": [
       "sign"
-    ]
+    ],
+    "moji": "☮"
   },
   "peach": {
     "unicode": "1F351",
@@ -20401,7 +20520,8 @@
       "write",
       "bic",
       "ink"
-    ]
+    ],
+    "moji": "🖊"
   },
   "pen_fountain": {
     "unicode": "1F58B",
@@ -20417,7 +20537,8 @@
       "write",
       "calligraphy",
       "ink"
-    ]
+    ],
+    "moji": "🖋"
   },
   "pencil": {
     "unicode": "1F4DD",
@@ -20918,7 +21039,8 @@
       "mining",
       "object",
       "tool"
-    ]
+    ],
+    "moji": "⛏"
   },
   "pig": {
     "unicode": "1F437",
@@ -21026,7 +21148,8 @@
       ":table_tennis:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏓"
   },
   "piracy": {
     "unicode": "1F572",
@@ -21100,7 +21223,8 @@
       ":worship_symbol:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🛐"
   },
   "play_pause": {
     "unicode": "23EF",
@@ -21117,7 +21241,8 @@
       "right",
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏯"
   },
   "point_down": {
     "unicode": "1F447",
@@ -21632,7 +21757,8 @@
     "category": "foods",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🍿"
   },
   "post_office": {
     "unicode": "1F3E3",
@@ -21924,7 +22050,8 @@
     "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "📿"
   },
   "princess": {
     "unicode": "1F478",
@@ -22079,7 +22206,8 @@
       "paper",
       "inkjet",
       "laser"
-    ]
+    ],
+    "moji": "🖨"
   },
   "prohibited": {
     "unicode": "1F6C7",
@@ -22118,7 +22246,8 @@
       "picture",
       "8mm",
       "16mm"
-    ]
+    ],
+    "moji": "📽"
   },
   "punch": {
     "unicode": "1F44A",
@@ -22360,7 +22489,8 @@
       "nascar",
       "speed",
       "drive"
-    ]
+    ],
+    "moji": "🏎"
   },
   "racehorse": {
     "unicode": "1F40E",
@@ -22436,7 +22566,8 @@
     "aliases_ascii": [],
     "keywords": [
       "symbol"
-    ]
+    ],
+    "moji": "☢"
   },
   "rage": {
     "unicode": "1F621",
@@ -22493,7 +22624,8 @@
       "subway",
       "locomotive",
       "transit"
-    ]
+    ],
+    "moji": "🛤"
   },
   "rainbow": {
     "unicode": "1F308",
@@ -22893,7 +23025,8 @@
     "keywords": [
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏺"
   },
   "recycle": {
     "unicode": "267B",
@@ -23004,7 +23137,8 @@
     "aliases_ascii": [],
     "keywords": [
       "awareness"
-    ]
+    ],
+    "moji": "🎗"
   },
   "repeat": {
     "unicode": "1F501",
@@ -23280,7 +23414,8 @@
       ":robot_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤖"
   },
   "rocket": {
     "unicode": "1F680",
@@ -23336,7 +23471,8 @@
       ":face_with_rolling_eyes:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🙄"
   },
   "rooster": {
     "unicode": "1F413",
@@ -23391,7 +23527,8 @@
     "aliases_ascii": [],
     "keywords": [
       "flower"
-    ]
+    ],
+    "moji": "🏵"
   },
   "rosette_black": {
     "unicode": "1F3F6",
@@ -23716,7 +23853,8 @@
       "japanese",
       "symbol",
       "word"
-    ]
+    ],
+    "moji": "🈂"
   },
   "sagittarius": {
     "unicode": "2650",
@@ -23983,7 +24121,8 @@
       "communication",
       "orbital",
       "space"
-    ]
+    ],
+    "moji": "🛰"
   },
   "saxophone": {
     "unicode": "1F3B7",
@@ -24020,7 +24159,8 @@
       "tool",
       "weight",
       "zodiac"
-    ]
+    ],
+    "moji": "⚖"
   },
   "school": {
     "unicode": "1F3EB",
@@ -24093,7 +24233,8 @@
     "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🦂"
   },
   "scorpius": {
     "unicode": "264F",
@@ -24277,7 +24418,8 @@
     "keywords": [
       "nature",
       "plant"
-    ]
+    ],
+    "moji": "☘"
   },
   "shaved_ice": {
     "unicode": "1F367",
@@ -24355,7 +24497,8 @@
       "sign",
       "highway",
       "interstate"
-    ]
+    ],
+    "moji": "🛡"
   },
   "shinto_shrine": {
     "unicode": "26E9",
@@ -24368,7 +24511,8 @@
     "keywords": [
       "religion",
       "symbol"
-    ]
+    ],
+    "moji": "⛩"
   },
   "ship": {
     "unicode": "1F6A2",
@@ -24415,7 +24559,8 @@
       "buy",
       "store",
       "shop"
-    ]
+    ],
+    "moji": "🛍"
   },
   "shower": {
     "unicode": "1F6BF",
@@ -24522,7 +24667,8 @@
       "snow",
       "sport",
       "travel"
-    ]
+    ],
+    "moji": "⛷"
   },
   "skull": {
     "unicode": "1F480",
@@ -24557,7 +24703,8 @@
       "face",
       "monster",
       "person"
-    ]
+    ],
+    "moji": "☠"
   },
   "sleeping": {
     "unicode": "1F634",
@@ -24590,7 +24737,8 @@
       "hotel",
       "motel",
       "rest"
-    ]
+    ],
+    "moji": "🛌"
   },
   "sleepy": {
     "unicode": "1F62A",
@@ -24625,7 +24773,8 @@
       "frown",
       "unhappy",
       "disappointed"
-    ]
+    ],
+    "moji": "🙁"
   },
   "slight_smile": {
     "unicode": "1F642",
@@ -24641,7 +24790,8 @@
       "slight",
       "smile",
       "happy"
-    ]
+    ],
+    "moji": "🙂"
   },
   "slot_machine": {
     "unicode": "1F3B0",
@@ -25008,7 +25158,8 @@
       "nature",
       "snow",
       "weather"
-    ]
+    ],
+    "moji": "☃"
   },
   "sob": {
     "unicode": "1F62D",
@@ -25248,7 +25399,8 @@
       "listen",
       "hear",
       "noise"
-    ]
+    ],
+    "moji": "🔈"
   },
   "speaking_head": {
     "unicode": "1F5E3",
@@ -25262,7 +25414,8 @@
     "aliases_ascii": [],
     "keywords": [
       "talk"
-    ]
+    ],
+    "moji": "🗣"
   },
   "speech_balloon": {
     "unicode": "1F4AC",
@@ -25303,7 +25456,8 @@
       "communication",
       "comic",
       "dialogue"
-    ]
+    ],
+    "moji": "🗨"
   },
   "speech_right": {
     "unicode": "1F5E9",
@@ -25396,7 +25550,8 @@
     "keywords": [
       "arachnid",
       "eight-legged"
-    ]
+    ],
+    "moji": "🕷"
   },
   "spider_web": {
     "unicode": "1F578",
@@ -25408,7 +25563,8 @@
     "aliases_ascii": [],
     "keywords": [
       "cobweb"
-    ]
+    ],
+    "moji": "🕸"
   },
   "spy": {
     "unicode": "1F575",
@@ -25424,7 +25580,8 @@
       "pi",
       "undercover",
       "investigator"
-    ]
+    ],
+    "moji": "🕵"
   },
   "spy_tone1": {
     "unicode": "1F575-1F3FB",
@@ -25525,7 +25682,8 @@
       "concert",
       "convention",
       "game"
-    ]
+    ],
+    "moji": "🏟"
   },
   "star": {
     "unicode": "2B50",
@@ -25576,7 +25734,8 @@
       "muslim",
       "religion",
       "symbol"
-    ]
+    ],
+    "moji": "☪"
   },
   "star_of_david": {
     "unicode": "2721",
@@ -25591,7 +25750,8 @@
       "jewish",
       "religion",
       "symbol"
-    ]
+    ],
+    "moji": "✡"
   },
   "stars": {
     "unicode": "1F320",
@@ -25729,7 +25889,8 @@
     "keywords": [
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏹"
   },
   "stopwatch": {
     "unicode": "23F1",
@@ -25743,7 +25904,8 @@
       "clock",
       "object",
       "time"
-    ]
+    ],
+    "moji": "⏱"
   },
   "straight_ruler": {
     "unicode": "1F4CF",
@@ -25938,7 +26100,8 @@
     "keywords": [
       "brightness",
       "weather"
-    ]
+    ],
+    "moji": "☀"
   },
   "sunrise": {
     "unicode": "1F305",
@@ -26363,7 +26526,8 @@
     "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🕍"
   },
   "syringe": {
     "unicode": "1F489",
@@ -26391,7 +26555,8 @@
     "category": "foods",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🌮"
   },
   "tada": {
     "unicode": "1F389",
@@ -26616,7 +26781,8 @@
       "numbers",
       "symbol",
       "word"
-    ]
+    ],
+    "moji": "🔟"
   },
   "tennis": {
     "unicode": "1F3BE",
@@ -26668,7 +26834,8 @@
     "aliases_ascii": [],
     "keywords": [
       "temperature"
-    ]
+    ],
+    "moji": "🌡"
   },
   "thermometer_face": {
     "unicode": "1F912",
@@ -26680,7 +26847,8 @@
       ":face_with_thermometer:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤒"
   },
   "thinking": {
     "unicode": "1F914",
@@ -26692,7 +26860,8 @@
       ":thinking_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤔"
   },
   "thought_balloon": {
     "unicode": "1F4AD",
@@ -27022,7 +27191,8 @@
     "keywords": [
       "nature",
       "weather"
-    ]
+    ],
+    "moji": "⛈"
   },
   "ticket": {
     "unicode": "1F3AB",
@@ -27065,7 +27235,8 @@
       "stub",
       "proof",
       "purchase"
-    ]
+    ],
+    "moji": "🎟"
   },
   "tiger": {
     "unicode": "1F42F",
@@ -27113,7 +27284,8 @@
     "keywords": [
       "object",
       "time"
-    ]
+    ],
+    "moji": "⏲"
   },
   "tired_face": {
     "unicode": "1F62B",
@@ -27149,7 +27321,8 @@
       "symbol",
       "tm",
       "word"
-    ]
+    ],
+    "moji": "™"
   },
   "toilet": {
     "unicode": "1F6BD",
@@ -27214,7 +27387,8 @@
     "category": "modifier",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏻"
   },
   "tone2": {
     "unicode": "1F3FC",
@@ -27224,7 +27398,8 @@
     "category": "modifier",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏼"
   },
   "tone3": {
     "unicode": "1F3FD",
@@ -27234,7 +27409,8 @@
     "category": "modifier",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏽"
   },
   "tone4": {
     "unicode": "1F3FE",
@@ -27244,7 +27420,8 @@
     "category": "modifier",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏾"
   },
   "tone5": {
     "unicode": "1F3FF",
@@ -27254,7 +27431,8 @@
     "category": "modifier",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏿"
   },
   "tongue": {
     "unicode": "1F445",
@@ -27297,7 +27475,8 @@
     "aliases_ascii": [],
     "keywords": [
       "tools"
-    ]
+    ],
+    "moji": "🛠"
   },
   "top": {
     "unicode": "1F51D",
@@ -27358,7 +27537,8 @@
       "next track",
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏭"
   },
   "track_previous": {
     "unicode": "23EE",
@@ -27376,7 +27556,8 @@
       "previous track",
       "sound",
       "symbol"
-    ]
+    ],
+    "moji": "⏮"
   },
   "trackball": {
     "unicode": "1F5B2",
@@ -27390,7 +27571,8 @@
       "input",
       "device",
       "gadget"
-    ]
+    ],
+    "moji": "🖲"
   },
   "tractor": {
     "unicode": "1F69C",
@@ -27444,7 +27626,8 @@
     "keywords": [
       "tram",
       "rail"
-    ]
+    ],
+    "moji": "🚋"
   },
   "train2": {
     "unicode": "1F686",
@@ -27723,7 +27906,8 @@
     "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🦃"
   },
   "turned_ok_hand": {
     "unicode": "1F58F",
@@ -27779,7 +27963,8 @@
       "entertainment",
       "object",
       "video"
-    ]
+    ],
+    "moji": "📺"
   },
   "twisted_rightwards_arrows": {
     "unicode": "1F500",
@@ -28099,7 +28284,8 @@
       "nature",
       "rain",
       "weather"
-    ]
+    ],
+    "moji": "☂"
   },
   "unamused": {
     "unicode": "1F612",
@@ -28150,7 +28336,8 @@
       ":unicorn_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🦄"
   },
   "unlock": {
     "unicode": "1F513",
@@ -28189,7 +28376,8 @@
       ":upside_down_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🙃"
   },
   "urn": {
     "unicode": "26B1",
@@ -28204,7 +28392,8 @@
     "keywords": [
       "death",
       "object"
-    ]
+    ],
+    "moji": "⚱"
   },
   "v": {
     "unicode": "270C",
@@ -28461,7 +28650,8 @@
     "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🏐"
   },
   "vs": {
     "unicode": "1F19A",
@@ -28494,7 +28684,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖"
   },
   "vulcan_tone1": {
     "unicode": "1F596-1F3FB",
@@ -28764,7 +28955,8 @@
       "trash",
       "garbage",
       "dispose"
-    ]
+    ],
+    "moji": "🗑"
   },
   "watch": {
     "unicode": "231A",
@@ -29089,7 +29281,8 @@
       "buddhist",
       "religion",
       "symbol"
-    ]
+    ],
+    "moji": "☸"
   },
   "wheelchair": {
     "unicode": "267F",
@@ -29248,7 +29441,8 @@
     "keywords": [
       "nature",
       "weather"
-    ]
+    ],
+    "moji": "🌥"
   },
   "white_sun_rain_cloud": {
     "unicode": "1F326",
@@ -29263,7 +29457,8 @@
     "keywords": [
       "nature",
       "weather"
-    ]
+    ],
+    "moji": "🌦"
   },
   "white_sun_small_cloud": {
     "unicode": "1F324",
@@ -29278,7 +29473,8 @@
     "keywords": [
       "nature",
       "weather"
-    ]
+    ],
+    "moji": "🌤"
   },
   "wind_blowing_face": {
     "unicode": "1F32C",
@@ -29291,7 +29487,8 @@
     "keywords": [
       "mother",
       "nature"
-    ]
+    ],
+    "moji": "🌬"
   },
   "wind_chime": {
     "unicode": "1F390",
@@ -29739,7 +29936,8 @@
       "symbol",
       "tao",
       "taoist"
-    ]
+    ],
+    "moji": "☯"
   },
   "yum": {
     "unicode": "1F60B",
@@ -29810,7 +30008,8 @@
       ":zipper_mouth_face:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🤐"
   },
   "zzz": {
     "unicode": "1F4A4",
