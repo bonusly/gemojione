@@ -432,7 +432,8 @@
       "heaven",
       "wings",
       "jesus"
-    ]
+    ],
+    "moji": "👼🏻"
   },
   "angel_tone2": {
     "unicode": "1F47C-1F3FC",
@@ -448,7 +449,8 @@
       "heaven",
       "wings",
       "jesus"
-    ]
+    ],
+    "moji": "👼🏼"
   },
   "angel_tone3": {
     "unicode": "1F47C-1F3FD",
@@ -464,7 +466,8 @@
       "heaven",
       "wings",
       "jesus"
-    ]
+    ],
+    "moji": "👼🏽"
   },
   "angel_tone4": {
     "unicode": "1F47C-1F3FE",
@@ -480,7 +483,8 @@
       "heaven",
       "wings",
       "jesus"
-    ]
+    ],
+    "moji": "👼🏾"
   },
   "angel_tone5": {
     "unicode": "1F47C-1F3FF",
@@ -496,7 +500,8 @@
       "heaven",
       "wings",
       "jesus"
-    ]
+    ],
+    "moji": "👼🏿"
   },
   "anger": {
     "unicode": "1F4A2",
@@ -1249,7 +1254,8 @@
       "child",
       "infant",
       "toddler"
-    ]
+    ],
+    "moji": "👶🏻"
   },
   "baby_tone2": {
     "unicode": "1F476-1F3FC",
@@ -1263,7 +1269,8 @@
       "child",
       "infant",
       "toddler"
-    ]
+    ],
+    "moji": "👶🏼"
   },
   "baby_tone3": {
     "unicode": "1F476-1F3FD",
@@ -1277,7 +1284,8 @@
       "child",
       "infant",
       "toddler"
-    ]
+    ],
+    "moji": "👶🏽"
   },
   "baby_tone4": {
     "unicode": "1F476-1F3FE",
@@ -1291,7 +1299,8 @@
       "child",
       "infant",
       "toddler"
-    ]
+    ],
+    "moji": "👶🏾"
   },
   "baby_tone5": {
     "unicode": "1F476-1F3FF",
@@ -1305,7 +1314,8 @@
       "child",
       "infant",
       "toddler"
-    ]
+    ],
+    "moji": "👶🏿"
   },
   "back": {
     "unicode": "1F519",
@@ -1617,7 +1627,8 @@
       ":person_with_ball_tone1:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "⛹🏻"
   },
   "basketball_player_tone2": {
     "unicode": "26F9-1F3FC",
@@ -1629,7 +1640,8 @@
       ":person_with_ball_tone2:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "⛹🏼"
   },
   "basketball_player_tone3": {
     "unicode": "26F9-1F3FD",
@@ -1641,7 +1653,8 @@
       ":person_with_ball_tone3:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "⛹🏽"
   },
   "basketball_player_tone4": {
     "unicode": "26F9-1F3FE",
@@ -1653,7 +1666,8 @@
       ":person_with_ball_tone4:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "⛹🏾"
   },
   "basketball_player_tone5": {
     "unicode": "26F9-1F3FF",
@@ -1665,7 +1679,8 @@
       ":person_with_ball_tone5:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "⛹🏿"
   },
   "bath": {
     "unicode": "1F6C0",
@@ -1715,7 +1730,8 @@
       "clean",
       "shampoo",
       "lather"
-    ]
+    ],
+    "moji": "🛀🏻"
   },
   "bath_tone2": {
     "unicode": "1F6C0-1F3FC",
@@ -1738,7 +1754,8 @@
       "clean",
       "shampoo",
       "lather"
-    ]
+    ],
+    "moji": "🛀🏼"
   },
   "bath_tone3": {
     "unicode": "1F6C0-1F3FD",
@@ -1761,7 +1778,8 @@
       "clean",
       "shampoo",
       "lather"
-    ]
+    ],
+    "moji": "🛀🏽"
   },
   "bath_tone4": {
     "unicode": "1F6C0-1F3FE",
@@ -1784,7 +1802,8 @@
       "clean",
       "shampoo",
       "lather"
-    ]
+    ],
+    "moji": "🛀🏾"
   },
   "bath_tone5": {
     "unicode": "1F6C0-1F3FF",
@@ -1807,7 +1826,8 @@
       "clean",
       "shampoo",
       "lather"
-    ]
+    ],
+    "moji": "🛀🏿"
   },
   "bathtub": {
     "unicode": "1F6C1",
@@ -2141,7 +2161,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚴🏻"
   },
   "bicyclist_tone2": {
     "unicode": "1F6B4-1F3FC",
@@ -2160,7 +2181,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚴🏼"
   },
   "bicyclist_tone3": {
     "unicode": "1F6B4-1F3FD",
@@ -2179,7 +2201,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚴🏽"
   },
   "bicyclist_tone4": {
     "unicode": "1F6B4-1F3FE",
@@ -2198,7 +2221,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚴🏾"
   },
   "bicyclist_tone5": {
     "unicode": "1F6B4-1F3FF",
@@ -2217,7 +2241,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚴🏿"
   },
   "bike": {
     "unicode": "1F6B2",
@@ -2755,7 +2780,8 @@
       "bow",
       "respect",
       "bend"
-    ]
+    ],
+    "moji": "🙇🏻"
   },
   "bow_tone2": {
     "unicode": "1F647-1F3FC",
@@ -2773,7 +2799,8 @@
       "bow",
       "respect",
       "bend"
-    ]
+    ],
+    "moji": "🙇🏼"
   },
   "bow_tone3": {
     "unicode": "1F647-1F3FD",
@@ -2791,7 +2818,8 @@
       "bow",
       "respect",
       "bend"
-    ]
+    ],
+    "moji": "🙇🏽"
   },
   "bow_tone4": {
     "unicode": "1F647-1F3FE",
@@ -2809,7 +2837,8 @@
       "bow",
       "respect",
       "bend"
-    ]
+    ],
+    "moji": "🙇🏾"
   },
   "bow_tone5": {
     "unicode": "1F647-1F3FF",
@@ -2827,7 +2856,8 @@
       "bow",
       "respect",
       "bend"
-    ]
+    ],
+    "moji": "🙇🏿"
   },
   "bowling": {
     "unicode": "1F3B3",
@@ -2878,7 +2908,8 @@
       "male",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👦🏻"
   },
   "boy_tone2": {
     "unicode": "1F466-1F3FC",
@@ -2892,7 +2923,8 @@
       "male",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👦🏼"
   },
   "boy_tone3": {
     "unicode": "1F466-1F3FD",
@@ -2906,7 +2938,8 @@
       "male",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👦🏽"
   },
   "boy_tone4": {
     "unicode": "1F466-1F3FE",
@@ -2920,7 +2953,8 @@
       "male",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👦🏾"
   },
   "boy_tone5": {
     "unicode": "1F466-1F3FF",
@@ -2934,7 +2968,8 @@
       "male",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👦🏿"
   },
   "boys_symbol": {
     "unicode": "1F6C9",
@@ -3009,7 +3044,8 @@
       "dress",
       "engagement",
       "white"
-    ]
+    ],
+    "moji": "👰🏻"
   },
   "bride_with_veil_tone2": {
     "unicode": "1F470-1F3FC",
@@ -3029,7 +3065,8 @@
       "dress",
       "engagement",
       "white"
-    ]
+    ],
+    "moji": "👰🏼"
   },
   "bride_with_veil_tone3": {
     "unicode": "1F470-1F3FD",
@@ -3049,7 +3086,8 @@
       "dress",
       "engagement",
       "white"
-    ]
+    ],
+    "moji": "👰🏽"
   },
   "bride_with_veil_tone4": {
     "unicode": "1F470-1F3FE",
@@ -3069,7 +3107,8 @@
       "dress",
       "engagement",
       "white"
-    ]
+    ],
+    "moji": "👰🏾"
   },
   "bride_with_veil_tone5": {
     "unicode": "1F470-1F3FF",
@@ -3089,7 +3128,8 @@
       "dress",
       "engagement",
       "white"
-    ]
+    ],
+    "moji": "👰🏿"
   },
   "bridge_at_night": {
     "unicode": "1F309",
@@ -4214,7 +4254,8 @@
       "sound",
       "encouragement",
       "enthusiasm"
-    ]
+    ],
+    "moji": "👏🏻"
   },
   "clap_tone2": {
     "unicode": "1F44F-1F3FC",
@@ -4234,7 +4275,8 @@
       "sound",
       "encouragement",
       "enthusiasm"
-    ]
+    ],
+    "moji": "👏🏼"
   },
   "clap_tone3": {
     "unicode": "1F44F-1F3FD",
@@ -4254,7 +4296,8 @@
       "sound",
       "encouragement",
       "enthusiasm"
-    ]
+    ],
+    "moji": "👏🏽"
   },
   "clap_tone4": {
     "unicode": "1F44F-1F3FE",
@@ -4274,7 +4317,8 @@
       "sound",
       "encouragement",
       "enthusiasm"
-    ]
+    ],
+    "moji": "👏🏾"
   },
   "clap_tone5": {
     "unicode": "1F44F-1F3FF",
@@ -4294,7 +4338,8 @@
       "sound",
       "encouragement",
       "enthusiasm"
-    ]
+    ],
+    "moji": "👏🏿"
   },
   "clapper": {
     "unicode": "1F3AC",
@@ -5145,7 +5190,8 @@
       "male",
       "man",
       "wip"
-    ]
+    ],
+    "moji": "👷🏻"
   },
   "construction_worker_tone2": {
     "unicode": "1F477-1F3FC",
@@ -5160,7 +5206,8 @@
       "male",
       "man",
       "wip"
-    ]
+    ],
+    "moji": "👷🏼"
   },
   "construction_worker_tone3": {
     "unicode": "1F477-1F3FD",
@@ -5175,7 +5222,8 @@
       "male",
       "man",
       "wip"
-    ]
+    ],
+    "moji": "👷🏽"
   },
   "construction_worker_tone4": {
     "unicode": "1F477-1F3FE",
@@ -5190,7 +5238,8 @@
       "male",
       "man",
       "wip"
-    ]
+    ],
+    "moji": "👷🏾"
   },
   "construction_worker_tone5": {
     "unicode": "1F477-1F3FF",
@@ -5205,7 +5254,8 @@
       "male",
       "man",
       "wip"
-    ]
+    ],
+    "moji": "👷🏿"
   },
   "control_knobs": {
     "unicode": "1F39B",
@@ -5315,7 +5365,8 @@
       "law",
       "man",
       "cop"
-    ]
+    ],
+    "moji": "👮🏻"
   },
   "cop_tone2": {
     "unicode": "1F46E-1F3FC",
@@ -5331,7 +5382,8 @@
       "law",
       "man",
       "cop"
-    ]
+    ],
+    "moji": "👮🏼"
   },
   "cop_tone3": {
     "unicode": "1F46E-1F3FD",
@@ -5347,7 +5399,8 @@
       "law",
       "man",
       "cop"
-    ]
+    ],
+    "moji": "👮🏽"
   },
   "cop_tone4": {
     "unicode": "1F46E-1F3FE",
@@ -5363,7 +5416,8 @@
       "law",
       "man",
       "cop"
-    ]
+    ],
+    "moji": "👮🏾"
   },
   "cop_tone5": {
     "unicode": "1F46E-1F3FF",
@@ -5379,7 +5433,8 @@
       "law",
       "man",
       "cop"
-    ]
+    ],
+    "moji": "👮🏿"
   },
   "copyright": {
     "moji": "©",
@@ -5484,7 +5539,8 @@
       "love",
       "marriage",
       "valentines"
-    ]
+    ],
+    "moji": "👨‍❤️‍👨"
   },
   "couple_with_heart": {
     "unicode": "1F491",
@@ -5525,7 +5581,8 @@
       "love",
       "marriage",
       "valentines"
-    ]
+    ],
+    "moji": "👩‍❤️‍👩"
   },
   "couplekiss": {
     "unicode": "1F48F",
@@ -6071,7 +6128,8 @@
       "tango",
       "cha cha",
       "music"
-    ]
+    ],
+    "moji": "💃🏻"
   },
   "dancer_tone2": {
     "unicode": "1F483-1F3FC",
@@ -6095,7 +6153,8 @@
       "tango",
       "cha cha",
       "music"
-    ]
+    ],
+    "moji": "💃🏼"
   },
   "dancer_tone3": {
     "unicode": "1F483-1F3FD",
@@ -6119,7 +6178,8 @@
       "tango",
       "cha cha",
       "music"
-    ]
+    ],
+    "moji": "💃🏽"
   },
   "dancer_tone4": {
     "unicode": "1F483-1F3FE",
@@ -6143,7 +6203,8 @@
       "tango",
       "cha cha",
       "music"
-    ]
+    ],
+    "moji": "💃🏾"
   },
   "dancer_tone5": {
     "unicode": "1F483-1F3FF",
@@ -6167,7 +6228,8 @@
       "tango",
       "cha cha",
       "music"
-    ]
+    ],
+    "moji": "💃🏿"
   },
   "dancers": {
     "unicode": "1F46F",
@@ -6929,7 +6991,8 @@
       "hear",
       "listen",
       "sound"
-    ]
+    ],
+    "moji": "👂🏻"
   },
   "ear_tone2": {
     "unicode": "1F442-1F3FC",
@@ -6943,7 +7006,8 @@
       "hear",
       "listen",
       "sound"
-    ]
+    ],
+    "moji": "👂🏼"
   },
   "ear_tone3": {
     "unicode": "1F442-1F3FD",
@@ -6957,7 +7021,8 @@
       "hear",
       "listen",
       "sound"
-    ]
+    ],
+    "moji": "👂🏽"
   },
   "ear_tone4": {
     "unicode": "1F442-1F3FE",
@@ -6971,7 +7036,8 @@
       "hear",
       "listen",
       "sound"
-    ]
+    ],
+    "moji": "👂🏾"
   },
   "ear_tone5": {
     "unicode": "1F442-1F3FF",
@@ -6985,7 +7051,8 @@
       "hear",
       "listen",
       "sound"
-    ]
+    ],
+    "moji": "👂🏿"
   },
   "earth_africa": {
     "unicode": "1F30D",
@@ -7438,7 +7505,8 @@
     "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "👁‍🗨"
   },
   "eyeglasses": {
     "unicode": "1F453",
@@ -7566,7 +7634,8 @@
       "homosexual",
       "man",
       "boy"
-    ]
+    ],
+    "moji": "👨‍👨‍👦"
   },
   "family_mmbb": {
     "unicode": "1F468-1F468-1F466-1F466",
@@ -7589,7 +7658,8 @@
       "homosexual",
       "man",
       "boy"
-    ]
+    ],
+    "moji": "👨‍👨‍👦‍👦"
   },
   "family_mmg": {
     "unicode": "1F468-1F468-1F467",
@@ -7612,7 +7682,8 @@
       "homosexual",
       "man",
       "girl"
-    ]
+    ],
+    "moji": "👨‍👨‍👧"
   },
   "family_mmgb": {
     "unicode": "1F468-1F468-1F467-1F466",
@@ -7636,7 +7707,8 @@
       "man",
       "girl",
       "boy"
-    ]
+    ],
+    "moji": "👨‍👨‍👧‍👦"
   },
   "family_mmgg": {
     "unicode": "1F468-1F468-1F467-1F467",
@@ -7659,7 +7731,8 @@
       "homosexual",
       "man",
       "girl"
-    ]
+    ],
+    "moji": "👨‍👨‍👧‍👧"
   },
   "family_mwbb": {
     "unicode": "1F468-1F469-1F466-1F466",
@@ -7683,7 +7756,8 @@
       "unit",
       "man",
       "woman"
-    ]
+    ],
+    "moji": "👨‍👩‍👦‍👦"
   },
   "family_mwg": {
     "unicode": "1F468-1F469-1F467",
@@ -7708,7 +7782,8 @@
       "unit",
       "man",
       "woman"
-    ]
+    ],
+    "moji": "👨‍👩‍👧"
   },
   "family_mwgb": {
     "unicode": "1F468-1F469-1F467-1F466",
@@ -7733,7 +7808,8 @@
       "unit",
       "man",
       "woman"
-    ]
+    ],
+    "moji": "👨‍👩‍👧‍👦"
   },
   "family_mwgg": {
     "unicode": "1F468-1F469-1F467-1F467",
@@ -7757,7 +7833,8 @@
       "unit",
       "man",
       "woman"
-    ]
+    ],
+    "moji": "👨‍👩‍👧‍👧"
   },
   "family_wwb": {
     "unicode": "1F469-1F469-1F466",
@@ -7781,7 +7858,8 @@
       "lesbian",
       "homosexual",
       "woman"
-    ]
+    ],
+    "moji": "👩‍👩‍👦"
   },
   "family_wwbb": {
     "unicode": "1F469-1F469-1F466-1F466",
@@ -7805,7 +7883,8 @@
       "homosexual",
       "woman",
       "boy"
-    ]
+    ],
+    "moji": "👩‍👩‍👦‍👦"
   },
   "family_wwg": {
     "unicode": "1F469-1F469-1F467",
@@ -7829,7 +7908,8 @@
       "gay",
       "lesbian",
       "homosexual"
-    ]
+    ],
+    "moji": "👩‍👩‍👧"
   },
   "family_wwgb": {
     "unicode": "1F469-1F469-1F467-1F466",
@@ -7854,7 +7934,8 @@
       "woman",
       "girl",
       "boy"
-    ]
+    ],
+    "moji": "👩‍👩‍👧‍👦"
   },
   "family_wwgg": {
     "unicode": "1F469-1F469-1F467-1F467",
@@ -7878,7 +7959,8 @@
       "homosexual",
       "woman",
       "girl"
-    ]
+    ],
+    "moji": "👩‍👩‍👧‍👧"
   },
   "fast_forward": {
     "unicode": "23E9",
@@ -8339,7 +8421,8 @@
       "fingers",
       "grasp",
       "hand"
-    ]
+    ],
+    "moji": "✊🏻"
   },
   "fist_tone2": {
     "unicode": "270A-1F3FC",
@@ -8353,7 +8436,8 @@
       "fingers",
       "grasp",
       "hand"
-    ]
+    ],
+    "moji": "✊🏼"
   },
   "fist_tone3": {
     "unicode": "270A-1F3FD",
@@ -8367,7 +8451,8 @@
       "fingers",
       "grasp",
       "hand"
-    ]
+    ],
+    "moji": "✊🏽"
   },
   "fist_tone4": {
     "unicode": "270A-1F3FE",
@@ -8381,7 +8466,8 @@
       "fingers",
       "grasp",
       "hand"
-    ]
+    ],
+    "moji": "✊🏾"
   },
   "fist_tone5": {
     "unicode": "270A-1F3FF",
@@ -8395,7 +8481,8 @@
       "fingers",
       "grasp",
       "hand"
-    ]
+    ],
+    "moji": "✊🏿"
   },
   "five": {
     "moji": "5️⃣",
@@ -8428,7 +8515,8 @@
       "country",
       "nation",
       "ac"
-    ]
+    ],
+    "moji": "🇦🇨"
   },
   "flag_ad": {
     "unicode": "1F1E6-1F1E9",
@@ -8444,7 +8532,8 @@
       "country",
       "nation",
       "ad"
-    ]
+    ],
+    "moji": "🇦🇩"
   },
   "flag_ae": {
     "unicode": "1F1E6-1F1EA",
@@ -8460,7 +8549,8 @@
       "country",
       "nation",
       "ae"
-    ]
+    ],
+    "moji": "🇦🇪"
   },
   "flag_af": {
     "unicode": "1F1E6-1F1EB",
@@ -8477,7 +8567,8 @@
       "nation",
       "afghanestan",
       "af"
-    ]
+    ],
+    "moji": "🇦🇫"
   },
   "flag_ag": {
     "unicode": "1F1E6-1F1EC",
@@ -8493,7 +8584,8 @@
       "country",
       "nation",
       "ag"
-    ]
+    ],
+    "moji": "🇦🇬"
   },
   "flag_ai": {
     "unicode": "1F1E6-1F1EE",
@@ -8509,7 +8601,8 @@
       "country",
       "nation",
       "ai"
-    ]
+    ],
+    "moji": "🇦🇮"
   },
   "flag_al": {
     "unicode": "1F1E6-1F1F1",
@@ -8526,7 +8619,8 @@
       "nation",
       "shqiperia",
       "al"
-    ]
+    ],
+    "moji": "🇦🇱"
   },
   "flag_am": {
     "unicode": "1F1E6-1F1F2",
@@ -8543,7 +8637,8 @@
       "nation",
       "hayastan",
       "am"
-    ]
+    ],
+    "moji": "🇦🇲"
   },
   "flag_ao": {
     "unicode": "1F1E6-1F1F4",
@@ -8559,7 +8654,8 @@
       "country",
       "nation",
       "ao"
-    ]
+    ],
+    "moji": "🇦🇴"
   },
   "flag_aq": {
     "unicode": "1F1E6-1F1F6",
@@ -8571,7 +8667,8 @@
       ":aq:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇦🇶"
   },
   "flag_ar": {
     "unicode": "1F1E6-1F1F7",
@@ -8587,7 +8684,8 @@
       "country",
       "nation",
       "ar"
-    ]
+    ],
+    "moji": "🇦🇷"
   },
   "flag_as": {
     "unicode": "1F1E6-1F1F8",
@@ -8599,7 +8697,8 @@
       ":as:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇦🇸"
   },
   "flag_at": {
     "unicode": "1F1E6-1F1F9",
@@ -8617,7 +8716,8 @@
       "&ouml;sterreich",
       "osterreich",
       "at"
-    ]
+    ],
+    "moji": "🇦🇹"
   },
   "flag_au": {
     "unicode": "1F1E6-1F1FA",
@@ -8633,7 +8733,8 @@
       "country",
       "nation",
       "au"
-    ]
+    ],
+    "moji": "🇦🇺"
   },
   "flag_aw": {
     "unicode": "1F1E6-1F1FC",
@@ -8649,7 +8750,8 @@
       "country",
       "nation",
       "aw"
-    ]
+    ],
+    "moji": "🇦🇼"
   },
   "flag_ax": {
     "unicode": "1F1E6-1F1FD",
@@ -8661,7 +8763,8 @@
       ":ax:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇦🇽"
   },
   "flag_az": {
     "unicode": "1F1E6-1F1FF",
@@ -8678,7 +8781,8 @@
       "nation",
       "azarbaycan",
       "az"
-    ]
+    ],
+    "moji": "🇦🇿"
   },
   "flag_ba": {
     "unicode": "1F1E7-1F1E6",
@@ -8695,7 +8799,8 @@
       "nation",
       "bosna i hercegovina",
       "ba"
-    ]
+    ],
+    "moji": "🇧🇦"
   },
   "flag_bb": {
     "unicode": "1F1E7-1F1E7",
@@ -8711,7 +8816,8 @@
       "country",
       "nation",
       "bb"
-    ]
+    ],
+    "moji": "🇧🇧"
   },
   "flag_bd": {
     "unicode": "1F1E7-1F1E9",
@@ -8727,7 +8833,8 @@
       "country",
       "nation",
       "bd"
-    ]
+    ],
+    "moji": "🇧🇩"
   },
   "flag_be": {
     "unicode": "1F1E7-1F1EA",
@@ -8745,7 +8852,8 @@
       "belgique",
       "belgie",
       "be"
-    ]
+    ],
+    "moji": "🇧🇪"
   },
   "flag_bf": {
     "unicode": "1F1E7-1F1EB",
@@ -8761,7 +8869,8 @@
       "country",
       "nation",
       "bf"
-    ]
+    ],
+    "moji": "🇧🇫"
   },
   "flag_bg": {
     "unicode": "1F1E7-1F1EC",
@@ -8777,7 +8886,8 @@
       "country",
       "nation",
       "bg"
-    ]
+    ],
+    "moji": "🇧🇬"
   },
   "flag_bh": {
     "unicode": "1F1E7-1F1ED",
@@ -8794,7 +8904,8 @@
       "nation",
       "al bahrayn",
       "bh"
-    ]
+    ],
+    "moji": "🇧🇭"
   },
   "flag_bi": {
     "unicode": "1F1E7-1F1EE",
@@ -8810,7 +8921,8 @@
       "country",
       "nation",
       "bi"
-    ]
+    ],
+    "moji": "🇧🇮"
   },
   "flag_bj": {
     "unicode": "1F1E7-1F1EF",
@@ -8826,7 +8938,8 @@
       "country",
       "nation",
       "bj"
-    ]
+    ],
+    "moji": "🇧🇯"
   },
   "flag_bl": {
     "unicode": "1F1E7-1F1F1",
@@ -8838,7 +8951,8 @@
       ":bl:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇧🇱"
   },
   "flag_black": {
     "unicode": "1F3F4",
@@ -8870,7 +8984,8 @@
       "country",
       "nation",
       "bm"
-    ]
+    ],
+    "moji": "🇧🇲"
   },
   "flag_bn": {
     "unicode": "1F1E7-1F1F3",
@@ -8886,7 +9001,8 @@
       "country",
       "nation",
       "bn"
-    ]
+    ],
+    "moji": "🇧🇳"
   },
   "flag_bo": {
     "unicode": "1F1E7-1F1F4",
@@ -8902,7 +9018,8 @@
       "country",
       "nation",
       "bo"
-    ]
+    ],
+    "moji": "🇧🇴"
   },
   "flag_bq": {
     "unicode": "1F1E7-1F1F6",
@@ -8914,7 +9031,8 @@
       ":bq:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇧🇶"
   },
   "flag_br": {
     "unicode": "1F1E7-1F1F7",
@@ -8931,7 +9049,8 @@
       "nation",
       "brasil",
       "br"
-    ]
+    ],
+    "moji": "🇧🇷"
   },
   "flag_bs": {
     "unicode": "1F1E7-1F1F8",
@@ -8947,7 +9066,8 @@
       "country",
       "nation",
       "bs"
-    ]
+    ],
+    "moji": "🇧🇸"
   },
   "flag_bt": {
     "unicode": "1F1E7-1F1F9",
@@ -8963,7 +9083,8 @@
       "country",
       "nation",
       "bt"
-    ]
+    ],
+    "moji": "🇧🇹"
   },
   "flag_bv": {
     "unicode": "1F1E7-1F1FB",
@@ -8975,7 +9096,8 @@
       ":bv:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇧🇻"
   },
   "flag_bw": {
     "unicode": "1F1E7-1F1FC",
@@ -8991,7 +9113,8 @@
       "country",
       "nation",
       "bw"
-    ]
+    ],
+    "moji": "🇧🇼"
   },
   "flag_by": {
     "unicode": "1F1E7-1F1FE",
@@ -9008,7 +9131,8 @@
       "nation",
       "byelarus",
       "by"
-    ]
+    ],
+    "moji": "🇧🇾"
   },
   "flag_bz": {
     "unicode": "1F1E7-1F1FF",
@@ -9024,7 +9148,8 @@
       "country",
       "nation",
       "bz"
-    ]
+    ],
+    "moji": "🇧🇿"
   },
   "flag_ca": {
     "unicode": "1F1E8-1F1E6",
@@ -9040,7 +9165,8 @@
       "country",
       "nation",
       "ca"
-    ]
+    ],
+    "moji": "🇨🇦"
   },
   "flag_cc": {
     "unicode": "1F1E8-1F1E8",
@@ -9052,7 +9178,8 @@
       ":cc:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇨🇨"
   },
   "flag_cd": {
     "unicode": "1F1E8-1F1E9",
@@ -9070,7 +9197,8 @@
       "r&eacute;publique d&eacute;mocratique du congo",
       "republique democratique du congo",
       "cd"
-    ]
+    ],
+    "moji": "🇨🇩"
   },
   "flag_cf": {
     "unicode": "1F1E8-1F1EB",
@@ -9086,7 +9214,8 @@
       "country",
       "nation",
       "cf"
-    ]
+    ],
+    "moji": "🇨🇫"
   },
   "flag_cg": {
     "unicode": "1F1E8-1F1EC",
@@ -9102,7 +9231,8 @@
       "country",
       "nation",
       "cg"
-    ]
+    ],
+    "moji": "🇨🇬"
   },
   "flag_ch": {
     "unicode": "1F1E8-1F1ED",
@@ -9118,7 +9248,8 @@
       "country",
       "nation",
       "swiss"
-    ]
+    ],
+    "moji": "🇨🇭"
   },
   "flag_ci": {
     "unicode": "1F1E8-1F1EE",
@@ -9134,7 +9265,8 @@
       "country",
       "nation",
       "ci"
-    ]
+    ],
+    "moji": "🇨🇮"
   },
   "flag_ck": {
     "unicode": "1F1E8-1F1F0",
@@ -9146,7 +9278,8 @@
       ":ck:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇨🇰"
   },
   "flag_cl": {
     "unicode": "1F1E8-1F1F1",
@@ -9162,7 +9295,8 @@
       "country",
       "nation",
       "cl"
-    ]
+    ],
+    "moji": "🇨🇱"
   },
   "flag_cm": {
     "unicode": "1F1E8-1F1F2",
@@ -9178,7 +9312,8 @@
       "country",
       "nation",
       "cm"
-    ]
+    ],
+    "moji": "🇨🇲"
   },
   "flag_cn": {
     "unicode": "1F1E8-1F1F3",
@@ -9197,7 +9332,8 @@
       "country",
       "nation",
       "cn"
-    ]
+    ],
+    "moji": "🇨🇳"
   },
   "flag_co": {
     "unicode": "1F1E8-1F1F4",
@@ -9213,7 +9349,8 @@
       "country",
       "nation",
       "co"
-    ]
+    ],
+    "moji": "🇨🇴"
   },
   "flag_cp": {
     "unicode": "1F1E8-1F1F5",
@@ -9225,7 +9362,8 @@
       ":cp:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇨🇵"
   },
   "flag_cr": {
     "unicode": "1F1E8-1F1F7",
@@ -9241,7 +9379,8 @@
       "country",
       "nation",
       "cr"
-    ]
+    ],
+    "moji": "🇨🇷"
   },
   "flag_cu": {
     "unicode": "1F1E8-1F1FA",
@@ -9257,7 +9396,8 @@
       "country",
       "nation",
       "cu"
-    ]
+    ],
+    "moji": "🇨🇺"
   },
   "flag_cv": {
     "unicode": "1F1E8-1F1FB",
@@ -9274,7 +9414,8 @@
       "nation",
       "cabo verde",
       "cv"
-    ]
+    ],
+    "moji": "🇨🇻"
   },
   "flag_cw": {
     "unicode": "1F1E8-1F1FC",
@@ -9286,7 +9427,8 @@
       ":cw:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇨🇼"
   },
   "flag_cx": {
     "unicode": "1F1E8-1F1FD",
@@ -9298,7 +9440,8 @@
       ":cx:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇨🇽"
   },
   "flag_cy": {
     "unicode": "1F1E8-1F1FE",
@@ -9316,7 +9459,8 @@
       "kibris",
       "kypros",
       "cy"
-    ]
+    ],
+    "moji": "🇨🇾"
   },
   "flag_cz": {
     "unicode": "1F1E8-1F1FF",
@@ -9333,7 +9477,8 @@
       "nation",
       "ceska republika",
       "cz"
-    ]
+    ],
+    "moji": "🇨🇿"
   },
   "flag_de": {
     "unicode": "1F1E9-1F1EA",
@@ -9351,7 +9496,8 @@
       "deutschland",
       "country",
       "de"
-    ]
+    ],
+    "moji": "🇩🇪"
   },
   "flag_dg": {
     "unicode": "1F1E9-1F1EC",
@@ -9363,7 +9509,8 @@
       ":dg:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇩🇬"
   },
   "flag_dj": {
     "unicode": "1F1E9-1F1EF",
@@ -9379,7 +9526,8 @@
       "country",
       "nation",
       "dj"
-    ]
+    ],
+    "moji": "🇩🇯"
   },
   "flag_dk": {
     "unicode": "1F1E9-1F1F0",
@@ -9396,7 +9544,8 @@
       "nation",
       "danmark",
       "dk"
-    ]
+    ],
+    "moji": "🇩🇰"
   },
   "flag_dm": {
     "unicode": "1F1E9-1F1F2",
@@ -9412,7 +9561,8 @@
       "country",
       "nation",
       "dm"
-    ]
+    ],
+    "moji": "🇩🇲"
   },
   "flag_do": {
     "unicode": "1F1E9-1F1F4",
@@ -9428,7 +9578,8 @@
       "country",
       "nation",
       "do"
-    ]
+    ],
+    "moji": "🇩🇴"
   },
   "flag_dz": {
     "unicode": "1F1E9-1F1FF",
@@ -9446,7 +9597,8 @@
       "al jaza'ir",
       "al jazair",
       "dz"
-    ]
+    ],
+    "moji": "🇩🇿"
   },
   "flag_ea": {
     "unicode": "1F1EA-1F1E6",
@@ -9458,7 +9610,8 @@
       ":ea:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇪🇦"
   },
   "flag_ec": {
     "unicode": "1F1EA-1F1E8",
@@ -9474,7 +9627,8 @@
       "country",
       "nation",
       "ec"
-    ]
+    ],
+    "moji": "🇪🇨"
   },
   "flag_ee": {
     "unicode": "1F1EA-1F1EA",
@@ -9491,7 +9645,8 @@
       "nation",
       "eesti vabariik",
       "ee"
-    ]
+    ],
+    "moji": "🇪🇪"
   },
   "flag_eg": {
     "unicode": "1F1EA-1F1EC",
@@ -9508,7 +9663,8 @@
       "nation",
       "misr",
       "eg"
-    ]
+    ],
+    "moji": "🇪🇬"
   },
   "flag_eh": {
     "unicode": "1F1EA-1F1ED",
@@ -9527,7 +9683,8 @@
       "sahra",
       "gharbiyah",
       "eh"
-    ]
+    ],
+    "moji": "🇪🇭"
   },
   "flag_er": {
     "unicode": "1F1EA-1F1F7",
@@ -9544,7 +9701,8 @@
       "nation",
       "hagere ertra",
       "er"
-    ]
+    ],
+    "moji": "🇪🇷"
   },
   "flag_es": {
     "unicode": "1F1EA-1F1F8",
@@ -9562,7 +9720,8 @@
       "country",
       "espana",
       "es"
-    ]
+    ],
+    "moji": "🇪🇸"
   },
   "flag_et": {
     "unicode": "1F1EA-1F1F9",
@@ -9580,7 +9739,8 @@
       "ityop'iya",
       "ityopiya",
       "et"
-    ]
+    ],
+    "moji": "🇪🇹"
   },
   "flag_eu": {
     "unicode": "1F1EA-1F1FA",
@@ -9592,7 +9752,8 @@
       ":eu:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇪🇺"
   },
   "flag_fi": {
     "unicode": "1F1EB-1F1EE",
@@ -9609,7 +9770,8 @@
       "nation",
       "suomen tasavalta",
       "fi"
-    ]
+    ],
+    "moji": "🇫🇮"
   },
   "flag_fj": {
     "unicode": "1F1EB-1F1EF",
@@ -9625,7 +9787,8 @@
       "country",
       "nation",
       "fj"
-    ]
+    ],
+    "moji": "🇫🇯"
   },
   "flag_fk": {
     "unicode": "1F1EB-1F1F0",
@@ -9642,7 +9805,8 @@
       "nation",
       "islas malvinas",
       "fk"
-    ]
+    ],
+    "moji": "🇫🇰"
   },
   "flag_fm": {
     "unicode": "1F1EB-1F1F2",
@@ -9658,7 +9822,8 @@
       "country",
       "nation",
       "fm"
-    ]
+    ],
+    "moji": "🇫🇲"
   },
   "flag_fo": {
     "unicode": "1F1EB-1F1F4",
@@ -9675,7 +9840,8 @@
       "nation",
       "foroyar",
       "fo"
-    ]
+    ],
+    "moji": "🇫🇴"
   },
   "flag_fr": {
     "unicode": "1F1EB-1F1F7",
@@ -9692,7 +9858,8 @@
       "nation",
       "country",
       "fr"
-    ]
+    ],
+    "moji": "🇫🇷"
   },
   "flag_ga": {
     "unicode": "1F1EC-1F1E6",
@@ -9708,7 +9875,8 @@
       "country",
       "nation",
       "ga"
-    ]
+    ],
+    "moji": "🇬🇦"
   },
   "flag_gb": {
     "unicode": "1F1EC-1F1E7",
@@ -9728,7 +9896,8 @@
       "united kingdom",
       "england",
       "country"
-    ]
+    ],
+    "moji": "🇬🇧"
   },
   "flag_gd": {
     "unicode": "1F1EC-1F1E9",
@@ -9744,7 +9913,8 @@
       "country",
       "nation",
       "gd"
-    ]
+    ],
+    "moji": "🇬🇩"
   },
   "flag_ge": {
     "unicode": "1F1EC-1F1EA",
@@ -9762,7 +9932,8 @@
       "sak'art'velo",
       "sakartvelo",
       "ge"
-    ]
+    ],
+    "moji": "🇬🇪"
   },
   "flag_gf": {
     "unicode": "1F1EC-1F1EB",
@@ -9774,7 +9945,8 @@
       ":gf:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇬🇫"
   },
   "flag_gg": {
     "unicode": "1F1EC-1F1EC",
@@ -9786,7 +9958,8 @@
       ":gg:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇬🇬"
   },
   "flag_gh": {
     "unicode": "1F1EC-1F1ED",
@@ -9802,7 +9975,8 @@
       "country",
       "nation",
       "gh"
-    ]
+    ],
+    "moji": "🇬🇭"
   },
   "flag_gi": {
     "unicode": "1F1EC-1F1EE",
@@ -9818,7 +9992,8 @@
       "country",
       "nation",
       "gi"
-    ]
+    ],
+    "moji": "🇬🇮"
   },
   "flag_gl": {
     "unicode": "1F1EC-1F1F1",
@@ -9835,7 +10010,8 @@
       "nation",
       "kalaallit nunaat",
       "gl"
-    ]
+    ],
+    "moji": "🇬🇱"
   },
   "flag_gm": {
     "unicode": "1F1EC-1F1F2",
@@ -9851,7 +10027,8 @@
       "country",
       "nation",
       "gm"
-    ]
+    ],
+    "moji": "🇬🇲"
   },
   "flag_gn": {
     "unicode": "1F1EC-1F1F3",
@@ -9868,7 +10045,8 @@
       "nation",
       "guinee",
       "gn"
-    ]
+    ],
+    "moji": "🇬🇳"
   },
   "flag_gp": {
     "unicode": "1F1EC-1F1F5",
@@ -9880,7 +10058,8 @@
       ":gp:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇬🇵"
   },
   "flag_gq": {
     "unicode": "1F1EC-1F1F6",
@@ -9897,7 +10076,8 @@
       "nation",
       "guinea ecuatorial",
       "gq"
-    ]
+    ],
+    "moji": "🇬🇶"
   },
   "flag_gr": {
     "unicode": "1F1EC-1F1F7",
@@ -9915,7 +10095,8 @@
       "ellas",
       "ellada",
       "gr"
-    ]
+    ],
+    "moji": "🇬🇷"
   },
   "flag_gs": {
     "unicode": "1F1EC-1F1F8",
@@ -9927,7 +10108,8 @@
       ":gs:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇬🇸"
   },
   "flag_gt": {
     "unicode": "1F1EC-1F1F9",
@@ -9943,7 +10125,8 @@
       "country",
       "nation",
       "gt"
-    ]
+    ],
+    "moji": "🇬🇹"
   },
   "flag_gu": {
     "unicode": "1F1EC-1F1FA",
@@ -9959,7 +10142,8 @@
       "country",
       "nation",
       "gu"
-    ]
+    ],
+    "moji": "🇬🇺"
   },
   "flag_gw": {
     "unicode": "1F1EC-1F1FC",
@@ -9977,7 +10161,8 @@
       "guine-bissau",
       "guine bissau",
       "gw"
-    ]
+    ],
+    "moji": "🇬🇼"
   },
   "flag_gy": {
     "unicode": "1F1EC-1F1FE",
@@ -9993,7 +10178,8 @@
       "country",
       "nation",
       "gy"
-    ]
+    ],
+    "moji": "🇬🇾"
   },
   "flag_hk": {
     "unicode": "1F1ED-1F1F0",
@@ -10010,7 +10196,8 @@
       "nation",
       "xianggang",
       "hk"
-    ]
+    ],
+    "moji": "🇭🇰"
   },
   "flag_hm": {
     "unicode": "1F1ED-1F1F2",
@@ -10022,7 +10209,8 @@
       ":hm:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇭🇲"
   },
   "flag_hn": {
     "unicode": "1F1ED-1F1F3",
@@ -10038,7 +10226,8 @@
       "country",
       "nation",
       "hn"
-    ]
+    ],
+    "moji": "🇭🇳"
   },
   "flag_hr": {
     "unicode": "1F1ED-1F1F7",
@@ -10055,7 +10244,8 @@
       "nation",
       "hrvatska",
       "hr"
-    ]
+    ],
+    "moji": "🇭🇷"
   },
   "flag_ht": {
     "unicode": "1F1ED-1F1F9",
@@ -10071,7 +10261,8 @@
       "country",
       "nation",
       "ht"
-    ]
+    ],
+    "moji": "🇭🇹"
   },
   "flag_hu": {
     "unicode": "1F1ED-1F1FA",
@@ -10088,7 +10279,8 @@
       "nation",
       "magyarorszag",
       "hu"
-    ]
+    ],
+    "moji": "🇭🇺"
   },
   "flag_ic": {
     "unicode": "1F1EE-1F1E8",
@@ -10100,7 +10292,8 @@
       ":ic:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇮🇨"
   },
   "flag_id": {
     "unicode": "1F1EE-1F1E9",
@@ -10116,7 +10309,8 @@
       "country",
       "nation",
       "id"
-    ]
+    ],
+    "moji": "🇮🇩"
   },
   "flag_ie": {
     "unicode": "1F1EE-1F1EA",
@@ -10134,7 +10328,8 @@
       "&eacute;ire",
       "eire",
       "ie"
-    ]
+    ],
+    "moji": "🇮🇪"
   },
   "flag_il": {
     "unicode": "1F1EE-1F1F1",
@@ -10152,7 +10347,8 @@
       "yisra'el",
       "yisrael",
       "il"
-    ]
+    ],
+    "moji": "🇮🇱"
   },
   "flag_im": {
     "unicode": "1F1EE-1F1F2",
@@ -10164,7 +10360,8 @@
       ":im:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇮🇲"
   },
   "flag_in": {
     "unicode": "1F1EE-1F1F3",
@@ -10181,7 +10378,8 @@
       "nation",
       "bharat",
       "in"
-    ]
+    ],
+    "moji": "🇮🇳"
   },
   "flag_io": {
     "unicode": "1F1EE-1F1F4",
@@ -10193,7 +10391,8 @@
       ":io:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇮🇴"
   },
   "flag_iq": {
     "unicode": "1F1EE-1F1F6",
@@ -10209,7 +10408,8 @@
       "country",
       "nation",
       "iq"
-    ]
+    ],
+    "moji": "🇮🇶"
   },
   "flag_ir": {
     "unicode": "1F1EE-1F1F7",
@@ -10225,7 +10425,8 @@
       "country",
       "nation",
       "ir"
-    ]
+    ],
+    "moji": "🇮🇷"
   },
   "flag_is": {
     "unicode": "1F1EE-1F1F8",
@@ -10242,7 +10443,8 @@
       "nation",
       "lyoveldio island",
       "is"
-    ]
+    ],
+    "moji": "🇮🇸"
   },
   "flag_it": {
     "unicode": "1F1EE-1F1F9",
@@ -10259,7 +10461,8 @@
       "country",
       "nation",
       "it"
-    ]
+    ],
+    "moji": "🇮🇹"
   },
   "flag_je": {
     "unicode": "1F1EF-1F1EA",
@@ -10275,7 +10478,8 @@
       "country",
       "nation",
       "je"
-    ]
+    ],
+    "moji": "🇯🇪"
   },
   "flag_jm": {
     "unicode": "1F1EF-1F1F2",
@@ -10291,7 +10495,8 @@
       "country",
       "nation",
       "jm"
-    ]
+    ],
+    "moji": "🇯🇲"
   },
   "flag_jo": {
     "unicode": "1F1EF-1F1F4",
@@ -10308,7 +10513,8 @@
       "nation",
       "al urdun",
       "jo"
-    ]
+    ],
+    "moji": "🇯🇴"
   },
   "flag_jp": {
     "unicode": "1F1EF-1F1F5",
@@ -10325,7 +10531,8 @@
       "nippon",
       "country",
       "jp"
-    ]
+    ],
+    "moji": "🇯🇵"
   },
   "flag_ke": {
     "unicode": "1F1F0-1F1EA",
@@ -10341,7 +10548,8 @@
       "country",
       "nation",
       "ke"
-    ]
+    ],
+    "moji": "🇰🇪"
   },
   "flag_kg": {
     "unicode": "1F1F0-1F1EC",
@@ -10358,7 +10566,8 @@
       "nation",
       "kyrgyz respublikasy",
       "kg"
-    ]
+    ],
+    "moji": "🇰🇬"
   },
   "flag_kh": {
     "unicode": "1F1F0-1F1ED",
@@ -10375,7 +10584,8 @@
       "nation",
       "kampuchea",
       "kh"
-    ]
+    ],
+    "moji": "🇰🇭"
   },
   "flag_ki": {
     "unicode": "1F1F0-1F1EE",
@@ -10393,7 +10603,8 @@
       "kiribati",
       "kiribas",
       "ki"
-    ]
+    ],
+    "moji": "🇰🇮"
   },
   "flag_km": {
     "unicode": "1F1F0-1F1F2",
@@ -10409,7 +10620,8 @@
       "country",
       "nation",
       "km"
-    ]
+    ],
+    "moji": "🇰🇲"
   },
   "flag_kn": {
     "unicode": "1F1F0-1F1F3",
@@ -10425,7 +10637,8 @@
       "country",
       "nation",
       "kn"
-    ]
+    ],
+    "moji": "🇰🇳"
   },
   "flag_kp": {
     "unicode": "1F1F0-1F1F5",
@@ -10441,7 +10654,8 @@
       "country",
       "nation",
       "kp"
-    ]
+    ],
+    "moji": "🇰🇵"
   },
   "flag_kr": {
     "unicode": "1F1F0-1F1F7",
@@ -10458,7 +10672,8 @@
       "country",
       "south korea",
       "kr"
-    ]
+    ],
+    "moji": "🇰🇷"
   },
   "flag_kw": {
     "unicode": "1F1F0-1F1FC",
@@ -10475,7 +10690,8 @@
       "nation",
       "al kuwayt",
       "kw"
-    ]
+    ],
+    "moji": "🇰🇼"
   },
   "flag_ky": {
     "unicode": "1F1F0-1F1FE",
@@ -10491,7 +10707,8 @@
       "country",
       "nation",
       "ky"
-    ]
+    ],
+    "moji": "🇰🇾"
   },
   "flag_kz": {
     "unicode": "1F1F0-1F1FF",
@@ -10508,7 +10725,8 @@
       "nation",
       "qazaqstan",
       "kz"
-    ]
+    ],
+    "moji": "🇰🇿"
   },
   "flag_la": {
     "unicode": "1F1F1-1F1E6",
@@ -10524,7 +10742,8 @@
       "country",
       "nation",
       "la"
-    ]
+    ],
+    "moji": "🇱🇦"
   },
   "flag_lb": {
     "unicode": "1F1F1-1F1E7",
@@ -10541,7 +10760,8 @@
       "nation",
       "lubnan",
       "lb"
-    ]
+    ],
+    "moji": "🇱🇧"
   },
   "flag_lc": {
     "unicode": "1F1F1-1F1E8",
@@ -10557,7 +10777,8 @@
       "country",
       "nation",
       "lc"
-    ]
+    ],
+    "moji": "🇱🇨"
   },
   "flag_li": {
     "unicode": "1F1F1-1F1EE",
@@ -10573,7 +10794,8 @@
       "country",
       "nation",
       "li"
-    ]
+    ],
+    "moji": "🇱🇮"
   },
   "flag_lk": {
     "unicode": "1F1F1-1F1F0",
@@ -10589,7 +10811,8 @@
       "country",
       "nation",
       "lk"
-    ]
+    ],
+    "moji": "🇱🇰"
   },
   "flag_lr": {
     "unicode": "1F1F1-1F1F7",
@@ -10605,7 +10828,8 @@
       "country",
       "nation",
       "lr"
-    ]
+    ],
+    "moji": "🇱🇷"
   },
   "flag_ls": {
     "unicode": "1F1F1-1F1F8",
@@ -10621,7 +10845,8 @@
       "country",
       "nation",
       "ls"
-    ]
+    ],
+    "moji": "🇱🇸"
   },
   "flag_lt": {
     "unicode": "1F1F1-1F1F9",
@@ -10638,7 +10863,8 @@
       "nation",
       "lietuva",
       "lt"
-    ]
+    ],
+    "moji": "🇱🇹"
   },
   "flag_lu": {
     "unicode": "1F1F1-1F1FA",
@@ -10656,7 +10882,8 @@
       "luxembourg",
       "letzebuerg",
       "lu"
-    ]
+    ],
+    "moji": "🇱🇺"
   },
   "flag_lv": {
     "unicode": "1F1F1-1F1FB",
@@ -10673,7 +10900,8 @@
       "nation",
       "latvija",
       "lv"
-    ]
+    ],
+    "moji": "🇱🇻"
   },
   "flag_ly": {
     "unicode": "1F1F1-1F1FE",
@@ -10690,7 +10918,8 @@
       "nation",
       "libiyah",
       "ly"
-    ]
+    ],
+    "moji": "🇱🇾"
   },
   "flag_ma": {
     "unicode": "1F1F2-1F1E6",
@@ -10707,7 +10936,8 @@
       "nation",
       "al maghrib",
       "ma"
-    ]
+    ],
+    "moji": "🇲🇦"
   },
   "flag_mc": {
     "unicode": "1F1F2-1F1E8",
@@ -10723,7 +10953,8 @@
       "country",
       "nation",
       "mc"
-    ]
+    ],
+    "moji": "🇲🇨"
   },
   "flag_md": {
     "unicode": "1F1F2-1F1E9",
@@ -10739,7 +10970,8 @@
       "country",
       "nation",
       "md"
-    ]
+    ],
+    "moji": "🇲🇩"
   },
   "flag_me": {
     "unicode": "1F1F2-1F1EA",
@@ -10756,7 +10988,8 @@
       "nation",
       "crna gora",
       "me"
-    ]
+    ],
+    "moji": "🇲🇪"
   },
   "flag_mf": {
     "unicode": "1F1F2-1F1EB",
@@ -10768,7 +11001,8 @@
       ":mf:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇲🇫"
   },
   "flag_mg": {
     "unicode": "1F1F2-1F1EC",
@@ -10784,7 +11018,8 @@
       "country",
       "nation",
       "mg"
-    ]
+    ],
+    "moji": "🇲🇬"
   },
   "flag_mh": {
     "unicode": "1F1F2-1F1ED",
@@ -10800,7 +11035,8 @@
       "country",
       "nation",
       "mh"
-    ]
+    ],
+    "moji": "🇲🇭"
   },
   "flag_mk": {
     "unicode": "1F1F2-1F1F0",
@@ -10816,7 +11052,8 @@
       "country",
       "nation",
       "mk"
-    ]
+    ],
+    "moji": "🇲🇰"
   },
   "flag_ml": {
     "unicode": "1F1F2-1F1F1",
@@ -10832,7 +11069,8 @@
       "country",
       "nation",
       "ml"
-    ]
+    ],
+    "moji": "🇲🇱"
   },
   "flag_mm": {
     "unicode": "1F1F2-1F1F2",
@@ -10849,7 +11087,8 @@
       "nation",
       "myanma naingngandaw",
       "mm"
-    ]
+    ],
+    "moji": "🇲🇲"
   },
   "flag_mn": {
     "unicode": "1F1F2-1F1F3",
@@ -10866,7 +11105,8 @@
       "nation",
       "mongol uls",
       "mn"
-    ]
+    ],
+    "moji": "🇲🇳"
   },
   "flag_mo": {
     "unicode": "1F1F2-1F1F4",
@@ -10883,7 +11123,8 @@
       "nation",
       "aomen",
       "mo"
-    ]
+    ],
+    "moji": "🇲🇴"
   },
   "flag_mp": {
     "unicode": "1F1F2-1F1F5",
@@ -10895,7 +11136,8 @@
       ":mp:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇲🇵"
   },
   "flag_mq": {
     "unicode": "1F1F2-1F1F6",
@@ -10907,7 +11149,8 @@
       ":mq:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇲🇶"
   },
   "flag_mr": {
     "unicode": "1F1F2-1F1F7",
@@ -10924,7 +11167,8 @@
       "nation",
       "muritaniyah",
       "mr"
-    ]
+    ],
+    "moji": "🇲🇷"
   },
   "flag_ms": {
     "unicode": "1F1F2-1F1F8",
@@ -10940,7 +11184,8 @@
       "country",
       "nation",
       "ms"
-    ]
+    ],
+    "moji": "🇲🇸"
   },
   "flag_mt": {
     "unicode": "1F1F2-1F1F9",
@@ -10956,7 +11201,8 @@
       "country",
       "nation",
       "mt"
-    ]
+    ],
+    "moji": "🇲🇹"
   },
   "flag_mu": {
     "unicode": "1F1F2-1F1FA",
@@ -10972,7 +11218,8 @@
       "country",
       "nation",
       "mu"
-    ]
+    ],
+    "moji": "🇲🇺"
   },
   "flag_mv": {
     "unicode": "1F1F2-1F1FB",
@@ -10989,7 +11236,8 @@
       "nation",
       "dhivehi raajje",
       "mv"
-    ]
+    ],
+    "moji": "🇲🇻"
   },
   "flag_mw": {
     "unicode": "1F1F2-1F1FC",
@@ -11005,7 +11253,8 @@
       "country",
       "nation",
       "mw"
-    ]
+    ],
+    "moji": "🇲🇼"
   },
   "flag_mx": {
     "unicode": "1F1F2-1F1FD",
@@ -11021,7 +11270,8 @@
       "country",
       "nation",
       "mx"
-    ]
+    ],
+    "moji": "🇲🇽"
   },
   "flag_my": {
     "unicode": "1F1F2-1F1FE",
@@ -11037,7 +11287,8 @@
       "country",
       "nation",
       "my"
-    ]
+    ],
+    "moji": "🇲🇾"
   },
   "flag_mz": {
     "unicode": "1F1F2-1F1FF",
@@ -11054,7 +11305,8 @@
       "nation",
       "mocambique",
       "mz"
-    ]
+    ],
+    "moji": "🇲🇿"
   },
   "flag_na": {
     "unicode": "1F1F3-1F1E6",
@@ -11070,7 +11322,8 @@
       "country",
       "nation",
       "na"
-    ]
+    ],
+    "moji": "🇳🇦"
   },
   "flag_nc": {
     "unicode": "1F1F3-1F1E8",
@@ -11089,7 +11342,8 @@
       "cal&eacute;donie",
       "caledonie",
       "nc"
-    ]
+    ],
+    "moji": "🇳🇨"
   },
   "flag_ne": {
     "unicode": "1F1F3-1F1EA",
@@ -11105,7 +11359,8 @@
       "country",
       "nation",
       "ne"
-    ]
+    ],
+    "moji": "🇳🇪"
   },
   "flag_nf": {
     "unicode": "1F1F3-1F1EB",
@@ -11117,7 +11372,8 @@
       ":nf:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇳🇫"
   },
   "flag_ng": {
     "unicode": "1F1F3-1F1EC",
@@ -11133,7 +11389,8 @@
       "country",
       "nation",
       "ng"
-    ]
+    ],
+    "moji": "🇳🇬"
   },
   "flag_ni": {
     "unicode": "1F1F3-1F1EE",
@@ -11149,7 +11406,8 @@
       "country",
       "nation",
       "ni"
-    ]
+    ],
+    "moji": "🇳🇮"
   },
   "flag_nl": {
     "unicode": "1F1F3-1F1F1",
@@ -11167,7 +11425,8 @@
       "nederland",
       "holland",
       "nl"
-    ]
+    ],
+    "moji": "🇳🇱"
   },
   "flag_no": {
     "unicode": "1F1F3-1F1F4",
@@ -11184,7 +11443,8 @@
       "nation",
       "norge",
       "no"
-    ]
+    ],
+    "moji": "🇳🇴"
   },
   "flag_np": {
     "unicode": "1F1F3-1F1F5",
@@ -11200,7 +11460,8 @@
       "country",
       "nation",
       "np"
-    ]
+    ],
+    "moji": "🇳🇵"
   },
   "flag_nr": {
     "unicode": "1F1F3-1F1F7",
@@ -11216,7 +11477,8 @@
       "country",
       "nation",
       "nr"
-    ]
+    ],
+    "moji": "🇳🇷"
   },
   "flag_nu": {
     "unicode": "1F1F3-1F1FA",
@@ -11232,7 +11494,8 @@
       "country",
       "nation",
       "nu"
-    ]
+    ],
+    "moji": "🇳🇺"
   },
   "flag_nz": {
     "unicode": "1F1F3-1F1FF",
@@ -11249,7 +11512,8 @@
       "nation",
       "aotearoa",
       "nz"
-    ]
+    ],
+    "moji": "🇳🇿"
   },
   "flag_om": {
     "unicode": "1F1F4-1F1F2",
@@ -11266,7 +11530,8 @@
       "nation",
       "saltanat uman",
       "om"
-    ]
+    ],
+    "moji": "🇴🇲"
   },
   "flag_pa": {
     "unicode": "1F1F5-1F1E6",
@@ -11282,7 +11547,8 @@
       "country",
       "nation",
       "pa"
-    ]
+    ],
+    "moji": "🇵🇦"
   },
   "flag_pe": {
     "unicode": "1F1F5-1F1EA",
@@ -11298,7 +11564,8 @@
       "country",
       "nation",
       "pe"
-    ]
+    ],
+    "moji": "🇵🇪"
   },
   "flag_pf": {
     "unicode": "1F1F5-1F1EB",
@@ -11316,7 +11583,8 @@
       "polyn&eacute;sie fran&ccedil;aise",
       "polynesie francaise",
       "pf"
-    ]
+    ],
+    "moji": "🇵🇫"
   },
   "flag_pg": {
     "unicode": "1F1F5-1F1EC",
@@ -11333,7 +11601,8 @@
       "nation",
       "papua niu gini",
       "pg"
-    ]
+    ],
+    "moji": "🇵🇬"
   },
   "flag_ph": {
     "unicode": "1F1F5-1F1ED",
@@ -11350,7 +11619,8 @@
       "nation",
       "pilipinas",
       "ph"
-    ]
+    ],
+    "moji": "🇵🇭"
   },
   "flag_pk": {
     "unicode": "1F1F5-1F1F0",
@@ -11366,7 +11636,8 @@
       "country",
       "nation",
       "pk"
-    ]
+    ],
+    "moji": "🇵🇰"
   },
   "flag_pl": {
     "unicode": "1F1F5-1F1F1",
@@ -11383,7 +11654,8 @@
       "nation",
       "polska",
       "pl"
-    ]
+    ],
+    "moji": "🇵🇱"
   },
   "flag_pm": {
     "unicode": "1F1F5-1F1F2",
@@ -11395,7 +11667,8 @@
       ":pm:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇵🇲"
   },
   "flag_pn": {
     "unicode": "1F1F5-1F1F3",
@@ -11407,7 +11680,8 @@
       ":pn:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇵🇳"
   },
   "flag_pr": {
     "unicode": "1F1F5-1F1F7",
@@ -11423,7 +11697,8 @@
       "country",
       "nation",
       "pr"
-    ]
+    ],
+    "moji": "🇵🇷"
   },
   "flag_ps": {
     "unicode": "1F1F5-1F1F8",
@@ -11439,7 +11714,8 @@
       "country",
       "nation",
       "ps"
-    ]
+    ],
+    "moji": "🇵🇸"
   },
   "flag_pt": {
     "unicode": "1F1F5-1F1F9",
@@ -11455,7 +11731,8 @@
       "country",
       "nation",
       "pt"
-    ]
+    ],
+    "moji": "🇵🇹"
   },
   "flag_pw": {
     "unicode": "1F1F5-1F1FC",
@@ -11472,7 +11749,8 @@
       "nation",
       "belau",
       "pw"
-    ]
+    ],
+    "moji": "🇵🇼"
   },
   "flag_py": {
     "unicode": "1F1F5-1F1FE",
@@ -11488,7 +11766,8 @@
       "country",
       "nation",
       "py"
-    ]
+    ],
+    "moji": "🇵🇾"
   },
   "flag_qa": {
     "unicode": "1F1F6-1F1E6",
@@ -11505,7 +11784,8 @@
       "nation",
       "dawlat qatar",
       "qa"
-    ]
+    ],
+    "moji": "🇶🇦"
   },
   "flag_re": {
     "unicode": "1F1F7-1F1EA",
@@ -11517,7 +11797,8 @@
       ":re:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇷🇪"
   },
   "flag_ro": {
     "unicode": "1F1F7-1F1F4",
@@ -11533,7 +11814,8 @@
       "country",
       "nation",
       "ro"
-    ]
+    ],
+    "moji": "🇷🇴"
   },
   "flag_rs": {
     "unicode": "1F1F7-1F1F8",
@@ -11550,7 +11832,8 @@
       "nation",
       "srbija",
       "rs"
-    ]
+    ],
+    "moji": "🇷🇸"
   },
   "flag_ru": {
     "unicode": "1F1F7-1F1FA",
@@ -11567,7 +11850,8 @@
       "russian",
       "country",
       "ru"
-    ]
+    ],
+    "moji": "🇷🇺"
   },
   "flag_rw": {
     "unicode": "1F1F7-1F1FC",
@@ -11583,7 +11867,8 @@
       "country",
       "nation",
       "rw"
-    ]
+    ],
+    "moji": "🇷🇼"
   },
   "flag_sa": {
     "unicode": "1F1F8-1F1E6",
@@ -11601,7 +11886,8 @@
       "nation",
       "al arabiyah as suudiyah",
       "sa"
-    ]
+    ],
+    "moji": "🇸🇦"
   },
   "flag_sb": {
     "unicode": "1F1F8-1F1E7",
@@ -11617,7 +11903,8 @@
       "country",
       "nation",
       "sb"
-    ]
+    ],
+    "moji": "🇸🇧"
   },
   "flag_sc": {
     "unicode": "1F1F8-1F1E8",
@@ -11634,7 +11921,8 @@
       "nation",
       "seychelles",
       "sc"
-    ]
+    ],
+    "moji": "🇸🇨"
   },
   "flag_sd": {
     "unicode": "1F1F8-1F1E9",
@@ -11651,7 +11939,8 @@
       "nation",
       "as-sudan",
       "sd"
-    ]
+    ],
+    "moji": "🇸🇩"
   },
   "flag_se": {
     "unicode": "1F1F8-1F1EA",
@@ -11668,7 +11957,8 @@
       "nation",
       "sverige",
       "se"
-    ]
+    ],
+    "moji": "🇸🇪"
   },
   "flag_sg": {
     "unicode": "1F1F8-1F1EC",
@@ -11684,7 +11974,8 @@
       "country",
       "nation",
       "sg"
-    ]
+    ],
+    "moji": "🇸🇬"
   },
   "flag_sh": {
     "unicode": "1F1F8-1F1ED",
@@ -11700,7 +11991,8 @@
       "country",
       "nation",
       "sh"
-    ]
+    ],
+    "moji": "🇸🇭"
   },
   "flag_si": {
     "unicode": "1F1F8-1F1EE",
@@ -11717,7 +12009,8 @@
       "nation",
       "slovenija",
       "si"
-    ]
+    ],
+    "moji": "🇸🇮"
   },
   "flag_sj": {
     "unicode": "1F1F8-1F1EF",
@@ -11729,7 +12022,8 @@
       ":sj:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇸🇯"
   },
   "flag_sk": {
     "unicode": "1F1F8-1F1F0",
@@ -11745,7 +12039,8 @@
       "country",
       "nation",
       "sk"
-    ]
+    ],
+    "moji": "🇸🇰"
   },
   "flag_sl": {
     "unicode": "1F1F8-1F1F1",
@@ -11761,7 +12056,8 @@
       "country",
       "nation",
       "sl"
-    ]
+    ],
+    "moji": "🇸🇱"
   },
   "flag_sm": {
     "unicode": "1F1F8-1F1F2",
@@ -11777,7 +12073,8 @@
       "country",
       "nation",
       "sm"
-    ]
+    ],
+    "moji": "🇸🇲"
   },
   "flag_sn": {
     "unicode": "1F1F8-1F1F3",
@@ -11793,7 +12090,8 @@
       "country",
       "nation",
       "sn"
-    ]
+    ],
+    "moji": "🇸🇳"
   },
   "flag_so": {
     "unicode": "1F1F8-1F1F4",
@@ -11809,7 +12107,8 @@
       "country",
       "nation",
       "so"
-    ]
+    ],
+    "moji": "🇸🇴"
   },
   "flag_sr": {
     "unicode": "1F1F8-1F1F7",
@@ -11825,7 +12124,8 @@
       "country",
       "nation",
       "sr"
-    ]
+    ],
+    "moji": "🇸🇷"
   },
   "flag_ss": {
     "unicode": "1F1F8-1F1F8",
@@ -11837,7 +12137,8 @@
       ":ss:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇸🇸"
   },
   "flag_st": {
     "unicode": "1F1F8-1F1F9",
@@ -11854,7 +12155,8 @@
       "nation",
       "sao tome e principe",
       "st"
-    ]
+    ],
+    "moji": "🇸🇹"
   },
   "flag_sv": {
     "unicode": "1F1F8-1F1FB",
@@ -11870,7 +12172,8 @@
       "country",
       "nation",
       "sv"
-    ]
+    ],
+    "moji": "🇸🇻"
   },
   "flag_sx": {
     "unicode": "1F1F8-1F1FD",
@@ -11882,7 +12185,8 @@
       ":sx:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇸🇽"
   },
   "flag_sy": {
     "unicode": "1F1F8-1F1FE",
@@ -11898,7 +12202,8 @@
       "country",
       "nation",
       "sy"
-    ]
+    ],
+    "moji": "🇸🇾"
   },
   "flag_sz": {
     "unicode": "1F1F8-1F1FF",
@@ -11914,7 +12219,8 @@
       "country",
       "nation",
       "sz"
-    ]
+    ],
+    "moji": "🇸🇿"
   },
   "flag_ta": {
     "unicode": "1F1F9-1F1E6",
@@ -11926,7 +12232,8 @@
       ":ta:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇹🇦"
   },
   "flag_tc": {
     "unicode": "1F1F9-1F1E8",
@@ -11938,7 +12245,8 @@
       ":tc:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇹🇨"
   },
   "flag_td": {
     "unicode": "1F1F9-1F1E9",
@@ -11955,7 +12263,8 @@
       "nation",
       "tchad",
       "td"
-    ]
+    ],
+    "moji": "🇹🇩"
   },
   "flag_tf": {
     "unicode": "1F1F9-1F1EB",
@@ -11967,7 +12276,8 @@
       ":tf:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇹🇫"
   },
   "flag_tg": {
     "unicode": "1F1F9-1F1EC",
@@ -11984,7 +12294,8 @@
       "nation",
       "republique togolaise",
       "tg"
-    ]
+    ],
+    "moji": "🇹🇬"
   },
   "flag_th": {
     "unicode": "1F1F9-1F1ED",
@@ -12001,7 +12312,8 @@
       "nation",
       "prathet thai",
       "th"
-    ]
+    ],
+    "moji": "🇹🇭"
   },
   "flag_tj": {
     "unicode": "1F1F9-1F1EF",
@@ -12018,7 +12330,8 @@
       "nation",
       "jumhurii tojikiston",
       "tj"
-    ]
+    ],
+    "moji": "🇹🇯"
   },
   "flag_tk": {
     "unicode": "1F1F9-1F1F0",
@@ -12030,7 +12343,8 @@
       ":tk:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇹🇰"
   },
   "flag_tl": {
     "unicode": "1F1F9-1F1F1",
@@ -12046,7 +12360,8 @@
       "country",
       "nation",
       "tl"
-    ]
+    ],
+    "moji": "🇹🇱"
   },
   "flag_tm": {
     "unicode": "1F1F9-1F1F2",
@@ -12062,7 +12377,8 @@
       "country",
       "nation",
       "tm"
-    ]
+    ],
+    "moji": "🇹🇲"
   },
   "flag_tn": {
     "unicode": "1F1F9-1F1F3",
@@ -12079,7 +12395,8 @@
       "nation",
       "tunis",
       "tn"
-    ]
+    ],
+    "moji": "🇹🇳"
   },
   "flag_to": {
     "unicode": "1F1F9-1F1F4",
@@ -12095,7 +12412,8 @@
       "country",
       "nation",
       "to"
-    ]
+    ],
+    "moji": "🇹🇴"
   },
   "flag_tr": {
     "unicode": "1F1F9-1F1F7",
@@ -12111,7 +12429,8 @@
       "country",
       "nation",
       "turkiye"
-    ]
+    ],
+    "moji": "🇹🇷"
   },
   "flag_tt": {
     "unicode": "1F1F9-1F1F9",
@@ -12127,7 +12446,8 @@
       "country",
       "nation",
       "tt"
-    ]
+    ],
+    "moji": "🇹🇹"
   },
   "flag_tv": {
     "unicode": "1F1F9-1F1FB",
@@ -12143,7 +12463,8 @@
       "country",
       "nation",
       "tv"
-    ]
+    ],
+    "moji": "🇹🇻"
   },
   "flag_tw": {
     "unicode": "1F1F9-1F1FC",
@@ -12160,7 +12481,8 @@
       "nation",
       "taiwan",
       "tw"
-    ]
+    ],
+    "moji": "🇹🇼"
   },
   "flag_tz": {
     "unicode": "1F1F9-1F1FF",
@@ -12176,7 +12498,8 @@
       "country",
       "nation",
       "tz"
-    ]
+    ],
+    "moji": "🇹🇿"
   },
   "flag_ua": {
     "unicode": "1F1FA-1F1E6",
@@ -12193,7 +12516,8 @@
       "nation",
       "ukrayina",
       "ua"
-    ]
+    ],
+    "moji": "🇺🇦"
   },
   "flag_ug": {
     "unicode": "1F1FA-1F1EC",
@@ -12209,7 +12533,8 @@
       "country",
       "nation",
       "ug"
-    ]
+    ],
+    "moji": "🇺🇬"
   },
   "flag_um": {
     "unicode": "1F1FA-1F1F2",
@@ -12221,7 +12546,8 @@
       ":um:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇺🇲"
   },
   "flag_us": {
     "unicode": "1F1FA-1F1F8",
@@ -12242,7 +12568,8 @@
       "america",
       "old glory",
       "us"
-    ]
+    ],
+    "moji": "🇺🇸"
   },
   "flag_uy": {
     "unicode": "1F1FA-1F1FE",
@@ -12258,7 +12585,8 @@
       "country",
       "nation",
       "uy"
-    ]
+    ],
+    "moji": "🇺🇾"
   },
   "flag_uz": {
     "unicode": "1F1FA-1F1FF",
@@ -12275,7 +12603,8 @@
       "nation",
       "uzbekiston respublikasi",
       "uz"
-    ]
+    ],
+    "moji": "🇺🇿"
   },
   "flag_va": {
     "unicode": "1F1FB-1F1E6",
@@ -12291,7 +12620,8 @@
       "country",
       "nation",
       "va"
-    ]
+    ],
+    "moji": "🇻🇦"
   },
   "flag_vc": {
     "unicode": "1F1FB-1F1E8",
@@ -12307,7 +12637,8 @@
       "country",
       "nation",
       "vc"
-    ]
+    ],
+    "moji": "🇻🇨"
   },
   "flag_ve": {
     "unicode": "1F1FB-1F1EA",
@@ -12323,7 +12654,8 @@
       "country",
       "nation",
       "ve"
-    ]
+    ],
+    "moji": "🇻🇪"
   },
   "flag_vg": {
     "unicode": "1F1FB-1F1EC",
@@ -12335,7 +12667,8 @@
       ":vg:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇻🇬"
   },
   "flag_vi": {
     "unicode": "1F1FB-1F1EE",
@@ -12351,7 +12684,8 @@
       "country",
       "nation",
       "vi"
-    ]
+    ],
+    "moji": "🇻🇮"
   },
   "flag_vn": {
     "unicode": "1F1FB-1F1F3",
@@ -12368,7 +12702,8 @@
       "nation",
       "viet nam",
       "vn"
-    ]
+    ],
+    "moji": "🇻🇳"
   },
   "flag_vu": {
     "unicode": "1F1FB-1F1FA",
@@ -12384,7 +12719,8 @@
       "country",
       "nation",
       "vu"
-    ]
+    ],
+    "moji": "🇻🇺"
   },
   "flag_wf": {
     "unicode": "1F1FC-1F1EB",
@@ -12400,7 +12736,8 @@
       "country",
       "nation",
       "wf"
-    ]
+    ],
+    "moji": "🇼🇫"
   },
   "flag_white": {
     "unicode": "1F3F3",
@@ -12433,7 +12770,8 @@
       "nation",
       "american samoa",
       "ws"
-    ]
+    ],
+    "moji": "🇼🇸"
   },
   "flag_xk": {
     "unicode": "1F1FD-1F1F0",
@@ -12449,7 +12787,8 @@
       "country",
       "nation",
       "xk"
-    ]
+    ],
+    "moji": "🇽🇰"
   },
   "flag_ye": {
     "unicode": "1F1FE-1F1EA",
@@ -12466,7 +12805,8 @@
       "nation",
       "al yaman",
       "ye"
-    ]
+    ],
+    "moji": "🇾🇪"
   },
   "flag_yt": {
     "unicode": "1F1FE-1F1F9",
@@ -12478,7 +12818,8 @@
       ":yt:"
     ],
     "aliases_ascii": [],
-    "keywords": []
+    "keywords": [],
+    "moji": "🇾🇹"
   },
   "flag_za": {
     "unicode": "1F1FF-1F1E6",
@@ -12493,7 +12834,8 @@
     "keywords": [
       "country",
       "nation"
-    ]
+    ],
+    "moji": "🇿🇦"
   },
   "flag_zm": {
     "unicode": "1F1FF-1F1F2",
@@ -12509,7 +12851,8 @@
       "country",
       "nation",
       "zm"
-    ]
+    ],
+    "moji": "🇿🇲"
   },
   "flag_zw": {
     "unicode": "1F1FF-1F1FC",
@@ -12525,7 +12868,8 @@
       "country",
       "nation",
       "zw"
-    ]
+    ],
+    "moji": "🇿🇼"
   },
   "flags": {
     "unicode": "1F38F",
@@ -13252,7 +13596,8 @@
       "female",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👧🏻"
   },
   "girl_tone2": {
     "unicode": "1F467-1F3FC",
@@ -13266,7 +13611,8 @@
       "female",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👧🏼"
   },
   "girl_tone3": {
     "unicode": "1F467-1F3FD",
@@ -13280,7 +13626,8 @@
       "female",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👧🏽"
   },
   "girl_tone4": {
     "unicode": "1F467-1F3FE",
@@ -13294,7 +13641,8 @@
       "female",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👧🏾"
   },
   "girl_tone5": {
     "unicode": "1F467-1F3FF",
@@ -13308,7 +13656,8 @@
       "female",
       "kid",
       "child"
-    ]
+    ],
+    "moji": "👧🏿"
   },
   "girls_symbol": {
     "unicode": "1F6CA",
@@ -13610,7 +13959,8 @@
       "queen",
       "ceremonial",
       "military"
-    ]
+    ],
+    "moji": "💂🏻"
   },
   "guardsman_tone2": {
     "unicode": "1F482-1F3FC",
@@ -13633,7 +13983,8 @@
       "queen",
       "ceremonial",
       "military"
-    ]
+    ],
+    "moji": "💂🏼"
   },
   "guardsman_tone3": {
     "unicode": "1F482-1F3FD",
@@ -13656,7 +14007,8 @@
       "queen",
       "ceremonial",
       "military"
-    ]
+    ],
+    "moji": "💂🏽"
   },
   "guardsman_tone4": {
     "unicode": "1F482-1F3FE",
@@ -13679,7 +14031,8 @@
       "queen",
       "ceremonial",
       "military"
-    ]
+    ],
+    "moji": "💂🏾"
   },
   "guardsman_tone5": {
     "unicode": "1F482-1F3FF",
@@ -13702,7 +14055,8 @@
       "queen",
       "ceremonial",
       "military"
-    ]
+    ],
+    "moji": "💂🏿"
   },
   "guitar": {
     "unicode": "1F3B8",
@@ -13767,7 +14121,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💇🏻"
   },
   "haircut_tone2": {
     "unicode": "1F487-1F3FC",
@@ -13781,7 +14136,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💇🏼"
   },
   "haircut_tone3": {
     "unicode": "1F487-1F3FD",
@@ -13795,7 +14151,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💇🏽"
   },
   "haircut_tone4": {
     "unicode": "1F487-1F3FE",
@@ -13809,7 +14166,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💇🏾"
   },
   "haircut_tone5": {
     "unicode": "1F487-1F3FF",
@@ -13823,7 +14181,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💇🏿"
   },
   "hamburger": {
     "unicode": "1F354",
@@ -13942,7 +14301,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐🏻"
   },
   "hand_splayed_tone2": {
     "unicode": "1F590-1F3FC",
@@ -13959,7 +14319,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐🏼"
   },
   "hand_splayed_tone3": {
     "unicode": "1F590-1F3FD",
@@ -13976,7 +14337,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐🏽"
   },
   "hand_splayed_tone4": {
     "unicode": "1F590-1F3FE",
@@ -13993,7 +14355,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐🏾"
   },
   "hand_splayed_tone5": {
     "unicode": "1F590-1F3FF",
@@ -14010,7 +14373,8 @@
       "five",
       "stop",
       "halt"
-    ]
+    ],
+    "moji": "🖐🏿"
   },
   "hand_victory": {
     "unicode": "1F594",
@@ -15152,7 +15516,8 @@
       "unimpressed",
       "attitude",
       "snarky"
-    ]
+    ],
+    "moji": "💁🏻"
   },
   "information_desk_person_tone2": {
     "unicode": "1F481-1F3FC",
@@ -15174,7 +15539,8 @@
       "unimpressed",
       "attitude",
       "snarky"
-    ]
+    ],
+    "moji": "💁🏼"
   },
   "information_desk_person_tone3": {
     "unicode": "1F481-1F3FD",
@@ -15196,7 +15562,8 @@
       "unimpressed",
       "attitude",
       "snarky"
-    ]
+    ],
+    "moji": "💁🏽"
   },
   "information_desk_person_tone4": {
     "unicode": "1F481-1F3FE",
@@ -15218,7 +15585,8 @@
       "unimpressed",
       "attitude",
       "snarky"
-    ]
+    ],
+    "moji": "💁🏾"
   },
   "information_desk_person_tone5": {
     "unicode": "1F481-1F3FF",
@@ -15240,7 +15608,8 @@
       "unimpressed",
       "attitude",
       "snarky"
-    ]
+    ],
+    "moji": "💁🏿"
   },
   "information_source": {
     "unicode": "2139",
@@ -15740,7 +16109,8 @@
       "marriage",
       "valentines",
       "couple"
-    ]
+    ],
+    "moji": "👨‍❤️‍💋‍👨"
   },
   "kiss_ww": {
     "unicode": "1F469-2764-1F48B-1F469",
@@ -15761,7 +16131,8 @@
       "marriage",
       "valentines",
       "couple"
-    ]
+    ],
+    "moji": "👩‍❤️‍💋‍👩"
   },
   "kissing": {
     "unicode": "1F617",
@@ -16288,7 +16659,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋🏻"
   },
   "lifter_tone2": {
     "unicode": "1F3CB-1F3FC",
@@ -16305,7 +16677,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋🏼"
   },
   "lifter_tone3": {
     "unicode": "1F3CB-1F3FD",
@@ -16322,7 +16695,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋🏽"
   },
   "lifter_tone4": {
     "unicode": "1F3CB-1F3FE",
@@ -16339,7 +16713,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋🏾"
   },
   "lifter_tone5": {
     "unicode": "1F3CB-1F3FF",
@@ -16356,7 +16731,8 @@
       "press",
       "squats",
       "deadlift"
-    ]
+    ],
+    "moji": "🏋🏿"
   },
   "light_check_mark": {
     "unicode": "1F5F8",
@@ -16767,7 +17143,8 @@
       "father",
       "guy",
       "mustache"
-    ]
+    ],
+    "moji": "👨🏻"
   },
   "man_tone2": {
     "unicode": "1F468-1F3FC",
@@ -16783,7 +17160,8 @@
       "father",
       "guy",
       "mustache"
-    ]
+    ],
+    "moji": "👨🏼"
   },
   "man_tone3": {
     "unicode": "1F468-1F3FD",
@@ -16799,7 +17177,8 @@
       "father",
       "guy",
       "mustache"
-    ]
+    ],
+    "moji": "👨🏽"
   },
   "man_tone4": {
     "unicode": "1F468-1F3FE",
@@ -16815,7 +17194,8 @@
       "father",
       "guy",
       "mustache"
-    ]
+    ],
+    "moji": "👨🏾"
   },
   "man_tone5": {
     "unicode": "1F468-1F3FF",
@@ -16831,7 +17211,8 @@
       "father",
       "guy",
       "mustache"
-    ]
+    ],
+    "moji": "👨🏿"
   },
   "man_with_gua_pi_mao": {
     "unicode": "1F472",
@@ -16866,7 +17247,8 @@
       "chinese",
       "asian",
       "qing"
-    ]
+    ],
+    "moji": "👲🏻"
   },
   "man_with_gua_pi_mao_tone2": {
     "unicode": "1F472-1F3FC",
@@ -16883,7 +17265,8 @@
       "chinese",
       "asian",
       "qing"
-    ]
+    ],
+    "moji": "👲🏼"
   },
   "man_with_gua_pi_mao_tone3": {
     "unicode": "1F472-1F3FD",
@@ -16900,7 +17283,8 @@
       "chinese",
       "asian",
       "qing"
-    ]
+    ],
+    "moji": "👲🏽"
   },
   "man_with_gua_pi_mao_tone4": {
     "unicode": "1F472-1F3FE",
@@ -16917,7 +17301,8 @@
       "chinese",
       "asian",
       "qing"
-    ]
+    ],
+    "moji": "👲🏾"
   },
   "man_with_gua_pi_mao_tone5": {
     "unicode": "1F472-1F3FF",
@@ -16934,7 +17319,8 @@
       "chinese",
       "asian",
       "qing"
-    ]
+    ],
+    "moji": "👲🏿"
   },
   "man_with_turban": {
     "unicode": "1F473",
@@ -16976,7 +17362,8 @@
       "mummy",
       "wisdom",
       "peace"
-    ]
+    ],
+    "moji": "👳🏻"
   },
   "man_with_turban_tone2": {
     "unicode": "1F473-1F3FC",
@@ -16996,7 +17383,8 @@
       "mummy",
       "wisdom",
       "peace"
-    ]
+    ],
+    "moji": "👳🏼"
   },
   "man_with_turban_tone3": {
     "unicode": "1F473-1F3FD",
@@ -17016,7 +17404,8 @@
       "mummy",
       "wisdom",
       "peace"
-    ]
+    ],
+    "moji": "👳🏽"
   },
   "man_with_turban_tone4": {
     "unicode": "1F473-1F3FE",
@@ -17036,7 +17425,8 @@
       "mummy",
       "wisdom",
       "peace"
-    ]
+    ],
+    "moji": "👳🏾"
   },
   "man_with_turban_tone5": {
     "unicode": "1F473-1F3FF",
@@ -17056,7 +17446,8 @@
       "mummy",
       "wisdom",
       "peace"
-    ]
+    ],
+    "moji": "👳🏿"
   },
   "mans_shoe": {
     "unicode": "1F45E",
@@ -17157,7 +17548,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💆🏻"
   },
   "massage_tone2": {
     "unicode": "1F486-1F3FC",
@@ -17171,7 +17563,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💆🏼"
   },
   "massage_tone3": {
     "unicode": "1F486-1F3FD",
@@ -17185,7 +17578,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💆🏽"
   },
   "massage_tone4": {
     "unicode": "1F486-1F3FE",
@@ -17199,7 +17593,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💆🏾"
   },
   "massage_tone5": {
     "unicode": "1F486-1F3FF",
@@ -17213,7 +17608,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "💆🏿"
   },
   "meat_on_bone": {
     "unicode": "1F356",
@@ -17356,7 +17752,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘🏻"
   },
   "metal_tone2": {
     "unicode": "1F918-1F3FC",
@@ -17373,7 +17770,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘🏼"
   },
   "metal_tone3": {
     "unicode": "1F918-1F3FD",
@@ -17390,7 +17788,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘🏽"
   },
   "metal_tone4": {
     "unicode": "1F918-1F3FE",
@@ -17407,7 +17806,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘🏾"
   },
   "metal_tone5": {
     "unicode": "1F918-1F3FF",
@@ -17424,7 +17824,8 @@
       "concert",
       "fingers",
       "rocknroll"
-    ]
+    ],
+    "moji": "🤘🏿"
   },
   "metro": {
     "unicode": "1F687",
@@ -17527,7 +17928,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕🏻"
   },
   "middle_finger_tone2": {
     "unicode": "1F595-1F3FC",
@@ -17541,7 +17943,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕🏼"
   },
   "middle_finger_tone3": {
     "unicode": "1F595-1F3FD",
@@ -17555,7 +17958,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕🏽"
   },
   "middle_finger_tone4": {
     "unicode": "1F595-1F3FE",
@@ -17569,7 +17973,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕🏾"
   },
   "middle_finger_tone5": {
     "unicode": "1F595-1F3FF",
@@ -17583,7 +17988,8 @@
     "aliases_ascii": [],
     "keywords": [
       "fu"
-    ]
+    ],
+    "moji": "🖕🏿"
   },
   "military_medal": {
     "unicode": "1F396",
@@ -17979,7 +18385,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚵🏻"
   },
   "mountain_bicyclist_tone2": {
     "unicode": "1F6B5-1F3FC",
@@ -17996,7 +18403,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚵🏼"
   },
   "mountain_bicyclist_tone3": {
     "unicode": "1F6B5-1F3FD",
@@ -18013,7 +18421,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚵🏽"
   },
   "mountain_bicyclist_tone4": {
     "unicode": "1F6B5-1F3FE",
@@ -18030,7 +18439,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚵🏾"
   },
   "mountain_bicyclist_tone5": {
     "unicode": "1F6B5-1F3FF",
@@ -18047,7 +18457,8 @@
       "pedal",
       "bicycle",
       "transportation"
-    ]
+    ],
+    "moji": "🚵🏿"
   },
   "mountain_cableway": {
     "unicode": "1F6A0",
@@ -18236,7 +18647,8 @@
       "strong",
       "muscle",
       "bicep"
-    ]
+    ],
+    "moji": "💪🏻"
   },
   "muscle_tone2": {
     "unicode": "1F4AA-1F3FC",
@@ -18253,7 +18665,8 @@
       "strong",
       "muscle",
       "bicep"
-    ]
+    ],
+    "moji": "💪🏼"
   },
   "muscle_tone3": {
     "unicode": "1F4AA-1F3FD",
@@ -18270,7 +18683,8 @@
       "strong",
       "muscle",
       "bicep"
-    ]
+    ],
+    "moji": "💪🏽"
   },
   "muscle_tone4": {
     "unicode": "1F4AA-1F3FE",
@@ -18287,7 +18701,8 @@
       "strong",
       "muscle",
       "bicep"
-    ]
+    ],
+    "moji": "💪🏾"
   },
   "muscle_tone5": {
     "unicode": "1F4AA-1F3FF",
@@ -18304,7 +18719,8 @@
       "strong",
       "muscle",
       "bicep"
-    ]
+    ],
+    "moji": "💪🏿"
   },
   "mushroom": {
     "unicode": "1F344",
@@ -18422,7 +18838,8 @@
     "keywords": [
       "beauty",
       "manicure"
-    ]
+    ],
+    "moji": "💅🏻"
   },
   "nail_care_tone2": {
     "unicode": "1F485-1F3FC",
@@ -18435,7 +18852,8 @@
     "keywords": [
       "beauty",
       "manicure"
-    ]
+    ],
+    "moji": "💅🏼"
   },
   "nail_care_tone3": {
     "unicode": "1F485-1F3FD",
@@ -18448,7 +18866,8 @@
     "keywords": [
       "beauty",
       "manicure"
-    ]
+    ],
+    "moji": "💅🏽"
   },
   "nail_care_tone4": {
     "unicode": "1F485-1F3FE",
@@ -18461,7 +18880,8 @@
     "keywords": [
       "beauty",
       "manicure"
-    ]
+    ],
+    "moji": "💅🏾"
   },
   "nail_care_tone5": {
     "unicode": "1F485-1F3FF",
@@ -18474,7 +18894,8 @@
     "keywords": [
       "beauty",
       "manicure"
-    ]
+    ],
+    "moji": "💅🏿"
   },
   "name_badge": {
     "unicode": "1F4DB",
@@ -18818,7 +19239,8 @@
       "hand",
       "person",
       "prohibited"
-    ]
+    ],
+    "moji": "🙅🏻"
   },
   "no_good_tone2": {
     "unicode": "1F645-1F3FC",
@@ -18840,7 +19262,8 @@
       "hand",
       "person",
       "prohibited"
-    ]
+    ],
+    "moji": "🙅🏼"
   },
   "no_good_tone3": {
     "unicode": "1F645-1F3FD",
@@ -18862,7 +19285,8 @@
       "hand",
       "person",
       "prohibited"
-    ]
+    ],
+    "moji": "🙅🏽"
   },
   "no_good_tone4": {
     "unicode": "1F645-1F3FE",
@@ -18884,7 +19308,8 @@
       "hand",
       "person",
       "prohibited"
-    ]
+    ],
+    "moji": "🙅🏾"
   },
   "no_good_tone5": {
     "unicode": "1F645-1F3FF",
@@ -18906,7 +19331,8 @@
       "hand",
       "person",
       "prohibited"
-    ]
+    ],
+    "moji": "🙅🏿"
   },
   "no_mobile_phones": {
     "unicode": "1F4F5",
@@ -19040,7 +19466,8 @@
     "keywords": [
       "smell",
       "sniff"
-    ]
+    ],
+    "moji": "👃🏻"
   },
   "nose_tone2": {
     "unicode": "1F443-1F3FC",
@@ -19053,7 +19480,8 @@
     "keywords": [
       "smell",
       "sniff"
-    ]
+    ],
+    "moji": "👃🏼"
   },
   "nose_tone3": {
     "unicode": "1F443-1F3FD",
@@ -19066,7 +19494,8 @@
     "keywords": [
       "smell",
       "sniff"
-    ]
+    ],
+    "moji": "👃🏽"
   },
   "nose_tone4": {
     "unicode": "1F443-1F3FE",
@@ -19079,7 +19508,8 @@
     "keywords": [
       "smell",
       "sniff"
-    ]
+    ],
+    "moji": "👃🏾"
   },
   "nose_tone5": {
     "unicode": "1F443-1F3FF",
@@ -19092,7 +19522,8 @@
     "keywords": [
       "smell",
       "sniff"
-    ]
+    ],
+    "moji": "👃🏿"
   },
   "note": {
     "unicode": "1F5C9",
@@ -19408,7 +19839,8 @@
       "joint",
       "pot",
       "420"
-    ]
+    ],
+    "moji": "👌🏻"
   },
   "ok_hand_tone2": {
     "unicode": "1F44C-1F3FC",
@@ -19429,7 +19861,8 @@
       "joint",
       "pot",
       "420"
-    ]
+    ],
+    "moji": "👌🏼"
   },
   "ok_hand_tone3": {
     "unicode": "1F44C-1F3FD",
@@ -19450,7 +19883,8 @@
       "joint",
       "pot",
       "420"
-    ]
+    ],
+    "moji": "👌🏽"
   },
   "ok_hand_tone4": {
     "unicode": "1F44C-1F3FE",
@@ -19471,7 +19905,8 @@
       "joint",
       "pot",
       "420"
-    ]
+    ],
+    "moji": "👌🏾"
   },
   "ok_hand_tone5": {
     "unicode": "1F44C-1F3FF",
@@ -19492,7 +19927,8 @@
       "joint",
       "pot",
       "420"
-    ]
+    ],
+    "moji": "👌🏿"
   },
   "ok_woman": {
     "unicode": "1F646",
@@ -19537,7 +19973,8 @@
       "yes",
       "okay",
       "accept"
-    ]
+    ],
+    "moji": "🙆🏻"
   },
   "ok_woman_tone2": {
     "unicode": "1F646-1F3FC",
@@ -19556,7 +19993,8 @@
       "yes",
       "okay",
       "accept"
-    ]
+    ],
+    "moji": "🙆🏼"
   },
   "ok_woman_tone3": {
     "unicode": "1F646-1F3FD",
@@ -19575,7 +20013,8 @@
       "yes",
       "okay",
       "accept"
-    ]
+    ],
+    "moji": "🙆🏽"
   },
   "ok_woman_tone4": {
     "unicode": "1F646-1F3FE",
@@ -19594,7 +20033,8 @@
       "yes",
       "okay",
       "accept"
-    ]
+    ],
+    "moji": "🙆🏾"
   },
   "ok_woman_tone5": {
     "unicode": "1F646-1F3FF",
@@ -19613,7 +20053,8 @@
       "yes",
       "okay",
       "accept"
-    ]
+    ],
+    "moji": "🙆🏿"
   },
   "older_man": {
     "unicode": "1F474",
@@ -19643,7 +20084,8 @@
       "men",
       "grandpa",
       "grandfather"
-    ]
+    ],
+    "moji": "👴🏻"
   },
   "older_man_tone2": {
     "unicode": "1F474-1F3FC",
@@ -19658,7 +20100,8 @@
       "men",
       "grandpa",
       "grandfather"
-    ]
+    ],
+    "moji": "👴🏼"
   },
   "older_man_tone3": {
     "unicode": "1F474-1F3FD",
@@ -19673,7 +20116,8 @@
       "men",
       "grandpa",
       "grandfather"
-    ]
+    ],
+    "moji": "👴🏽"
   },
   "older_man_tone4": {
     "unicode": "1F474-1F3FE",
@@ -19688,7 +20132,8 @@
       "men",
       "grandpa",
       "grandfather"
-    ]
+    ],
+    "moji": "👴🏾"
   },
   "older_man_tone5": {
     "unicode": "1F474-1F3FF",
@@ -19703,7 +20148,8 @@
       "men",
       "grandpa",
       "grandfather"
-    ]
+    ],
+    "moji": "👴🏿"
   },
   "older_woman": {
     "unicode": "1F475",
@@ -19740,7 +20186,8 @@
       "lady",
       "grandma",
       "grandmother"
-    ]
+    ],
+    "moji": "👵🏻"
   },
   "older_woman_tone2": {
     "unicode": "1F475-1F3FC",
@@ -19758,7 +20205,8 @@
       "lady",
       "grandma",
       "grandmother"
-    ]
+    ],
+    "moji": "👵🏼"
   },
   "older_woman_tone3": {
     "unicode": "1F475-1F3FD",
@@ -19776,7 +20224,8 @@
       "lady",
       "grandma",
       "grandmother"
-    ]
+    ],
+    "moji": "👵🏽"
   },
   "older_woman_tone4": {
     "unicode": "1F475-1F3FE",
@@ -19794,7 +20243,8 @@
       "lady",
       "grandma",
       "grandmother"
-    ]
+    ],
+    "moji": "👵🏾"
   },
   "older_woman_tone5": {
     "unicode": "1F475-1F3FF",
@@ -19812,7 +20262,8 @@
       "lady",
       "grandma",
       "grandmother"
-    ]
+    ],
+    "moji": "👵🏿"
   },
   "om_symbol": {
     "unicode": "1F549",
@@ -19985,7 +20436,8 @@
     "keywords": [
       "butterfly",
       "fingers"
-    ]
+    ],
+    "moji": "👐🏻"
   },
   "open_hands_tone2": {
     "unicode": "1F450-1F3FC",
@@ -19998,7 +20450,8 @@
     "keywords": [
       "butterfly",
       "fingers"
-    ]
+    ],
+    "moji": "👐🏼"
   },
   "open_hands_tone3": {
     "unicode": "1F450-1F3FD",
@@ -20011,7 +20464,8 @@
     "keywords": [
       "butterfly",
       "fingers"
-    ]
+    ],
+    "moji": "👐🏽"
   },
   "open_hands_tone4": {
     "unicode": "1F450-1F3FE",
@@ -20024,7 +20478,8 @@
     "keywords": [
       "butterfly",
       "fingers"
-    ]
+    ],
+    "moji": "👐🏾"
   },
   "open_hands_tone5": {
     "unicode": "1F450-1F3FF",
@@ -20037,7 +20492,8 @@
     "keywords": [
       "butterfly",
       "fingers"
-    ]
+    ],
+    "moji": "👐🏿"
   },
   "open_mouth": {
     "unicode": "1F62E",
@@ -20735,7 +21191,8 @@
       "rejected",
       "sad",
       "frown"
-    ]
+    ],
+    "moji": "🙍🏻"
   },
   "person_frowning_tone2": {
     "unicode": "1F64D-1F3FC",
@@ -20753,7 +21210,8 @@
       "rejected",
       "sad",
       "frown"
-    ]
+    ],
+    "moji": "🙍🏼"
   },
   "person_frowning_tone3": {
     "unicode": "1F64D-1F3FD",
@@ -20771,7 +21229,8 @@
       "rejected",
       "sad",
       "frown"
-    ]
+    ],
+    "moji": "🙍🏽"
   },
   "person_frowning_tone4": {
     "unicode": "1F64D-1F3FE",
@@ -20789,7 +21248,8 @@
       "rejected",
       "sad",
       "frown"
-    ]
+    ],
+    "moji": "🙍🏾"
   },
   "person_frowning_tone5": {
     "unicode": "1F64D-1F3FF",
@@ -20807,7 +21267,8 @@
       "rejected",
       "sad",
       "frown"
-    ]
+    ],
+    "moji": "🙍🏿"
   },
   "person_with_blond_hair": {
     "unicode": "1F471",
@@ -20844,7 +21305,8 @@
       "western",
       "westerner",
       "occidental"
-    ]
+    ],
+    "moji": "👱🏻"
   },
   "person_with_blond_hair_tone2": {
     "unicode": "1F471-1F3FC",
@@ -20862,7 +21324,8 @@
       "western",
       "westerner",
       "occidental"
-    ]
+    ],
+    "moji": "👱🏼"
   },
   "person_with_blond_hair_tone3": {
     "unicode": "1F471-1F3FD",
@@ -20880,7 +21343,8 @@
       "western",
       "westerner",
       "occidental"
-    ]
+    ],
+    "moji": "👱🏽"
   },
   "person_with_blond_hair_tone4": {
     "unicode": "1F471-1F3FE",
@@ -20898,7 +21362,8 @@
       "western",
       "westerner",
       "occidental"
-    ]
+    ],
+    "moji": "👱🏾"
   },
   "person_with_blond_hair_tone5": {
     "unicode": "1F471-1F3FF",
@@ -20916,7 +21381,8 @@
       "western",
       "westerner",
       "occidental"
-    ]
+    ],
+    "moji": "👱🏿"
   },
   "person_with_pouting_face": {
     "unicode": "1F64E",
@@ -20953,7 +21419,8 @@
       "sexy",
       "cute",
       "annoyed"
-    ]
+    ],
+    "moji": "🙎🏻"
   },
   "person_with_pouting_face_tone2": {
     "unicode": "1F64E-1F3FC",
@@ -20971,7 +21438,8 @@
       "sexy",
       "cute",
       "annoyed"
-    ]
+    ],
+    "moji": "🙎🏼"
   },
   "person_with_pouting_face_tone3": {
     "unicode": "1F64E-1F3FD",
@@ -20989,7 +21457,8 @@
       "sexy",
       "cute",
       "annoyed"
-    ]
+    ],
+    "moji": "🙎🏽"
   },
   "person_with_pouting_face_tone4": {
     "unicode": "1F64E-1F3FE",
@@ -21007,7 +21476,8 @@
       "sexy",
       "cute",
       "annoyed"
-    ]
+    ],
+    "moji": "🙎🏾"
   },
   "person_with_pouting_face_tone5": {
     "unicode": "1F64E-1F3FF",
@@ -21025,7 +21495,8 @@
       "sexy",
       "cute",
       "annoyed"
-    ]
+    ],
+    "moji": "🙎🏿"
   },
   "pick": {
     "unicode": "26CF",
@@ -21271,7 +21742,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👇🏻"
   },
   "point_down_tone2": {
     "unicode": "1F447-1F3FC",
@@ -21285,7 +21757,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👇🏼"
   },
   "point_down_tone3": {
     "unicode": "1F447-1F3FD",
@@ -21299,7 +21772,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👇🏽"
   },
   "point_down_tone4": {
     "unicode": "1F447-1F3FE",
@@ -21313,7 +21787,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👇🏾"
   },
   "point_down_tone5": {
     "unicode": "1F447-1F3FF",
@@ -21327,7 +21802,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👇🏿"
   },
   "point_left": {
     "unicode": "1F448",
@@ -21356,7 +21832,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👈🏻"
   },
   "point_left_tone2": {
     "unicode": "1F448-1F3FC",
@@ -21370,7 +21847,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👈🏼"
   },
   "point_left_tone3": {
     "unicode": "1F448-1F3FD",
@@ -21384,7 +21862,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👈🏽"
   },
   "point_left_tone4": {
     "unicode": "1F448-1F3FE",
@@ -21398,7 +21877,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👈🏾"
   },
   "point_left_tone5": {
     "unicode": "1F448-1F3FF",
@@ -21412,7 +21892,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👈🏿"
   },
   "point_right": {
     "unicode": "1F449",
@@ -21441,7 +21922,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👉🏻"
   },
   "point_right_tone2": {
     "unicode": "1F449-1F3FC",
@@ -21455,7 +21937,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👉🏼"
   },
   "point_right_tone3": {
     "unicode": "1F449-1F3FD",
@@ -21469,7 +21952,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👉🏽"
   },
   "point_right_tone4": {
     "unicode": "1F449-1F3FE",
@@ -21483,7 +21967,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👉🏾"
   },
   "point_right_tone5": {
     "unicode": "1F449-1F3FF",
@@ -21497,7 +21982,8 @@
       "direction",
       "finger",
       "hand"
-    ]
+    ],
+    "moji": "👉🏿"
   },
   "point_up": {
     "unicode": "261D",
@@ -21544,7 +22030,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "👆🏻"
   },
   "point_up_2_tone2": {
     "unicode": "1F446-1F3FC",
@@ -21559,7 +22046,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "👆🏼"
   },
   "point_up_2_tone3": {
     "unicode": "1F446-1F3FD",
@@ -21574,7 +22062,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "👆🏽"
   },
   "point_up_2_tone4": {
     "unicode": "1F446-1F3FE",
@@ -21589,7 +22078,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "👆🏾"
   },
   "point_up_2_tone5": {
     "unicode": "1F446-1F3FF",
@@ -21604,7 +22094,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "👆🏿"
   },
   "point_up_tone1": {
     "unicode": "261D-1F3FB",
@@ -21619,7 +22110,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "☝🏻"
   },
   "point_up_tone2": {
     "unicode": "261D-1F3FC",
@@ -21634,7 +22126,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "☝🏼"
   },
   "point_up_tone3": {
     "unicode": "261D-1F3FD",
@@ -21649,7 +22142,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "☝🏽"
   },
   "point_up_tone4": {
     "unicode": "261D-1F3FE",
@@ -21664,7 +22158,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "☝🏾"
   },
   "point_up_tone5": {
     "unicode": "261D-1F3FF",
@@ -21679,7 +22174,8 @@
       "finger",
       "hand",
       "one"
-    ]
+    ],
+    "moji": "☝🏿"
   },
   "police_car": {
     "unicode": "1F693",
@@ -21956,7 +22452,8 @@
       "sorrow",
       "regret",
       "sorry"
-    ]
+    ],
+    "moji": "🙏🏻"
   },
   "pray_tone2": {
     "unicode": "1F64F-1F3FC",
@@ -21977,7 +22474,8 @@
       "sorrow",
       "regret",
       "sorry"
-    ]
+    ],
+    "moji": "🙏🏼"
   },
   "pray_tone3": {
     "unicode": "1F64F-1F3FD",
@@ -21998,7 +22496,8 @@
       "sorrow",
       "regret",
       "sorry"
-    ]
+    ],
+    "moji": "🙏🏽"
   },
   "pray_tone4": {
     "unicode": "1F64F-1F3FE",
@@ -22019,7 +22518,8 @@
       "sorrow",
       "regret",
       "sorry"
-    ]
+    ],
+    "moji": "🙏🏾"
   },
   "pray_tone5": {
     "unicode": "1F64F-1F3FF",
@@ -22040,7 +22540,8 @@
       "sorrow",
       "regret",
       "sorry"
-    ]
+    ],
+    "moji": "🙏🏿"
   },
   "prayer_beads": {
     "unicode": "1F4FF",
@@ -22099,7 +22600,8 @@
       "daughter",
       "disney",
       "high-maintenance"
-    ]
+    ],
+    "moji": "👸🏻"
   },
   "princess_tone2": {
     "unicode": "1F478-1F3FC",
@@ -22122,7 +22624,8 @@
       "daughter",
       "disney",
       "high-maintenance"
-    ]
+    ],
+    "moji": "👸🏼"
   },
   "princess_tone3": {
     "unicode": "1F478-1F3FD",
@@ -22145,7 +22648,8 @@
       "daughter",
       "disney",
       "high-maintenance"
-    ]
+    ],
+    "moji": "👸🏽"
   },
   "princess_tone4": {
     "unicode": "1F478-1F3FE",
@@ -22168,7 +22672,8 @@
       "daughter",
       "disney",
       "high-maintenance"
-    ]
+    ],
+    "moji": "👸🏾"
   },
   "princess_tone5": {
     "unicode": "1F478-1F3FF",
@@ -22191,7 +22696,8 @@
       "daughter",
       "disney",
       "high-maintenance"
-    ]
+    ],
+    "moji": "👸🏿"
   },
   "printer": {
     "unicode": "1F5A8",
@@ -22274,7 +22780,8 @@
     "keywords": [
       "fist",
       "punch"
-    ]
+    ],
+    "moji": "👊🏻"
   },
   "punch_tone2": {
     "unicode": "1F44A-1F3FC",
@@ -22287,7 +22794,8 @@
     "keywords": [
       "fist",
       "punch"
-    ]
+    ],
+    "moji": "👊🏼"
   },
   "punch_tone3": {
     "unicode": "1F44A-1F3FD",
@@ -22300,7 +22808,8 @@
     "keywords": [
       "fist",
       "punch"
-    ]
+    ],
+    "moji": "👊🏽"
   },
   "punch_tone4": {
     "unicode": "1F44A-1F3FE",
@@ -22313,7 +22822,8 @@
     "keywords": [
       "fist",
       "punch"
-    ]
+    ],
+    "moji": "👊🏾"
   },
   "punch_tone5": {
     "unicode": "1F44A-1F3FF",
@@ -22326,7 +22836,8 @@
     "keywords": [
       "fist",
       "punch"
-    ]
+    ],
+    "moji": "👊🏿"
   },
   "purple_heart": {
     "unicode": "1F49C",
@@ -22679,7 +23190,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "✋🏻"
   },
   "raised_hand_tone2": {
     "unicode": "270B-1F3FC",
@@ -22693,7 +23205,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "✋🏼"
   },
   "raised_hand_tone3": {
     "unicode": "270B-1F3FD",
@@ -22707,7 +23220,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "✋🏽"
   },
   "raised_hand_tone4": {
     "unicode": "270B-1F3FE",
@@ -22721,7 +23235,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "✋🏾"
   },
   "raised_hand_tone5": {
     "unicode": "270B-1F3FF",
@@ -22735,7 +23250,8 @@
       "female",
       "girl",
       "woman"
-    ]
+    ],
+    "moji": "✋🏿"
   },
   "raised_hands": {
     "unicode": "1F64C",
@@ -22771,7 +23287,8 @@
       "yay",
       "banzai",
       "raised"
-    ]
+    ],
+    "moji": "🙌🏻"
   },
   "raised_hands_tone2": {
     "unicode": "1F64C-1F3FC",
@@ -22789,7 +23306,8 @@
       "yay",
       "banzai",
       "raised"
-    ]
+    ],
+    "moji": "🙌🏼"
   },
   "raised_hands_tone3": {
     "unicode": "1F64C-1F3FD",
@@ -22807,7 +23325,8 @@
       "yay",
       "banzai",
       "raised"
-    ]
+    ],
+    "moji": "🙌🏽"
   },
   "raised_hands_tone4": {
     "unicode": "1F64C-1F3FE",
@@ -22825,7 +23344,8 @@
       "yay",
       "banzai",
       "raised"
-    ]
+    ],
+    "moji": "🙌🏾"
   },
   "raised_hands_tone5": {
     "unicode": "1F64C-1F3FF",
@@ -22843,7 +23363,8 @@
       "yay",
       "banzai",
       "raised"
-    ]
+    ],
+    "moji": "🙌🏿"
   },
   "raising_hand": {
     "unicode": "1F64B",
@@ -22881,7 +23402,8 @@
       "notice",
       "attention",
       "answer"
-    ]
+    ],
+    "moji": "🙋🏻"
   },
   "raising_hand_tone2": {
     "unicode": "1F64B-1F3FC",
@@ -22899,7 +23421,8 @@
       "notice",
       "attention",
       "answer"
-    ]
+    ],
+    "moji": "🙋🏼"
   },
   "raising_hand_tone3": {
     "unicode": "1F64B-1F3FD",
@@ -22917,7 +23440,8 @@
       "notice",
       "attention",
       "answer"
-    ]
+    ],
+    "moji": "🙋🏽"
   },
   "raising_hand_tone4": {
     "unicode": "1F64B-1F3FE",
@@ -22935,7 +23459,8 @@
       "notice",
       "attention",
       "answer"
-    ]
+    ],
+    "moji": "🙋🏾"
   },
   "raising_hand_tone5": {
     "unicode": "1F64B-1F3FF",
@@ -22953,7 +23478,8 @@
       "notice",
       "attention",
       "answer"
-    ]
+    ],
+    "moji": "🙋🏿"
   },
   "ram": {
     "unicode": "1F40F",
@@ -23610,7 +24136,8 @@
       "row",
       "oar",
       "paddle"
-    ]
+    ],
+    "moji": "🚣🏻"
   },
   "rowboat_tone2": {
     "unicode": "1F6A3-1F3FC",
@@ -23628,7 +24155,8 @@
       "row",
       "oar",
       "paddle"
-    ]
+    ],
+    "moji": "🚣🏼"
   },
   "rowboat_tone3": {
     "unicode": "1F6A3-1F3FD",
@@ -23646,7 +24174,8 @@
       "row",
       "oar",
       "paddle"
-    ]
+    ],
+    "moji": "🚣🏽"
   },
   "rowboat_tone4": {
     "unicode": "1F6A3-1F3FE",
@@ -23664,7 +24193,8 @@
       "row",
       "oar",
       "paddle"
-    ]
+    ],
+    "moji": "🚣🏾"
   },
   "rowboat_tone5": {
     "unicode": "1F6A3-1F3FF",
@@ -23682,7 +24212,8 @@
       "row",
       "oar",
       "paddle"
-    ]
+    ],
+    "moji": "🚣🏿"
   },
   "rugby_football": {
     "unicode": "1F3C9",
@@ -23742,7 +24273,8 @@
       "race",
       "dash",
       "marathon"
-    ]
+    ],
+    "moji": "🏃🏻"
   },
   "runner_tone2": {
     "unicode": "1F3C3-1F3FC",
@@ -23761,7 +24293,8 @@
       "race",
       "dash",
       "marathon"
-    ]
+    ],
+    "moji": "🏃🏼"
   },
   "runner_tone3": {
     "unicode": "1F3C3-1F3FD",
@@ -23780,7 +24313,8 @@
       "race",
       "dash",
       "marathon"
-    ]
+    ],
+    "moji": "🏃🏽"
   },
   "runner_tone4": {
     "unicode": "1F3C3-1F3FE",
@@ -23799,7 +24333,8 @@
       "race",
       "dash",
       "marathon"
-    ]
+    ],
+    "moji": "🏃🏾"
   },
   "runner_tone5": {
     "unicode": "1F3C3-1F3FF",
@@ -23818,7 +24353,8 @@
       "race",
       "dash",
       "marathon"
-    ]
+    ],
+    "moji": "🏃🏿"
   },
   "running_shirt_with_sash": {
     "unicode": "1F3BD",
@@ -23990,7 +24526,8 @@
       "nice",
       "sleigh",
       "holiday"
-    ]
+    ],
+    "moji": "🎅🏻"
   },
   "santa_tone2": {
     "unicode": "1F385-1F3FC",
@@ -24016,7 +24553,8 @@
       "nice",
       "sleigh",
       "holiday"
-    ]
+    ],
+    "moji": "🎅🏼"
   },
   "santa_tone3": {
     "unicode": "1F385-1F3FD",
@@ -24042,7 +24580,8 @@
       "nice",
       "sleigh",
       "holiday"
-    ]
+    ],
+    "moji": "🎅🏽"
   },
   "santa_tone4": {
     "unicode": "1F385-1F3FE",
@@ -24068,7 +24607,8 @@
       "nice",
       "sleigh",
       "holiday"
-    ]
+    ],
+    "moji": "🎅🏾"
   },
   "santa_tone5": {
     "unicode": "1F385-1F3FF",
@@ -24094,7 +24634,8 @@
       "nice",
       "sleigh",
       "holiday"
-    ]
+    ],
+    "moji": "🎅🏿"
   },
   "satellite": {
     "unicode": "1F4E1",
@@ -25598,7 +26139,8 @@
       "undercover",
       "investigator",
       "person"
-    ]
+    ],
+    "moji": "🕵🏻"
   },
   "spy_tone2": {
     "unicode": "1F575-1F3FC",
@@ -25615,7 +26157,8 @@
       "undercover",
       "investigator",
       "person"
-    ]
+    ],
+    "moji": "🕵🏼"
   },
   "spy_tone3": {
     "unicode": "1F575-1F3FD",
@@ -25632,7 +26175,8 @@
       "undercover",
       "investigator",
       "person"
-    ]
+    ],
+    "moji": "🕵🏽"
   },
   "spy_tone4": {
     "unicode": "1F575-1F3FE",
@@ -25649,7 +26193,8 @@
       "undercover",
       "investigator",
       "person"
-    ]
+    ],
+    "moji": "🕵🏾"
   },
   "spy_tone5": {
     "unicode": "1F575-1F3FF",
@@ -25666,7 +26211,8 @@
       "undercover",
       "investigator",
       "person"
-    ]
+    ],
+    "moji": "🕵🏿"
   },
   "stadium": {
     "unicode": "1F3DF",
@@ -26184,7 +26730,8 @@
       "ocean",
       "ride",
       "swell"
-    ]
+    ],
+    "moji": "🏄🏻"
   },
   "surfer_tone2": {
     "unicode": "1F3C4-1F3FC",
@@ -26203,7 +26750,8 @@
       "ocean",
       "ride",
       "swell"
-    ]
+    ],
+    "moji": "🏄🏼"
   },
   "surfer_tone3": {
     "unicode": "1F3C4-1F3FD",
@@ -26222,7 +26770,8 @@
       "ocean",
       "ride",
       "swell"
-    ]
+    ],
+    "moji": "🏄🏽"
   },
   "surfer_tone4": {
     "unicode": "1F3C4-1F3FE",
@@ -26241,7 +26790,8 @@
       "ocean",
       "ride",
       "swell"
-    ]
+    ],
+    "moji": "🏄🏾"
   },
   "surfer_tone5": {
     "unicode": "1F3C4-1F3FF",
@@ -26260,7 +26810,8 @@
       "ocean",
       "ride",
       "swell"
-    ]
+    ],
+    "moji": "🏄🏿"
   },
   "sushi": {
     "unicode": "1F363",
@@ -26423,7 +26974,8 @@
       "butterfly",
       "breaststroke",
       "backstroke"
-    ]
+    ],
+    "moji": "🏊🏻"
   },
   "swimmer_tone2": {
     "unicode": "1F3CA-1F3FC",
@@ -26443,7 +26995,8 @@
       "butterfly",
       "breaststroke",
       "backstroke"
-    ]
+    ],
+    "moji": "🏊🏼"
   },
   "swimmer_tone3": {
     "unicode": "1F3CA-1F3FD",
@@ -26463,7 +27016,8 @@
       "butterfly",
       "breaststroke",
       "backstroke"
-    ]
+    ],
+    "moji": "🏊🏽"
   },
   "swimmer_tone4": {
     "unicode": "1F3CA-1F3FE",
@@ -26483,7 +27037,8 @@
       "butterfly",
       "breaststroke",
       "backstroke"
-    ]
+    ],
+    "moji": "🏊🏾"
   },
   "swimmer_tone5": {
     "unicode": "1F3CA-1F3FF",
@@ -26503,7 +27058,8 @@
       "butterfly",
       "breaststroke",
       "backstroke"
-    ]
+    ],
+    "moji": "🏊🏿"
   },
   "symbols": {
     "unicode": "1F523",
@@ -27004,7 +27560,8 @@
       "hand",
       "no",
       "-1"
-    ]
+    ],
+    "moji": "👎🏻"
   },
   "thumbsdown_tone2": {
     "unicode": "1F44E-1F3FC",
@@ -27020,7 +27577,8 @@
       "hand",
       "no",
       "-1"
-    ]
+    ],
+    "moji": "👎🏼"
   },
   "thumbsdown_tone3": {
     "unicode": "1F44E-1F3FD",
@@ -27036,7 +27594,8 @@
       "hand",
       "no",
       "-1"
-    ]
+    ],
+    "moji": "👎🏽"
   },
   "thumbsdown_tone4": {
     "unicode": "1F44E-1F3FE",
@@ -27052,7 +27611,8 @@
       "hand",
       "no",
       "-1"
-    ]
+    ],
+    "moji": "👎🏾"
   },
   "thumbsdown_tone5": {
     "unicode": "1F44E-1F3FF",
@@ -27068,7 +27628,8 @@
       "hand",
       "no",
       "-1"
-    ]
+    ],
+    "moji": "👎🏿"
   },
   "thumbsup": {
     "unicode": "1F44D",
@@ -27104,7 +27665,8 @@
       "like",
       "yes",
       "+1"
-    ]
+    ],
+    "moji": "👍🏻"
   },
   "thumbsup_tone2": {
     "unicode": "1F44D-1F3FC",
@@ -27122,7 +27684,8 @@
       "like",
       "yes",
       "+1"
-    ]
+    ],
+    "moji": "👍🏼"
   },
   "thumbsup_tone3": {
     "unicode": "1F44D-1F3FD",
@@ -27140,7 +27703,8 @@
       "like",
       "yes",
       "+1"
-    ]
+    ],
+    "moji": "👍🏽"
   },
   "thumbsup_tone4": {
     "unicode": "1F44D-1F3FE",
@@ -27158,7 +27722,8 @@
       "like",
       "yes",
       "+1"
-    ]
+    ],
+    "moji": "👍🏾"
   },
   "thumbsup_tone5": {
     "unicode": "1F44D-1F3FF",
@@ -27176,7 +27741,8 @@
       "like",
       "yes",
       "+1"
-    ]
+    ],
+    "moji": "👍🏿"
   },
   "thunder_cloud_rain": {
     "unicode": "26C8",
@@ -28429,7 +28995,8 @@
       "peace",
       "two",
       "v"
-    ]
+    ],
+    "moji": "✌🏻"
   },
   "v_tone2": {
     "unicode": "270C-1F3FC",
@@ -28445,7 +29012,8 @@
       "peace",
       "two",
       "v"
-    ]
+    ],
+    "moji": "✌🏼"
   },
   "v_tone3": {
     "unicode": "270C-1F3FD",
@@ -28461,7 +29029,8 @@
       "peace",
       "two",
       "v"
-    ]
+    ],
+    "moji": "✌🏽"
   },
   "v_tone4": {
     "unicode": "270C-1F3FE",
@@ -28477,7 +29046,8 @@
       "peace",
       "two",
       "v"
-    ]
+    ],
+    "moji": "✌🏾"
   },
   "v_tone5": {
     "unicode": "270C-1F3FF",
@@ -28493,7 +29063,8 @@
       "peace",
       "two",
       "v"
-    ]
+    ],
+    "moji": "✌🏿"
   },
   "vertical_traffic_light": {
     "unicode": "1F6A6",
@@ -28704,7 +29275,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖🏻"
   },
   "vulcan_tone2": {
     "unicode": "1F596-1F3FC",
@@ -28723,7 +29295,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖🏼"
   },
   "vulcan_tone3": {
     "unicode": "1F596-1F3FD",
@@ -28742,7 +29315,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖🏽"
   },
   "vulcan_tone4": {
     "unicode": "1F596-1F3FE",
@@ -28761,7 +29335,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖🏾"
   },
   "vulcan_tone5": {
     "unicode": "1F596-1F3FF",
@@ -28780,7 +29355,8 @@
       "nimoy",
       "star trek",
       "live long"
-    ]
+    ],
+    "moji": "🖖🏿"
   },
   "walking": {
     "unicode": "1F6B6",
@@ -28817,7 +29393,8 @@
       "stride",
       "hiking",
       "hike"
-    ]
+    ],
+    "moji": "🚶🏻"
   },
   "walking_tone2": {
     "unicode": "1F6B6-1F3FC",
@@ -28834,7 +29411,8 @@
       "stride",
       "hiking",
       "hike"
-    ]
+    ],
+    "moji": "🚶🏼"
   },
   "walking_tone3": {
     "unicode": "1F6B6-1F3FD",
@@ -28851,7 +29429,8 @@
       "stride",
       "hiking",
       "hike"
-    ]
+    ],
+    "moji": "🚶🏽"
   },
   "walking_tone4": {
     "unicode": "1F6B6-1F3FE",
@@ -28868,7 +29447,8 @@
       "stride",
       "hiking",
       "hike"
-    ]
+    ],
+    "moji": "🚶🏾"
   },
   "walking_tone5": {
     "unicode": "1F6B6-1F3FF",
@@ -28885,7 +29465,8 @@
       "stride",
       "hiking",
       "hike"
-    ]
+    ],
+    "moji": "🚶🏿"
   },
   "waning_crescent_moon": {
     "unicode": "1F318",
@@ -29047,7 +29628,8 @@
       "solong",
       "hi",
       "wave"
-    ]
+    ],
+    "moji": "👋🏻"
   },
   "wave_tone2": {
     "unicode": "1F44B-1F3FC",
@@ -29064,7 +29646,8 @@
       "solong",
       "hi",
       "wave"
-    ]
+    ],
+    "moji": "👋🏼"
   },
   "wave_tone3": {
     "unicode": "1F44B-1F3FD",
@@ -29081,7 +29664,8 @@
       "solong",
       "hi",
       "wave"
-    ]
+    ],
+    "moji": "👋🏽"
   },
   "wave_tone4": {
     "unicode": "1F44B-1F3FE",
@@ -29098,7 +29682,8 @@
       "solong",
       "hi",
       "wave"
-    ]
+    ],
+    "moji": "👋🏾"
   },
   "wave_tone5": {
     "unicode": "1F44B-1F3FF",
@@ -29115,7 +29700,8 @@
       "solong",
       "hi",
       "wave"
-    ]
+    ],
+    "moji": "👋🏿"
   },
   "wavy_dash": {
     "unicode": "3030",
@@ -29608,7 +30194,8 @@
       "female",
       "girl",
       "lady"
-    ]
+    ],
+    "moji": "👩🏻"
   },
   "woman_tone2": {
     "unicode": "1F469-1F3FC",
@@ -29622,7 +30209,8 @@
       "female",
       "girl",
       "lady"
-    ]
+    ],
+    "moji": "👩🏼"
   },
   "woman_tone3": {
     "unicode": "1F469-1F3FD",
@@ -29636,7 +30224,8 @@
       "female",
       "girl",
       "lady"
-    ]
+    ],
+    "moji": "👩🏽"
   },
   "woman_tone4": {
     "unicode": "1F469-1F3FE",
@@ -29650,7 +30239,8 @@
       "female",
       "girl",
       "lady"
-    ]
+    ],
+    "moji": "👩🏾"
   },
   "woman_tone5": {
     "unicode": "1F469-1F3FF",
@@ -29664,7 +30254,8 @@
       "female",
       "girl",
       "lady"
-    ]
+    ],
+    "moji": "👩🏿"
   },
   "womans_clothes": {
     "unicode": "1F45A",
@@ -29791,7 +30382,8 @@
       "sign",
       "signature",
       "draw"
-    ]
+    ],
+    "moji": "✍🏻"
   },
   "writing_hand_tone2": {
     "unicode": "270D-1F3FC",
@@ -29806,7 +30398,8 @@
       "sign",
       "signature",
       "draw"
-    ]
+    ],
+    "moji": "✍🏼"
   },
   "writing_hand_tone3": {
     "unicode": "270D-1F3FD",
@@ -29821,7 +30414,8 @@
       "sign",
       "signature",
       "draw"
-    ]
+    ],
+    "moji": "✍🏽"
   },
   "writing_hand_tone4": {
     "unicode": "270D-1F3FE",
@@ -29836,7 +30430,8 @@
       "sign",
       "signature",
       "draw"
-    ]
+    ],
+    "moji": "✍🏾"
   },
   "writing_hand_tone5": {
     "unicode": "270D-1F3FF",
@@ -29851,7 +30446,8 @@
       "sign",
       "signature",
       "draw"
-    ]
+    ],
+    "moji": "✍🏿"
   },
   "x": {
     "unicode": "274C",
