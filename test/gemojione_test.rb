@@ -83,6 +83,10 @@ describe Gemojione do
       assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
+    it 'should escape regex breaker mojis' do
+      assert_equal "<img alt=\"*⃣\" class=\"emoji\" src=\"http://localhost:3000/002A-20E3.png\">", Gemojione.replace_unicode_moji_with_images('*⃣')
+    end
+
     it 'should handle nil string' do
       assert_equal nil, Gemojione.replace_unicode_moji_with_images(nil)
     end

@@ -33,8 +33,8 @@ module Gemojione
         @emoji_by_moji[moji] = emoji_hash if moji
       end
 
-      @emoji_code_regex = /#{@emoji_by_code.keys.join('|')}/
-      @emoji_moji_regex = /#{@emoji_by_moji.keys.join('|')}/
+      @emoji_code_regex = /#{@emoji_by_code.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
+      @emoji_moji_regex = /#{@emoji_by_moji.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
     end
 
     def find_by_moji(moji)
