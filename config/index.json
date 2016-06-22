@@ -15,10 +15,8 @@
       "percent",
       "a",
       "plus",
-      "perfect",
       "school",
       "quiz",
-      "score",
       "test",
       "exam"
     ],
@@ -50,7 +48,6 @@
       "pool",
       "billiards",
       "eight ball",
-      "pool",
       "pocket ball",
       "cue"
     ],
@@ -389,7 +386,6 @@
       "ferry",
       "ship",
       "anchor",
-      "ship",
       "boat",
       "ocean",
       "harbor",
@@ -414,9 +410,7 @@
       "halo",
       "cupid",
       "wings",
-      "halo",
       "heaven",
-      "wings",
       "jesus"
     ],
     "moji": "👼"
@@ -585,8 +579,7 @@
       "irritated",
       "annoyed",
       "face",
-      "frustrated",
-      "mad"
+      "frustrated"
     ],
     "moji": "😠"
   },
@@ -624,7 +617,6 @@
       "insect",
       "ant",
       "queen",
-      "insect",
       "team"
     ],
     "moji": "🐜"
@@ -641,7 +633,6 @@
       "fruit",
       "mac",
       "apple",
-      "fruit",
       "electronics",
       "red",
       "doctor",
@@ -672,8 +663,6 @@
       "zodiac",
       "sign",
       "purple-square",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♒"
@@ -698,8 +687,6 @@
       "zodiac",
       "sign",
       "purple-square",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♈"
@@ -1022,8 +1009,6 @@
       "palette",
       "art",
       "colors",
-      "paint",
-      "draw",
       "brush",
       "pastels",
       "oils"
@@ -1134,10 +1119,7 @@
       "bank",
       "adam",
       "payday",
-      "bank",
       "blue-square",
-      "cash",
-      "money",
       "payment"
     ],
     "moji": "🏧"
@@ -1222,7 +1204,6 @@
       "chick",
       "baby",
       "bird",
-      "chicken",
       "young",
       "woman",
       "cute"
@@ -1381,7 +1362,6 @@
       "party",
       "balloon",
       "birthday",
-      "celebration",
       "helium",
       "gas",
       "children",
@@ -1713,10 +1693,8 @@
       "bathroom",
       "soap",
       "water",
-      "clean",
       "shampoo",
-      "lather",
-      "water"
+      "lather"
     ],
     "moji": "🛀"
   },
@@ -1860,10 +1838,8 @@
       "bathroom",
       "soap",
       "water",
-      "clean",
       "shampoo",
-      "lather",
-      "water"
+      "lather"
     ],
     "moji": "🛁"
   },
@@ -2031,7 +2007,6 @@
       "mug",
       "toast",
       "celebrate",
-      "pub",
       "bar",
       "jolly",
       "hops",
@@ -2057,7 +2032,6 @@
       "beetle",
       "cow",
       "lady cow",
-      "insect",
       "endearment"
     ],
     "moji": "🐞"
@@ -2123,10 +2097,8 @@
       "food",
       "japanese",
       "bento",
-      "japanese",
       "rice",
       "meal",
-      "box",
       "obento",
       "convenient",
       "lunchbox"
@@ -2148,7 +2120,6 @@
       "sports",
       "bicyclist",
       "road",
-      "bike",
       "pedal",
       "bicycle",
       "transportation"
@@ -2270,7 +2241,6 @@
       "sports",
       "bike",
       "pedal",
-      "bicycle",
       "transportation"
     ],
     "moji": "🚲"
@@ -2337,7 +2307,6 @@
       "party",
       "birthday",
       "birth",
-      "cake",
       "dessert",
       "wish",
       "celebrate"
@@ -2526,7 +2495,6 @@
     "keywords": [
       "car",
       "suv",
-      "car",
       "wagon",
       "automobile"
     ],
@@ -2547,7 +2515,6 @@
       "valentines",
       "blue",
       "heart",
-      "love",
       "stability",
       "truth",
       "loyalty",
@@ -2572,7 +2539,6 @@
       "shy",
       "smile",
       "smiling",
-      "smile",
       "smiley"
     ],
     "moji": "😊"
@@ -3030,7 +2996,6 @@
       "marriage",
       "wedding",
       "bride",
-      "wedding",
       "planning",
       "veil",
       "gown",
@@ -3052,7 +3017,6 @@
       "couple",
       "marriage",
       "wedding",
-      "wedding",
       "planning",
       "gown",
       "dress",
@@ -3072,7 +3036,6 @@
     "keywords": [
       "couple",
       "marriage",
-      "wedding",
       "wedding",
       "planning",
       "gown",
@@ -3094,7 +3057,6 @@
       "couple",
       "marriage",
       "wedding",
-      "wedding",
       "planning",
       "gown",
       "dress",
@@ -3115,7 +3077,6 @@
       "couple",
       "marriage",
       "wedding",
-      "wedding",
       "planning",
       "gown",
       "dress",
@@ -3135,7 +3096,6 @@
     "keywords": [
       "couple",
       "marriage",
-      "wedding",
       "wedding",
       "planning",
       "gown",
@@ -3210,7 +3170,6 @@
       "insect",
       "nature",
       "bug",
-      "insect",
       "virus",
       "error"
     ],
@@ -3228,8 +3187,7 @@
       "electricity",
       "light",
       "idea",
-      "bulb",
-      "light"
+      "bulb"
     ],
     "moji": "💡"
   },
@@ -3326,7 +3284,6 @@
       "bus",
       "school",
       "city",
-      "transportation",
       "public"
     ],
     "moji": "🚌"
@@ -3344,8 +3301,7 @@
       "bus",
       "stop",
       "city",
-      "transport",
-      "transportation"
+      "transport"
     ],
     "moji": "🚏"
   },
@@ -3363,8 +3319,6 @@
       "person",
       "user",
       "silhouette",
-      "person",
-      "user",
       "member",
       "account",
       "guest",
@@ -3395,7 +3349,6 @@
       "silhouette",
       "silhouettes",
       "people",
-      "user",
       "members",
       "accounts",
       "relationship",
@@ -3522,7 +3475,6 @@
       "desert",
       "central asia",
       "heat",
-      "hot",
       "water",
       "hump day",
       "wednesday",
@@ -3609,8 +3561,6 @@
       "stars",
       "zodiac",
       "sign",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♋"
@@ -3682,8 +3632,6 @@
       "stars",
       "zodiac",
       "sign",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♑"
@@ -3731,12 +3679,10 @@
       "horse",
       "photo",
       "carousel",
-      "horse",
       "amusement",
       "park",
       "ride",
       "entertainment",
-      "park",
       "fair"
     ],
     "moji": "🎠"
@@ -3791,8 +3737,7 @@
       "meow",
       "pet",
       "cat",
-      "kitten",
-      "meow"
+      "kitten"
     ],
     "moji": "🐈"
   },
@@ -3948,7 +3893,6 @@
       "cherry",
       "cherries",
       "tree",
-      "fruit",
       "pit"
     ],
     "moji": "🍒"
@@ -3967,8 +3911,7 @@
       "plant",
       "cherry",
       "blossom",
-      "tree",
-      "flower"
+      "tree"
     ],
     "moji": "🌸"
   },
@@ -3985,7 +3928,6 @@
       "squirrel",
       "chestnut",
       "roasted",
-      "food",
       "tree"
     ],
     "moji": "🌰"
@@ -4077,12 +4019,9 @@
       "vacation",
       "xmas",
       "christmas",
-      "xmas",
       "santa",
       "holiday",
       "winter",
-      "december",
-      "santa",
       "evergreen",
       "ornaments",
       "jesus",
@@ -4122,7 +4061,6 @@
       "movie",
       "record",
       "cinema",
-      "movie",
       "theater",
       "motion",
       "picture"
@@ -4144,7 +4082,6 @@
       "circus",
       "tent",
       "event",
-      "carnival",
       "big",
       "top",
       "canvas"
@@ -4376,8 +4313,6 @@
       "clapper",
       "board",
       "clapboard",
-      "movie",
-      "film",
       "take"
     ],
     "moji": "🎬"
@@ -4822,7 +4757,6 @@
       "weather",
       "umbrella",
       "closed",
-      "rain",
       "moisture",
       "protection",
       "sun",
@@ -4943,8 +4877,6 @@
       "drunk",
       "cocktail",
       "mixed",
-      "drink",
-      "alcohol",
       "glass",
       "martini",
       "bar"
@@ -5067,7 +4999,6 @@
     "aliases_ascii": [],
     "keywords": [
       "festival",
-      "party",
       "party",
       "congratulations",
       "confetti",
@@ -5337,8 +5268,7 @@
       "cookie",
       "dessert",
       "biscuit",
-      "sweet",
-      "chocolate"
+      "sweet"
     ],
     "moji": "🍪"
   },
@@ -5486,7 +5416,6 @@
       "vegetable",
       "corn",
       "maize",
-      "food",
       "iowa",
       "kernel",
       "popcorn",
@@ -5654,7 +5583,6 @@
       "cow",
       "milk",
       "dairy",
-      "beef",
       "bessie",
       "moo"
     ],
@@ -5730,7 +5658,6 @@
       "crescent",
       "waxing",
       "sky",
-      "night",
       "cheese",
       "phase"
     ],
@@ -5910,7 +5837,6 @@
     "keywords": [
       "face",
       "sad",
-      "sad",
       "cry",
       "tear",
       "weep",
@@ -5935,8 +5861,6 @@
       "cry",
       "cat",
       "sob",
-      "tears",
-      "sad",
       "melancholy",
       "morn",
       "somber",
@@ -6019,7 +5943,6 @@
       "curry",
       "spice",
       "flavor",
-      "food",
       "meal"
     ],
     "moji": "🍛"
@@ -6274,7 +6197,6 @@
       "showgirl",
       "playboy",
       "costume",
-      "bunny",
       "cancan"
     ],
     "moji": "👯"
@@ -6328,7 +6250,6 @@
       "bullseye",
       "dart",
       "archery",
-      "game",
       "fletching",
       "arrow",
       "sport"
@@ -6579,8 +6500,7 @@
       "sick",
       "intoxicated",
       "squeans",
-      "starburst",
-      "star"
+      "starburst"
     ],
     "moji": "💫"
   },
@@ -6623,11 +6543,9 @@
       "garbage",
       "trash",
       "litter",
-      "garbage",
       "waste",
       "no",
-      "can",
-      "trash"
+      "can"
     ],
     "moji": "🚯"
   },
@@ -6691,8 +6609,6 @@
       "pet",
       "dog",
       "puppy",
-      "pet",
-      "friend",
       "woof",
       "bark",
       "fido"
@@ -6716,8 +6632,6 @@
       "canada",
       "australia",
       "banknote",
-      "money",
-      "currency",
       "paper",
       "cash",
       "bills"
@@ -6738,7 +6652,6 @@
       "toy",
       "dolls",
       "japan",
-      "japanese",
       "day",
       "girls",
       "emperor",
@@ -6785,9 +6698,7 @@
       "door",
       "doorway",
       "entrance",
-      "enter",
-      "exit",
-      "entry"
+      "enter"
     ],
     "moji": "🚪"
   },
@@ -6811,8 +6722,7 @@
       "dessert",
       "breakfast",
       "police",
-      "homer",
-      "sweet"
+      "homer"
     ],
     "moji": "🍩"
   },
@@ -6848,8 +6758,7 @@
       "nature",
       "dragon",
       "fire",
-      "legendary",
-      "myth"
+      "legendary"
     ],
     "moji": "🐉"
   },
@@ -6870,8 +6779,7 @@
       "dragon",
       "head",
       "fire",
-      "legendary",
-      "myth"
+      "legendary"
     ],
     "moji": "🐲"
   },
@@ -6904,10 +6812,8 @@
       "dromedary",
       "camel",
       "hump",
-      "desert",
       "middle east",
       "heat",
-      "hot",
       "water",
       "hump day",
       "wednesday",
@@ -6930,7 +6836,6 @@
       "drop",
       "droplet",
       "h20",
-      "water",
       "aqua",
       "tear",
       "sweat",
@@ -7003,7 +6908,6 @@
       "ear",
       "rice",
       "food",
-      "plant",
       "seed"
     ],
     "moji": "🌾"
@@ -7096,7 +7000,6 @@
       "international",
       "world",
       "earth",
-      "globe",
       "space",
       "planet",
       "africa",
@@ -7119,7 +7022,6 @@
       "international",
       "world",
       "earth",
-      "globe",
       "space",
       "planet",
       "north",
@@ -7144,7 +7046,6 @@
       "international",
       "world",
       "earth",
-      "globe",
       "space",
       "planet",
       "asia",
@@ -7189,7 +7090,6 @@
       "nature",
       "vegetable",
       "eggplant",
-      "aubergine",
       "fruit",
       "purple",
       "penis"
@@ -7405,8 +7305,6 @@
       "euro",
       "europe",
       "banknote",
-      "money",
-      "currency",
       "paper",
       "cash",
       "bills"
@@ -7428,7 +7326,6 @@
       "castle",
       "european",
       "residence",
-      "royalty",
       "disneyland",
       "disney",
       "fort",
@@ -7638,9 +7535,6 @@
       "mother",
       "parents",
       "family",
-      "mother",
-      "father",
-      "child",
       "girl",
       "boy",
       "group",
@@ -8040,7 +7934,6 @@
       "terrified",
       "fear",
       "fearful",
-      "scared",
       "frightened"
     ],
     "moji": "😨"
@@ -8061,16 +7954,12 @@
       "paw",
       "pet",
       "tracking",
-      "paw",
       "prints",
       "mark",
       "imprints",
       "footsteps",
-      "animal",
       "lion",
       "bear",
-      "dog",
-      "cat",
       "raccoon",
       "critter",
       "feet",
@@ -12931,9 +12820,7 @@
       "boys",
       "celebration",
       "happiness",
-      "carp",
       "streamers",
-      "japanese",
       "holiday",
       "flags"
     ],
@@ -13081,7 +12968,6 @@
       "face",
       "flattered",
       "flush",
-      "blush",
       "red",
       "pink",
       "cheeks",
@@ -13488,7 +13374,6 @@
       "anthropomorphic",
       "face",
       "sky",
-      "night",
       "cheese",
       "phase",
       "spooky",
@@ -13509,7 +13394,6 @@
       "dice",
       "game",
       "die",
-      "dice",
       "craps",
       "gamble",
       "play"
@@ -13563,8 +13447,6 @@
       "stars",
       "zodiac",
       "sign",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♊"
@@ -13596,10 +13478,8 @@
       "present",
       "xmas",
       "gift",
-      "present",
       "wrap",
       "package",
-      "birthday",
       "wedding"
     ],
     "moji": "🎁"
@@ -13733,7 +13613,6 @@
       "earth",
       "international",
       "world",
-      "earth",
       "meridian",
       "globe",
       "space",
@@ -13808,7 +13687,6 @@
       "grapes",
       "wine",
       "vinegar",
-      "fruit",
       "cluster",
       "vine"
     ],
@@ -13826,7 +13704,6 @@
       "fruit",
       "nature",
       "apple",
-      "fruit",
       "green",
       "pie",
       "granny",
@@ -13865,7 +13742,6 @@
       "valentines",
       "green",
       "heart",
-      "love",
       "nature",
       "rebirth",
       "reborn",
@@ -13914,7 +13790,6 @@
       "face",
       "grimace",
       "teeth",
-      "grimace",
       "disapprove",
       "pain"
     ],
@@ -13936,7 +13811,6 @@
       "grin",
       "grinning",
       "smiling",
-      "smile",
       "smiley"
     ],
     "moji": "😁"
@@ -13957,7 +13831,6 @@
       "grin",
       "grinning",
       "smiling",
-      "smile",
       "smiley"
     ],
     "moji": "🕧"
@@ -13980,7 +13853,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14004,7 +13876,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14028,7 +13899,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14052,7 +13922,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14076,7 +13945,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14100,7 +13968,6 @@
       "guard",
       "bearskin",
       "hat",
-      "british",
       "queen",
       "ceremonial",
       "military"
@@ -14120,8 +13987,6 @@
       "music",
       "guitar",
       "string",
-      "music",
-      "instrument",
       "jam",
       "rock",
       "acoustic",
@@ -14246,7 +14111,6 @@
       "meat",
       "hamburger",
       "burger",
-      "meat",
       "cow",
       "beef"
     ],
@@ -14505,9 +14369,7 @@
       "baby",
       "chicken",
       "chick",
-      "baby",
       "bird",
-      "chicken",
       "young",
       "woman",
       "cute"
@@ -14527,10 +14389,8 @@
       "chicken",
       "egg",
       "chick",
-      "egg",
       "baby",
       "bird",
-      "chicken",
       "young",
       "woman",
       "cute"
@@ -14564,7 +14424,6 @@
       "score",
       "headphone",
       "sound",
-      "music",
       "ears",
       "beats",
       "buds",
@@ -14583,7 +14442,6 @@
     "aliases_ascii": [],
     "keywords": [
       "animal",
-      "monkey",
       "monkey",
       "ears",
       "hear",
@@ -14612,7 +14470,6 @@
       "pink",
       "black",
       "heart",
-      "love",
       "passion",
       "romance",
       "intense",
@@ -14674,7 +14531,6 @@
       "smiling",
       "heart",
       "lovestruck",
-      "love",
       "flirt",
       "smile",
       "heart-shaped"
@@ -14697,7 +14553,6 @@
       "love",
       "valentines",
       "lovestruck",
-      "love",
       "heart"
     ],
     "moji": "😻"
@@ -14812,8 +14667,6 @@
       "money",
       "payment",
       "dollar",
-      "currency",
-      "money",
       "cash",
       "sale",
       "purchase",
@@ -14918,7 +14771,6 @@
       "weed",
       "herb",
       "spice",
-      "plant",
       "cook",
       "cooking"
     ],
@@ -15031,7 +14883,6 @@
       "sweet",
       "honey",
       "pot",
-      "bees",
       "pooh",
       "bear"
     ],
@@ -15290,7 +15141,6 @@
       "building",
       "home",
       "house",
-      "home",
       "residence",
       "dwelling",
       "mansion",
@@ -15483,8 +15333,7 @@
       "devil",
       "evil",
       "horns",
-      "cute",
-      "devil"
+      "cute"
     ],
     "moji": "👿"
   },
@@ -15713,8 +15562,6 @@
       "angel",
       "face",
       "halo",
-      "halo",
-      "angel",
       "innocent",
       "ring",
       "circle",
@@ -15805,7 +15652,6 @@
       "halloween",
       "jack-o-lantern",
       "pumpkin",
-      "halloween",
       "holiday",
       "carve",
       "autumn",
@@ -15873,7 +15719,6 @@
       "avian",
       "demon",
       "goblin",
-      "mask",
       "theater",
       "nose",
       "frown",
@@ -15899,7 +15744,6 @@
       "troll",
       "ogre",
       "folklore",
-      "monster",
       "devil",
       "mask",
       "theater",
@@ -15963,10 +15807,7 @@
       "haha",
       "happy",
       "tears",
-      "tears",
-      "cry",
       "joy",
-      "happy",
       "weep"
     ],
     "moji": "😂"
@@ -15983,8 +15824,6 @@
       "animal",
       "cats",
       "haha",
-      "happy",
-      "tears",
       "happy",
       "tears",
       "cry",
@@ -16259,7 +16098,6 @@
       "passion",
       "puckered",
       "heart",
-      "love",
       "smooch"
     ],
     "moji": "😚"
@@ -16287,7 +16125,6 @@
       "love",
       "lips",
       "like",
-      "love",
       "valentines"
     ],
     "moji": "😘"
@@ -16523,8 +16360,7 @@
       "travel",
       "bag",
       "baggage",
-      "luggage",
-      "travel"
+      "luggage"
     ],
     "moji": "🛅"
   },
@@ -16610,8 +16446,6 @@
       "zodiac",
       "sign",
       "purple-square",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♌"
@@ -16684,8 +16518,6 @@
       "zodiac",
       "sign",
       "purple-square",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♎"
@@ -16944,9 +16776,7 @@
       "lollipop",
       "stick",
       "lick",
-      "sweet",
-      "sugar",
-      "candy"
+      "sugar"
     ],
     "moji": "🍭"
   },
@@ -17002,7 +16832,6 @@
       "like",
       "love",
       "hotel",
-      "love",
       "sex",
       "romance",
       "leisure",
@@ -17562,7 +17391,6 @@
       "maple",
       "leaf",
       "syrup",
-      "canada",
       "tree"
     ],
     "moji": "🍁"
@@ -17578,7 +17406,6 @@
     "keywords": [
       "face",
       "ill",
-      "sick",
       "sick",
       "virus",
       "flu",
@@ -17777,7 +17604,6 @@
       "wc",
       "men",
       "bathroom",
-      "restroom",
       "sign",
       "boy",
       "male",
@@ -17909,7 +17735,6 @@
       "underground",
       "metro",
       "subway",
-      "underground",
       "train"
     ],
     "moji": "🚇"
@@ -17929,7 +17754,6 @@
       "microphone",
       "mic",
       "audio",
-      "sound",
       "voice",
       "karaoke"
     ],
@@ -18090,7 +17914,6 @@
       "star",
       "stars",
       "planets",
-      "space",
       "sky"
     ],
     "moji": "🌌"
@@ -18109,8 +17932,7 @@
       "vehicle",
       "bus",
       "city",
-      "transport",
-      "transportation"
+      "transport"
     ],
     "moji": "🚐"
   },
@@ -18178,8 +18000,7 @@
       "blown",
       "burned",
       "gift",
-      "cash",
-      "dollar"
+      "cash"
     ],
     "moji": "💸"
   },
@@ -18317,8 +18138,6 @@
       "hat",
       "school",
       "university",
-      "graduation",
-      "cap",
       "mortarboard",
       "academic",
       "education",
@@ -18434,8 +18253,7 @@
       "mountain",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵"
   },
@@ -18452,8 +18270,7 @@
       "transportation",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵🏻"
   },
@@ -18470,8 +18287,7 @@
       "transportation",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵🏼"
   },
@@ -18488,8 +18304,7 @@
       "transportation",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵🏽"
   },
@@ -18506,8 +18321,7 @@
       "transportation",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵🏾"
   },
@@ -18524,8 +18338,7 @@
       "transportation",
       "bike",
       "pedal",
-      "bicycle",
-      "transportation"
+      "bicycle"
     ],
     "moji": "🚵🏿"
   },
@@ -18823,9 +18636,7 @@
       "piano",
       "music",
       "keyboard",
-      "piano",
       "organ",
-      "instrument",
       "electric"
     ],
     "moji": "🎹"
@@ -18843,7 +18654,6 @@
       "musical",
       "music",
       "note",
-      "music",
       "sound"
     ],
     "moji": "🎵"
@@ -18862,7 +18672,6 @@
       "music",
       "musical",
       "score",
-      "clef",
       "g-clef",
       "stave",
       "staff"
@@ -19265,7 +19074,6 @@
       "limit",
       "stop",
       "no",
-      "stop",
       "entry"
     ],
     "moji": "🚫"
@@ -19480,7 +19288,6 @@
       "cigarette",
       "no",
       "smoking",
-      "cigarette",
       "smoke",
       "cancer",
       "lungs",
@@ -19719,9 +19526,7 @@
       "music",
       "score",
       "musical",
-      "music",
       "notes",
-      "music",
       "sound",
       "melody"
     ],
@@ -19785,7 +19590,6 @@
       "water",
       "wave",
       "ocean",
-      "wave",
       "surf",
       "beach",
       "tide"
@@ -20387,7 +20191,6 @@
       "transportation",
       "vehicle",
       "sedan",
-      "car",
       "automobile"
     ],
     "moji": "🚘"
@@ -20406,7 +20209,6 @@
       "bus",
       "school",
       "city",
-      "transportation",
       "public"
     ],
     "moji": "🚍"
@@ -21017,7 +20819,6 @@
       "fruit",
       "nature",
       "peach",
-      "fruit",
       "juicy",
       "pit"
     ],
@@ -21035,7 +20836,6 @@
       "fruit",
       "nature",
       "pear",
-      "fruit",
       "shape"
     ],
     "moji": "🍐"
@@ -21210,7 +21010,6 @@
       "arts",
       "performance",
       "entertainment",
-      "acting",
       "story",
       "mask",
       "masks"
@@ -21650,7 +21449,6 @@
       "food",
       "eat",
       "cute",
-      "oink",
       "pink",
       "smell",
       "truffle"
@@ -21739,8 +21537,6 @@
       "zodiac",
       "sign",
       "purple-square",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♓"
@@ -22298,7 +22094,6 @@
       "dog",
       "nature",
       "poodle",
-      "dog",
       "clip",
       "showy",
       "sophisticated",
@@ -22419,7 +22214,6 @@
       "accessories",
       "bag",
       "pouch",
-      "bag",
       "cosmetic",
       "packing",
       "grandma",
@@ -22463,13 +22257,9 @@
       "uk",
       "pound",
       "britain",
-      "british",
       "banknote",
-      "money",
-      "currency",
       "paper",
-      "cash",
-      "bills"
+      "cash"
     ],
     "moji": "💷"
   },
@@ -22938,7 +22728,6 @@
       "purple",
       "violet",
       "heart",
-      "love",
       "sensitive",
       "understanding",
       "compassionate",
@@ -22969,7 +22758,6 @@
       "handbag",
       "coin bag",
       "accessory",
-      "money",
       "ladies",
       "shopping"
     ],
@@ -23578,7 +23366,6 @@
       "nature",
       "sheep",
       "ram",
-      "sheep",
       "male",
       "horn",
       "horns"
@@ -23732,7 +23519,6 @@
       "relaxed",
       "relieved",
       "satisfied",
-      "phew",
       "relief"
     ],
     "moji": "😌"
@@ -23869,7 +23655,6 @@
       "rice",
       "white",
       "grain",
-      "food",
       "bowl"
     ],
     "moji": "🍚"
@@ -23889,8 +23674,7 @@
       "ball",
       "white",
       "nori",
-      "seaweed",
-      "japanese"
+      "seaweed"
     ],
     "moji": "🍙"
   },
@@ -23907,9 +23691,7 @@
       "japanese",
       "rice",
       "cracker",
-      "seaweed",
-      "food",
-      "japanese"
+      "seaweed"
     ],
     "moji": "🍘"
   },
@@ -24125,7 +23907,6 @@
       "fragrant",
       "flower",
       "thorns",
-      "love",
       "petals",
       "romance"
     ],
@@ -24170,9 +23951,7 @@
       "ambulance",
       "emergency",
       "police",
-      "light",
-      "police",
-      "emergency"
+      "light"
     ],
     "moji": "🚨"
   },
@@ -24338,7 +24117,6 @@
       "run",
       "runner",
       "jog",
-      "exercise",
       "sprint",
       "race",
       "dash"
@@ -24501,8 +24279,6 @@
       "stars",
       "zodiac",
       "sign",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♐"
@@ -24537,12 +24313,10 @@
       "drunk",
       "wine",
       "sake",
-      "wine",
       "rice",
       "ferment",
       "alcohol",
-      "japanese",
-      "drink"
+      "japanese"
     ],
     "moji": "🍶"
   },
@@ -24586,7 +24360,6 @@
       "nice",
       "sleigh",
       "father",
-      "christmas",
       "holiday"
     ],
     "moji": "🎅"
@@ -24767,8 +24540,6 @@
       "music",
       "saxophone",
       "sax",
-      "music",
-      "instrument",
       "woodwind"
     ],
     "moji": "🎷"
@@ -24828,11 +24599,9 @@
       "school",
       "satchel",
       "backpack",
-      "bag",
       "packing",
       "pack",
       "hike",
-      "education",
       "adventure",
       "travel",
       "sightsee"
@@ -24886,8 +24655,6 @@
       "stars",
       "zodiac",
       "sign",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♏"
@@ -24989,7 +24756,6 @@
       "animal",
       "monkey",
       "nature",
-      "monkey",
       "see",
       "eyes",
       "vision",
@@ -25012,7 +24778,6 @@
       "nature",
       "plant",
       "seedling",
-      "plant",
       "new",
       "start",
       "grow"
@@ -25106,7 +24871,6 @@
       "sea",
       "shell",
       "spiral",
-      "beach",
       "sand",
       "crab",
       "nautilus"
@@ -25125,8 +24889,7 @@
       "interstate",
       "route",
       "sign",
-      "highway",
-      "interstate"
+      "highway"
     ],
     "moji": "🛡"
   },
@@ -25208,7 +24971,6 @@
       "shower",
       "soap",
       "water",
-      "clean",
       "shampoo",
       "lather"
     ],
@@ -25274,7 +25036,6 @@
       "cross-country",
       "poles",
       "snow",
-      "winter",
       "mountain",
       "alpine",
       "powder",
@@ -25349,7 +25110,6 @@
       "sleepy",
       "tired",
       "sleep",
-      "sleepy",
       "sleeping",
       "snore"
     ],
@@ -25383,7 +25143,6 @@
       "rest",
       "tired",
       "sleepy",
-      "tired",
       "exhausted"
     ],
     "moji": "😪"
@@ -25437,7 +25196,6 @@
       "vegas",
       "slot",
       "machine",
-      "gamble",
       "one-armed bandit",
       "slots",
       "luck"
@@ -25578,8 +25336,7 @@
       "happy",
       "smile",
       "smiley",
-      "cat",
-      "happy"
+      "cat"
     ],
     "moji": "😺"
   },
@@ -25594,8 +25351,6 @@
     "keywords": [
       "devil",
       "horns",
-      "horns",
-      "devil",
       "impish",
       "trouble"
     ],
@@ -25616,8 +25371,6 @@
       "smug",
       "smirking",
       "smirk",
-      "smug",
-      "smile",
       "half-smile",
       "conceited"
     ],
@@ -25655,7 +25408,6 @@
       "kills",
       "tobacco",
       "smoking",
-      "cigarette",
       "smoke",
       "cancer",
       "lungs",
@@ -25678,7 +25430,6 @@
       "shell",
       "slow",
       "snail",
-      "slow",
       "escargot",
       "french",
       "appetizer"
@@ -25712,13 +25463,11 @@
       "winter",
       "snow",
       "boarding",
-      "sports",
       "freestyle",
       "halfpipe",
       "board",
       "mountain",
-      "alpine",
-      "winter"
+      "alpine"
     ],
     "moji": "🏂"
   },
@@ -25745,9 +25494,7 @@
       "droplet",
       "ice",
       "crystal",
-      "cold",
       "chilly",
-      "winter",
       "unique",
       "special",
       "below zero",
@@ -25805,10 +25552,7 @@
       "sad",
       "tears",
       "upset",
-      "cry",
       "sob",
-      "tears",
-      "sad",
       "melancholy",
       "morn",
       "somber",
@@ -25831,8 +25575,7 @@
       "fifa",
       "football",
       "sports",
-      "european",
-      "football"
+      "european"
     ],
     "moji": "⚽"
   },
@@ -25925,8 +25668,7 @@
       "spaghetti",
       "noodles",
       "tomato",
-      "sauce",
-      "italian"
+      "sauce"
     ],
     "moji": "🍝"
   },
@@ -26003,7 +25745,6 @@
     "aliases_ascii": [],
     "keywords": [
       "animal",
-      "monkey",
       "monkey",
       "mouth",
       "talk",
@@ -26406,7 +26147,6 @@
       "shoot",
       "star",
       "sky",
-      "night",
       "comet",
       "meteoroid"
     ],
@@ -26458,7 +26198,6 @@
       "vehicle",
       "locomotive",
       "steam",
-      "train",
       "engine"
     ],
     "moji": "🚂"
@@ -26609,7 +26348,6 @@
       "prank",
       "tongue",
       "silly",
-      "playful",
       "cheeky"
     ],
     "moji": "😛"
@@ -26630,7 +26368,6 @@
       "tongue",
       "kidding",
       "silly",
-      "playful",
       "ecstatic"
     ],
     "moji": "😝"
@@ -26658,7 +26395,6 @@
       "winking",
       "kidding",
       "silly",
-      "playful",
       "crazy"
     ],
     "moji": "😜"
@@ -26722,7 +26458,6 @@
       "sun",
       "glasses",
       "sunny",
-      "cool",
       "smooth"
     ],
     "moji": "😎"
@@ -26758,7 +26493,6 @@
       "view",
       "sunrise",
       "sun",
-      "morning",
       "color",
       "sky"
     ],
@@ -26801,7 +26535,6 @@
       "surfer",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26821,7 +26554,6 @@
       "sport",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26841,7 +26573,6 @@
       "sport",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26861,7 +26592,6 @@
       "sport",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26881,7 +26611,6 @@
       "sport",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26901,7 +26630,6 @@
       "sport",
       "surf",
       "wave",
-      "ocean",
       "ride",
       "swell"
     ],
@@ -26921,8 +26649,7 @@
       "sushi",
       "fish",
       "raw",
-      "nigiri",
-      "japanese"
+      "nigiri"
     ],
     "moji": "🍣"
   },
@@ -26940,8 +26667,7 @@
       "suspension",
       "railway",
       "rail",
-      "train",
-      "transportation"
+      "train"
     ],
     "moji": "🚟"
   },
@@ -27219,7 +26945,6 @@
     "keywords": [
       "contulations",
       "party",
-      "party",
       "popper",
       "tada",
       "celebration",
@@ -27288,8 +27013,6 @@
       "constellation",
       "stars",
       "zodiac",
-      "sign",
-      "zodiac",
       "horoscope"
     ],
     "moji": "♉"
@@ -27332,7 +27055,6 @@
       "green",
       "tea",
       "leaf",
-      "drink",
       "teacup",
       "hot",
       "beverage"
@@ -28041,7 +27763,6 @@
       "nature",
       "vegetable",
       "tomato",
-      "fruit",
       "sauce",
       "italian"
     ],
@@ -28114,12 +27835,10 @@
       "mouth",
       "playful",
       "tongue",
-      "mouth",
       "taste",
       "buds",
       "food",
       "silly",
-      "playful",
       "tease",
       "kiss",
       "french kiss",
@@ -28184,7 +27903,6 @@
       "topper",
       "london",
       "period piece",
-      "magic",
       "magician"
     ],
     "moji": "🎩"
@@ -28274,7 +27992,6 @@
     "keywords": [
       "traffic",
       "transportation",
-      "traffic",
       "light",
       "stop",
       "go",
@@ -28344,7 +28061,6 @@
       "transportation",
       "vehicle",
       "tram",
-      "transportation",
       "transport"
     ],
     "moji": "🚊"
@@ -28447,8 +28163,7 @@
       "trolley",
       "bus",
       "city",
-      "transport",
-      "transportation"
+      "transport"
     ],
     "moji": "🚎"
   },
@@ -28470,8 +28185,6 @@
       "trophy",
       "first",
       "show",
-      "place",
-      "win",
       "reward",
       "achievement",
       "medal"
@@ -28542,8 +28255,6 @@
       "brass",
       "music",
       "trumpet",
-      "brass",
-      "music",
       "instrument"
     ],
     "moji": "🎺"
@@ -28611,7 +28322,6 @@
       "tortoise",
       "chelonian",
       "reptile",
-      "slow",
       "snap",
       "steady"
     ],
@@ -28684,7 +28394,6 @@
       "heart",
       "hearts",
       "two",
-      "love",
       "emotion"
     ],
     "moji": "💕"
@@ -28706,7 +28415,6 @@
       "men",
       "gay",
       "homosexual",
-      "friends",
       "hands",
       "holding",
       "team",
@@ -28731,13 +28439,11 @@
       "women",
       "hands",
       "girlfriends",
-      "friends",
       "sisters",
       "mother",
       "daughter",
       "gay",
       "homosexual",
-      "couple",
       "unity"
     ],
     "moji": "👭"
@@ -29248,8 +28954,6 @@
       "play",
       "video",
       "game",
-      "console",
-      "controller",
       "nintendo",
       "xbox",
       "playstation"
@@ -29268,9 +28972,7 @@
       "instrument",
       "music",
       "violin",
-      "fiddle",
-      "music",
-      "instrument"
+      "fiddle"
     ],
     "moji": "🎻"
   },
@@ -29292,8 +28994,6 @@
       "greek",
       "constellation",
       "stars",
-      "zodiac",
-      "sign",
       "zodiac",
       "horoscope"
     ],
@@ -29696,7 +29396,6 @@
       "melon",
       "watermelon",
       "summer",
-      "fruit",
       "large"
     ],
     "moji": "🍉"
@@ -29868,7 +29567,6 @@
       "toilet",
       "water",
       "closet",
-      "toilet",
       "bathroom",
       "throne",
       "porcelain",
@@ -29893,8 +29591,6 @@
       "sleepy",
       "tired",
       "weary",
-      "sleepy",
-      "tired",
       "tiredness",
       "study",
       "finals",
@@ -30437,7 +30133,6 @@
       "worried",
       "anxious",
       "distressed",
-      "nervous",
       "tense"
     ],
     "moji": "😟"
@@ -30586,7 +30281,6 @@
       "yellow",
       "gold",
       "heart",
-      "love",
       "friendship",
       "happy",
       "happiness",
@@ -30614,10 +30308,7 @@
       "money",
       "yen",
       "japan",
-      "japanese",
       "banknote",
-      "money",
-      "currency",
       "paper",
       "cash",
       "bill"
