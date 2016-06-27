@@ -5723,22 +5723,6 @@
     ],
     "moji": "🎛"
   },
-  "contruction_site": {
-    "unicode": "1F3D7",
-    "unicode_alternates": [],
-    "name": "building construction",
-    "shortname": ":contruction_site:",
-    "category": "travel_places",
-    "aliases": [
-      ":building_construction:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "site",
-      "work"
-    ],
-    "moji": "🏗"
-  },
   "convenience_store": {
     "unicode": "1F3EA",
     "unicode_alternates": [],
@@ -17330,21 +17314,6 @@
       "midi"
     ],
     "moji": "🎘"
-  },
-  "keycap_ten": {
-    "unicode": "1F51F",
-    "unicode_alternates": [],
-    "name": "keycap ten",
-    "shortname": ":keycap_ten:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "10",
-      "blue-square",
-      "numbers"
-    ],
-    "moji": "🔟"
   },
   "kimono": {
     "unicode": "1F458",
