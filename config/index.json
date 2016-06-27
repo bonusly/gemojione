@@ -4,7 +4,7 @@
     "unicode_alternates": [],
     "name": "hundred points symbol",
     "shortname": ":100:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31,7 +31,7 @@
     "unicode_alternates": [],
     "name": "input symbol for numbers",
     "shortname": ":1234:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -46,7 +46,7 @@
     "unicode_alternates": [],
     "name": "billiards",
     "shortname": ":8ball:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -68,7 +68,7 @@
     "unicode_alternates": [],
     "name": "negative squared latin capital letter a",
     "shortname": ":a:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -84,7 +84,7 @@
     "unicode_alternates": [],
     "name": "negative squared ab",
     "shortname": ":ab:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -99,7 +99,7 @@
     "unicode_alternates": [],
     "name": "input symbol for latin letters",
     "shortname": ":abc:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -114,7 +114,7 @@
     "unicode_alternates": [],
     "name": "input symbol for latin small letters",
     "shortname": ":abcd:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -129,7 +129,7 @@
     "unicode_alternates": [],
     "name": "circled ideograph accept",
     "shortname": ":accept:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -148,7 +148,7 @@
     "unicode_alternates": [],
     "name": "aerial tramway",
     "shortname": ":aerial_tramway:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -171,7 +171,7 @@
     ],
     "name": "airplane",
     "shortname": ":airplane:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -197,7 +197,7 @@
     "unicode_alternates": [],
     "name": "airplane arriving",
     "shortname": ":airplane_arriving:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -222,7 +222,7 @@
     "unicode_alternates": [],
     "name": "airplane departure",
     "shortname": ":airplane_departure:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -264,7 +264,7 @@
     "unicode_alternates": [],
     "name": "small airplane",
     "shortname": ":airplane_small:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":small_airplane:"
     ],
@@ -354,7 +354,7 @@
     "unicode_alternates": [],
     "name": "extraterrestrial alien",
     "shortname": ":alien:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -373,7 +373,7 @@
     "unicode_alternates": [],
     "name": "ambulance",
     "shortname": ":ambulance:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -408,7 +408,7 @@
     ],
     "name": "anchor",
     "shortname": ":anchor:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -433,7 +433,7 @@
     "unicode_alternates": [],
     "name": "baby angel",
     "shortname": ":angel:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -540,7 +540,7 @@
     "unicode_alternates": [],
     "name": "anger symbol",
     "shortname": ":anger:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -578,7 +578,7 @@
     "unicode_alternates": [],
     "name": "right anger bubble",
     "shortname": ":anger_right:",
-    "category": "objects_symbols",
+    "category": "symbols",
     "aliases": [
       ":right_anger_bubble:"
     ],
@@ -601,7 +601,7 @@
     "unicode_alternates": [],
     "name": "angry face",
     "shortname": ":angry:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ">:(",
@@ -627,7 +627,7 @@
     "unicode_alternates": [],
     "name": "anguished face",
     "shortname": ":anguished:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -670,7 +670,7 @@
     "unicode_alternates": [],
     "name": "red apple",
     "shortname": ":apple:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -695,7 +695,7 @@
     ],
     "name": "aquarius",
     "shortname": ":aquarius:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -721,7 +721,7 @@
     ],
     "name": "aries",
     "shortname": ":aries:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -746,7 +746,7 @@
     ],
     "name": "black left-pointing triangle",
     "shortname": ":arrow_backward:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -762,7 +762,7 @@
     "unicode_alternates": [],
     "name": "black down-pointing double triangle",
     "shortname": ":arrow_double_down:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -777,7 +777,7 @@
     "unicode_alternates": [],
     "name": "black up-pointing double triangle",
     "shortname": ":arrow_double_up:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -794,7 +794,7 @@
     ],
     "name": "downwards black arrow",
     "shortname": ":arrow_down:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -809,7 +809,7 @@
     "unicode_alternates": [],
     "name": "down-pointing small red triangle",
     "shortname": ":arrow_down_small:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -827,7 +827,7 @@
     ],
     "name": "black right-pointing triangle",
     "shortname": ":arrow_forward:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -845,7 +845,7 @@
     ],
     "name": "arrow pointing rightwards then curving downwards",
     "shortname": ":arrow_heading_down:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -862,7 +862,7 @@
     ],
     "name": "arrow pointing rightwards then curving upwards",
     "shortname": ":arrow_heading_up:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -879,7 +879,7 @@
     ],
     "name": "leftwards black arrow",
     "shortname": ":arrow_left:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -897,7 +897,7 @@
     ],
     "name": "south west arrow",
     "shortname": ":arrow_lower_left:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -914,7 +914,7 @@
     ],
     "name": "south east arrow",
     "shortname": ":arrow_lower_right:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -931,7 +931,7 @@
     ],
     "name": "black rightwards arrow",
     "shortname": ":arrow_right:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -949,7 +949,7 @@
     ],
     "name": "rightwards arrow with hook",
     "shortname": ":arrow_right_hook:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -966,7 +966,7 @@
     ],
     "name": "upwards black arrow",
     "shortname": ":arrow_up:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -983,7 +983,7 @@
     ],
     "name": "up down arrow",
     "shortname": ":arrow_up_down:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -998,7 +998,7 @@
     "unicode_alternates": [],
     "name": "up-pointing small red triangle",
     "shortname": ":arrow_up_small:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1016,7 +1016,7 @@
     ],
     "name": "north west arrow",
     "shortname": ":arrow_upper_left:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1033,7 +1033,7 @@
     ],
     "name": "north east arrow",
     "shortname": ":arrow_upper_right:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1048,7 +1048,7 @@
     "unicode_alternates": [],
     "name": "clockwise downwards and upwards open circle arrows",
     "shortname": ":arrows_clockwise:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1063,7 +1063,7 @@
     "unicode_alternates": [],
     "name": "anticlockwise downwards and upwards open circle ar",
     "shortname": ":arrows_counterclockwise:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1079,7 +1079,7 @@
     "unicode_alternates": [],
     "name": "artist palette",
     "shortname": ":art:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1101,7 +1101,7 @@
     "unicode_alternates": [],
     "name": "articulated lorry",
     "shortname": ":articulated_lorry:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1156,7 +1156,7 @@
     "unicode_alternates": [],
     "name": "astonished face",
     "shortname": ":astonished:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1178,7 +1178,7 @@
     "unicode_alternates": [],
     "name": "athletic shoe",
     "shortname": ":athletic_shoe:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1196,7 +1196,7 @@
     "unicode_alternates": [],
     "name": "automated teller machine",
     "shortname": ":atm:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1238,7 +1238,7 @@
     "unicode_alternates": [],
     "name": "negative squared latin capital letter b",
     "shortname": ":b:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1254,7 +1254,7 @@
     "unicode_alternates": [],
     "name": "baby",
     "shortname": ":baby:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1272,7 +1272,7 @@
     "unicode_alternates": [],
     "name": "baby bottle",
     "shortname": ":baby_bottle:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1315,7 +1315,7 @@
     "unicode_alternates": [],
     "name": "baby symbol",
     "shortname": ":baby_symbol:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1412,7 +1412,7 @@
     "unicode_alternates": [],
     "name": "back with leftwards arrow above",
     "shortname": ":back:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1441,7 +1441,7 @@
     "unicode_alternates": [],
     "name": "baggage claim",
     "shortname": ":baggage_claim:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1484,7 +1484,7 @@
     "unicode_alternates": [],
     "name": "ballot box with ballot",
     "shortname": ":ballot_box:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":ballot_box_with_ballot:"
     ],
@@ -1519,7 +1519,7 @@
     ],
     "name": "ballot box with check",
     "shortname": ":ballot_box_with_check:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1566,7 +1566,7 @@
     "unicode_alternates": [],
     "name": "pine decoration",
     "shortname": ":bamboo:",
-    "category": "objects",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1595,7 +1595,7 @@
     "unicode_alternates": [],
     "name": "banana",
     "shortname": ":banana:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1615,7 +1615,7 @@
     ],
     "name": "double exclamation mark",
     "shortname": ":bangbang:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1631,7 +1631,7 @@
     "unicode_alternates": [],
     "name": "bank",
     "shortname": ":bank:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1662,7 +1662,7 @@
     "unicode_alternates": [],
     "name": "barber pole",
     "shortname": ":barber:",
-    "category": "places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1680,7 +1680,7 @@
     ],
     "name": "baseball",
     "shortname": ":baseball:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1699,7 +1699,7 @@
     "unicode_alternates": [],
     "name": "basketball and hoop",
     "shortname": ":basketball:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -1845,7 +1845,7 @@
     "unicode_alternates": [],
     "name": "bath",
     "shortname": ":bath:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2037,7 +2037,7 @@
     "unicode_alternates": [],
     "name": "beach with umbrella",
     "shortname": ":beach:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":beach_with_umbrella:"
     ],
@@ -2101,7 +2101,7 @@
     "unicode_alternates": [],
     "name": "bed",
     "shortname": ":bed:",
-    "category": "travel_places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2147,7 +2147,7 @@
     "unicode_alternates": [],
     "name": "beer mug",
     "shortname": ":beer:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2179,7 +2179,7 @@
     "unicode_alternates": [],
     "name": "clinking beer mugs",
     "shortname": ":beers:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2235,7 +2235,7 @@
     "unicode_alternates": [],
     "name": "japanese symbol for beginner",
     "shortname": ":beginner:",
-    "category": "places",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2250,7 +2250,7 @@
     "unicode_alternates": [],
     "name": "bell",
     "shortname": ":bell:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2270,7 +2270,7 @@
     "unicode_alternates": [],
     "name": "bellhop bell",
     "shortname": ":bellhop:",
-    "category": "travel_places",
+    "category": "objects",
     "aliases": [
       ":bellhop_bell:"
     ],
@@ -2288,7 +2288,7 @@
     "unicode_alternates": [],
     "name": "bento box",
     "shortname": ":bento:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2312,7 +2312,7 @@
     "unicode_alternates": [],
     "name": "bicyclist",
     "shortname": ":bicyclist:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2437,7 +2437,7 @@
     "unicode_alternates": [],
     "name": "bicycle",
     "shortname": ":bike:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2457,7 +2457,7 @@
     "unicode_alternates": [],
     "name": "bikini",
     "shortname": ":bikini:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2513,7 +2513,7 @@
     "unicode_alternates": [],
     "name": "birthday cake",
     "shortname": ":birthday:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2536,7 +2536,7 @@
     ],
     "name": "medium black circle",
     "shortname": ":black_circle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2552,7 +2552,7 @@
     "unicode_alternates": [],
     "name": "playing card black joker",
     "shortname": ":black_joker:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2571,7 +2571,7 @@
     ],
     "name": "black large square",
     "shortname": ":black_large_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2589,7 +2589,7 @@
     ],
     "name": "black medium small square",
     "shortname": ":black_medium_small_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2606,7 +2606,7 @@
     ],
     "name": "black medium square",
     "shortname": ":black_medium_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2643,7 +2643,7 @@
     ],
     "name": "black small square",
     "shortname": ":black_small_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2658,7 +2658,7 @@
     "unicode_alternates": [],
     "name": "black square button",
     "shortname": ":black_square_button:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2737,7 +2737,7 @@
     "unicode_alternates": [],
     "name": "recreational vehicle",
     "shortname": ":blue_car:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2755,7 +2755,7 @@
     "unicode_alternates": [],
     "name": "blue heart",
     "shortname": ":blue_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2778,7 +2778,7 @@
     "unicode_alternates": [],
     "name": "smiling face with smiling eyes",
     "shortname": ":blush:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2918,7 +2918,7 @@
     "unicode_alternates": [],
     "name": "collision symbol",
     "shortname": ":boom:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2942,7 +2942,7 @@
     "unicode_alternates": [],
     "name": "womans boots",
     "shortname": ":boot:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -2978,7 +2978,7 @@
     "unicode_alternates": [],
     "name": "bouquet of flowers",
     "shortname": ":bouquet2:",
-    "category": "celebration",
+    "category": "nature",
     "aliases": [
       ":bouquet_of_flowers:"
     ],
@@ -2996,7 +2996,7 @@
     "unicode_alternates": [],
     "name": "person bowing deeply",
     "shortname": ":bow:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3130,7 +3130,7 @@
     "unicode_alternates": [],
     "name": "bowling",
     "shortname": ":bowling:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3154,7 +3154,7 @@
     "unicode_alternates": [],
     "name": "boy",
     "shortname": ":boy:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3261,7 +3261,7 @@
     "unicode_alternates": [],
     "name": "bread",
     "shortname": ":bread:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3280,7 +3280,7 @@
     "unicode_alternates": [],
     "name": "bride with veil",
     "shortname": ":bride_with_veil:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3405,7 +3405,7 @@
     "unicode_alternates": [],
     "name": "bridge at night",
     "shortname": ":bridge_at_night:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3431,7 +3431,7 @@
     "unicode_alternates": [],
     "name": "briefcase",
     "shortname": ":briefcase:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3450,7 +3450,7 @@
     "unicode_alternates": [],
     "name": "broken heart",
     "shortname": ":broken_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [
       "</3"
@@ -3506,7 +3506,7 @@
     "unicode_alternates": [],
     "name": "high-speed train with bullet nose",
     "shortname": ":bullettrain_front:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3523,7 +3523,7 @@
     "unicode_alternates": [],
     "name": "high-speed train",
     "shortname": ":bullettrain_side:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3575,7 +3575,7 @@
     "unicode_alternates": [],
     "name": "burrito",
     "shortname": ":burrito:",
-    "category": "foods",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3589,7 +3589,7 @@
     "unicode_alternates": [],
     "name": "bus",
     "shortname": ":bus:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3609,7 +3609,7 @@
     "unicode_alternates": [],
     "name": "bus stop",
     "shortname": ":busstop:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3627,7 +3627,7 @@
     "unicode_alternates": [],
     "name": "bust in silhouette",
     "shortname": ":bust_in_silhouette:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3654,7 +3654,7 @@
     "unicode_alternates": [],
     "name": "busts in silhouette",
     "shortname": ":busts_in_silhouette:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3700,7 +3700,7 @@
     "unicode_alternates": [],
     "name": "shortcake",
     "shortname": ":cake:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3752,7 +3752,7 @@
     "unicode_alternates": [],
     "name": "spiral calendar pad",
     "shortname": ":calendar_spiral:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":spiral_calendar_pad:"
     ],
@@ -3831,7 +3831,7 @@
     "unicode_alternates": [],
     "name": "camera with flash",
     "shortname": ":camera_with_flash:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3847,7 +3847,7 @@
     "unicode_alternates": [],
     "name": "camping",
     "shortname": ":camping:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3885,7 +3885,7 @@
     ],
     "name": "cancer",
     "shortname": ":cancer:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3907,7 +3907,7 @@
     "unicode_alternates": [],
     "name": "candle",
     "shortname": ":candle:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3922,7 +3922,7 @@
     "unicode_alternates": [],
     "name": "candy",
     "shortname": ":candy:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3942,7 +3942,7 @@
     "unicode_alternates": [],
     "name": "input symbol for latin capital letters",
     "shortname": ":capital_abcd:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3960,7 +3960,7 @@
     ],
     "name": "capricorn",
     "shortname": ":capricorn:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -3983,7 +3983,7 @@
     "unicode_alternates": [],
     "name": "card file box",
     "shortname": ":card_box:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":card_file_box:"
     ],
@@ -4019,7 +4019,7 @@
     "unicode_alternates": [],
     "name": "carousel horse",
     "shortname": ":carousel_horse:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4153,7 +4153,7 @@
     "unicode_alternates": [],
     "name": "bottle with popping cork",
     "shortname": ":champagne:",
-    "category": "foods",
+    "category": "food",
     "aliases": [
       ":bottle_with_popping_cork:"
     ],
@@ -4171,7 +4171,7 @@
     "unicode_alternates": [],
     "name": "chart with upwards trend and yen sign",
     "shortname": ":chart:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4217,7 +4217,7 @@
     "unicode_alternates": [],
     "name": "chequered flag",
     "shortname": ":checkered_flag:",
-    "category": "objects",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4241,7 +4241,7 @@
     "unicode_alternates": [],
     "name": "cheese wedge",
     "shortname": ":cheese:",
-    "category": "foods",
+    "category": "food",
     "aliases": [
       ":cheese_wedge:"
     ],
@@ -4256,7 +4256,7 @@
     "unicode_alternates": [],
     "name": "cherries",
     "shortname": ":cherries:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4330,7 +4330,7 @@
     "unicode_alternates": [],
     "name": "children crossing",
     "shortname": ":children_crossing:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4366,7 +4366,7 @@
     "unicode_alternates": [],
     "name": "chocolate bar",
     "shortname": ":chocolate_bar:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4387,7 +4387,7 @@
     "unicode_alternates": [],
     "name": "christmas tree",
     "shortname": ":christmas_tree:",
-    "category": "objects",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4418,7 +4418,7 @@
     ],
     "name": "church",
     "shortname": ":church:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4436,7 +4436,7 @@
     "unicode_alternates": [],
     "name": "cinema",
     "shortname": ":cinema:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4458,7 +4458,7 @@
     "unicode_alternates": [],
     "name": "circus tent",
     "shortname": ":circus_tent:",
-    "category": "places",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4480,7 +4480,7 @@
     "unicode_alternates": [],
     "name": "cityscape at dusk",
     "shortname": ":city_dusk:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4504,7 +4504,7 @@
     "unicode_alternates": [],
     "name": "sunset over buildings",
     "shortname": ":city_sunset:",
-    "category": "places",
+    "category": "travel",
     "aliases": [
       ":city_sunrise:"
     ],
@@ -4532,7 +4532,7 @@
     "unicode_alternates": [],
     "name": "cityscape",
     "shortname": ":cityscape:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4572,7 +4572,7 @@
     "unicode_alternates": [],
     "name": "clapping hands sign",
     "shortname": ":clap:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4704,7 +4704,7 @@
     "unicode_alternates": [],
     "name": "clapper board",
     "shortname": ":clapper:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4723,7 +4723,7 @@
     "unicode_alternates": [],
     "name": "classical building",
     "shortname": ":classical_building:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4762,7 +4762,7 @@
     "unicode_alternates": [],
     "name": "mantlepiece clock",
     "shortname": ":clock:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":mantlepiece_clock:"
     ],
@@ -4778,7 +4778,7 @@
     "unicode_alternates": [],
     "name": "clock face one oclock",
     "shortname": ":clock1:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4793,7 +4793,7 @@
     "unicode_alternates": [],
     "name": "clock face ten oclock",
     "shortname": ":clock10:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4808,7 +4808,7 @@
     "unicode_alternates": [],
     "name": "clock face ten-thirty",
     "shortname": ":clock1030:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4823,7 +4823,7 @@
     "unicode_alternates": [],
     "name": "clock face eleven oclock",
     "shortname": ":clock11:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4838,7 +4838,7 @@
     "unicode_alternates": [],
     "name": "clock face eleven-thirty",
     "shortname": ":clock1130:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4853,7 +4853,7 @@
     "unicode_alternates": [],
     "name": "clock face twelve oclock",
     "shortname": ":clock12:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4868,7 +4868,7 @@
     "unicode_alternates": [],
     "name": "clock face twelve-thirty",
     "shortname": ":clock1230:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4883,7 +4883,7 @@
     "unicode_alternates": [],
     "name": "clock face one-thirty",
     "shortname": ":clock130:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4898,7 +4898,7 @@
     "unicode_alternates": [],
     "name": "clock face two oclock",
     "shortname": ":clock2:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4913,7 +4913,7 @@
     "unicode_alternates": [],
     "name": "clock face two-thirty",
     "shortname": ":clock230:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4928,7 +4928,7 @@
     "unicode_alternates": [],
     "name": "clock face three oclock",
     "shortname": ":clock3:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4943,7 +4943,7 @@
     "unicode_alternates": [],
     "name": "clock face three-thirty",
     "shortname": ":clock330:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4958,7 +4958,7 @@
     "unicode_alternates": [],
     "name": "clock face four oclock",
     "shortname": ":clock4:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4973,7 +4973,7 @@
     "unicode_alternates": [],
     "name": "clock face four-thirty",
     "shortname": ":clock430:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -4988,7 +4988,7 @@
     "unicode_alternates": [],
     "name": "clock face five oclock",
     "shortname": ":clock5:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5003,7 +5003,7 @@
     "unicode_alternates": [],
     "name": "clock face five-thirty",
     "shortname": ":clock530:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5018,7 +5018,7 @@
     "unicode_alternates": [],
     "name": "clock face six oclock",
     "shortname": ":clock6:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5033,7 +5033,7 @@
     "unicode_alternates": [],
     "name": "clock face six-thirty",
     "shortname": ":clock630:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5048,7 +5048,7 @@
     "unicode_alternates": [],
     "name": "clock face seven oclock",
     "shortname": ":clock7:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5063,7 +5063,7 @@
     "unicode_alternates": [],
     "name": "clock face seven-thirty",
     "shortname": ":clock730:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5078,7 +5078,7 @@
     "unicode_alternates": [],
     "name": "clock face eight oclock",
     "shortname": ":clock8:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5093,7 +5093,7 @@
     "unicode_alternates": [],
     "name": "clock face eight-thirty",
     "shortname": ":clock830:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5108,7 +5108,7 @@
     "unicode_alternates": [],
     "name": "clock face nine oclock",
     "shortname": ":clock9:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5123,7 +5123,7 @@
     "unicode_alternates": [],
     "name": "clock face nine-thirty",
     "shortname": ":clock930:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5188,7 +5188,7 @@
     "unicode_alternates": [],
     "name": "closed umbrella",
     "shortname": ":closed_umbrella:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5314,7 +5314,7 @@
     ],
     "name": "black club suit",
     "shortname": ":clubs:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5330,7 +5330,7 @@
     "unicode_alternates": [],
     "name": "cocktail glass",
     "shortname": ":cocktail:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5355,7 +5355,7 @@
     ],
     "name": "hot beverage",
     "shortname": ":coffee:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5390,7 +5390,7 @@
     "unicode_alternates": [],
     "name": "face with open mouth and cold sweat",
     "shortname": ":cold_sweat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5424,7 +5424,7 @@
     "unicode_alternates": [],
     "name": "compression",
     "shortname": ":compression:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5498,7 +5498,7 @@
     "unicode_alternates": [],
     "name": "confounded face",
     "shortname": ":confounded:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5523,7 +5523,7 @@
     "unicode_alternates": [],
     "name": "confused face",
     "shortname": ":confused:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ">:\\",
@@ -5561,7 +5561,7 @@
     ],
     "name": "circled ideograph congratulation",
     "shortname": ":congratulations:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5578,7 +5578,7 @@
     "unicode_alternates": [],
     "name": "construction sign",
     "shortname": ":construction:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5613,7 +5613,7 @@
     "unicode_alternates": [],
     "name": "construction worker",
     "shortname": ":construction_worker:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5714,7 +5714,7 @@
     "unicode_alternates": [],
     "name": "control knobs",
     "shortname": ":control_knobs:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5744,7 +5744,7 @@
     "unicode_alternates": [],
     "name": "convenience store",
     "shortname": ":convenience_store:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5758,7 +5758,7 @@
     "unicode_alternates": [],
     "name": "cookie",
     "shortname": ":cookie:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5779,7 +5779,7 @@
     "unicode_alternates": [],
     "name": "squared cool",
     "shortname": ":cool:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5794,7 +5794,7 @@
     "unicode_alternates": [],
     "name": "police officer",
     "shortname": ":cop:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5903,7 +5903,7 @@
     "unicode_alternates": [],
     "name": "copyright sign",
     "shortname": ":copyright:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5917,7 +5917,7 @@
     "unicode_alternates": [],
     "name": "ear of maize",
     "shortname": ":corn:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -5943,7 +5943,7 @@
     "unicode_alternates": [],
     "name": "couch and lamp",
     "shortname": ":couch:",
-    "category": "travel_places",
+    "category": "objects",
     "aliases": [
       ":couch_and_lamp:"
     ],
@@ -5966,7 +5966,7 @@
     "unicode_alternates": [],
     "name": "man and woman holding hands",
     "shortname": ":couple:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6017,7 +6017,7 @@
     "unicode_alternates": [],
     "name": "couple with heart",
     "shortname": ":couple_with_heart:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6065,7 +6065,7 @@
     "unicode_alternates": [],
     "name": "kiss",
     "shortname": ":couplekiss:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6134,7 +6134,7 @@
     "unicode_alternates": [],
     "name": "lower left crayon",
     "shortname": ":crayon:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":lower_left_crayon:"
     ],
@@ -6336,7 +6336,7 @@
     "unicode_alternates": [],
     "name": "crown",
     "shortname": ":crown:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6355,7 +6355,7 @@
     "unicode_alternates": [],
     "name": "passenger ship",
     "shortname": ":cruise_ship:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":passenger_ship:"
     ],
@@ -6374,7 +6374,7 @@
     "unicode_alternates": [],
     "name": "crying face",
     "shortname": ":cry:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":'(",
@@ -6401,7 +6401,7 @@
     "unicode_alternates": [],
     "name": "crying cat face",
     "shortname": ":crying_cat_face:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6441,7 +6441,7 @@
     "unicode_alternates": [],
     "name": "heart with arrow",
     "shortname": ":cupid:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6459,7 +6459,7 @@
     "unicode_alternates": [],
     "name": "curly loop",
     "shortname": ":curly_loop:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6473,7 +6473,7 @@
     "unicode_alternates": [],
     "name": "currency exchange",
     "shortname": ":currency_exchange:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6489,7 +6489,7 @@
     "unicode_alternates": [],
     "name": "curry and rice",
     "shortname": ":curry:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6509,7 +6509,7 @@
     "unicode_alternates": [],
     "name": "custard",
     "shortname": ":custard:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6531,7 +6531,7 @@
     "unicode_alternates": [],
     "name": "customs",
     "shortname": ":customs:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6554,7 +6554,7 @@
     "unicode_alternates": [],
     "name": "cyclone",
     "shortname": ":cyclone:",
-    "category": "nature",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6576,7 +6576,7 @@
     "unicode_alternates": [],
     "name": "dagger knife",
     "shortname": ":dagger:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":dagger_knife:"
     ],
@@ -6594,7 +6594,7 @@
     "unicode_alternates": [],
     "name": "dancer",
     "shortname": ":dancer:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6751,7 +6751,7 @@
     "unicode_alternates": [],
     "name": "woman with bunny ears",
     "shortname": ":dancers:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6779,7 +6779,7 @@
     "unicode_alternates": [],
     "name": "dango",
     "shortname": ":dango:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6798,7 +6798,7 @@
     "unicode_alternates": [],
     "name": "dark sunglasses",
     "shortname": ":dark_sunglasses:",
-    "category": "objects_symbols",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6815,7 +6815,7 @@
     "unicode_alternates": [],
     "name": "direct hit",
     "shortname": ":dart:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6838,7 +6838,7 @@
     "unicode_alternates": [],
     "name": "dash symbol",
     "shortname": ":dash:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6894,7 +6894,7 @@
     "unicode_alternates": [],
     "name": "department store",
     "shortname": ":department_store:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6931,7 +6931,7 @@
     "unicode_alternates": [],
     "name": "desert",
     "shortname": ":desert:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -6952,7 +6952,7 @@
     "unicode_alternates": [],
     "name": "desktop computer",
     "shortname": ":desktop:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":desktop_computer:"
     ],
@@ -6982,7 +6982,7 @@
     "unicode_alternates": [],
     "name": "diamond shape with a dot inside",
     "shortname": ":diamond_shape_with_a_dot_inside:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7004,7 +7004,7 @@
     ],
     "name": "black diamond suit",
     "shortname": ":diamonds:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7021,7 +7021,7 @@
     "unicode_alternates": [],
     "name": "disappointed face",
     "shortname": ":disappointed:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ">:[",
@@ -7051,7 +7051,7 @@
     "unicode_alternates": [],
     "name": "disappointed but relieved face",
     "shortname": ":disappointed_relieved:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7074,7 +7074,7 @@
     "unicode_alternates": [],
     "name": "card index dividers",
     "shortname": ":dividers:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":card_index_dividers:"
     ],
@@ -7092,7 +7092,7 @@
     "unicode_alternates": [],
     "name": "dizzy symbol",
     "shortname": ":dizzy:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7114,7 +7114,7 @@
     "unicode_alternates": [],
     "name": "dizzy face",
     "shortname": ":dizzy_face:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "#-)",
@@ -7146,7 +7146,7 @@
     "unicode_alternates": [],
     "name": "do not litter symbol",
     "shortname": ":do_not_litter:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7326,7 +7326,7 @@
     "unicode_alternates": [],
     "name": "doughnut",
     "shortname": ":doughnut:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7350,7 +7350,7 @@
     "unicode_alternates": [],
     "name": "dove of peace",
     "shortname": ":dove:",
-    "category": "objects_symbols",
+    "category": "nature",
     "aliases": [
       ":dove_of_peace:"
     ],
@@ -7413,7 +7413,7 @@
     "unicode_alternates": [],
     "name": "dress",
     "shortname": ":dress:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7455,7 +7455,7 @@
     "unicode_alternates": [],
     "name": "droplet",
     "shortname": ":droplet:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7516,7 +7516,7 @@
     "unicode_alternates": [],
     "name": "ear",
     "shortname": ":ear:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7701,7 +7701,7 @@
     "unicode_alternates": [],
     "name": "cooking",
     "shortname": ":egg:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7723,7 +7723,7 @@
     "unicode_alternates": [],
     "name": "aubergine",
     "shortname": ":eggplant:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7747,7 +7747,7 @@
     ],
     "name": "digit eight",
     "shortname": ":eight:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7766,7 +7766,7 @@
     ],
     "name": "eight pointed black star",
     "shortname": ":eight_pointed_black_star:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7781,7 +7781,7 @@
     ],
     "name": "eight spoked asterisk",
     "shortname": ":eight_spoked_asterisk:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7829,7 +7829,7 @@
     "unicode_alternates": [],
     "name": "end with leftwards arrow above",
     "shortname": ":end:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -7973,7 +7973,7 @@
     "unicode_alternates": [],
     "name": "european castle",
     "shortname": ":european_castle:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8008,7 +8008,7 @@
     "unicode_alternates": [],
     "name": "european post office",
     "shortname": ":european_post_office:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8046,7 +8046,7 @@
     ],
     "name": "heavy exclamation mark symbol",
     "shortname": ":exclamation:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8061,7 +8061,7 @@
     "unicode_alternates": [],
     "name": "expressionless face",
     "shortname": ":expressionless:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "-_-",
@@ -8123,7 +8123,7 @@
     "unicode_alternates": [],
     "name": "eyeglasses",
     "shortname": ":eyeglasses:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8152,7 +8152,7 @@
     "unicode_alternates": [],
     "name": "eyes",
     "shortname": ":eyes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8170,7 +8170,7 @@
     "unicode_alternates": [],
     "name": "factory",
     "shortname": ":factory:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8207,7 +8207,7 @@
     "unicode_alternates": [],
     "name": "family",
     "shortname": ":family:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8644,7 +8644,7 @@
     "unicode_alternates": [],
     "name": "black right-pointing double triangle",
     "shortname": ":fast_forward:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8676,7 +8676,7 @@
     "unicode_alternates": [],
     "name": "fearful face",
     "shortname": ":fearful:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8728,7 +8728,7 @@
     "unicode_alternates": [],
     "name": "ferris wheel",
     "shortname": ":ferris_wheel:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8785,7 +8785,7 @@
     "unicode_alternates": [],
     "name": "file cabinet",
     "shortname": ":file_cabinet:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8818,7 +8818,7 @@
     "unicode_alternates": [],
     "name": "film frames",
     "shortname": ":film_frames:",
-    "category": "activity",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8923,7 +8923,7 @@
     "unicode_alternates": [],
     "name": "fire",
     "shortname": ":fire:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [
       ":flame:"
     ],
@@ -8941,7 +8941,7 @@
     "unicode_alternates": [],
     "name": "fire engine",
     "shortname": ":fire_engine:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -8982,7 +8982,7 @@
     "unicode_alternates": [],
     "name": "fireworks",
     "shortname": ":fireworks:",
-    "category": "objects",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -9069,7 +9069,7 @@
     "unicode_alternates": [],
     "name": "fish cake with swirl design",
     "shortname": ":fish_cake:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -9090,7 +9090,7 @@
     "unicode_alternates": [],
     "name": "fishing pole and fish",
     "shortname": ":fishing_pole_and_fish:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -9109,7 +9109,7 @@
     "unicode_alternates": [],
     "name": "raised fist",
     "shortname": ":fist:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -9208,7 +9208,7 @@
     ],
     "name": "digit five",
     "shortname": ":five:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -9713,7 +9713,7 @@
     "unicode_alternates": [],
     "name": "waving black flag",
     "shortname": ":flag_black:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":waving_black_flag:"
     ],
@@ -13795,7 +13795,7 @@
     "unicode_alternates": [],
     "name": "waving white flag",
     "shortname": ":flag_white:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":waving_white_flag:"
     ],
@@ -14076,7 +14076,7 @@
     "unicode_alternates": [],
     "name": "flower playing cards",
     "shortname": ":flower_playing_cards:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14097,7 +14097,7 @@
     "unicode_alternates": [],
     "name": "flushed face",
     "shortname": ":flushed:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":$",
@@ -14141,7 +14141,7 @@
     "unicode_alternates": [],
     "name": "foggy",
     "shortname": ":foggy:",
-    "category": "nature",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14193,7 +14193,7 @@
     "unicode_alternates": [],
     "name": "american football",
     "shortname": ":football:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14214,7 +14214,7 @@
     "unicode_alternates": [],
     "name": "footprints",
     "shortname": ":footprints:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14227,7 +14227,7 @@
     "unicode_alternates": [],
     "name": "fork and knife",
     "shortname": ":fork_and_knife:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14249,7 +14249,7 @@
     "unicode_alternates": [],
     "name": "fork and knife with plate",
     "shortname": ":fork_knife_plate:",
-    "category": "travel_places",
+    "category": "food",
     "aliases": [
       ":fork_and_knife_with_plate:"
     ],
@@ -14273,7 +14273,7 @@
     ],
     "name": "fountain",
     "shortname": ":fountain:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14291,7 +14291,7 @@
     ],
     "name": "digit four",
     "shortname": ":four:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14333,7 +14333,7 @@
     "unicode_alternates": [],
     "name": "frame with picture",
     "shortname": ":frame_photo:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":frame_with_picture:"
     ],
@@ -14382,7 +14382,7 @@
     "unicode_alternates": [],
     "name": "squared free",
     "shortname": ":free:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14397,7 +14397,7 @@
     "unicode_alternates": [],
     "name": "fried shrimp",
     "shortname": ":fried_shrimp:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14416,7 +14416,7 @@
     "unicode_alternates": [],
     "name": "french fries",
     "shortname": ":fries:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14452,7 +14452,7 @@
     "unicode_alternates": [],
     "name": "frowning face with open mouth",
     "shortname": ":frowning:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":anguished:"
     ],
@@ -14497,7 +14497,7 @@
     ],
     "name": "fuel pump",
     "shortname": ":fuelpump:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14563,7 +14563,7 @@
     "unicode_alternates": [],
     "name": "game die",
     "shortname": ":game_die:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14597,7 +14597,7 @@
     "unicode_alternates": [],
     "name": "gem stone",
     "shortname": ":gem:",
-    "category": "emoticons",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14615,7 +14615,7 @@
     ],
     "name": "gemini",
     "shortname": ":gemini:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14637,7 +14637,7 @@
     "unicode_alternates": [],
     "name": "ghost",
     "shortname": ":ghost:",
-    "category": "objects",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14675,7 +14675,7 @@
     "unicode_alternates": [],
     "name": "heart with ribbon",
     "shortname": ":gift_heart:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14691,7 +14691,7 @@
     "unicode_alternates": [],
     "name": "girl",
     "shortname": ":girl:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14798,7 +14798,7 @@
     "unicode_alternates": [],
     "name": "globe with meridians",
     "shortname": ":globe_with_meridians:",
-    "category": "nature",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14840,7 +14840,7 @@
     ],
     "name": "flag in hole",
     "shortname": ":golf:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14881,7 +14881,7 @@
     "unicode_alternates": [],
     "name": "grapes",
     "shortname": ":grapes:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14900,7 +14900,7 @@
     "unicode_alternates": [],
     "name": "green apple",
     "shortname": ":green_apple:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14939,7 +14939,7 @@
     "unicode_alternates": [],
     "name": "green heart",
     "shortname": ":green_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14965,7 +14965,7 @@
     "unicode_alternates": [],
     "name": "white exclamation mark ornament",
     "shortname": ":grey_exclamation:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14980,7 +14980,7 @@
     "unicode_alternates": [],
     "name": "white question mark ornament",
     "shortname": ":grey_question:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -14995,7 +14995,7 @@
     "unicode_alternates": [],
     "name": "grimacing face",
     "shortname": ":grimacing:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15016,7 +15016,7 @@
     "unicode_alternates": [],
     "name": "grinning face with smiling eyes",
     "shortname": ":grin:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15040,7 +15040,7 @@
     "unicode_alternates": [],
     "name": "grinning face",
     "shortname": ":grinning:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15061,7 +15061,7 @@
     "unicode_alternates": [],
     "name": "guardsman",
     "shortname": ":guardsman:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15204,7 +15204,7 @@
     "unicode_alternates": [],
     "name": "guitar",
     "shortname": ":guitar:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15243,7 +15243,7 @@
     "unicode_alternates": [],
     "name": "haircut",
     "shortname": ":haircut:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15336,7 +15336,7 @@
     "unicode_alternates": [],
     "name": "hamburger",
     "shortname": ":hamburger:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15551,7 +15551,7 @@
     "unicode_alternates": [],
     "name": "handbag",
     "shortname": ":handbag:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15593,7 +15593,7 @@
     ],
     "name": "number sign",
     "shortname": ":hash:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15666,7 +15666,7 @@
     "unicode_alternates": [],
     "name": "headphone",
     "shortname": ":headphones:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15689,7 +15689,7 @@
     "unicode_alternates": [],
     "name": "hear-no-evil monkey",
     "shortname": ":hear_no_evil:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15710,7 +15710,7 @@
     ],
     "name": "heavy black heart",
     "shortname": ":heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [
       "<3"
@@ -15739,7 +15739,7 @@
     "unicode_alternates": [],
     "name": "heart decoration",
     "shortname": ":heart_decoration:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15773,7 +15773,7 @@
     "unicode_alternates": [],
     "name": "smiling face with heart-shaped eyes",
     "shortname": ":heart_eyes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15804,7 +15804,7 @@
     "unicode_alternates": [],
     "name": "smiling cat face with heart-shaped eyes",
     "shortname": ":heart_eyes_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15827,7 +15827,7 @@
     "unicode_alternates": [],
     "name": "heart with tip on the left",
     "shortname": ":heart_tip:",
-    "category": "celebration",
+    "category": "symbols",
     "aliases": [
       ":heart_with_tip_on_the_left:"
     ],
@@ -15845,7 +15845,7 @@
     "unicode_alternates": [],
     "name": "beating heart",
     "shortname": ":heartbeat:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15862,7 +15862,7 @@
     "unicode_alternates": [],
     "name": "growing heart",
     "shortname": ":heartpulse:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15881,7 +15881,7 @@
     ],
     "name": "black heart suit",
     "shortname": ":hearts:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15900,7 +15900,7 @@
     ],
     "name": "heavy check mark",
     "shortname": ":heavy_check_mark:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15915,7 +15915,7 @@
     "unicode_alternates": [],
     "name": "heavy division sign",
     "shortname": ":heavy_division_sign:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15931,7 +15931,7 @@
     "unicode_alternates": [],
     "name": "heavy dollar sign",
     "shortname": ":heavy_dollar_sign:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15953,7 +15953,7 @@
     "unicode_alternates": [],
     "name": "heavy minus sign",
     "shortname": ":heavy_minus_sign:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15970,7 +15970,7 @@
     ],
     "name": "heavy multiplication x",
     "shortname": ":heavy_multiplication_x:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -15985,7 +15985,7 @@
     "unicode_alternates": [],
     "name": "heavy plus sign",
     "shortname": ":heavy_plus_sign:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16000,7 +16000,7 @@
     "unicode_alternates": [],
     "name": "helicopter",
     "shortname": ":helicopter:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16086,7 +16086,7 @@
     "unicode_alternates": [],
     "name": "high brightness symbol",
     "shortname": ":high_brightness:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16102,7 +16102,7 @@
     "unicode_alternates": [],
     "name": "high-heeled shoe",
     "shortname": ":high_heel:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16137,7 +16137,7 @@
     "unicode_alternates": [],
     "name": "hole",
     "shortname": ":hole:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16152,7 +16152,7 @@
     "unicode_alternates": [],
     "name": "house buildings",
     "shortname": ":homes:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":house_buildings:"
     ],
@@ -16176,7 +16176,7 @@
     "unicode_alternates": [],
     "name": "honey pot",
     "shortname": ":honey_pot:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16211,7 +16211,7 @@
     "unicode_alternates": [],
     "name": "horse racing",
     "shortname": ":horse_racing:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16324,7 +16324,7 @@
     "unicode_alternates": [],
     "name": "hospital",
     "shortname": ":hospital:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16342,7 +16342,7 @@
     "unicode_alternates": [],
     "name": "hot pepper",
     "shortname": ":hot_pepper:",
-    "category": "foods",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16362,7 +16362,7 @@
     "unicode_alternates": [],
     "name": "hot dog",
     "shortname": ":hotdog:",
-    "category": "foods",
+    "category": "food",
     "aliases": [
       ":hot_dog:"
     ],
@@ -16378,7 +16378,7 @@
     "unicode_alternates": [],
     "name": "hotel",
     "shortname": ":hotel:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16402,7 +16402,7 @@
     ],
     "name": "hot springs",
     "shortname": ":hotsprings:",
-    "category": "places",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16452,7 +16452,7 @@
     "unicode_alternates": [],
     "name": "house building",
     "shortname": ":house:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16474,7 +16474,7 @@
     "unicode_alternates": [],
     "name": "derelict house building",
     "shortname": ":house_abandoned:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":derelict_house_building:"
     ],
@@ -16503,7 +16503,7 @@
     "unicode_alternates": [],
     "name": "house with garden",
     "shortname": ":house_with_garden:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16538,7 +16538,7 @@
     "unicode_alternates": [],
     "name": "hushed face",
     "shortname": ":hushed:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16559,7 +16559,7 @@
     "unicode_alternates": [],
     "name": "ice cream",
     "shortname": ":ice_cream:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16601,7 +16601,7 @@
     "unicode_alternates": [],
     "name": "soft ice cream",
     "shortname": ":icecream:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16643,7 +16643,7 @@
     "unicode_alternates": [],
     "name": "circled ideograph advantage",
     "shortname": ":ideograph_advantage:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16661,7 +16661,7 @@
     "unicode_alternates": [],
     "name": "imp",
     "shortname": ":imp:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16727,7 +16727,7 @@
     "unicode_alternates": [],
     "name": "information desk person",
     "shortname": ":information_desk_person:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16871,7 +16871,7 @@
     ],
     "name": "information source",
     "shortname": ":information_source:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16887,7 +16887,7 @@
     "unicode_alternates": [],
     "name": "smiling face with halo",
     "shortname": ":innocent:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "O:-)",
@@ -16924,7 +16924,7 @@
     ],
     "name": "exclamation question mark",
     "shortname": ":interrobang:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -16959,7 +16959,7 @@
     "unicode_alternates": [],
     "name": "desert island",
     "shortname": ":island:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":desert_island:"
     ],
@@ -16982,7 +16982,7 @@
     "unicode_alternates": [],
     "name": "izakaya lantern",
     "shortname": ":izakaya_lantern:",
-    "category": "places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17005,7 +17005,7 @@
     "unicode_alternates": [],
     "name": "jack-o-lantern",
     "shortname": ":jack_o_lantern:",
-    "category": "objects",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17033,7 +17033,7 @@
     "unicode_alternates": [],
     "name": "silhouette of japan",
     "shortname": ":japan:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17051,7 +17051,7 @@
     "unicode_alternates": [],
     "name": "japanese castle",
     "shortname": ":japanese_castle:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17075,7 +17075,7 @@
     "unicode_alternates": [],
     "name": "japanese goblin",
     "shortname": ":japanese_goblin:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17104,7 +17104,7 @@
     "unicode_alternates": [],
     "name": "japanese ogre",
     "shortname": ":japanese_ogre:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17128,7 +17128,7 @@
     "unicode_alternates": [],
     "name": "jeans",
     "shortname": ":jeans:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17166,7 +17166,7 @@
     "unicode_alternates": [],
     "name": "face with tears of joy",
     "shortname": ":joy:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":')",
@@ -17193,7 +17193,7 @@
     "unicode_alternates": [],
     "name": "cat face with tears of joy",
     "shortname": ":joy_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17216,7 +17216,7 @@
     "unicode_alternates": [],
     "name": "joystick",
     "shortname": ":joystick:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17266,7 +17266,7 @@
     "unicode_alternates": [],
     "name": "old key",
     "shortname": ":key2:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":old_key:"
     ],
@@ -17336,7 +17336,7 @@
     "unicode_alternates": [],
     "name": "keycap ten",
     "shortname": ":keycap_ten:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17351,7 +17351,7 @@
     "unicode_alternates": [],
     "name": "kimono",
     "shortname": ":kimono:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17368,7 +17368,7 @@
     "unicode_alternates": [],
     "name": "kiss mark",
     "shortname": ":kiss:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17445,7 +17445,7 @@
     "unicode_alternates": [],
     "name": "kissing face",
     "shortname": ":kissing:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17470,7 +17470,7 @@
     "unicode_alternates": [],
     "name": "kissing cat face with closed eyes",
     "shortname": ":kissing_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17490,7 +17490,7 @@
     "unicode_alternates": [],
     "name": "kissing face with closed eyes",
     "shortname": ":kissing_closed_eyes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17516,7 +17516,7 @@
     "unicode_alternates": [],
     "name": "face throwing a kiss",
     "shortname": ":kissing_heart:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":*",
@@ -17545,7 +17545,7 @@
     "unicode_alternates": [],
     "name": "kissing face with smiling eyes",
     "shortname": ":kissing_smiling_eyes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17598,7 +17598,7 @@
     "unicode_alternates": [],
     "name": "squared katakana koko",
     "shortname": ":koko:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17616,7 +17616,7 @@
     "unicode_alternates": [],
     "name": "label",
     "shortname": ":label:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17630,7 +17630,7 @@
     "unicode_alternates": [],
     "name": "large blue circle",
     "shortname": ":large_blue_circle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17645,7 +17645,7 @@
     "unicode_alternates": [],
     "name": "large blue diamond",
     "shortname": ":large_blue_diamond:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17660,7 +17660,7 @@
     "unicode_alternates": [],
     "name": "large orange diamond",
     "shortname": ":large_orange_diamond:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17719,7 +17719,7 @@
     "unicode_alternates": [],
     "name": "smiling face with open mouth and tightly-closed ey",
     "shortname": ":laughing:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":satisfied:"
     ],
@@ -17786,7 +17786,7 @@
     "unicode_alternates": [],
     "name": "left luggage",
     "shortname": ":left_luggage:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17823,7 +17823,7 @@
     ],
     "name": "left right arrow",
     "shortname": ":left_right_arrow:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17856,7 +17856,7 @@
     ],
     "name": "leftwards arrow with hook",
     "shortname": ":leftwards_arrow_with_hook:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17870,7 +17870,7 @@
     "unicode_alternates": [],
     "name": "lemon",
     "shortname": ":lemon:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17890,7 +17890,7 @@
     ],
     "name": "leo",
     "shortname": ":leo:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17934,7 +17934,7 @@
     "unicode_alternates": [],
     "name": "level slider",
     "shortname": ":level_slider:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -17947,7 +17947,7 @@
     "unicode_alternates": [],
     "name": "man in business suit levitating",
     "shortname": ":levitate:",
-    "category": "people",
+    "category": "activity",
     "aliases": [
       ":man_in_business_suit_levitating:"
     ],
@@ -17967,7 +17967,7 @@
     ],
     "name": "libra",
     "shortname": ":libra:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18120,7 +18120,7 @@
     "unicode_alternates": [],
     "name": "light rail",
     "shortname": ":light_rail:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18138,7 +18138,7 @@
     "unicode_alternates": [],
     "name": "link symbol",
     "shortname": ":link:",
-    "category": "other",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18172,7 +18172,7 @@
     "unicode_alternates": [],
     "name": "mouth",
     "shortname": ":lips:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18204,7 +18204,7 @@
     "unicode_alternates": [],
     "name": "lipstick",
     "shortname": ":lipstick:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18255,7 +18255,7 @@
     "unicode_alternates": [],
     "name": "lollipop",
     "shortname": ":lollipop:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18276,7 +18276,7 @@
     "unicode_alternates": [],
     "name": "double curly loop",
     "shortname": ":loop:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18290,7 +18290,7 @@
     "unicode_alternates": [],
     "name": "speaker with three sound waves",
     "shortname": ":loud_sound:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18304,7 +18304,7 @@
     "unicode_alternates": [],
     "name": "public address loudspeaker",
     "shortname": ":loudspeaker:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18321,7 +18321,7 @@
     "unicode_alternates": [],
     "name": "love hotel",
     "shortname": ":love_hotel:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18348,7 +18348,7 @@
     "unicode_alternates": [],
     "name": "love letter",
     "shortname": ":love_letter:",
-    "category": "emoticons",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18370,7 +18370,7 @@
     "unicode_alternates": [],
     "name": "low brightness symbol",
     "shortname": ":low_brightness:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18387,7 +18387,7 @@
     ],
     "name": "circled latin capital letter m",
     "shortname": ":m:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18443,7 +18443,7 @@
     ],
     "name": "mahjong tile red dragon",
     "shortname": ":mahjong:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18524,7 +18524,7 @@
     "unicode_alternates": [],
     "name": "man",
     "shortname": ":man:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18632,7 +18632,7 @@
     "unicode_alternates": [],
     "name": "man with gua pi mao",
     "shortname": ":man_with_gua_pi_mao:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18744,7 +18744,7 @@
     "unicode_alternates": [],
     "name": "man with turban",
     "shortname": ":man_with_turban:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18874,7 +18874,7 @@
     "unicode_alternates": [],
     "name": "mans shoe",
     "shortname": ":mans_shoe:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18890,7 +18890,7 @@
     "unicode_alternates": [],
     "name": "world map",
     "shortname": ":map:",
-    "category": "travel_places",
+    "category": "objects",
     "aliases": [
       ":world_map:"
     ],
@@ -18930,7 +18930,7 @@
     "unicode_alternates": [],
     "name": "face with medical mask",
     "shortname": ":mask:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -18952,7 +18952,7 @@
     "unicode_alternates": [],
     "name": "face massage",
     "shortname": ":massage:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19045,7 +19045,7 @@
     "unicode_alternates": [],
     "name": "meat on bone",
     "shortname": ":meat_on_bone:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19090,7 +19090,7 @@
     "unicode_alternates": [],
     "name": "cheering megaphone",
     "shortname": ":mega:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19107,7 +19107,7 @@
     "unicode_alternates": [],
     "name": "melon",
     "shortname": ":melon:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19143,7 +19143,7 @@
     "unicode_alternates": [],
     "name": "mens symbol",
     "shortname": ":mens:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19279,7 +19279,7 @@
     "unicode_alternates": [],
     "name": "metro",
     "shortname": ":metro:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19300,7 +19300,7 @@
     "unicode_alternates": [],
     "name": "microphone",
     "shortname": ":microphone:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19321,7 +19321,7 @@
     "unicode_alternates": [],
     "name": "studio microphone",
     "shortname": ":microphone2:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":studio_microphone:"
     ],
@@ -19451,7 +19451,7 @@
     "unicode_alternates": [],
     "name": "military medal",
     "shortname": ":military_medal:",
-    "category": "celebration",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19471,7 +19471,7 @@
     "unicode_alternates": [],
     "name": "milky way",
     "shortname": ":milky_way:",
-    "category": "nature",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19494,7 +19494,7 @@
     "unicode_alternates": [],
     "name": "minibus",
     "shortname": ":minibus:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19530,7 +19530,7 @@
     "unicode_alternates": [],
     "name": "mobile phone off",
     "shortname": ":mobile_phone_off:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19640,7 +19640,7 @@
     "unicode_alternates": [],
     "name": "monorail",
     "shortname": ":monorail:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19713,7 +19713,7 @@
     "unicode_alternates": [],
     "name": "graduation cap",
     "shortname": ":mortar_board:",
-    "category": "objects",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19757,7 +19757,7 @@
     "unicode_alternates": [],
     "name": "motorboat",
     "shortname": ":motorboat:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19775,7 +19775,7 @@
     "unicode_alternates": [],
     "name": "racing motorcycle",
     "shortname": ":motorcycle:",
-    "category": "activity",
+    "category": "travel",
     "aliases": [
       ":racing_motorcycle:"
     ],
@@ -19793,7 +19793,7 @@
     "unicode_alternates": [],
     "name": "motorway",
     "shortname": ":motorway:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19812,7 +19812,7 @@
     "unicode_alternates": [],
     "name": "mount fuji",
     "shortname": ":mount_fuji:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19850,7 +19850,7 @@
     "unicode_alternates": [],
     "name": "mountain bicyclist",
     "shortname": ":mountain_bicyclist:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19958,7 +19958,7 @@
     "unicode_alternates": [],
     "name": "mountain cableway",
     "shortname": ":mountain_cableway:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19978,7 +19978,7 @@
     "unicode_alternates": [],
     "name": "mountain railway",
     "shortname": ":mountain_railway:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -19997,7 +19997,7 @@
     "unicode_alternates": [],
     "name": "snow capped mountain",
     "shortname": ":mountain_snow:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":snow_capped_mountain:"
     ],
@@ -20109,7 +20109,7 @@
     "unicode_alternates": [],
     "name": "moyai",
     "shortname": ":moyai:",
-    "category": "places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20125,7 +20125,7 @@
     "unicode_alternates": [],
     "name": "flexed biceps",
     "shortname": ":muscle:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20260,7 +20260,7 @@
     "unicode_alternates": [],
     "name": "musical keyboard",
     "shortname": ":musical_keyboard:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20279,7 +20279,7 @@
     "unicode_alternates": [],
     "name": "musical note",
     "shortname": ":musical_note:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20298,7 +20298,7 @@
     "unicode_alternates": [],
     "name": "musical score",
     "shortname": ":musical_score:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20319,7 +20319,7 @@
     "unicode_alternates": [],
     "name": "speaker with cancellation stroke",
     "shortname": ":mute:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20335,7 +20335,7 @@
     "unicode_alternates": [],
     "name": "nail polish",
     "shortname": ":nail_care:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20425,7 +20425,7 @@
     "unicode_alternates": [],
     "name": "name badge",
     "shortname": ":name_badge:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20440,7 +20440,7 @@
     "unicode_alternates": [],
     "name": "necktie",
     "shortname": ":necktie:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20457,7 +20457,7 @@
     "unicode_alternates": [],
     "name": "negative squared cross mark",
     "shortname": ":negative_squared_cross_mark:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20508,7 +20508,7 @@
     "unicode_alternates": [],
     "name": "neutral face",
     "shortname": ":neutral_face:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20530,7 +20530,7 @@
     "unicode_alternates": [],
     "name": "squared new",
     "shortname": ":new:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20603,7 +20603,7 @@
     "unicode_alternates": [],
     "name": "rolled-up newspaper",
     "shortname": ":newspaper2:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":rolled_up_newspaper:"
     ],
@@ -20637,7 +20637,7 @@
     "unicode_alternates": [],
     "name": "night with stars",
     "shortname": ":night_with_stars:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20663,7 +20663,7 @@
     ],
     "name": "digit nine",
     "shortname": ":nine:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20680,7 +20680,7 @@
     "unicode_alternates": [],
     "name": "bell with cancellation stroke",
     "shortname": ":no_bell:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20697,7 +20697,7 @@
     "unicode_alternates": [],
     "name": "no bicycles",
     "shortname": ":no_bicycles:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20717,7 +20717,7 @@
     ],
     "name": "no entry",
     "shortname": ":no_entry:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20737,7 +20737,7 @@
     "unicode_alternates": [],
     "name": "no entry sign",
     "shortname": ":no_entry_sign:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20758,7 +20758,7 @@
     "unicode_alternates": [],
     "name": "face with no good gesture",
     "shortname": ":no_good:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20897,7 +20897,7 @@
     "unicode_alternates": [],
     "name": "no mobile phones",
     "shortname": ":no_mobile_phones:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20913,7 +20913,7 @@
     "unicode_alternates": [],
     "name": "face without mouth",
     "shortname": ":no_mouth:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":-X",
@@ -20944,7 +20944,7 @@
     "unicode_alternates": [],
     "name": "no pedestrians",
     "shortname": ":no_pedestrians:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20967,7 +20967,7 @@
     "unicode_alternates": [],
     "name": "no smoking symbol",
     "shortname": ":no_smoking:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -20989,7 +20989,7 @@
     "unicode_alternates": [],
     "name": "non-potable water symbol",
     "shortname": ":non-potable_water:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21012,7 +21012,7 @@
     "unicode_alternates": [],
     "name": "nose",
     "shortname": ":nose:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21200,7 +21200,7 @@
     "unicode_alternates": [],
     "name": "spiral note pad",
     "shortname": ":notepad_spiral:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":spiral_note_pad:"
     ],
@@ -21218,7 +21218,7 @@
     "unicode_alternates": [],
     "name": "multiple musical notes",
     "shortname": ":notes:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21257,7 +21257,7 @@
     ],
     "name": "heavy large circle",
     "shortname": ":o:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21272,7 +21272,7 @@
     "unicode_alternates": [],
     "name": "negative squared latin capital letter o",
     "shortname": ":o2:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21328,7 +21328,7 @@
     "unicode_alternates": [],
     "name": "oden",
     "shortname": ":oden:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21346,7 +21346,7 @@
     "unicode_alternates": [],
     "name": "office building",
     "shortname": ":office:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21362,7 +21362,7 @@
     "unicode_alternates": [],
     "name": "oil drum",
     "shortname": ":oil:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":oil_drum:"
     ],
@@ -21378,7 +21378,7 @@
     "unicode_alternates": [],
     "name": "squared ok",
     "shortname": ":ok:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21395,7 +21395,7 @@
     "unicode_alternates": [],
     "name": "ok hand sign",
     "shortname": ":ok_hand:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21534,7 +21534,7 @@
     "unicode_alternates": [],
     "name": "face with ok gesture",
     "shortname": ":ok_woman:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "*\\0/*",
@@ -21662,7 +21662,7 @@
     "unicode_alternates": [],
     "name": "older man",
     "shortname": ":older_man:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21760,7 +21760,7 @@
     "unicode_alternates": [],
     "name": "older woman",
     "shortname": ":older_woman:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":grandma:"
     ],
@@ -21877,7 +21877,7 @@
     "unicode_alternates": [],
     "name": "om symbol",
     "shortname": ":om_symbol:",
-    "category": "objects_symbols",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21899,7 +21899,7 @@
     "unicode_alternates": [],
     "name": "on with exclamation mark with left right arrow abo",
     "shortname": ":on:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21914,7 +21914,7 @@
     "unicode_alternates": [],
     "name": "oncoming automobile",
     "shortname": ":oncoming_automobile:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21932,7 +21932,7 @@
     "unicode_alternates": [],
     "name": "oncoming bus",
     "shortname": ":oncoming_bus:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21951,7 +21951,7 @@
     "unicode_alternates": [],
     "name": "oncoming police car",
     "shortname": ":oncoming_police_car:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -21976,7 +21976,7 @@
     "unicode_alternates": [],
     "name": "oncoming taxi",
     "shortname": ":oncoming_taxi:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22002,7 +22002,7 @@
     ],
     "name": "digit one",
     "shortname": ":one:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22035,7 +22035,7 @@
     "unicode_alternates": [],
     "name": "open hands sign",
     "shortname": ":open_hands:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22123,7 +22123,7 @@
     "unicode_alternates": [],
     "name": "face with open mouth",
     "shortname": ":open_mouth:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":-O",
@@ -22153,7 +22153,7 @@
     "unicode_alternates": [],
     "name": "ophiuchus",
     "shortname": ":ophiuchus:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22350,7 +22350,7 @@
     "unicode_alternates": [],
     "name": "lower left paintbrush",
     "shortname": ":paintbrush:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":lower_left_paintbrush:"
     ],
@@ -22437,7 +22437,7 @@
     "unicode_alternates": [],
     "name": "linked paperclips",
     "shortname": ":paperclips:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":linked_paperclips:"
     ],
@@ -22456,7 +22456,7 @@
     "unicode_alternates": [],
     "name": "national park",
     "shortname": ":park:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":national_park:"
     ],
@@ -22482,7 +22482,7 @@
     ],
     "name": "negative squared latin capital letter p",
     "shortname": ":parking:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22501,7 +22501,7 @@
     ],
     "name": "part alternation mark",
     "shortname": ":part_alternation_mark:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22544,7 +22544,7 @@
     "unicode_alternates": [],
     "name": "passport control",
     "shortname": ":passport_control:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22600,7 +22600,7 @@
     "unicode_alternates": [],
     "name": "peach",
     "shortname": ":peach:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22619,7 +22619,7 @@
     "unicode_alternates": [],
     "name": "pear",
     "shortname": ":pear:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22636,7 +22636,7 @@
     "unicode_alternates": [],
     "name": "lower left ballpoint pen",
     "shortname": ":pen_ballpoint:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":lower_left_ballpoint_pen:"
     ],
@@ -22655,7 +22655,7 @@
     "unicode_alternates": [],
     "name": "lower left fountain pen",
     "shortname": ":pen_fountain:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":lower_left_fountain_pen:"
     ],
@@ -22777,7 +22777,7 @@
     "unicode_alternates": [],
     "name": "pensive face",
     "shortname": ":pensive:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22802,7 +22802,7 @@
     "unicode_alternates": [],
     "name": "performing arts",
     "shortname": ":performing_arts:",
-    "category": "places",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22826,7 +22826,7 @@
     "unicode_alternates": [],
     "name": "persevering face",
     "shortname": ":persevere:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ">.<"
@@ -22850,7 +22850,7 @@
     "unicode_alternates": [],
     "name": "person frowning",
     "shortname": ":person_frowning:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -22967,7 +22967,7 @@
     "unicode_alternates": [],
     "name": "person with blond hair",
     "shortname": ":person_with_blond_hair:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23084,7 +23084,7 @@
     "unicode_alternates": [],
     "name": "person with pouting face",
     "shortname": ":person_with_pouting_face:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23295,7 +23295,7 @@
     "unicode_alternates": [],
     "name": "pineapple",
     "shortname": ":pineapple:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23350,7 +23350,7 @@
     ],
     "name": "pisces",
     "shortname": ":pisces:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23373,7 +23373,7 @@
     "unicode_alternates": [],
     "name": "slice of pizza",
     "shortname": ":pizza:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23430,7 +23430,7 @@
     "unicode_alternates": [],
     "name": "white down pointing backhand index",
     "shortname": ":point_down:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23523,7 +23523,7 @@
     "unicode_alternates": [],
     "name": "white left pointing backhand index",
     "shortname": ":point_left:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23617,7 +23617,7 @@
     "unicode_alternates": [],
     "name": "white right pointing backhand index",
     "shortname": ":point_right:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23713,7 +23713,7 @@
     ],
     "name": "white up pointing index",
     "shortname": ":point_up:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23732,7 +23732,7 @@
     "unicode_alternates": [],
     "name": "white up pointing backhand index",
     "shortname": ":point_up_2:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23910,7 +23910,7 @@
     "unicode_alternates": [],
     "name": "police car",
     "shortname": ":police_car:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23957,7 +23957,7 @@
     "unicode_alternates": [],
     "name": "pile of poo",
     "shortname": ":poop:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":shit:",
       ":hankey:",
@@ -23981,7 +23981,7 @@
     "unicode_alternates": [],
     "name": "popcorn",
     "shortname": ":popcorn:",
-    "category": "foods",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -23995,7 +23995,7 @@
     "unicode_alternates": [],
     "name": "japanese post office",
     "shortname": ":post_office:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24043,7 +24043,7 @@
     "unicode_alternates": [],
     "name": "potable water symbol",
     "shortname": ":potable_water:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24069,7 +24069,7 @@
     "unicode_alternates": [],
     "name": "pouch",
     "shortname": ":pouch:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24090,7 +24090,7 @@
     "unicode_alternates": [],
     "name": "poultry leg",
     "shortname": ":poultry_leg:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24133,7 +24133,7 @@
     "unicode_alternates": [],
     "name": "pouting cat face",
     "shortname": ":pouting_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24153,7 +24153,7 @@
     "unicode_alternates": [],
     "name": "person with folded hands",
     "shortname": ":pray:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24306,7 +24306,7 @@
     "unicode_alternates": [],
     "name": "princess",
     "shortname": ":princess:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24456,7 +24456,7 @@
     "unicode_alternates": [],
     "name": "printer",
     "shortname": ":printer:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24496,7 +24496,7 @@
     "unicode_alternates": [],
     "name": "film projector",
     "shortname": ":projector:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":film_projector:"
     ],
@@ -24518,7 +24518,7 @@
     "unicode_alternates": [],
     "name": "fisted hand sign",
     "shortname": ":punch:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24608,7 +24608,7 @@
     "unicode_alternates": [],
     "name": "purple heart",
     "shortname": ":purple_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24637,7 +24637,7 @@
     "unicode_alternates": [],
     "name": "purse",
     "shortname": ":purse:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24689,7 +24689,7 @@
     "unicode_alternates": [],
     "name": "put litter in its place symbol",
     "shortname": ":put_litter_in_its_place:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24709,7 +24709,7 @@
     "unicode_alternates": [],
     "name": "black question mark ornament",
     "shortname": ":question:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24761,7 +24761,7 @@
     "unicode_alternates": [],
     "name": "racing car",
     "shortname": ":race_car:",
-    "category": "activity",
+    "category": "travel",
     "aliases": [
       ":racing_car:"
     ],
@@ -24834,7 +24834,7 @@
     "unicode_alternates": [],
     "name": "radio button",
     "shortname": ":radio_button:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24865,7 +24865,7 @@
     "unicode_alternates": [],
     "name": "pouting face",
     "shortname": ":rage:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24887,7 +24887,7 @@
     "unicode_alternates": [],
     "name": "railway car",
     "shortname": ":railway_car:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24907,7 +24907,7 @@
     "unicode_alternates": [],
     "name": "railway track",
     "shortname": ":railway_track:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [
       ":railroad_track:"
     ],
@@ -24928,7 +24928,7 @@
     "unicode_alternates": [],
     "name": "rainbow",
     "shortname": ":rainbow:",
-    "category": "nature",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -24956,7 +24956,7 @@
     "unicode_alternates": [],
     "name": "raised hand",
     "shortname": ":raised_hand:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25051,7 +25051,7 @@
     "unicode_alternates": [],
     "name": "person raising both hands in celebration",
     "shortname": ":raised_hands:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25170,7 +25170,7 @@
     "unicode_alternates": [],
     "name": "happy person raising one hand",
     "shortname": ":raising_hand:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25308,7 +25308,7 @@
     "unicode_alternates": [],
     "name": "steaming bowl",
     "shortname": ":ramen:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25365,7 +25365,7 @@
     ],
     "name": "black universal recycling symbol",
     "shortname": ":recycle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25382,7 +25382,7 @@
     "unicode_alternates": [],
     "name": "automobile",
     "shortname": ":red_car:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25398,7 +25398,7 @@
     "unicode_alternates": [],
     "name": "large red circle",
     "shortname": ":red_circle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25415,7 +25415,7 @@
     "unicode_alternates": [],
     "name": "registered sign",
     "shortname": ":registered:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25431,7 +25431,7 @@
     ],
     "name": "white smiling face",
     "shortname": ":relaxed:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25450,7 +25450,7 @@
     "unicode_alternates": [],
     "name": "relieved face",
     "shortname": ":relieved:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25472,7 +25472,7 @@
     "unicode_alternates": [],
     "name": "reminder ribbon",
     "shortname": ":reminder_ribbon:",
-    "category": "celebration",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25486,7 +25486,7 @@
     "unicode_alternates": [],
     "name": "clockwise rightwards and leftwards open circle arr",
     "shortname": ":repeat:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25502,7 +25502,7 @@
     "unicode_alternates": [],
     "name": "clockwise rightwards and leftwards open circle arr",
     "shortname": ":repeat_one:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25518,7 +25518,7 @@
     "unicode_alternates": [],
     "name": "restroom",
     "shortname": ":restroom:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25540,7 +25540,7 @@
     "unicode_alternates": [],
     "name": "revolving hearts",
     "shortname": ":revolving_hearts:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25564,7 +25564,7 @@
     "unicode_alternates": [],
     "name": "black left-pointing double triangle",
     "shortname": ":rewind:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25580,7 +25580,7 @@
     "unicode_alternates": [],
     "name": "ribbon",
     "shortname": ":ribbon:",
-    "category": "emoticons",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25603,7 +25603,7 @@
     "unicode_alternates": [],
     "name": "cooked rice",
     "shortname": ":rice:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25622,7 +25622,7 @@
     "unicode_alternates": [],
     "name": "rice ball",
     "shortname": ":rice_ball:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25643,7 +25643,7 @@
     "unicode_alternates": [],
     "name": "rice cracker",
     "shortname": ":rice_cracker:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25661,7 +25661,7 @@
     "unicode_alternates": [],
     "name": "moon viewing ceremony",
     "shortname": ":rice_scene:",
-    "category": "objects",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25737,7 +25737,7 @@
     "unicode_alternates": [],
     "name": "ring",
     "shortname": ":ring:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25790,7 +25790,7 @@
     "unicode_alternates": [],
     "name": "rocket",
     "shortname": ":rocket:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25814,7 +25814,7 @@
     "unicode_alternates": [],
     "name": "roller coaster",
     "shortname": ":roller_coaster:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25907,7 +25907,7 @@
     "unicode_alternates": [],
     "name": "rosette",
     "shortname": ":rosette:",
-    "category": "objects_symbols",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25934,7 +25934,7 @@
     "unicode_alternates": [],
     "name": "police cars revolving light",
     "shortname": ":rotating_light:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25953,7 +25953,7 @@
     "unicode_alternates": [],
     "name": "round pushpin",
     "shortname": ":round_pushpin:",
-    "category": "places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -25968,7 +25968,7 @@
     "unicode_alternates": [],
     "name": "rowboat",
     "shortname": ":rowboat:",
-    "category": "places",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26088,7 +26088,7 @@
     "unicode_alternates": [],
     "name": "rugby football",
     "shortname": ":rugby_football:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26108,7 +26108,7 @@
     "unicode_alternates": [],
     "name": "runner",
     "shortname": ":runner:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26233,7 +26233,7 @@
     "unicode_alternates": [],
     "name": "running shirt with sash",
     "shortname": ":running_shirt_with_sash:",
-    "category": "emoticons",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26272,7 +26272,7 @@
     ],
     "name": "sagittarius",
     "shortname": ":sagittarius:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26297,7 +26297,7 @@
     ],
     "name": "sailboat",
     "shortname": ":sailboat:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26314,7 +26314,7 @@
     "unicode_alternates": [],
     "name": "sake bottle and cup",
     "shortname": ":sake:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26337,7 +26337,7 @@
     "unicode_alternates": [],
     "name": "womans sandal",
     "shortname": ":sandal:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26353,7 +26353,7 @@
     "unicode_alternates": [],
     "name": "father christmas",
     "shortname": ":santa:",
-    "category": "objects",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26537,7 +26537,7 @@
     "unicode_alternates": [],
     "name": "satellite",
     "shortname": ":satellite_orbital:",
-    "category": "objects_symbols",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26553,7 +26553,7 @@
     "unicode_alternates": [],
     "name": "saxophone",
     "shortname": ":saxophone:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26590,7 +26590,7 @@
     "unicode_alternates": [],
     "name": "school",
     "shortname": ":school:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26612,7 +26612,7 @@
     "unicode_alternates": [],
     "name": "school satchel",
     "shortname": ":school_satchel:",
-    "category": "objects",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26677,7 +26677,7 @@
     ],
     "name": "scorpius",
     "shortname": ":scorpius:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26700,7 +26700,7 @@
     "unicode_alternates": [],
     "name": "face screaming in fear",
     "shortname": ":scream:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26723,7 +26723,7 @@
     "unicode_alternates": [],
     "name": "weary cat face",
     "shortname": ":scream_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26765,7 +26765,7 @@
     "unicode_alternates": [],
     "name": "seat",
     "shortname": ":seat:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26784,7 +26784,7 @@
     ],
     "name": "circled ideograph secret",
     "shortname": ":secret:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26799,7 +26799,7 @@
     "unicode_alternates": [],
     "name": "see-no-evil monkey",
     "shortname": ":see_no_evil:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26843,7 +26843,7 @@
     ],
     "name": "digit seven",
     "shortname": ":seven:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26877,7 +26877,7 @@
     "unicode_alternates": [],
     "name": "shaved ice",
     "shortname": ":shaved_ice:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26939,7 +26939,7 @@
     "unicode_alternates": [],
     "name": "shield",
     "shortname": ":shield:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26974,7 +26974,7 @@
     "unicode_alternates": [],
     "name": "ship",
     "shortname": ":ship:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -26993,7 +26993,7 @@
     "unicode_alternates": [],
     "name": "t-shirt",
     "shortname": ":shirt:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27007,7 +27007,7 @@
     "unicode_alternates": [],
     "name": "shopping bags",
     "shortname": ":shopping_bags:",
-    "category": "travel_places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27049,7 +27049,7 @@
     "unicode_alternates": [],
     "name": "antenna with bars",
     "shortname": ":signal_strength:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27066,7 +27066,7 @@
     ],
     "name": "digit six",
     "shortname": ":six:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27083,7 +27083,7 @@
     "unicode_alternates": [],
     "name": "six pointed star with middle dot",
     "shortname": ":six_pointed_star:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27100,7 +27100,7 @@
     "unicode_alternates": [],
     "name": "ski and ski boot",
     "shortname": ":ski:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27148,7 +27148,7 @@
     "unicode_alternates": [],
     "name": "skull",
     "shortname": ":skull:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":skeleton:"
     ],
@@ -27189,7 +27189,7 @@
     "unicode_alternates": [],
     "name": "sleeping face",
     "shortname": ":sleeping:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27210,7 +27210,7 @@
     "unicode_alternates": [],
     "name": "sleeping accommodation",
     "shortname": ":sleeping_accommodation:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27226,7 +27226,7 @@
     "unicode_alternates": [],
     "name": "sleepy face",
     "shortname": ":sleepy:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27285,7 +27285,7 @@
     "unicode_alternates": [],
     "name": "slot machine",
     "shortname": ":slot_machine:",
-    "category": "places",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27307,7 +27307,7 @@
     "unicode_alternates": [],
     "name": "small blue diamond",
     "shortname": ":small_blue_diamond:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27322,7 +27322,7 @@
     "unicode_alternates": [],
     "name": "small orange diamond",
     "shortname": ":small_orange_diamond:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27337,7 +27337,7 @@
     "unicode_alternates": [],
     "name": "up-pointing red triangle",
     "shortname": ":small_red_triangle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27353,7 +27353,7 @@
     "unicode_alternates": [],
     "name": "down-pointing red triangle",
     "shortname": ":small_red_triangle_down:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27369,7 +27369,7 @@
     "unicode_alternates": [],
     "name": "smiling face with open mouth and smiling eyes",
     "shortname": ":smile:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":)",
@@ -27397,7 +27397,7 @@
     "unicode_alternates": [],
     "name": "grinning cat face with smiling eyes",
     "shortname": ":smile_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27416,7 +27416,7 @@
     "unicode_alternates": [],
     "name": "smiling face with open mouth",
     "shortname": ":smiley:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":D",
@@ -27441,7 +27441,7 @@
     "unicode_alternates": [],
     "name": "smiling cat face with open mouth",
     "shortname": ":smiley_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27459,7 +27459,7 @@
     "unicode_alternates": [],
     "name": "smiling face with horns",
     "shortname": ":smiling_imp:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27480,7 +27480,7 @@
     "unicode_alternates": [],
     "name": "smirking face",
     "shortname": ":smirk:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27504,7 +27504,7 @@
     "unicode_alternates": [],
     "name": "cat face with wry smile",
     "shortname": ":smirk_cat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27585,7 +27585,7 @@
     "unicode_alternates": [],
     "name": "snowboarder",
     "shortname": ":snowboarder:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27685,7 +27685,7 @@
     "unicode_alternates": [],
     "name": "loudly crying face",
     "shortname": ":sob:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27712,7 +27712,7 @@
     ],
     "name": "soccer ball",
     "shortname": ":soccer:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27733,7 +27733,7 @@
     "unicode_alternates": [],
     "name": "soon with rightwards arrow above",
     "shortname": ":soon:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27748,7 +27748,7 @@
     "unicode_alternates": [],
     "name": "squared sos",
     "shortname": ":sos:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27765,7 +27765,7 @@
     "unicode_alternates": [],
     "name": "speaker with one sound wave",
     "shortname": ":sound:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27781,7 +27781,7 @@
     "unicode_alternates": [],
     "name": "alien monster",
     "shortname": ":space_invader:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27799,7 +27799,7 @@
     ],
     "name": "black spade suit",
     "shortname": ":spades:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27815,7 +27815,7 @@
     "unicode_alternates": [],
     "name": "spaghetti",
     "shortname": ":spaghetti:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27837,7 +27837,7 @@
     ],
     "name": "sparkle",
     "shortname": ":sparkle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27852,7 +27852,7 @@
     "unicode_alternates": [],
     "name": "firework sparkler",
     "shortname": ":sparkler:",
-    "category": "objects",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27868,7 +27868,7 @@
     "unicode_alternates": [],
     "name": "sparkles",
     "shortname": ":sparkles:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27886,7 +27886,7 @@
     "unicode_alternates": [],
     "name": "sparkling heart",
     "shortname": ":sparkling_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27904,7 +27904,7 @@
     "unicode_alternates": [],
     "name": "speak-no-evil monkey",
     "shortname": ":speak_no_evil:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27926,7 +27926,7 @@
     "unicode_alternates": [],
     "name": "speaker",
     "shortname": ":speaker:",
-    "category": "objects",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -27944,7 +27944,7 @@
     "unicode_alternates": [],
     "name": "speaking head in silhouette",
     "shortname": ":speaking_head:",
-    "category": "objects_symbols",
+    "category": "people",
     "aliases": [
       ":speaking_head_in_silhouette:"
     ],
@@ -27960,7 +27960,7 @@
     "unicode_alternates": [],
     "name": "speech balloon",
     "shortname": ":speech_balloon:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28067,7 +28067,7 @@
     "unicode_alternates": [],
     "name": "speedboat",
     "shortname": ":speedboat:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28234,7 +28234,7 @@
     "unicode_alternates": [],
     "name": "stadium",
     "shortname": ":stadium:",
-    "category": "travel_places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28275,7 +28275,7 @@
     "unicode_alternates": [],
     "name": "glowing star",
     "shortname": ":star2:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28330,7 +28330,7 @@
     "unicode_alternates": [],
     "name": "shooting star",
     "shortname": ":stars:",
-    "category": "nature",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28351,7 +28351,7 @@
     "unicode_alternates": [],
     "name": "station",
     "shortname": ":station:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28370,7 +28370,7 @@
     "unicode_alternates": [],
     "name": "statue of liberty",
     "shortname": ":statue_of_liberty:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28390,7 +28390,7 @@
     "unicode_alternates": [],
     "name": "steam locomotive",
     "shortname": ":steam_locomotive:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28428,7 +28428,7 @@
     "unicode_alternates": [],
     "name": "pot of food",
     "shortname": ":stew:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28512,7 +28512,7 @@
     "unicode_alternates": [],
     "name": "strawberry",
     "shortname": ":strawberry:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28531,7 +28531,7 @@
     "unicode_alternates": [],
     "name": "face with stuck-out tongue",
     "shortname": ":stuck_out_tongue:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ":P",
@@ -28568,7 +28568,7 @@
     "unicode_alternates": [],
     "name": "face with stuck-out tongue and tightly-closed eyes",
     "shortname": ":stuck_out_tongue_closed_eyes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28591,7 +28591,7 @@
     "unicode_alternates": [],
     "name": "face with stuck-out tongue and winking eye",
     "shortname": ":stuck_out_tongue_winking_eye:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ">:P",
@@ -28660,7 +28660,7 @@
     "unicode_alternates": [],
     "name": "smiling face with sunglasses",
     "shortname": ":sunglasses:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "B-)",
@@ -28712,7 +28712,7 @@
     "unicode_alternates": [],
     "name": "sunrise",
     "shortname": ":sunrise:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28737,7 +28737,7 @@
     "unicode_alternates": [],
     "name": "sunrise over mountains",
     "shortname": ":sunrise_over_mountains:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28763,7 +28763,7 @@
     "unicode_alternates": [],
     "name": "surfer",
     "shortname": ":surfer:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28883,7 +28883,7 @@
     "unicode_alternates": [],
     "name": "sushi",
     "shortname": ":sushi:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28902,7 +28902,7 @@
     "unicode_alternates": [],
     "name": "suspension railway",
     "shortname": ":suspension_railway:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28921,7 +28921,7 @@
     "unicode_alternates": [],
     "name": "face with cold sweat",
     "shortname": ":sweat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "':(",
@@ -28950,7 +28950,7 @@
     "unicode_alternates": [],
     "name": "splashing sweat symbol",
     "shortname": ":sweat_drops:",
-    "category": "emoticons",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -28966,7 +28966,7 @@
     "unicode_alternates": [],
     "name": "smiling face with open mouth and cold sweat",
     "shortname": ":sweat_smile:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       "':)",
@@ -28995,7 +28995,7 @@
     "unicode_alternates": [],
     "name": "roasted sweet potato",
     "shortname": ":sweet_potato:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29015,7 +29015,7 @@
     "unicode_alternates": [],
     "name": "swimmer",
     "shortname": ":swimmer:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29145,7 +29145,7 @@
     "unicode_alternates": [],
     "name": "input symbol for symbols",
     "shortname": ":symbols:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29197,7 +29197,7 @@
     "unicode_alternates": [],
     "name": "taco",
     "shortname": ":taco:",
-    "category": "foods",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29241,7 +29241,7 @@
     "unicode_alternates": [],
     "name": "tanabata tree",
     "shortname": ":tanabata_tree:",
-    "category": "objects",
+    "category": "nature",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29262,7 +29262,7 @@
     "unicode_alternates": [],
     "name": "tangerine",
     "shortname": ":tangerine:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29282,7 +29282,7 @@
     ],
     "name": "taurus",
     "shortname": ":taurus:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29305,7 +29305,7 @@
     "unicode_alternates": [],
     "name": "taxi",
     "shortname": ":taxi:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29328,7 +29328,7 @@
     "unicode_alternates": [],
     "name": "teacup without handle",
     "shortname": ":tea:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29459,7 +29459,7 @@
     "unicode_alternates": [],
     "name": "tennis racquet and ball",
     "shortname": ":tennis:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29485,7 +29485,7 @@
     ],
     "name": "tent",
     "shortname": ":tent:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29503,7 +29503,7 @@
     "unicode_alternates": [],
     "name": "thermometer",
     "shortname": ":thermometer:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29555,7 +29555,7 @@
     "unicode_alternates": [],
     "name": "thought balloon",
     "shortname": ":thought_balloon:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29620,7 +29620,7 @@
     ],
     "name": "digit three",
     "shortname": ":three:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -29674,7 +29674,7 @@
     "unicode_alternates": [],
     "name": "thumbs down sign",
     "shortname": ":thumbsdown:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":-1:"
     ],
@@ -29778,7 +29778,7 @@
     "unicode_alternates": [],
     "name": "thumbs up sign",
     "shortname": ":thumbsup:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [
       ":+1:"
     ],
@@ -29920,7 +29920,7 @@
     "unicode_alternates": [],
     "name": "ticket",
     "shortname": ":ticket:",
-    "category": "places",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30024,7 +30024,7 @@
     "unicode_alternates": [],
     "name": "tired face",
     "shortname": ":tired_face:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30088,7 +30088,7 @@
     "unicode_alternates": [],
     "name": "tokyo tower",
     "shortname": ":tokyo_tower:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30106,7 +30106,7 @@
     "unicode_alternates": [],
     "name": "tomato",
     "shortname": ":tomato:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30181,7 +30181,7 @@
     "unicode_alternates": [],
     "name": "tongue",
     "shortname": ":tongue:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30211,7 +30211,7 @@
     "unicode_alternates": [],
     "name": "hammer and wrench",
     "shortname": ":tools:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [
       ":hammer_and_wrench:"
     ],
@@ -30228,7 +30228,7 @@
     "unicode_alternates": [],
     "name": "top with upwards arrow above",
     "shortname": ":top:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30244,7 +30244,7 @@
     "unicode_alternates": [],
     "name": "top hat",
     "shortname": ":tophat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30312,7 +30312,7 @@
     "unicode_alternates": [],
     "name": "trackball",
     "shortname": ":trackball:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30331,7 +30331,7 @@
     "unicode_alternates": [],
     "name": "tractor",
     "shortname": ":tractor:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30353,7 +30353,7 @@
     "unicode_alternates": [],
     "name": "horizontal traffic light",
     "shortname": ":traffic_light:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30374,7 +30374,7 @@
     "unicode_alternates": [],
     "name": "Tram Car",
     "shortname": ":train:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30391,7 +30391,7 @@
     "unicode_alternates": [],
     "name": "train",
     "shortname": ":train2:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30427,7 +30427,7 @@
     "unicode_alternates": [],
     "name": "tram",
     "shortname": ":tram:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30462,7 +30462,7 @@
     "unicode_alternates": [],
     "name": "triangular flag on post",
     "shortname": ":triangular_flag_on_post:",
-    "category": "places",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30500,7 +30500,7 @@
     "unicode_alternates": [],
     "name": "trident emblem",
     "shortname": ":trident:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30516,7 +30516,7 @@
     "unicode_alternates": [],
     "name": "face with look of triumph",
     "shortname": ":triumph:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30538,7 +30538,7 @@
     "unicode_alternates": [],
     "name": "trolleybus",
     "shortname": ":trolleybus:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30558,7 +30558,7 @@
     "unicode_alternates": [],
     "name": "trophy",
     "shortname": ":trophy:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30586,7 +30586,7 @@
     "unicode_alternates": [],
     "name": "tropical drink",
     "shortname": ":tropical_drink:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30624,7 +30624,7 @@
     "unicode_alternates": [],
     "name": "delivery truck",
     "shortname": ":truck:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30641,7 +30641,7 @@
     "unicode_alternates": [],
     "name": "trumpet",
     "shortname": ":trumpet:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30753,7 +30753,7 @@
     "unicode_alternates": [],
     "name": "twisted rightwards arrows",
     "shortname": ":twisted_rightwards_arrows:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30771,7 +30771,7 @@
     ],
     "name": "digit two",
     "shortname": ":two:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30789,7 +30789,7 @@
     "unicode_alternates": [],
     "name": "two hearts",
     "shortname": ":two_hearts:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30810,7 +30810,7 @@
     "unicode_alternates": [],
     "name": "two men holding hands",
     "shortname": ":two_men_holding_hands:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30837,7 +30837,7 @@
     "unicode_alternates": [],
     "name": "two women holding hands",
     "shortname": ":two_women_holding_hands:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30868,7 +30868,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-5272",
     "shortname": ":u5272:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30886,7 +30886,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-5408",
     "shortname": ":u5408:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30904,7 +30904,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-55b6",
     "shortname": ":u55b6:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30921,7 +30921,7 @@
     ],
     "name": "squared cjk unified ideograph-6307",
     "shortname": ":u6307:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30938,7 +30938,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-6708",
     "shortname": ":u6708:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30956,7 +30956,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-6709",
     "shortname": ":u6709:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30973,7 +30973,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-6e80",
     "shortname": ":u6e80:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -30994,7 +30994,7 @@
     ],
     "name": "squared cjk unified ideograph-7121",
     "shortname": ":u7121:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31013,7 +31013,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-7533",
     "shortname": ":u7533:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31029,7 +31029,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-7981",
     "shortname": ":u7981:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31049,7 +31049,7 @@
     "unicode_alternates": [],
     "name": "squared cjk unified ideograph-7a7a",
     "shortname": ":u7a7a:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31103,7 +31103,7 @@
     "unicode_alternates": [],
     "name": "unamused face",
     "shortname": ":unamused:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31131,7 +31131,7 @@
     "unicode_alternates": [],
     "name": "no one under eighteen symbol",
     "shortname": ":underage:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31179,7 +31179,7 @@
     "unicode_alternates": [],
     "name": "squared up with exclamation mark",
     "shortname": ":up:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31230,7 +31230,7 @@
     ],
     "name": "victory hand",
     "shortname": ":v:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31339,7 +31339,7 @@
     "unicode_alternates": [],
     "name": "vertical traffic light",
     "shortname": ":vertical_traffic_light:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31376,7 +31376,7 @@
     "unicode_alternates": [],
     "name": "vibration mode",
     "shortname": ":vibration_mode:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31408,7 +31408,7 @@
     "unicode_alternates": [],
     "name": "video game",
     "shortname": ":video_game:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31431,7 +31431,7 @@
     "unicode_alternates": [],
     "name": "violin",
     "shortname": ":violin:",
-    "category": "objects",
+    "category": "activity",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31451,7 +31451,7 @@
     ],
     "name": "virgo",
     "shortname": ":virgo:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31473,7 +31473,7 @@
     "unicode_alternates": [],
     "name": "volcano",
     "shortname": ":volcano:",
-    "category": "nature",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31510,7 +31510,7 @@
     "unicode_alternates": [],
     "name": "squared vs",
     "shortname": ":vs:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31649,7 +31649,7 @@
     "unicode_alternates": [],
     "name": "pedestrian",
     "shortname": ":walking:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31806,7 +31806,7 @@
     ],
     "name": "warning sign",
     "shortname": ":warning:",
-    "category": "places",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31822,7 +31822,7 @@
     "unicode_alternates": [],
     "name": "wastebasket",
     "shortname": ":wastebasket:",
-    "category": "objects_symbols",
+    "category": "objects",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31879,7 +31879,7 @@
     "unicode_alternates": [],
     "name": "watermelon",
     "shortname": ":watermelon:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -31897,7 +31897,7 @@
     "unicode_alternates": [],
     "name": "waving hand sign",
     "shortname": ":wave:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32007,7 +32007,7 @@
     "unicode_alternates": [],
     "name": "wavy dash",
     "shortname": ":wavy_dash:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32058,7 +32058,7 @@
     "unicode_alternates": [],
     "name": "water closet",
     "shortname": ":wc:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32082,7 +32082,7 @@
     "unicode_alternates": [],
     "name": "weary face",
     "shortname": ":weary:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32108,7 +32108,7 @@
     "unicode_alternates": [],
     "name": "wedding",
     "shortname": ":wedding:",
-    "category": "places",
+    "category": "travel",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32192,7 +32192,7 @@
     ],
     "name": "wheelchair symbol",
     "shortname": ":wheelchair:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32207,7 +32207,7 @@
     "unicode_alternates": [],
     "name": "white heavy check mark",
     "shortname": ":white_check_mark:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32225,7 +32225,7 @@
     ],
     "name": "medium white circle",
     "shortname": ":white_circle:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32241,7 +32241,7 @@
     "unicode_alternates": [],
     "name": "white flower",
     "shortname": ":white_flower:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32269,7 +32269,7 @@
     ],
     "name": "white large square",
     "shortname": ":white_large_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32287,7 +32287,7 @@
     ],
     "name": "white medium small square",
     "shortname": ":white_medium_small_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32305,7 +32305,7 @@
     ],
     "name": "white medium square",
     "shortname": ":white_medium_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32323,7 +32323,7 @@
     ],
     "name": "white small square",
     "shortname": ":white_small_square:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32339,7 +32339,7 @@
     "unicode_alternates": [],
     "name": "white square button",
     "shortname": ":white_square_button:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32458,7 +32458,7 @@
     "unicode_alternates": [],
     "name": "wine glass",
     "shortname": ":wine_glass:",
-    "category": "objects",
+    "category": "food",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32485,7 +32485,7 @@
     "unicode_alternates": [],
     "name": "winking face",
     "shortname": ":wink:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [
       ";)",
@@ -32549,7 +32549,7 @@
     "unicode_alternates": [],
     "name": "woman",
     "shortname": ":woman:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32645,7 +32645,7 @@
     "unicode_alternates": [],
     "name": "womans clothes",
     "shortname": ":womans_clothes:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32671,7 +32671,7 @@
     "unicode_alternates": [],
     "name": "womans hat",
     "shortname": ":womans_hat:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32687,7 +32687,7 @@
     "unicode_alternates": [],
     "name": "womens symbol",
     "shortname": ":womens:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32708,7 +32708,7 @@
     "unicode_alternates": [],
     "name": "worried face",
     "shortname": ":worried:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32845,7 +32845,7 @@
     "unicode_alternates": [],
     "name": "cross mark",
     "shortname": ":x:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32862,7 +32862,7 @@
     "unicode_alternates": [],
     "name": "yellow heart",
     "shortname": ":yellow_heart:",
-    "category": "emoticons",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32930,7 +32930,7 @@
     "unicode_alternates": [],
     "name": "face savouring delicious food",
     "shortname": ":yum:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -32982,7 +32982,7 @@
     ],
     "name": "digit zero",
     "shortname": ":zero:",
-    "category": "other",
+    "category": "symbols",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
@@ -33015,7 +33015,7 @@
     "unicode_alternates": [],
     "name": "sleeping symbol",
     "shortname": ":zzz:",
-    "category": "emoticons",
+    "category": "people",
     "aliases": [],
     "aliases_ascii": [],
     "keywords": [
