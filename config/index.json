@@ -8220,7 +8220,7 @@
     "unicode_alternates": [
       "0038-FE0F-20E3"
     ],
-    "name": "digit eight",
+    "name": "keycap digit eight",
     "shortname": ":eight:",
     "category": "symbols",
     "aliases": [],
@@ -9866,7 +9866,7 @@
     "unicode_alternates": [
       "0035-FE0F-20E3"
     ],
-    "name": "digit five",
+    "name": "keycap digit five",
     "shortname": ":five:",
     "category": "symbols",
     "aliases": [],
@@ -14949,7 +14949,7 @@
     "unicode_alternates": [
       "0034-FE0F-20E3"
     ],
-    "name": "digit four",
+    "name": "keycap digit four",
     "shortname": ":four:",
     "category": "symbols",
     "aliases": [],
@@ -21979,7 +21979,7 @@
     "unicode_alternates": [
       "0039-FE0F-20E3"
     ],
-    "name": "digit nine",
+    "name": "keycap digit nine",
     "shortname": ":nine:",
     "category": "symbols",
     "aliases": [],
@@ -23331,7 +23331,7 @@
     "unicode_alternates": [
       "0031-FE0F-20E3"
     ],
-    "name": "digit one",
+    "name": "keycap digit one",
     "shortname": ":one:",
     "category": "symbols",
     "aliases": [],
@@ -28943,7 +28943,7 @@
     "unicode_alternates": [
       "0037-FE0F-20E3"
     ],
-    "name": "digit seven",
+    "name": "keycap digit seven",
     "shortname": ":seven:",
     "category": "symbols",
     "aliases": [],
@@ -29282,7 +29282,7 @@
     "unicode_alternates": [
       "0036-FE0F-20E3"
     ],
-    "name": "digit six",
+    "name": "keycap digit six",
     "shortname": ":six:",
     "category": "symbols",
     "aliases": [],
@@ -31897,7 +31897,7 @@
     "unicode_alternates": [
       "0033-FE0F-20E3"
     ],
-    "name": "digit three",
+    "name": "keycap digit three",
     "shortname": ":three:",
     "category": "symbols",
     "aliases": [],
@@ -33063,7 +33063,7 @@
     "unicode_alternates": [
       "0032-FE0F-20E3"
     ],
-    "name": "digit two",
+    "name": "keycap digit two",
     "shortname": ":two:",
     "category": "symbols",
     "aliases": [],
@@ -35431,7 +35431,7 @@
     "unicode_alternates": [
       "0030-FE0F-20E3"
     ],
-    "name": "digit zero",
+    "name": "keycap digit zero",
     "shortname": ":zero:",
     "category": "symbols",
     "aliases": [],
