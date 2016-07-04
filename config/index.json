@@ -5758,6 +5758,28 @@
     ],
     "moji": "🍪"
   },
+  "cooking": {
+    "unicode": "1F373",
+    "unicode_alternates": [],
+    "name": "cooking",
+    "shortname": ":cooking:",
+    "category": "food",
+    "aliases": [],
+    "aliases_ascii": [],
+    "keywords": [
+      "breakfast",
+      "food",
+      "egg",
+      "fry",
+      "pan",
+      "flat",
+      "cook",
+      "frying",
+      "cooking",
+      "utensil"
+    ],
+    "moji": "🍳"
+  },
   "cool": {
     "unicode": "1F192",
     "unicode_alternates": [],
@@ -7681,26 +7703,15 @@
     "moji": "🌏"
   },
   "egg": {
-    "unicode": "1F373",
+    "unicode": "1F95A",
     "unicode_alternates": [],
-    "name": "cooking",
+    "name": "egg",
     "shortname": ":egg:",
     "category": "food",
     "aliases": [],
     "aliases_ascii": [],
-    "keywords": [
-      "breakfast",
-      "food",
-      "egg",
-      "fry",
-      "pan",
-      "flat",
-      "cook",
-      "frying",
-      "cooking",
-      "utensil"
-    ],
-    "moji": "🍳"
+    "keywords": [],
+    "moji": "🥚"
   },
   "eggplant": {
     "unicode": "1F346",
