@@ -82,7 +82,9 @@ You can also serve the assets directly from the gem in your rails app:
 ```ruby
 # config/application.rb
 config.assets.paths << Gemojione.images_path
-config.assets.precompile << "emoji/*.png"
+config.assets.precompile << "emoji/*.png" 
+# or 
+config.assets.precompile << "emoji/*.svg"
 ```
 
 String Helper Methods:
