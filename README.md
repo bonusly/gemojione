@@ -74,13 +74,14 @@ Default configuration integrates with Rails, but you can change it with an initi
 Gemojione.asset_host = "emoji.cdn.com"
 Gemojione.asset_path = '/assets/emoji'
 Gemojione.default_size = '64px'
+Gemojione.use_svg = true
 ```
 
 You can also serve the assets directly from the gem in your rails app:
 
 ```ruby
 # config/application.rb
-config.assets.paths << Gemojione.index.images_path
+config.assets.paths << Gemojione.images_path
 config.assets.precompile << "emoji/*.png"
 ```
 
