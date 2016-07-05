@@ -11,6 +11,12 @@ describe Gemojione do
     it 'should generate url' do
       assert_equal 'http://localhost:3000/1F44D.png', Gemojione.image_url_for_name('+1')
     end
+
+    it 'should generate url' do
+      with_emoji_config(:use_svg, true) do
+        assert_equal 'http://localhost:3000/1F44D.svg', Gemojione.image_url_for_name('+1')
+      end
+    end
   end
 
   describe "image_url_for_unicode_moji" do
@@ -210,6 +216,25 @@ describe Gemojione do
         end
 
         assert_equal "Content", replaced_string
+      end
+    end
+  end
+
+  describe "images_path" do
+    it "should always return a valid default path" do
+      path = Gemojione.images_path
+
+      assert Dir.exist?(path)
+      assert_equal "png", path.split('/').last
+    end
+
+    it "should always return a valid svg path" do
+
+      with_emoji_config(:use_svg, true) do
+        path = Gemojione.images_path
+
+        assert Dir.exist?(path)
+        assert_equal "svg", path.split('/').last
       end
     end
   end
