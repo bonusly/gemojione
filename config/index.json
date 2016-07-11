@@ -1065,16 +1065,6 @@
     ],
     "moji": "*⃣"
   },
-  "asterisk_symbol": {
-    "unicode": "002A",
-    "unicode_alternates": [],
-    "name": "asterisk",
-    "shortname": ":asterisk_symbol:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
   "astonished": {
     "unicode": "1F632",
     "unicode_alternates": [],
@@ -6974,106 +6964,6 @@
       "game"
     ],
     "moji": "♦"
-  },
-  "digit_eight": {
-    "unicode": "0038",
-    "unicode_alternates": [],
-    "name": "digit eight",
-    "shortname": ":digit_eight:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_five": {
-    "unicode": "0035",
-    "unicode_alternates": [],
-    "name": "digit five",
-    "shortname": ":digit_five:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_four": {
-    "unicode": "0034",
-    "unicode_alternates": [],
-    "name": "digit four",
-    "shortname": ":digit_four:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_nine": {
-    "unicode": "0039",
-    "unicode_alternates": [],
-    "name": "digit nine",
-    "shortname": ":digit_nine:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_one": {
-    "unicode": "0031",
-    "unicode_alternates": [],
-    "name": "digit one",
-    "shortname": ":digit_one:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_seven": {
-    "unicode": "0037",
-    "unicode_alternates": [],
-    "name": "digit seven",
-    "shortname": ":digit_seven:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_six": {
-    "unicode": "0036",
-    "unicode_alternates": [],
-    "name": "digit six",
-    "shortname": ":digit_six:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_three": {
-    "unicode": "0033",
-    "unicode_alternates": [],
-    "name": "digit three",
-    "shortname": ":digit_three:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_two": {
-    "unicode": "0032",
-    "unicode_alternates": [],
-    "name": "digit two",
-    "shortname": ":digit_two:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
-  },
-  "digit_zero": {
-    "unicode": "0030",
-    "unicode_alternates": [],
-    "name": "digit zero",
-    "shortname": ":digit_zero:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
   },
   "disappointed": {
     "unicode": "1F61E",
@@ -24493,16 +24383,6 @@
       "cash"
     ],
     "moji": "💷"
-  },
-  "pound_symbol": {
-    "unicode": "0023",
-    "unicode_alternates": [],
-    "name": "pound symbol",
-    "shortname": ":pound_symbol:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": []
   },
   "pouting_cat": {
     "unicode": "1F63E",
