@@ -551,28 +551,6 @@
     ],
     "moji": "💢"
   },
-  "anger_left": {
-    "unicode": "1F5EE",
-    "unicode_alternates": [],
-    "name": "left anger bubble",
-    "shortname": ":anger_left:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":left_anger_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "speech",
-      "balloon",
-      "talk",
-      "mood",
-      "conversation",
-      "communication",
-      "comic",
-      "angry"
-    ],
-    "moji": "🗮"
-  },
   "anger_right": {
     "unicode": "1F5EF",
     "unicode_alternates": [],
@@ -1116,22 +1094,6 @@
     ],
     "moji": "🚛"
   },
-  "ascending_notes": {
-    "unicode": "1F39C",
-    "unicode_alternates": [],
-    "name": "beamed ascending musical notes",
-    "shortname": ":ascending_notes:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "score",
-      "music",
-      "sound",
-      "tone"
-    ],
-    "moji": "🎜"
-  },
   "asterisk": {
     "unicode": "002A-20E3",
     "unicode_alternates": [
@@ -1530,22 +1492,6 @@
     ],
     "moji": "🗳"
   },
-  "ballot_box_check": {
-    "unicode": "1F5F9",
-    "unicode_alternates": [],
-    "name": "ballot box with bold check",
-    "shortname": ":ballot_box_check:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":ballot_box_with_bold_check:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "mark",
-      "vote"
-    ],
-    "moji": "🗹"
-  },
   "ballot_box_with_check": {
     "unicode": "2611",
     "unicode_alternates": [
@@ -1562,38 +1508,6 @@
       "symbol"
     ],
     "moji": "☑"
-  },
-  "ballot_box_x": {
-    "unicode": "1F5F5",
-    "unicode_alternates": [],
-    "name": "ballot box with script x",
-    "shortname": ":ballot_box_x:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":ballot_box_with_script_x:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "mark",
-      "vote"
-    ],
-    "moji": "🗵"
-  },
-  "ballot_x": {
-    "unicode": "1F5F4",
-    "unicode_alternates": [],
-    "name": "ballot script x",
-    "shortname": ":ballot_x:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":ballot_script_x:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "mark",
-      "vote"
-    ],
-    "moji": "🗴"
   },
   "bamboo": {
     "unicode": "1F38D",
@@ -2904,23 +2818,6 @@
     ],
     "moji": "📖"
   },
-  "book2": {
-    "unicode": "1F56E",
-    "unicode_alternates": [],
-    "name": "book",
-    "shortname": ":book2:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "library",
-      "literature",
-      "novel",
-      "reading",
-      "story"
-    ],
-    "moji": "🕮"
-  },
   "bookmark": {
     "unicode": "1F516",
     "unicode_alternates": [],
@@ -3311,20 +3208,6 @@
     ],
     "moji": "👦🏿"
   },
-  "boys_symbol": {
-    "unicode": "1F6C9",
-    "unicode_alternates": [],
-    "name": "boys symbol",
-    "shortname": ":boys_symbol:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "male",
-      "child"
-    ],
-    "moji": "🛉"
-  },
   "bread": {
     "unicode": "1F35E",
     "unicode_alternates": [],
@@ -3605,40 +3488,6 @@
     ],
     "moji": "🚄"
   },
-  "bullhorn": {
-    "unicode": "1F56B",
-    "unicode_alternates": [],
-    "name": "bullhorn",
-    "shortname": ":bullhorn:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "sound",
-      "noise",
-      "announcement",
-      "megaphone"
-    ],
-    "moji": "🕫"
-  },
-  "bullhorn_waves": {
-    "unicode": "1F56C",
-    "unicode_alternates": [],
-    "name": "bullhorn with sound waves",
-    "shortname": ":bullhorn_waves:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":bullhorn_with_sound_waves:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "sound",
-      "noise",
-      "announcement",
-      "megaphone"
-    ],
-    "moji": "🕬"
-  },
   "burrito": {
     "unicode": "1F32F",
     "unicode_alternates": [],
@@ -3792,25 +3641,6 @@
       "strawberry"
     ],
     "moji": "🍰"
-  },
-  "calculator": {
-    "unicode": "1F5A9",
-    "unicode_alternates": [],
-    "name": "pocket calculator",
-    "shortname": ":calculator:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":pocket calculator:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "add",
-      "subtract",
-      "multiple",
-      "divide",
-      "scientific"
-    ],
-    "moji": "🖩"
   },
   "calendar": {
     "unicode": "1F4C6",
@@ -4021,21 +3851,6 @@
     ],
     "moji": "🏕"
   },
-  "cancellation_x": {
-    "unicode": "1F5D9",
-    "unicode_alternates": [],
-    "name": "cancellation x",
-    "shortname": ":cancellation_x:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "cancel",
-      "stop",
-      "delete"
-    ],
-    "moji": "🗙"
-  },
   "cancer": {
     "unicode": "264B",
     "unicode_alternates": [
@@ -4221,29 +4036,6 @@
     "keywords": [],
     "moji": "🥕"
   },
-  "cartridge": {
-    "unicode": "1F5AD",
-    "unicode_alternates": [],
-    "name": "tape cartridge",
-    "shortname": ":cartridge:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":tape_cartridge:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "oldschool",
-      "save",
-      "technology",
-      "disk",
-      "storage",
-      "information",
-      "computer",
-      "drive",
-      "megabyte"
-    ],
-    "moji": "🖭"
-  },
   "cartwheel": {
     "unicode": "1F938",
     "unicode_alternates": [],
@@ -4378,20 +4170,6 @@
       "electronics"
     ],
     "moji": "💿"
-  },
-  "celtic_cross": {
-    "unicode": "1F548",
-    "unicode_alternates": [],
-    "name": "celtic cross",
-    "shortname": ":celtic_cross:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "religion",
-      "symbol"
-    ],
-    "moji": "🕈"
   },
   "chains": {
     "unicode": "26D3",
@@ -5406,21 +5184,6 @@
     ],
     "moji": "🕤"
   },
-  "clockwise_arrows": {
-    "unicode": "1F5D8",
-    "unicode_alternates": [],
-    "name": "clockwise right and left semicircle arrows",
-    "shortname": ":clockwise_arrows:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":clockwise_right_and_left_semicircle_arrows:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "sync"
-    ],
-    "moji": "🗘"
-  },
   "closed_book": {
     "unicode": "1F4D5",
     "unicode_alternates": [],
@@ -5734,22 +5497,6 @@
       "office"
     ],
     "moji": "💻"
-  },
-  "computer_old": {
-    "unicode": "1F5B3",
-    "unicode_alternates": [],
-    "name": "old personal computer",
-    "shortname": ":computer_old:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":old_personal_computer:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "cpu",
-      "terminal"
-    ],
-    "moji": "🖳"
   },
   "confetti_ball": {
     "unicode": "1F38A",
@@ -6570,55 +6317,6 @@
     ],
     "moji": "✝"
   },
-  "cross_heavy": {
-    "unicode": "1F547",
-    "unicode_alternates": [],
-    "name": "heavy latin cross",
-    "shortname": ":cross_heavy:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":heavy_latin_cross:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "religion",
-      "symbol"
-    ],
-    "moji": "🕇"
-  },
-  "cross_white": {
-    "unicode": "1F546",
-    "unicode_alternates": [],
-    "name": "white latin cross",
-    "shortname": ":cross_white:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":white_latin_cross:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "religion",
-      "symbol"
-    ],
-    "moji": "🕆"
-  },
-  "crossbones": {
-    "unicode": "1F571",
-    "unicode_alternates": [],
-    "name": "black skull and crossbones",
-    "shortname": ":crossbones:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":black_skull_and_crossbones:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "poison",
-      "danger",
-      "death"
-    ],
-    "moji": "🕱"
-  },
   "crossed_flags": {
     "unicode": "1F38C",
     "unicode_alternates": [],
@@ -7248,22 +6946,6 @@
     ],
     "moji": "🏬"
   },
-  "descending_notes": {
-    "unicode": "1F39D",
-    "unicode_alternates": [],
-    "name": "beamed descending musical notes",
-    "shortname": ":descending_notes:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "score",
-      "music",
-      "sound",
-      "tone"
-    ],
-    "moji": "🎝"
-  },
   "desert": {
     "unicode": "1F3DC",
     "unicode_alternates": [],
@@ -7301,19 +6983,6 @@
       "work"
     ],
     "moji": "🖥"
-  },
-  "desktop_window": {
-    "unicode": "1F5D4",
-    "unicode_alternates": [],
-    "name": "desktop window",
-    "shortname": ":desktop_window:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "computer"
-    ],
-    "moji": "🗔"
   },
   "diamond_shape_with_a_dot_inside": {
     "unicode": "1F4A0",
@@ -7598,34 +7267,6 @@
       "symbol"
     ],
     "moji": "🚯"
-  },
-  "document": {
-    "unicode": "1F5CE",
-    "unicode_alternates": [],
-    "name": "document",
-    "shortname": ":document:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "page"
-    ],
-    "moji": "🗎"
-  },
-  "document_text": {
-    "unicode": "1F5B9",
-    "unicode_alternates": [],
-    "name": "document with text",
-    "shortname": ":document_text:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":document_with_text:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "page"
-    ],
-    "moji": "🖹"
   },
   "dog": {
     "unicode": "1F436",
@@ -8349,78 +7990,6 @@
       "write"
     ],
     "moji": "✉"
-  },
-  "envelope_back": {
-    "unicode": "1F582",
-    "unicode_alternates": [],
-    "name": "back of envelope",
-    "shortname": ":envelope_back:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":back_of_envelope:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "letter",
-      "mail",
-      "postal"
-    ],
-    "moji": "🖂"
-  },
-  "envelope_flying": {
-    "unicode": "1F585",
-    "unicode_alternates": [],
-    "name": "flying envelope",
-    "shortname": ":envelope_flying:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":flying_envelope:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "letter",
-      "mail",
-      "postal"
-    ],
-    "moji": "🖅"
-  },
-  "envelope_stamped": {
-    "unicode": "1F583",
-    "unicode_alternates": [],
-    "name": "stamped envelope",
-    "shortname": ":envelope_stamped:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":stamped_envelope:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "letter",
-      "mail",
-      "postal"
-    ],
-    "moji": "🖃"
-  },
-  "envelope_stamped_pen": {
-    "unicode": "1F586",
-    "unicode_alternates": [],
-    "name": "pen over stamped envelope",
-    "shortname": ":envelope_stamped_pen:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":pen_over_stamped_envelope:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "letter",
-      "mail",
-      "postal"
-    ],
-    "moji": "🖆"
   },
   "envelope_with_arrow": {
     "unicode": "1F4E9",
@@ -14648,43 +14217,6 @@
     ],
     "moji": "⚜"
   },
-  "flip_phone": {
-    "unicode": "1F581",
-    "unicode_alternates": [],
-    "name": "clamshell mobile phone",
-    "shortname": ":flip_phone:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":clamshell_mobile_phone:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "cellphone"
-    ],
-    "moji": "🖁"
-  },
-  "floppy_black": {
-    "unicode": "1F5AA",
-    "unicode_alternates": [],
-    "name": "black hard shell floppy disk",
-    "shortname": ":floppy_black:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":black_hard_shell_floppy_disk:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "oldschool",
-      "save",
-      "technology",
-      "storage",
-      "information",
-      "computer",
-      "drive",
-      "megabyte"
-    ],
-    "moji": "🖪"
-  },
   "floppy_disk": {
     "unicode": "1F4BE",
     "unicode_alternates": [],
@@ -14708,28 +14240,6 @@
       "office"
     ],
     "moji": "💾"
-  },
-  "floppy_white": {
-    "unicode": "1F5AB",
-    "unicode_alternates": [],
-    "name": "white hard shell floppy disk",
-    "shortname": ":floppy_white:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":white_hard_shell_floppy_disk:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "oldschool",
-      "save",
-      "technology",
-      "storage",
-      "information",
-      "computer",
-      "drive",
-      "megabyte"
-    ],
-    "moji": "🖫"
   },
   "flower_playing_cards": {
     "unicode": "1F3B4",
@@ -14818,35 +14328,6 @@
       "vacation"
     ],
     "moji": "🌁"
-  },
-  "folder": {
-    "unicode": "1F5C0",
-    "unicode_alternates": [],
-    "name": "folder",
-    "shortname": ":folder:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "documents"
-    ],
-    "moji": "🗀"
-  },
-  "folder_open": {
-    "unicode": "1F5C1",
-    "unicode_alternates": [],
-    "name": "open folder",
-    "shortname": ":folder_open:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":open_folder:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "documents",
-      "load"
-    ],
-    "moji": "🗁"
   },
   "football": {
     "unicode": "1F3C8",
@@ -15017,38 +14498,6 @@
       "vacation"
     ],
     "moji": "🖼"
-  },
-  "frame_tiles": {
-    "unicode": "1F5BD",
-    "unicode_alternates": [],
-    "name": "frame with tiles",
-    "shortname": ":frame_tiles:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":frame_with_tiles:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "photo",
-      "painting"
-    ],
-    "moji": "🖽"
-  },
-  "frame_x": {
-    "unicode": "1F5BE",
-    "unicode_alternates": [],
-    "name": "frame with an x",
-    "shortname": ":frame_x:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":frame_with_an_x:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "photo",
-      "painting"
-    ],
-    "moji": "🖾"
   },
   "free": {
     "unicode": "1F193",
@@ -15464,20 +14913,6 @@
       "child"
     ],
     "moji": "👧🏿"
-  },
-  "girls_symbol": {
-    "unicode": "1F6CA",
-    "unicode_alternates": [],
-    "name": "girls symbol",
-    "shortname": ":girls_symbol:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "female",
-      "child"
-    ],
-    "moji": "🛊"
   },
   "globe_with_meridians": {
     "unicode": "1F310",
@@ -16417,27 +15852,6 @@
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤝🏿"
-  },
-  "hard_disk": {
-    "unicode": "1F5B4",
-    "unicode_alternates": [],
-    "name": "hard disk",
-    "shortname": ":hard_disk:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "save",
-      "technology",
-      "storage",
-      "information",
-      "computer",
-      "drive",
-      "megabyte",
-      "gigabyte",
-      "hd"
-    ],
-    "moji": "🖴"
   },
   "hash": {
     "moji": "#⃣",
@@ -17561,21 +16975,6 @@
     ],
     "moji": "📨"
   },
-  "info": {
-    "unicode": "1F6C8",
-    "unicode_alternates": [],
-    "name": "circled information source",
-    "shortname": ":info:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":circled_information_source:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "icon"
-    ],
-    "moji": "🛈"
-  },
   "information_desk_person": {
     "unicode": "1F481",
     "unicode_alternates": [],
@@ -18229,40 +17628,6 @@
     ],
     "moji": "⌨"
   },
-  "keyboard_mouse": {
-    "unicode": "1F5A6",
-    "unicode_alternates": [],
-    "name": "keyboard and mouse",
-    "shortname": ":keyboard_mouse:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":keyboard_and_mouse:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "computer",
-      "input",
-      "desktop"
-    ],
-    "moji": "🖦"
-  },
-  "keyboard_with_jacks": {
-    "unicode": "1F398",
-    "unicode_alternates": [],
-    "name": "musical keyboard with jacks",
-    "shortname": ":keyboard_with_jacks:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":musical_keyboard_with_jacks:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "music",
-      "instrument",
-      "midi"
-    ],
-    "moji": "🎘"
-  },
   "kimono": {
     "unicode": "1F458",
     "unicode_alternates": [],
@@ -18807,23 +18172,6 @@
     ],
     "moji": "🛅"
   },
-  "left_receiver": {
-    "unicode": "1F57B",
-    "unicode_alternates": [],
-    "name": "left hand telephone receiver",
-    "shortname": ":left_receiver:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":left_hand_telephone_receiver:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "dial",
-      "technology"
-    ],
-    "moji": "🕻"
-  },
   "left_right_arrow": {
     "unicode": "2194",
     "unicode_alternates": [
@@ -19107,21 +18455,6 @@
       "deadlift"
     ],
     "moji": "🏋🏿"
-  },
-  "light_check_mark": {
-    "unicode": "1F5F8",
-    "unicode_alternates": [],
-    "name": "light check mark",
-    "shortname": ":light_check_mark:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":light_mark:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "vote"
-    ],
-    "moji": "🗸"
   },
   "light_rail": {
     "unicode": "1F688",
@@ -20867,59 +20200,6 @@
     ],
     "moji": "🚝"
   },
-  "mood_bubble": {
-    "unicode": "1F5F0",
-    "unicode_alternates": [],
-    "name": "mood bubble",
-    "shortname": ":mood_bubble:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "conversation",
-      "communication",
-      "comic",
-      "feeling"
-    ],
-    "moji": "🗰"
-  },
-  "mood_bubble_lightning": {
-    "unicode": "1F5F1",
-    "unicode_alternates": [],
-    "name": "lightning mood bubble",
-    "shortname": ":mood_bubble_lightning:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":lightning_mood_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "conversation",
-      "communication",
-      "comic",
-      "feeling"
-    ],
-    "moji": "🗱"
-  },
-  "mood_lightning": {
-    "unicode": "1F5F2",
-    "unicode_alternates": [],
-    "name": "lightning mood",
-    "shortname": ":mood_lightning:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":lightning_mood:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "zap",
-      "electric",
-      "current"
-    ],
-    "moji": "🗲"
-  },
   "mortar_board": {
     "unicode": "1F393",
     "unicode_alternates": [],
@@ -21271,23 +20551,6 @@
       "rodent"
     ],
     "moji": "🐁"
-  },
-  "mouse_one": {
-    "unicode": "1F5AF",
-    "unicode_alternates": [],
-    "name": "one button mouse",
-    "shortname": ":mouse_one:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":one_button_mouse:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "computer",
-      "input",
-      "device"
-    ],
-    "moji": "🖯"
   },
   "mouse_three_button": {
     "unicode": "1F5B1",
@@ -21802,24 +21065,6 @@
       "glasses"
     ],
     "moji": "🤓"
-  },
-  "network": {
-    "unicode": "1F5A7",
-    "unicode_alternates": [],
-    "name": "three networked computers",
-    "shortname": ":network:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":three_networked_computers:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "lan",
-      "wan",
-      "network",
-      "technology"
-    ],
-    "moji": "🖧"
   },
   "neutral_face": {
     "unicode": "1F610",
@@ -22411,38 +21656,6 @@
     ],
     "moji": "👃🏿"
   },
-  "note": {
-    "unicode": "1F5C9",
-    "unicode_alternates": [],
-    "name": "note page",
-    "shortname": ":note:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":note_page:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "stationery",
-      "post-it"
-    ],
-    "moji": "🗉"
-  },
-  "note_empty": {
-    "unicode": "1F5C6",
-    "unicode_alternates": [],
-    "name": "empty note page",
-    "shortname": ":note_empty:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":empty_note_page:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "stationery",
-      "post-it"
-    ],
-    "moji": "🗆"
-  },
   "notebook": {
     "unicode": "1F4D3",
     "unicode_alternates": [],
@@ -22480,38 +21693,6 @@
       "write"
     ],
     "moji": "📔"
-  },
-  "notepad": {
-    "unicode": "1F5CA",
-    "unicode_alternates": [],
-    "name": "note pad",
-    "shortname": ":notepad:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":note_pad:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "stationery",
-      "post-it"
-    ],
-    "moji": "🗊"
-  },
-  "notepad_empty": {
-    "unicode": "1F5C7",
-    "unicode_alternates": [],
-    "name": "empty note pad",
-    "shortname": ":notepad_empty:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":empty_note_pad:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "stationery",
-      "post-it"
-    ],
-    "moji": "🗇"
   },
   "notepad_spiral": {
     "unicode": "1F5D2",
@@ -23503,25 +22684,6 @@
     ],
     "moji": "⛎"
   },
-  "optical_disk": {
-    "unicode": "1F5B8",
-    "unicode_alternates": [],
-    "name": "optical disc icon",
-    "shortname": ":optical_disk:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":optical_disc_icon:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "cd",
-      "dvd",
-      "disc",
-      "disk",
-      "technology"
-    ],
-    "moji": "🖸"
-  },
   "orange_book": {
     "unicode": "1F4D9",
     "unicode_alternates": [],
@@ -23614,19 +22776,6 @@
     ],
     "moji": "📦"
   },
-  "page": {
-    "unicode": "1F5CF",
-    "unicode_alternates": [],
-    "name": "page",
-    "shortname": ":page:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "document"
-    ],
-    "moji": "🗏"
-  },
   "page_facing_up": {
     "unicode": "1F4C4",
     "unicode_alternates": [],
@@ -23673,19 +22822,6 @@
       "work"
     ],
     "moji": "📟"
-  },
-  "pages": {
-    "unicode": "1F5D0",
-    "unicode_alternates": [],
-    "name": "pages",
-    "shortname": ":pages:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "documents"
-    ],
-    "moji": "🗐"
   },
   "paintbrush": {
     "unicode": "1F58C",
@@ -24074,23 +23210,6 @@
     ],
     "moji": "✏"
   },
-  "pencil3": {
-    "unicode": "1F589",
-    "unicode_alternates": [],
-    "name": "lower left pencil",
-    "shortname": ":pencil3:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":lower_left_pencil:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "paper",
-      "stationery",
-      "write"
-    ],
-    "moji": "🖉"
-  },
   "penguin": {
     "unicode": "1F427",
     "unicode_alternates": [],
@@ -24105,38 +23224,6 @@
       "wildlife"
     ],
     "moji": "🐧"
-  },
-  "pennant_black": {
-    "unicode": "1F3F2",
-    "unicode_alternates": [],
-    "name": "black pennant",
-    "shortname": ":pennant_black:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":black_pennant:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "flag",
-      "athletics"
-    ],
-    "moji": "🏲"
-  },
-  "pennant_white": {
-    "unicode": "1F3F1",
-    "unicode_alternates": [],
-    "name": "white pennant",
-    "shortname": ":pennant_white:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":white_pennant:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "flag",
-      "athletics"
-    ],
-    "moji": "🏱"
   },
   "pensive": {
     "unicode": "1F614",
@@ -24692,22 +23779,6 @@
       "ping pong"
     ],
     "moji": "🏓"
-  },
-  "piracy": {
-    "unicode": "1F572",
-    "unicode_alternates": [],
-    "name": "no piracy",
-    "shortname": ":piracy:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":no_piracy:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "theft",
-      "rule"
-    ],
-    "moji": "🕲"
   },
   "pisces": {
     "unicode": "2653",
@@ -26001,27 +25072,6 @@
     ],
     "moji": "🖨"
   },
-  "prohibited": {
-    "unicode": "1F6C7",
-    "unicode_alternates": [],
-    "name": "prohibited sign",
-    "shortname": ":prohibited:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":prohibited_sign:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "no",
-      "not",
-      "denied",
-      "disallow",
-      "forbid",
-      "limit",
-      "stop"
-    ],
-    "moji": "🛇"
-  },
   "projector": {
     "unicode": "1F4FD",
     "unicode_alternates": [],
@@ -26201,19 +25251,6 @@
       "office"
     ],
     "moji": "📌"
-  },
-  "pushpin_black": {
-    "unicode": "1F588",
-    "unicode_alternates": [],
-    "name": "black pushpin",
-    "shortname": ":pushpin_black:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "stationery"
-    ],
-    "moji": "🖈"
   },
   "put_litter_in_its_place": {
     "unicode": "1F6AE",
@@ -27668,56 +26705,6 @@
     "keywords": [],
     "moji": "🤜🏿"
   },
-  "right_speaker": {
-    "unicode": "1F568",
-    "unicode_alternates": [],
-    "name": "right speaker",
-    "shortname": ":right_speaker:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "sound",
-      "listen",
-      "hear",
-      "noise",
-      "volume"
-    ],
-    "moji": "🕨"
-  },
-  "right_speaker_one": {
-    "unicode": "1F569",
-    "unicode_alternates": [],
-    "name": "right speaker with one sound wave",
-    "shortname": ":right_speaker_one:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":right_speaker_with_one_sound_wave:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "low",
-      "volume"
-    ],
-    "moji": "🕩"
-  },
-  "right_speaker_three": {
-    "unicode": "1F56A",
-    "unicode_alternates": [],
-    "name": "right speaker with three sound waves",
-    "shortname": ":right_speaker_three:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":right_speaker_with_three_sound_waves:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "loud",
-      "high",
-      "volume"
-    ],
-    "moji": "🕪"
-  },
   "ring": {
     "unicode": "1F48D",
     "unicode_alternates": [],
@@ -27737,23 +26724,6 @@
       "accessories"
     ],
     "moji": "💍"
-  },
-  "ringing_bell": {
-    "unicode": "1F56D",
-    "unicode_alternates": [],
-    "name": "ringing bell",
-    "shortname": ":ringing_bell:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "alert",
-      "ding",
-      "volume",
-      "sound",
-      "chime"
-    ],
-    "moji": "🕭"
   },
   "robot": {
     "unicode": "1F916",
@@ -27914,19 +26884,6 @@
       "tropical"
     ],
     "moji": "🏵"
-  },
-  "rosette_black": {
-    "unicode": "1F3F6",
-    "unicode_alternates": [],
-    "name": "black rosette",
-    "shortname": ":rosette_black:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "flower"
-    ],
-    "moji": "🏶"
   },
   "rotating_light": {
     "unicode": "1F6A8",
@@ -30209,90 +29166,6 @@
     ],
     "moji": "💬"
   },
-  "speech_left": {
-    "unicode": "1F5E8",
-    "unicode_alternates": [],
-    "name": "left speech bubble",
-    "shortname": ":speech_left:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":left_speech_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "words",
-      "talk",
-      "conversation",
-      "communication",
-      "comic",
-      "dialogue"
-    ],
-    "moji": "🗨"
-  },
-  "speech_right": {
-    "unicode": "1F5E9",
-    "unicode_alternates": [],
-    "name": "right speech bubble",
-    "shortname": ":speech_right:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":right_speech_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "words",
-      "talk",
-      "conversation",
-      "communication",
-      "comic",
-      "dialogue"
-    ],
-    "moji": "🗩"
-  },
-  "speech_three": {
-    "unicode": "1F5EB",
-    "unicode_alternates": [],
-    "name": "three speech bubbles",
-    "shortname": ":speech_three:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":three_speech_bubbles:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "words",
-      "talk",
-      "conversation",
-      "communication",
-      "comic",
-      "dialogue"
-    ],
-    "moji": "🗫"
-  },
-  "speech_two": {
-    "unicode": "1F5EA",
-    "unicode_alternates": [],
-    "name": "two speech bubbles",
-    "shortname": ":speech_two:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":two_speech_bubbles:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "words",
-      "talk",
-      "conversation",
-      "communication",
-      "comic",
-      "dialogue"
-    ],
-    "moji": "🗪"
-  },
   "speedboat": {
     "unicode": "1F6A4",
     "unicode_alternates": [],
@@ -30657,25 +29530,6 @@
     ],
     "moji": "🚂"
   },
-  "stereo": {
-    "unicode": "1F4FE",
-    "unicode_alternates": [],
-    "name": "portable stereo",
-    "shortname": ":stereo:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":portable_stereo:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "music",
-      "program",
-      "boom",
-      "box"
-    ],
-    "moji": "📾"
-  },
   "stew": {
     "unicode": "1F372",
     "unicode_alternates": [],
@@ -30696,22 +29550,6 @@
       "steam"
     ],
     "moji": "🍲"
-  },
-  "stock_chart": {
-    "unicode": "1F5E0",
-    "unicode_alternates": [],
-    "name": "stock chart",
-    "shortname": ":stock_chart:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "graph",
-      "presentation",
-      "stats",
-      "business"
-    ],
-    "moji": "🗠"
   },
   "stop_button": {
     "unicode": "23F9",
@@ -31634,23 +30472,6 @@
     ],
     "moji": "☎"
   },
-  "telephone_black": {
-    "unicode": "1F57F",
-    "unicode_alternates": [],
-    "name": "black touchtone telephone",
-    "shortname": ":telephone_black:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":black_touchtone_telephone:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "dial",
-      "technology"
-    ],
-    "moji": "🕿"
-  },
   "telephone_receiver": {
     "unicode": "1F4DE",
     "unicode_alternates": [],
@@ -31667,23 +30488,6 @@
       "phone"
     ],
     "moji": "📞"
-  },
-  "telephone_white": {
-    "unicode": "1F57E",
-    "unicode_alternates": [],
-    "name": "white touchtone telephone",
-    "shortname": ":telephone_white:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":white_touchtone_telephone:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "communication",
-      "dial",
-      "technology"
-    ],
-    "moji": "🕾"
   },
   "telescope": {
     "unicode": "1F52D",
@@ -31850,46 +30654,6 @@
       "symbol"
     ],
     "moji": "💭"
-  },
-  "thought_left": {
-    "unicode": "1F5EC",
-    "unicode_alternates": [],
-    "name": "left thought bubble",
-    "shortname": ":thought_left:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":left_thought_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "cloud",
-      "comic",
-      "think",
-      "day dream",
-      "wonder"
-    ],
-    "moji": "🗬"
-  },
-  "thought_right": {
-    "unicode": "1F5ED",
-    "unicode_alternates": [],
-    "name": "right thought bubble",
-    "shortname": ":thought_right:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":right_thought_bubble:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "balloon",
-      "cloud",
-      "comic",
-      "think",
-      "day dream",
-      "wonder"
-    ],
-    "moji": "🗭"
   },
   "three": {
     "moji": "3️⃣",
@@ -32718,23 +31482,6 @@
       "train"
     ],
     "moji": "🚊"
-  },
-  "triangle_round": {
-    "unicode": "1F6C6",
-    "unicode_alternates": [],
-    "name": "triangle with rounded corners",
-    "shortname": ":triangle_round:",
-    "category": "objects_symbols",
-    "aliases": [
-      ":triangle_with_rounded_corners:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "caution",
-      "warning",
-      "alert"
-    ],
-    "moji": "🛆"
   },
   "triangular_flag_on_post": {
     "unicode": "1F6A9",
@@ -34884,22 +33631,6 @@
       "emotion"
     ],
     "moji": "😉"
-  },
-  "wired_keyboard": {
-    "unicode": "1F5AE",
-    "unicode_alternates": [],
-    "name": "wired keyboard",
-    "shortname": ":wired_keyboard:",
-    "category": "objects_symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "typing",
-      "keys",
-      "input",
-      "device"
-    ],
-    "moji": "🖮"
   },
   "wolf": {
     "unicode": "1F43A",
