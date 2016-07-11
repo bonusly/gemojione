@@ -243,22 +243,6 @@
     ],
     "moji": "🛫"
   },
-  "airplane_northeast": {
-    "unicode": "1F6EA",
-    "unicode_alternates": [],
-    "name": "northeast-pointing airplane",
-    "shortname": ":airplane_northeast:",
-    "category": "travel_places",
-    "aliases": [
-      ":northeast_pointing_airplane:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "plane",
-      "travel"
-    ],
-    "moji": "🛪"
-  },
   "airplane_small": {
     "unicode": "1F6E9",
     "unicode_alternates": [],
@@ -285,38 +269,6 @@
       "vacation"
     ],
     "moji": "🛩"
-  },
-  "airplane_small_up": {
-    "unicode": "1F6E8",
-    "unicode_alternates": [],
-    "name": "up-pointing small airplane",
-    "shortname": ":airplane_small_up:",
-    "category": "travel_places",
-    "aliases": [
-      ":up_pointing_small_airplane:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "plane",
-      "travel"
-    ],
-    "moji": "🛨"
-  },
-  "airplane_up": {
-    "unicode": "1F6E7",
-    "unicode_alternates": [],
-    "name": "up-pointing airplane",
-    "shortname": ":airplane_up:",
-    "category": "travel_places",
-    "aliases": [
-      ":up_pointing_airplane:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "plane",
-      "travel"
-    ],
-    "moji": "🛧"
   },
   "alarm_clock": {
     "unicode": "23F0",
@@ -9174,25 +9126,6 @@
     ],
     "moji": "🚒"
   },
-  "fire_engine_oncoming": {
-    "unicode": "1F6F1",
-    "unicode_alternates": [],
-    "name": "oncoming fire engine",
-    "shortname": ":fire_engine_oncoming:",
-    "category": "travel_places",
-    "aliases": [
-      ":oncoming_fire_engine:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "transportation",
-      "vehicle",
-      "fighter",
-      "truck",
-      "emergency"
-    ],
-    "moji": "🛱"
-  },
   "fireworks": {
     "unicode": "1F386",
     "unicode_alternates": [],
@@ -17398,21 +17331,6 @@
       "skinny"
     ],
     "moji": "👖"
-  },
-  "jet_up": {
-    "unicode": "1F6E6",
-    "unicode_alternates": [],
-    "name": "up-pointing military airplane",
-    "shortname": ":jet_up:",
-    "category": "travel_places",
-    "aliases": [
-      ":up_pointing_military_airplane:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "jet"
-    ],
-    "moji": "🛦"
   },
   "joy": {
     "unicode": "1F602",
@@ -31446,24 +31364,6 @@
       "travel"
     ],
     "moji": "🚆"
-  },
-  "train_diesel": {
-    "unicode": "1F6F2",
-    "unicode_alternates": [],
-    "name": "diesel locomotive",
-    "shortname": ":train_diesel:",
-    "category": "travel_places",
-    "aliases": [
-      ":diesel_locomotive:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "train",
-      "transportation",
-      "engine",
-      "rail"
-    ],
-    "moji": "🛲"
   },
   "tram": {
     "unicode": "1F68A",
