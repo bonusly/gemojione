@@ -30,7 +30,7 @@ Install emoji image library assets:
     ====================================================================
     = emoji image assets install
     = Target: /Users/user/src/rails-app/app/assets/images/emoji
-    = Source: /Users/user/src/emoji/assets/images
+    = Source: /Users/user/src/emoji/assets
     ====================================================================
     - Creating /Users/user/src/rails-app/app/assets/images/emoji...
     - Installing assets...

@@ -114,7 +114,7 @@ module Gemojione
     @index ||= Index.new
   end
 
-  def images_path
-    File.expand_path("../../assets/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
+  def self.images_path
+    File.expand_path("../assets/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
   end
 end
