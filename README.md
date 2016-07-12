@@ -30,7 +30,7 @@ Install emoji image library assets:
     ====================================================================
     = emoji image assets install
     = Target: /Users/user/src/rails-app/app/assets/images/emoji
-    = Source: /Users/user/src/emoji/assets/images
+    = Source: /Users/user/src/emoji/assets
     ====================================================================
     - Creating /Users/user/src/rails-app/app/assets/images/emoji...
     - Installing assets...
@@ -74,14 +74,17 @@ Default configuration integrates with Rails, but you can change it with an initi
 Gemojione.asset_host = "emoji.cdn.com"
 Gemojione.asset_path = '/assets/emoji'
 Gemojione.default_size = '64px'
+Gemojione.use_svg = true
 ```
 
 You can also serve the assets directly from the gem in your rails app:
 
 ```ruby
 # config/application.rb
-config.assets.paths << Gemojione.index.images_path
-config.assets.precompile << "emoji/*.png"
+config.assets.paths << Gemojione.images_path
+config.assets.precompile << "emoji/*.png" 
+# or 
+config.assets.precompile << "emoji/*.svg"
 ```
 
 String Helper Methods:

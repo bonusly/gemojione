@@ -16,6 +16,7 @@ module Gemojione
   @asset_host = nil
   @asset_path = nil
   @default_size = nil
+  @use_svg = false
 
   @escaper = defined?(EscapeUtils) ? EscapeUtils : CGI
 
@@ -43,9 +44,17 @@ module Gemojione
     @default_size = size
   end
 
+  def self.use_svg
+    @use_svg
+  end
+
+  def self.use_svg=(useit)
+    @use_svg = useit
+  end
+
   def self.image_url_for_name(name)
     emoji = index.find_by_name(name)
-    "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.png"
+    "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.#{ use_svg ? 'svg' : 'png' }"
   end
 
   def self.image_url_for_unicode_moji(moji)
@@ -103,5 +112,9 @@ module Gemojione
 
   def self.index
     @index ||= Index.new
+  end
+
+  def self.images_path
+    File.expand_path("../assets/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
   end
 end

@@ -56,9 +56,5 @@ module Gemojione
     def shortname_moji_regex
       @emoji_code_regex
     end
-
-    def images_path
-      File.expand_path("../../assets/images", File.dirname(__FILE__))
-    end
   end
 end

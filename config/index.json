@@ -2868,24 +2868,6 @@
     ],
     "moji": "💐"
   },
-  "bouquet2": {
-    "unicode": "1F395",
-    "unicode_alternates": [],
-    "name": "bouquet of flowers",
-    "shortname": ":bouquet2:",
-    "category": "nature",
-    "aliases": [
-      ":bouquet_of_flowers:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "nature",
-      "marriage",
-      "wedding",
-      "bride"
-    ],
-    "moji": "🎕"
-  },
   "bow": {
     "unicode": "1F647",
     "unicode_alternates": [],
@@ -8812,91 +8794,6 @@
       "camera"
     ],
     "moji": "🎞"
-  },
-  "finger_pointing_down": {
-    "unicode": "1F597",
-    "unicode_alternates": [],
-    "name": "white down pointing left hand index",
-    "shortname": ":finger_pointing_down:",
-    "category": "people",
-    "aliases": [
-      ":white_down_pointing_left_hand_index:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "direction",
-      "finger",
-      "hand"
-    ],
-    "moji": "🖗"
-  },
-  "finger_pointing_down2": {
-    "unicode": "1F59F",
-    "unicode_alternates": [],
-    "name": "sideways white down pointing index",
-    "shortname": ":finger_pointing_down2:",
-    "category": "people",
-    "aliases": [
-      ":sideways_white_down_pointing_index:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "direction",
-      "finger",
-      "hand"
-    ],
-    "moji": "🖟"
-  },
-  "finger_pointing_left": {
-    "unicode": "1F598",
-    "unicode_alternates": [],
-    "name": "sideways white left pointing index",
-    "shortname": ":finger_pointing_left:",
-    "category": "people",
-    "aliases": [
-      ":sideways_white_left_pointing_index:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "direction",
-      "finger",
-      "hand"
-    ],
-    "moji": "🖘"
-  },
-  "finger_pointing_right": {
-    "unicode": "1F599",
-    "unicode_alternates": [],
-    "name": "sideways white right pointing index",
-    "shortname": ":finger_pointing_right:",
-    "category": "people",
-    "aliases": [
-      ":sideways_white_right_pointing_index:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "direction",
-      "finger",
-      "hand"
-    ],
-    "moji": "🖙"
-  },
-  "finger_pointing_up": {
-    "unicode": "1F59E",
-    "unicode_alternates": [],
-    "name": "sideways white up pointing index",
-    "shortname": ":finger_pointing_up:",
-    "category": "people",
-    "aliases": [
-      ":sideways_white_up_pointing_index:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "direction",
-      "finger",
-      "hand"
-    ],
-    "moji": "🖞"
   },
   "fingers_crossed": {
     "unicode": "1F91E",
@@ -15391,24 +15288,6 @@
     ],
     "moji": "🖐"
   },
-  "hand_splayed_reverse": {
-    "unicode": "1F591",
-    "unicode_alternates": [],
-    "name": "reversed raised hand with fingers splayed",
-    "shortname": ":hand_splayed_reverse:",
-    "category": "people",
-    "aliases": [
-      ":reversed_raised_hand_with_fingers_splayed:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "hi",
-      "five",
-      "stop",
-      "halt"
-    ],
-    "moji": "🖑"
-  },
   "hand_splayed_tone1": {
     "unicode": "1F590-1F3FB",
     "unicode_alternates": [],
@@ -15498,21 +15377,6 @@
       "halt"
     ],
     "moji": "🖐🏿"
-  },
-  "hand_victory": {
-    "unicode": "1F594",
-    "unicode_alternates": [],
-    "name": "reversed victory hand",
-    "shortname": ":hand_victory:",
-    "category": "people",
-    "aliases": [
-      ":reversed_victory_hand:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "fu"
-    ],
-    "moji": "🖔"
   },
   "handbag": {
     "unicode": "1F45C",
@@ -15912,24 +15776,6 @@
       "beautiful"
     ],
     "moji": "😻"
-  },
-  "heart_tip": {
-    "unicode": "1F394",
-    "unicode_alternates": [],
-    "name": "heart with tip on the left",
-    "shortname": ":heart_tip:",
-    "category": "symbols",
-    "aliases": [
-      ":heart_with_tip_on_the_left:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "affection",
-      "like",
-      "love",
-      "valentines"
-    ],
-    "moji": "🎔"
   },
   "heartbeat": {
     "unicode": "1F493",
@@ -17997,22 +17843,6 @@
     ],
     "moji": "↔"
   },
-  "left_writing_hand": {
-    "unicode": "1F58E",
-    "unicode_alternates": [],
-    "name": "left writing hand",
-    "shortname": ":left_writing_hand:",
-    "category": "people",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "write",
-      "sign",
-      "signature",
-      "draw"
-    ],
-    "moji": "🖎"
-  },
   "leftwards_arrow_with_hook": {
     "unicode": "21A9",
     "unicode_alternates": [
@@ -18333,20 +18163,6 @@
       "lip"
     ],
     "moji": "👄"
-  },
-  "lips2": {
-    "unicode": "1F5E2",
-    "unicode_alternates": [],
-    "name": "lips",
-    "shortname": ":lips2:",
-    "category": "people",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "kiss",
-      "mouth"
-    ],
-    "moji": "🗢"
   },
   "lipstick": {
     "unicode": "1F484",
@@ -30188,42 +30004,6 @@
       "symbol"
     ]
   },
-  "thumbs_down_reverse": {
-    "unicode": "1F593",
-    "unicode_alternates": [],
-    "name": "reversed thumbs down sign",
-    "shortname": ":thumbs_down_reverse:",
-    "category": "people",
-    "aliases": [
-      ":reversed_thumbs_down_sign:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "hand",
-      "no",
-      "-1"
-    ],
-    "moji": "🖓"
-  },
-  "thumbs_up_reverse": {
-    "unicode": "1F592",
-    "unicode_alternates": [],
-    "name": "reversed thumbs up sign",
-    "shortname": ":thumbs_up_reverse:",
-    "category": "people",
-    "aliases": [
-      ":reversed_thumbs_up_sign:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "cool",
-      "hand",
-      "like",
-      "yes",
-      "+1"
-    ],
-    "moji": "🖒"
-  },
   "thumbsdown": {
     "unicode": "1F44E",
     "unicode_alternates": [],
@@ -31223,22 +31003,6 @@
       "animal"
     ],
     "moji": "🦃"
-  },
-  "turned_ok_hand": {
-    "unicode": "1F58F",
-    "unicode_alternates": [],
-    "name": "turned ok hand sign",
-    "shortname": ":turned_ok_hand:",
-    "category": "people",
-    "aliases": [
-      ":turned_ok_hand_sign:"
-    ],
-    "aliases_ascii": [],
-    "keywords": [
-      "perfect",
-      "okay"
-    ],
-    "moji": "🖏"
   },
   "turtle": {
     "unicode": "1F422",
