@@ -1,5 +1,68 @@
 # Change Log
 
+## [v3.0.0](https://github.com/jonathanwiesel/gemojione/tree/v3.0.0) (2016-07-12)
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v2.6.1...v3.0.0)
+
+**Implemented enhancements:**
+
+- Add Unicode 9 Emoji [\#10](https://github.com/jonathanwiesel/gemojione/issues/10)
+- Add SVG usage option [\#19](https://github.com/jonathanwiesel/gemojione/pull/19) ([jonathanwiesel](https://github.com/jonathanwiesel))
+
+**Fixed bugs:**
+
+- Remove duplicate definitions for the same uncode [\#13](https://github.com/jonathanwiesel/gemojione/issues/13)
+- Categories for some emoji are incorrect [\#11](https://github.com/jonathanwiesel/gemojione/issues/11)
+
+**Merged pull requests:**
+
+- Unicode9 [\#18](https://github.com/jonathanwiesel/gemojione/pull/18) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Rails check updated [\#15](https://github.com/jonathanwiesel/gemojione/pull/15) ([kendrikat](https://github.com/kendrikat))
+- Remove duplicate defs same unicode [\#14](https://github.com/jonathanwiesel/gemojione/pull/14) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Change categories according to EmojiOne [\#12](https://github.com/jonathanwiesel/gemojione/pull/12) ([jonathanwiesel](https://github.com/jonathanwiesel))
+
+**Breaking changes:**
+
+- `egg` renamed to `cooking`. (Unicode9 includes true `egg` definition).
+- Dropped support for ruby v1.x because json dependency no longer supports it.
+- Standarized recategorization. (`celebration`, `emoticons`, `objects_symbols`, `other`, `places`, `travel_places` categories removed). New standarized categories are the following:
+
+```js
+{
+  "activity": 145,
+  "flags": 257,
+  "food": 85,
+  "modifier": 5,
+  "nature": 161,
+  "objects": 178,
+  "people": 570,
+  "symbols": 272,
+  "travel": 119
+}
+```
+
+- `foods` category has benn renamed to `food`.
+- People serving assets directly from the gem must change:
+
+```ruby
+config.assets.paths << Gemojione.index.images_path
+
+# to 
+
+config.assets.paths << Gemojione.images_path
+```
+
+- If using new SVG option (`Gemojione.use_svg = true`), asset precompilation config should also be changed:
+
+```ruby
+config.assets.precompile << "emoji/*.png"
+
+# to
+
+config.assets.precompile << "emoji/*.svg"
+```
+
+- The `install_assets` rake task now installs both asset types (PNGs and SVGs).
+
 ## [v2.6.1](https://github.com/jonathanwiesel/gemojione/tree/v2.6.1) (2016-06-24)
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v2.6.0...v2.6.1)
 
