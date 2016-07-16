@@ -8054,7 +8054,9 @@
     "name": "face palm",
     "shortname": ":face_palm:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦"
@@ -8065,7 +8067,9 @@
     "name": "face palm tone 1",
     "shortname": ":face_palm_tone1:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm_tone1:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦🏻"
@@ -8076,7 +8080,9 @@
     "name": "face palm tone 2",
     "shortname": ":face_palm_tone2:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm_tone2:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦🏼"
@@ -8087,7 +8093,9 @@
     "name": "face palm tone 3",
     "shortname": ":face_palm_tone3:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm_tone3:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦🏽"
@@ -8098,7 +8106,9 @@
     "name": "face palm tone 4",
     "shortname": ":face_palm_tone4:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm_tone4:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦🏾"
@@ -8109,7 +8119,9 @@
     "name": "face palm tone 5",
     "shortname": ":face_palm_tone5:",
     "category": "people",
-    "aliases": [],
+    "aliases": [
+      ":facepalm_tone5:"
+    ],
     "aliases_ascii": [],
     "keywords": [],
     "moji": "🤦🏿"
