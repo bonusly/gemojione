@@ -1,5 +1,16 @@
 # Change Log
 
+## [v3.0.1](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-16)
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.0...v3.0.1)
+
+**Fixed bugs:**
+
+* Changed shopping cart category (from `travel` to `objects`)
+
+**Implemented enhancements:**
+
+* Add `facepalm` alias to `face_palm` definitions.
+
 ## [v3.0.0](https://github.com/jonathanwiesel/gemojione/tree/v3.0.0) (2016-07-12)
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v2.6.1...v3.0.0)
 
