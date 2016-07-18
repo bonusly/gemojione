@@ -21,6 +21,7 @@ describe Gemojione::Index do
     it 'should find all emoji with glasses keyword' do
       glasses_emoji = index.find_by_keyword('glasses')
       assert glasses_emoji
+      assert glasses_emoji.length == 5
       glasses_emoji.each do |emoji_hash|
         assert_includes(emoji_hash['keywords'], 'glasses')
       end
