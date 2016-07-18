@@ -17,6 +17,16 @@ describe Gemojione::Index do
     end
   end
 
+  describe "find_by_keyword" do
+    it 'should find all emoji with glasses keyword' do
+      glasses_emoji = index.find_by_keyword('glasses')
+      assert glasses_emoji
+      glasses_emoji.each do |emoji_hash|
+        assert_includes(emoji_hash['keywords'], 'glasses')
+      end
+    end
+  end
+
   describe 'find by ascii' do
     it 'returns the heart emoji' do
       assert index.find_by_ascii('<3')['unicode'] == "2764"

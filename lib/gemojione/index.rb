@@ -10,6 +10,7 @@ module Gemojione
       @emoji_by_moji = {}
       @emoji_by_ascii = {}
       @emoji_by_code = {}
+      @emoji_by_keyword = {}
 
       emoji_list.each do |key, emoji_hash|
 
@@ -31,6 +32,12 @@ module Gemojione
 
         moji = emoji_hash['moji']
         @emoji_by_moji[moji] = emoji_hash if moji
+
+        emoji_hash['keywords'].each do |emoji_keyword|
+          inner = @emoji_by_keyword.key?(:emoji_keyword) ? @emoji_by_keyword[emoji_keyword] : Array.new
+          inner.push(emoji_hash)
+          @emoji_by_keyword[emoji_keyword] = inner if inner
+        end
       end
 
       @emoji_code_regex = /#{@emoji_by_code.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
@@ -47,6 +54,10 @@ module Gemojione
 
     def find_by_ascii(ascii)
       @emoji_by_ascii[ascii]
+    end
+
+    def find_by_keyword(keyword)
+      @emoji_by_keyword[keyword]
     end
 
     def unicode_moji_regex
