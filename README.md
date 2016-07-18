@@ -68,7 +68,7 @@ Emoji Library Index APIs:
 => {"moji"=>"❤", "unicode"=>"2764", "unicode_alternates"=>["2764-FE0F"], "name"=>"heart", "shortname"=>":heart:", "category"=>"symbols", "aliases"=>[], "aliases_ascii"=>["<3"], "keywords"=>["like", "love", "red", "pink", "black", "heart", "love", "passion", "romance", "intense", "desire", "death", "evil", "cold", "valentines"], "description"=>"heavy black heart"}
 
 > index.find_by_keyword('teeth')
-=> [{"unicode":"1F62C","unicode_alternates":[],"name":"grimacing face","shortname":":grimacing:","category":"people","aliases":[],"aliases_ascii":[],"keywords":["face","grimace","teeth","disapprove","pain","silly","smiley","emotion","selfie"],"moji":"😬"},{"unicode":"1F479","unicode_alternates":[],"name":"japanese ogre","shortname":":japanese_ogre:","category":"people","aliases":[],"aliases_ascii":[],"keywords":["monster","japanese","oni","demon","troll","ogre","folklore","devil","mask","theater","horns","teeth"],"moji":"👹"}]
+=> [{"unicode"=>"1F62C", "unicode_alternates"=>[], "name"=>"grimacing", "shortname"=>":grimacing:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["face", "grimace", "teeth", "disapprove", "pain", "silly", "smiley", "emotion", "selfie"], "moji"=>"😬", "description"=>"grimacing face"}, {"unicode"=>"1F479", "unicode_alternates"=>[], "name"=>"japanese_ogre", "shortname"=>":japanese_ogre:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["monster", "japanese", "oni", "demon", "troll", "ogre", "folklore", "devil", "mask", "theater", "horns", "teeth"], "moji"=>"👹", "description"=>"japanese ogre"}]
 ```
 Default configuration integrates with Rails, but you can change it with an initializer:
 
