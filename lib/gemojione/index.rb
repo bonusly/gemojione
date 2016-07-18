@@ -34,9 +34,8 @@ module Gemojione
         @emoji_by_moji[moji] = emoji_hash if moji
 
         emoji_hash['keywords'].each do |emoji_keyword|
-          inner = @emoji_by_keyword.key?(:emoji_keyword) ? @emoji_by_keyword[emoji_keyword] : Array.new
-          inner.push(emoji_hash)
-          @emoji_by_keyword[emoji_keyword] = inner if inner
+          @emoji_by_keyword[emoji_keyword] ||= []
+          @emoji_by_keyword[emoji_keyword] << emoji_hash
         end
       end
 
