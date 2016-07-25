@@ -104,6 +104,9 @@ and call methods directly on your string to return the same results:
 > 'I ❤ Emoji'.with_emoji_images
 => "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
+> 'I :heart: Emoji'.with_emoji_names
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
+
 > 'heart'.image_url
 > '❤'.image_url
 => "http://localhost:3000/assets/emoji/2764.png"

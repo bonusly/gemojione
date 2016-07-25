@@ -11,6 +11,14 @@ describe String, 'with Emoji extensions' do
     end
   end
 
+  describe '#with_emoji_names' do
+    it 'should replace named moji with an img tag' do
+      base_string = "I :heart: Emoji"
+      replaced_string = base_string.with_emoji_names
+      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+    end
+  end
+
   describe '#image_url' do
     it 'should generate image_url' do
       assert_equal 'http://localhost:3000/1F300.png', '🌀'.image_url
