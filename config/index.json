@@ -14477,7 +14477,7 @@
   },
   "gay_pride_flag": {
     "unicode": "1F3F3-1F308",
-    "unicode_alternates": "",
+    "unicode_alternates": [],
     "name": "gay_pride_flag",
     "shortname": ":gay_pride_flag:",
     "category": "extras",
