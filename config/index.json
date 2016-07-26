@@ -28519,6 +28519,21 @@
     ],
     "moji": "💬"
   },
+  "speech_left": {
+    "unicode": "1F5E8",
+    "unicode_alternates": [
+      "1F5E8-FE0F"
+    ],
+    "name": "left speech bubble",
+    "shortname": ":speech_left:",
+    "category": "symbols",
+    "aliases": [
+      ":left_speech_bubble:"
+    ],
+    "aliases_ascii": [],
+    "keywords": [],
+    "moji": "🗨"
+  },
   "speedboat": {
     "unicode": "1F6A4",
     "unicode_alternates": [],
