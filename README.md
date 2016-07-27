@@ -127,6 +127,14 @@ To enable native HTML escaping, add this line to your application's Gemfile:
 ```ruby
 gem 'escape_utils'
 ```
+
+## Projects using the gem
+
+* [Gitlab](https://github.com/gitlabhq/gitlabhq)
+* [Gollum](https://github.com/gollum/gollum)
+
+If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here. 
+
 ## Contributors: :heart:
 
 This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem that has been adapted for EmojiOne.
