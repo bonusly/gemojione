@@ -136,6 +136,11 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@parndt](https://github.com/parndt): README doc fixes
 * [@neuegram](https://github.com/neuegram): XSS Security Audit
 * [@jonathanwiesel](https://github.com/jonathanwiesel): Emojione support
+* [@balasankarc](https://github.com/balasankarc): Asset executable bit cleaning.
+* [@tsigo](https://github.com/tsigo): Ability to serve assets directly from the gem in a rails app.
+* [@ZJvandeWeg](https://github.com/ZJvandeWeg): "Find by ASCII" feature. 
+* [@kendrikat](https://github.com/kendrikat): Railtie dependecy checker, default size option support and new `replace_named_moji_with_images` feature.
+* [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
 
 ## Contributing
 
