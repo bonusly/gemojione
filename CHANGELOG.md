@@ -1,5 +1,22 @@
 # Change Log
 
+## [v3.1.0](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-30)
+
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.1...v3.1.0)
+
+**Implemented enhancements:**
+
+- Add helper for named mojis as well [\#27](https://github.com/jonathanwiesel/gemojione/pull/27) ([gnclmorais](https://github.com/gnclmorais))
+- Add find by keyword method [\#24](https://github.com/jonathanwiesel/gemojione/pull/24) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Add gay\_pride\_flag [\#22](https://github.com/jonathanwiesel/gemojione/pull/22) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Update mrs\_claus asset for glasses reflexion  [\#28](https://github.com/jonathanwiesel/gemojione/issues/28)
+
+**Fixed bugs:**
+
+- Bring back `speech_left` definition that was wrongly removed.
+- Remove duplicate ascii alias for `innocent` definition.
+
+
 ## [v3.0.1](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-16)
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.0...v3.0.1)
 
