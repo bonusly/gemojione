@@ -1,5 +1,22 @@
 # Change Log
 
+## [v3.1.0](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-30)
+
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.1...v3.1.0)
+
+**Implemented enhancements:**
+
+- Add helper for named mojis as well [\#27](https://github.com/jonathanwiesel/gemojione/pull/27) ([gnclmorais](https://github.com/gnclmorais))
+- Add find by keyword method [\#24](https://github.com/jonathanwiesel/gemojione/pull/24) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Add gay\_pride\_flag [\#22](https://github.com/jonathanwiesel/gemojione/pull/22) ([jonathanwiesel](https://github.com/jonathanwiesel))
+- Update mrs\_claus asset for glasses reflexion  [\#28](https://github.com/jonathanwiesel/gemojione/issues/28)
+
+**Fixed bugs:**
+
+- Bring back `speech_left` definition that was wrongly removed.
+- Remove duplicate ascii alias for `innocent` definition.
+
+
 ## [v3.0.1](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-16)
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.0...v3.0.1)
 
@@ -73,6 +90,106 @@ config.assets.precompile << "emoji/*.svg"
 ```
 
 - The `install_assets` rake task now installs both asset types (PNGs and SVGs).
+
+- The following definitions have been removed because they are not actually emoji:
+
+```
+airplane_northeast
+airplane_small_up
+anger_left
+ascending_notes
+ballot_box_check
+ballot_box_x
+ballot_x
+book2
+bouquet2
+boys_symbol
+bullhorn
+bullhorn_waves
+calculator
+cancellation_x
+cartridge
+celtic_cross
+clockwise_arrows
+computer_old
+cross_heavy
+cross_white
+crossbones
+descending_notes
+desktop_window
+document
+document_text
+envelope_back
+envelope_flying
+envelope_stamped
+envelope_stamped_pen
+finger_pointing_down
+finger_pointing_down2
+finger_pointing_left
+finger_pointing_right
+finger_pointing_up
+fire_engine_oncoming
+flip_phone
+floppy_black
+floppy_white
+folder
+folder_open
+frame_tiles
+frame_x
+girls_symbol
+hand_splayed_reverse
+hand_victory
+hard_disk
+heart_tip
+info
+jet_up
+keyboard_mouse
+keyboard_with_jacks
+keycap_ten
+left_receiver
+left_writing_hand
+light_check_mark
+lips2
+mood_bubble
+mood_bubble_lightning
+mood_lightning
+mouse_one
+network
+note
+note_empty
+notepad
+notepad_empty
+optical_disk
+page
+pages
+pencil3
+pennant_black
+pennant_white
+piracy
+prohibited
+pushpin_black
+right_speaker
+right_speaker_one
+right_speaker_three
+ringing_bell
+rosette_black
+speech_left
+speech_right
+speech_three
+speech_two
+stereo
+stock_chart
+telephone_black
+telephone_white
+thought_left
+thought_right
+thumbs_down_reverse
+thumbs_up_reverse
+train_diesel
+triangle_round
+turned_ok_hand
+wired_keyboard
+```
 
 ## [v2.6.1](https://github.com/jonathanwiesel/gemojione/tree/v2.6.1) (2016-06-24)
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v2.6.0...v2.6.1)

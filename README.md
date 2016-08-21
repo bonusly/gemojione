@@ -130,6 +130,9 @@ and call methods directly on your string to return the same results:
 > 'I ❤ Emoji'.with_emoji_images
 => "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 
+> 'I :heart: Emoji'.with_emoji_names
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
+
 > 'heart'.image_url
 > '❤'.image_url
 => "http://localhost:3000/assets/emoji/2764.png"
@@ -160,6 +163,15 @@ Default size for sprite tag is 64px x 64px, [zoom](http://caniuse.com/#feat=css-
 }
 ```
 
+## Projects using the gem
+
+* [Gitlab](https://github.com/gitlabhq/gitlabhq)
+* [Gollum](https://github.com/gollum/gollum)
+* [EpicBuzz](https://www.epicbuzz.net)
+
+If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here. 
+
+
 ## Contributors: :heart:
 
 This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem that has been adapted for EmojiOne.
@@ -169,6 +181,11 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@parndt](https://github.com/parndt): README doc fixes
 * [@neuegram](https://github.com/neuegram): XSS Security Audit
 * [@jonathanwiesel](https://github.com/jonathanwiesel): Emojione support
+* [@balasankarc](https://github.com/balasankarc): Asset executable bit cleaning.
+* [@tsigo](https://github.com/tsigo): Ability to serve assets directly from the gem in a rails app.
+* [@ZJvandeWeg](https://github.com/ZJvandeWeg): "Find by ASCII" feature. 
+* [@kendrikat](https://github.com/kendrikat): Railtie dependecy checker, default size option support and new `replace_named_moji_with_images` feature.
+* [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
 
 ## Contributing
 

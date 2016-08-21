@@ -3,6 +3,10 @@ class String
     Gemojione.replace_unicode_moji_with_images(self)
   end
 
+  def with_emoji_names
+    Gemojione.replace_named_moji_with_images(self)
+  end
+
   def image_url
     Gemojione.image_url_for_name(self.emoji_data['name'])
   end
