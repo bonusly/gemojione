@@ -17,6 +17,7 @@ module Gemojione
   @asset_path = nil
   @default_size = nil
   @use_svg = false
+  @use_sprite = false
 
   @escaper = defined?(EscapeUtils) ? EscapeUtils : CGI
 
@@ -52,6 +53,14 @@ module Gemojione
     @use_svg = useit
   end
 
+  def self.use_sprite
+    @use_sprite
+  end
+
+  def self.use_sprite=(useit)
+    @use_sprite = useit
+  end
+
   def self.image_url_for_name(name)
     emoji = index.find_by_name(name)
     "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.#{ use_svg ? 'svg' : 'png' }"
@@ -63,7 +72,12 @@ module Gemojione
   end
 
   def self.image_tag_for_moji(moji)
-    %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
+    if use_sprite
+      emoji = index.find_by_moji(moji)
+      %Q{<span class="emojione emojione-#{emoji['unicode'].to_s.downcase}" alt="#{ moji }" title="#{ moji }">#{ moji }</span>}
+    else
+      %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
+    end
   end
 
   def self.replace_unicode_moji_with_images(string)
@@ -116,5 +130,9 @@ module Gemojione
 
   def self.images_path
     File.expand_path("../assets/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
+  end
+
+  def self.sprites_path
+    File.expand_path("../assets/sprites", File.dirname(__FILE__))
   end
 end

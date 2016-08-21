@@ -55,6 +55,17 @@ Image Replacement APIs:
 => "http://localhost:3000/assets/emoji/2764.png"
 ```
 
+Sprite Replacement APIs:
+```ruby
+Gemojione.use_sprite=true
+> Gemojione.replace_unicode_moji_with_images("I ❤ Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
+> Gemojione.replace_named_moji_with_images("I :heart: Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
+```
+
 Emoji Library Index APIs:
 
 ```ruby
@@ -78,6 +89,7 @@ Gemojione.asset_host = "emoji.cdn.com"
 Gemojione.asset_path = '/assets/emoji'
 Gemojione.default_size = '64px'
 Gemojione.use_svg = true
+Gemojione.use_sprite = true
 ```
 
 You can also serve the assets directly from the gem in your rails app:
@@ -88,6 +100,11 @@ config.assets.paths << Gemojione.images_path
 config.assets.precompile << "emoji/*.png" 
 # or 
 config.assets.precompile << "emoji/*.svg"
+
+#for spritesheets
+config.assets.paths << Gemojione.sprites_path
+config.assets.precompile << "emojione.sprites.css"
+config.assets.precompile << "emojione.sprites.png"
 ```
 
 String Helper Methods:
@@ -124,6 +141,16 @@ To enable native HTML escaping, add this line to your application's Gemfile:
 ```ruby
 gem 'escape_utils'
 ```
+
+## Spritesheet scaling
+Default size for sprite tag is 64px x 64px, [zoom](http://caniuse.com/#feat=css-zoom) or [transform: scale()](http://caniuse.com/#feat=transforms2d) can be used for custom scaling. transform: scale() is more widely supported.
+```css
+.emojione{
+  transform: scale(.5);
+  margin: -15px;
+}
+```
+
 ## Contributors: :heart:
 
 This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem that has been adapted for EmojiOne.
@@ -143,6 +170,9 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Notes
+run `rake resprite` to regenerate the spritesheets if you're adding new images
 
 [travisUrl]: https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master
 [travisProject]: https://travis-ci.org/jonathanwiesel/gemojione

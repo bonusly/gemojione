@@ -20,4 +20,5 @@ namespace :gemojione do
       FileUtils.cp_r(asset, target_dir, verbose: true, preserve: false)
     end
   end
+
 end
