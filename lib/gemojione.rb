@@ -112,6 +112,25 @@ module Gemojione
     safe_string
   end
 
+  def self.replace_ascii_moji_with_images(string)
+    return string unless string
+    unless string.match(index.ascii_moji_regex)
+      return safe_string(string)
+    end
+
+    string.gsub!(index.ascii_moji_regex) do |code|
+      moji = index.find_by_ascii(code)['moji']
+      Gemojione.image_tag_for_moji(moji)
+    end
+
+    unless string.respond_to?(:html_safe?) && string.html_safe?
+      safe_string = CGI::unescapeElement(CGI.escape_html(string), %w[span img])
+    end
+    safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
+
+    safe_string
+  end
+
   def self.safe_string(string)
     if string.respond_to?(:html_safe?) && string.html_safe?
       string

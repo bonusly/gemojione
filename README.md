@@ -53,6 +53,9 @@ Image Replacement APIs:
 
 > Gemojione.image_url_for_name('heart')
 => "http://localhost:3000/assets/emoji/2764.png"
+
+> Gemojione.replace_ascii_moji_with_images("I <3 Emoji")
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
 ```
 
 Sprite Replacement APIs:
@@ -62,6 +65,9 @@ Gemojione.use_sprite=true
 => "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
 
 > Gemojione.replace_named_moji_with_images("I :heart: Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
+> Gemojione.replace_ascii_moji_with_images("I <3 Emoji")
 => "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
 
 ```
@@ -80,6 +86,9 @@ Emoji Library Index APIs:
 
 > index.find_by_keyword('teeth')
 => [{"unicode"=>"1F62C", "unicode_alternates"=>[], "name"=>"grimacing", "shortname"=>":grimacing:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["face", "grimace", "teeth", "disapprove", "pain", "silly", "smiley", "emotion", "selfie"], "moji"=>"😬", "description"=>"grimacing face"}, {"unicode"=>"1F479", "unicode_alternates"=>[], "name"=>"japanese_ogre", "shortname"=>":japanese_ogre:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["monster", "japanese", "oni", "demon", "troll", "ogre", "folklore", "devil", "mask", "theater", "horns", "teeth"], "moji"=>"👹", "description"=>"japanese ogre"}]
+
+> index.find_by_ascii(':)')
+=> {"unicode"=>"1F604", "unicode_alternates"=>[], "name"=>"smile", "shortname"=>":smile:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[":)", ":-)", "=]", "=)", ":]"], "keywords"=>["face", "funny", "haha", "happy", "joy", "laugh", "smile", "smiley", "smiling", "emotion"], "moji"=>"😄","description"=>"smiling face with open mouth and smiling eyes"}
 ```
 Default configuration integrates with Rails, but you can change it with an initializer:
 
