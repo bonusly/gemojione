@@ -41,6 +41,7 @@ module Gemojione
 
       @emoji_code_regex = /#{@emoji_by_code.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
       @emoji_moji_regex = /#{@emoji_by_moji.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
+      @emoji_ascii_regex = /#{@emoji_by_ascii.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
     end
 
     def find_by_moji(moji)
@@ -65,6 +66,10 @@ module Gemojione
 
     def shortname_moji_regex
       @emoji_code_regex
+    end
+
+    def ascii_moji_regex
+      @emoji_ascii_regex
     end
   end
 end

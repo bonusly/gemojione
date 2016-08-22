@@ -71,6 +71,12 @@ describe Gemojione do
       assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png" style="width: 42px;">', Gemojione.image_tag_for_moji('🌀')
       Gemojione.default_size=nil
     end
+
+    it 'should generate spritesheet tag' do
+      with_emoji_config(:use_sprite, true) do
+        assert_equal "<span class=\"emojione emojione-1f300\" alt=\"🌀\" title=\"🌀\">🌀</span>", Gemojione.image_tag_for_moji('🌀')
+      end
+    end
   end
 
   describe "replace_unicode_moji_with_images" do
@@ -87,6 +93,14 @@ describe Gemojione do
       base_string = "I ❤ Emoji"
       replaced_string = Gemojione.replace_unicode_moji_with_images(base_string)
       assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+    end
+
+    it 'should replace unicode moji with span tag for spritesheet' do
+      with_emoji_config(:use_sprite, true) do
+        base_string = "I ❤ Emoji"
+        replaced_string = Gemojione.replace_unicode_moji_with_images(base_string)
+        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji", replaced_string
+      end
     end
 
     it 'should escape regex breaker mojis' do
@@ -149,6 +163,13 @@ describe Gemojione do
   end
 
   describe 'replace_named_moji_with_images' do
+    it 'should replace with span tag for spritesheet' do
+      with_emoji_config(:use_sprite, true) do
+        base_string = "I :heart: Emoji"
+        replaced_string = Gemojione.replace_named_moji_with_images(base_string)
+        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji", replaced_string
+      end
+    end
 
     it 'should return original string without emoji' do
       assert_equal 'foo', Gemojione.replace_named_moji_with_images('foo')
@@ -217,6 +238,30 @@ describe Gemojione do
 
         assert_equal "Content", replaced_string
       end
+
+      it 'should escape non html_safe? strings with ascii' do
+        string = HtmlSafeString.new('Moji is <3 XSS<script> attacks are not')
+
+        replaced_string = string.stub(:html_safe?, false) do
+          Gemojione.replace_ascii_moji_with_images(string)
+        end
+
+        assert_equal "Moji is <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> XSS&lt;script&gt; attacks are not", replaced_string
+      end
+    end
+  end
+
+  describe "replace_ascii_moji_with_images" do
+    it 'should replace ascii moji with img tag' do
+      replaced_string = Gemojione.replace_ascii_moji_with_images("Emoji is :-)")
+      assert_equal "Emoji is <img alt=\"😄\" class=\"emoji\" src=\"http://localhost:3000/1F604.png\">", replaced_string
+    end
+
+    it 'should replace ascii moji with span tag for sprite' do
+      with_emoji_config(:use_sprite, true) do
+        replaced_string = Gemojione.replace_ascii_moji_with_images("Emoji is :-)")
+        assert_equal "Emoji is <span class=\"emojione emojione-1f604\" alt=\"😄\" title=\"😄\">😄</span>", replaced_string
+      end
     end
   end
 
@@ -236,6 +281,16 @@ describe Gemojione do
         assert Dir.exist?(path)
         assert_equal "svg", path.split('/').last
       end
+    end
+  end
+
+  describe "sprites_path" do
+    it "should return sprite stylesheet" do
+      assert File.exist?("#{Gemojione.sprites_path}/emojione.sprites.scss")
+    end
+
+    it "should return PNG sprites" do
+      assert File.exist?("#{Gemojione.sprites_path}/emojione.sprites.png")
     end
   end
 

@@ -53,6 +53,23 @@ Image Replacement APIs:
 
 > Gemojione.image_url_for_name('heart')
 => "http://localhost:3000/assets/emoji/2764.png"
+
+> Gemojione.replace_ascii_moji_with_images("I <3 Emoji")
+=> "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/assets/emoji/2764.png\"> Emoji"
+```
+
+Sprite Replacement APIs:
+```ruby
+Gemojione.use_sprite=true
+> Gemojione.replace_unicode_moji_with_images("I ❤ Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
+> Gemojione.replace_named_moji_with_images("I :heart: Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
+> Gemojione.replace_ascii_moji_with_images("I <3 Emoji")
+=> "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji"
+
 ```
 
 Emoji Library Index APIs:
@@ -69,6 +86,9 @@ Emoji Library Index APIs:
 
 > index.find_by_keyword('teeth')
 => [{"unicode"=>"1F62C", "unicode_alternates"=>[], "name"=>"grimacing", "shortname"=>":grimacing:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["face", "grimace", "teeth", "disapprove", "pain", "silly", "smiley", "emotion", "selfie"], "moji"=>"😬", "description"=>"grimacing face"}, {"unicode"=>"1F479", "unicode_alternates"=>[], "name"=>"japanese_ogre", "shortname"=>":japanese_ogre:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[], "keywords"=>["monster", "japanese", "oni", "demon", "troll", "ogre", "folklore", "devil", "mask", "theater", "horns", "teeth"], "moji"=>"👹", "description"=>"japanese ogre"}]
+
+> index.find_by_ascii(':)')
+=> {"unicode"=>"1F604", "unicode_alternates"=>[], "name"=>"smile", "shortname"=>":smile:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[":)", ":-)", "=]", "=)", ":]"], "keywords"=>["face", "funny", "haha", "happy", "joy", "laugh", "smile", "smiley", "smiling", "emotion"], "moji"=>"😄","description"=>"smiling face with open mouth and smiling eyes"}
 ```
 Default configuration integrates with Rails, but you can change it with an initializer:
 
@@ -78,6 +98,7 @@ Gemojione.asset_host = "emoji.cdn.com"
 Gemojione.asset_path = '/assets/emoji'
 Gemojione.default_size = '64px'
 Gemojione.use_svg = true
+Gemojione.use_sprite = true
 ```
 
 You can also serve the assets directly from the gem in your rails app:
@@ -88,6 +109,11 @@ config.assets.paths << Gemojione.images_path
 config.assets.precompile << "emoji/*.png" 
 # or 
 config.assets.precompile << "emoji/*.svg"
+
+#for spritesheets
+config.assets.paths << Gemojione.sprites_path
+config.assets.precompile << "emojione.sprites.css"
+config.assets.precompile << "emojione.sprites.png"
 ```
 
 String Helper Methods:
@@ -128,12 +154,23 @@ To enable native HTML escaping, add this line to your application's Gemfile:
 gem 'escape_utils'
 ```
 
+## Spritesheet scaling
+Default size for sprite tag is 64px x 64px, [zoom](http://caniuse.com/#feat=css-zoom) or [transform: scale()](http://caniuse.com/#feat=transforms2d) can be used for custom scaling. transform: scale() is more widely supported.
+```css
+.emojione{
+  transform: scale(.5);
+  margin: -15px;
+}
+```
+
 ## Projects using the gem
 
 * [Gitlab](https://github.com/gitlabhq/gitlabhq)
 * [Gollum](https://github.com/gollum/gollum)
+* [EpicBuzz](https://www.epicbuzz.net)
 
 If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here. 
+
 
 ## Contributors: :heart:
 
@@ -159,6 +196,9 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Notes
+run `rake resprite` to regenerate the spritesheets if you're adding new images
 
 [travisUrl]: https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master
 [travisProject]: https://travis-ci.org/jonathanwiesel/gemojione
