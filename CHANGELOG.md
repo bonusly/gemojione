@@ -1,6 +1,14 @@
 # Change Log
 
-## [v3.1.0](https://github.com/jonathanwiesel/gemojione/tree/v3.0.1) (2016-07-30)
+## [v3.2.0](https://github.com/jonathanwiesel/gemojione/tree/v3.2.0)
+
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.1.0...v3.2.0)
+
+**Implemented enhancements:**
+
+- Sprite and  ASCII!  [\#25](https://github.com/jonathanwiesel/gemojione/pull/25) ([naveed-ahmad](https://github.com/naveed-ahmad))
+
+## [v3.1.0](https://github.com/jonathanwiesel/gemojione/tree/v3.1.0) (2016-07-30)
 
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.0.1...v3.1.0)
 
