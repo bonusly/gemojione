@@ -59,6 +59,7 @@ Image Replacement APIs:
 ```
 
 Sprite Replacement APIs:
+
 ```ruby
 Gemojione.use_sprite=true
 > Gemojione.replace_unicode_moji_with_images("I ❤ Emoji")
@@ -90,6 +91,7 @@ Emoji Library Index APIs:
 > index.find_by_ascii(':)')
 => {"unicode"=>"1F604", "unicode_alternates"=>[], "name"=>"smile", "shortname"=>":smile:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[":)", ":-)", "=]", "=)", ":]"], "keywords"=>["face", "funny", "haha", "happy", "joy", "laugh", "smile", "smiley", "smiling", "emotion"], "moji"=>"😄","description"=>"smiling face with open mouth and smiling eyes"}
 ```
+
 Default configuration integrates with Rails, but you can change it with an initializer:
 
 ```ruby
@@ -156,6 +158,7 @@ gem 'escape_utils'
 
 ## Spritesheet scaling
 Default size for sprite tag is 64px x 64px, [zoom](http://caniuse.com/#feat=css-zoom) or [transform: scale()](http://caniuse.com/#feat=transforms2d) can be used for custom scaling. transform: scale() is more widely supported.
+
 ```css
 .emojione{
   transform: scale(.5);
@@ -186,6 +189,7 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@ZJvandeWeg](https://github.com/ZJvandeWeg): "Find by ASCII" feature. 
 * [@kendrikat](https://github.com/kendrikat): Railtie dependecy checker, default size option support and new `replace_named_moji_with_images` feature.
 * [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
+* [@naveed-ahmad](https://github.com/naveed-ahmad): ASCII replacement API and Spritesheet support.
 
 ## Contributing
 
@@ -198,7 +202,7 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 5. Create new Pull Request
 
 ## Notes
-run `rake resprite` to regenerate the spritesheets if you're adding new images
+Run `rake resprite` to regenerate the spritesheets if you're adding new images
 
 [travisUrl]: https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master
 [travisProject]: https://travis-ci.org/jonathanwiesel/gemojione
