@@ -29,7 +29,7 @@ describe 'gemojione:install_assets' do
   end
 
   def source_directory
-    Rails.root.join('..', 'assets')
+    Rails.root.join('..', 'assets', 'emoji')
   end
 
   it 'accepts a custom target directory through ENV' do

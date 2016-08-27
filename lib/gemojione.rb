@@ -148,10 +148,10 @@ module Gemojione
   end
 
   def self.images_path
-    File.expand_path("../assets/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
+    File.expand_path("../assets/emoji/#{ use_svg ? 'svg' : 'png' }", File.dirname(__FILE__))
   end
 
   def self.sprites_path
-    File.expand_path("../assets/sprites", File.dirname(__FILE__))
+    File.expand_path("../assets/emoji/sprites", File.dirname(__FILE__))
   end
 end
