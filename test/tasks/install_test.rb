@@ -49,14 +49,14 @@ describe 'gemojione:install_assets' do
       assert target_directory.exist?
     end
 
-    it 'copies all files from source to target, removing the additional `emoji` directory' do
+    it 'copies all files from source to the root of the target directory' do
       Dir.glob(source_directory.join('**', '*')) do |path|
         source_path = Pathname.new(path)
-        relative_path = source_path.relative_path_from(source_directory)
-        relative_path = (relative_path.to_s.split('/') - ['emoji']).join('/')
-        target_path = target_directory.join(relative_path)
 
-        assert !relative_path.to_s.include?('emoji/')
+        # Skip directories for this test as they are not copied anyway
+        next if source_path.directory?
+        target_path = target_directory.join(source_path.basename)
+
         assert target_path.exist?
       end
     end
