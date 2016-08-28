@@ -29,7 +29,7 @@ describe 'gemojione:install_assets' do
   end
 
   def source_directory
-    Rails.root.join('..', 'assets', 'emoji')
+    Rails.root.join('..', 'assets')
   end
 
   it 'accepts a custom target directory through ENV' do
@@ -40,18 +40,25 @@ describe 'gemojione:install_assets' do
     ENV['TARGET'] = nil
   end
 
-  it "creates the target directory if it doesn't exist" do
-    assert !target_directory.exist?
-    subject.invoke
-    assert target_directory.exist?
-  end
+  describe 'default configuration' do
+    before do
+      subject.invoke
+    end
 
-  it 'copies all files from source to target' do
-    subject.invoke
-    Dir.glob(source_directory.join('**', '*')) do |path|
-      source_path = Pathname.new(path)
-      target_path = target_directory.join(source_path.relative_path_from(source_directory))
-      assert target_path.exist?
+    it "creates the target directory if it doesn't exist" do
+      assert target_directory.exist?
+    end
+
+    it 'copies all files from source to target, removing the additional `emoji` directory' do
+      Dir.glob(source_directory.join('**', '*')) do |path|
+        source_path = Pathname.new(path)
+        relative_path = source_path.relative_path_from(source_directory)
+        relative_path = (relative_path.to_s.split('/') - ['emoji']).join('/')
+        target_path = target_directory.join(relative_path)
+
+        assert !relative_path.to_s.include?('emoji/')
+        assert target_path.exist?
+      end
     end
   end
 end
