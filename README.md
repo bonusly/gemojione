@@ -103,19 +103,29 @@ Gemojione.use_svg = true
 Gemojione.use_sprite = true
 ```
 
-You can also serve the assets directly from the gem in your rails app:
+You can also serve the assets directly from the gem in your rails app. 
+
+**Note**: `Gemojione.image_path` takes the `use_svg` setting into account to return the path to the correct image type directory.
+As both `config/application.rb` and `config/initializers/assets.rb` are loaded before `config/initializers/gemojione.rb`, 
+you either have to do the `Gemojione` configuration in one of these files or move the asset configuration
+to the `gemojione.rb` initializers. 
+
+Below is an example for the latter option:
 
 ```ruby
-# config/application.rb
-config.assets.paths << Gemojione.images_path
-config.assets.precompile << "emoji/*.png" 
-# or 
-config.assets.precompile << "emoji/*.svg"
+# config/initializers/gemojione.rb
 
-#for spritesheets
-config.assets.paths << Gemojione.sprites_path
-config.assets.precompile << "emojione.sprites.css"
-config.assets.precompile << "emojione.sprites.png"
+Rails.application.configure do
+config.assets.paths << Gemojione.images_path
+    config.assets.precompile << "emoji/*.png" 
+    # or 
+    config.assets.precompile << "emoji/*.svg"
+    
+    #for spritesheets
+    config.assets.paths << Gemojione.sprites_path
+    config.assets.precompile << "emojione.sprites.css"
+    config.assets.precompile << "emojione.sprites.png"
+end
 ```
 
 String Helper Methods:
