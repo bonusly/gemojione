@@ -30062,6 +30062,23 @@
     ],
     "moji": "👎"
   },
+  "minus_one": {
+    "unicode": "1F44E",
+    "unicode_alternates": [],
+    "name": "thumbs down sign",
+    "shortname": ":-1:",
+    "category": "people",
+    "aliases": [],
+    "aliases_ascii": [],
+    "keywords": [
+      "hand",
+      "no",
+      "body",
+      "hands",
+      "diversity"
+    ],
+    "moji": "👎"
+  },
   "thumbsdown_tone1": {
     "unicode": "1F44E-1F3FB",
     "unicode_alternates": [],
@@ -30156,6 +30173,31 @@
     "aliases": [
       ":+1:"
     ],
+    "aliases_ascii": [],
+    "keywords": [
+      "cool",
+      "hand",
+      "like",
+      "yes",
+      "body",
+      "hands",
+      "hi",
+      "luck",
+      "thank you",
+      "diversity",
+      "perfect",
+      "good",
+      "beautiful"
+    ],
+    "moji": "👍"
+  },
+  "plus_one": {
+    "unicode": "1F44D",
+    "unicode_alternates": [],
+    "name": "thumbs up sign",
+    "shortname": ":+1:",
+    "category": "people",
+    "aliases": [],
     "aliases_ascii": [],
     "keywords": [
       "cool",
