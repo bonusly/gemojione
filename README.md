@@ -190,6 +190,7 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@kendrikat](https://github.com/kendrikat): Railtie dependecy checker, default size option support and new `replace_named_moji_with_images` feature.
 * [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
 * [@naveed-ahmad](https://github.com/naveed-ahmad): ASCII replacement API and Spritesheet support.
+* [@Eric-Guo](https://github.com/Eric-Guo): Usage of `.ruby-version` instead of `.rvmrc`.
 
 ## Contributing
 
