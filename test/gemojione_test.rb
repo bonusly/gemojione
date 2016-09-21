@@ -68,7 +68,7 @@ describe Gemojione do
 
     it 'should generate a img tag with style tag if default_size is defined' do
       Gemojione.default_size='42px'
-      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png" style="width: 42px;">', Gemojione.image_tag_for_moji('🌀')
+      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png" style="height: 42px; width: 42px;">', Gemojione.image_tag_for_moji('🌀')
       Gemojione.default_size=nil
     end
 
