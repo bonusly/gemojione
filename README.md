@@ -1,6 +1,6 @@
 # Gemojione
 
-[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl] [![Dependencies][gemnasiumDeps]][gemnasiumProject]
+[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl] [![Dependencies][gemnasiumDeps]][gemnasiumProject] [![Coverage][coverage]][codeclimate] [![GPA][gpa]][codeClimate]
 
 A gem for EmojiOne
 
@@ -212,3 +212,6 @@ Run `rake resprite` to regenerate the spritesheets if you're adding new images
 [rubyUrl]: https://rubygems.org/gems/gemojione
 [gemnasiumDeps]: https://img.shields.io/gemnasium/jonathanwiesel/gemojione.svg
 [gemnasiumProject]: https://gemnasium.com/jonathanwiesel/gemojione
+[coverage]: https://img.shields.io/codeclimate/coverage/github/jonathanwiesel/gemojione.svg
+[codeclimate]: https://codeclimate.com/github/jonathanwiesel/gemojione
+[gpa]: https://img.shields.io/codeclimate/github/jonathanwiesel/gemojione.svg
