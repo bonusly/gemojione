@@ -21,6 +21,7 @@ module Gemojione
         emoji_hash["aliases"].each do |emoji_alias|
           aliased = emoji_alias.tr(':','')
           @emoji_by_name[aliased] = emoji_hash if aliased
+          @emoji_by_code[emoji_alias] = emoji_hash if aliased
         end
 
         emoji_hash['aliases_ascii'].each do |emoji_ascii|
