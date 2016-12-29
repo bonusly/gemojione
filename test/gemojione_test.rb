@@ -186,6 +186,12 @@ describe Gemojione do
       assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
+    it 'should replace aliased moji with img tag' do
+      base_string = "Good one :+1:"
+      replaced_string = Gemojione.replace_named_moji_with_images(base_string)
+      assert_equal "Good one <img alt=\"👍\" class=\"emoji\" src=\"http://localhost:3000/1F44D.png\">", replaced_string
+    end
+
     it 'should handle nil string' do
       assert_equal nil, Gemojione.replace_named_moji_with_images(nil)
     end
