@@ -61,6 +61,10 @@ module Gemojione
       @emoji_by_keyword[keyword]
     end
 
+    def find_by_shortname(shortname)
+      @emoji_by_code[shortname]
+    end
+
     def unicode_moji_regex
       @emoji_moji_regex
     end
