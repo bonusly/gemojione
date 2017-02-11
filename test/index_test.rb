@@ -5,6 +5,12 @@ require File.absolute_path File.dirname(__FILE__) + '/test_helper'
 describe Gemojione::Index do
   let(:index) { Gemojione::Index.new }
 
+  describe "all" do
+    it "return emoji_list" do
+      assert index.all, index.instance_variable_get(:@emoji_by_name)
+    end
+  end
+
   describe "find_by_name" do
     it 'should find cyclone emoji' do
       assert index.find_by_name('cyclone')

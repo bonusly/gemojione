@@ -1,5 +1,7 @@
 module Gemojione
   class Index
+    attr_reader :all
+
     def initialize(emoji_list=nil)
       emoji_list ||= begin
         emoji_json = File.read(File.absolute_path(File.dirname(__FILE__) + '/../../config/index.json'))
@@ -11,6 +13,7 @@ module Gemojione
       @emoji_by_ascii = {}
       @emoji_by_code = {}
       @emoji_by_keyword = {}
+      @all = emoji_list
 
       emoji_list.each do |key, emoji_hash|
 
