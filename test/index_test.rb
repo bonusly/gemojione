@@ -33,6 +33,12 @@ describe Gemojione::Index do
       assert index.find_by_ascii('<3')['unicode'] == "2764"
     end
   end
+  
+  describe 'find by shortname' do
+    it 'returns the heart emoji' do
+      assert index.find_by_shortname(':heart:')['unicode'] == '2764'
+    end
+  end
 
   describe "unicode_moji_regex" do
     it "should return complex moji regex" do
