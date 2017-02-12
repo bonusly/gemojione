@@ -152,6 +152,6 @@ module Gemojione
   end
 
   def self.sprites_path
-    File.expand_path("../assets/sprites", File.dirname(__FILE__))
+    File.expand_path('../assets/sprites', File.dirname(__FILE__))
   end
 end
