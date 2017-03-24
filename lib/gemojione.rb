@@ -11,6 +11,7 @@ end
 require 'gemojione/index'
 
 require 'gemojione/railtie' if defined?(Rails::Railtie)
+require 'gemojione/engine' if defined?(Rails::Engine)
 
 module Gemojione
   @asset_host = nil
