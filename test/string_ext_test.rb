@@ -1,37 +1,43 @@
 # encoding: UTF-8
 
+require File.absolute_path File.dirname(__FILE__) + '/test_helper'
 require 'gemojione/string_ext'
 
 describe String, 'with Emoji extensions' do
-  describe '#with_emoji_images' do
-    it 'should replace unicode moji with an img tag' do
-      base_string = "I ❤ Emoji"
-      replaced_string = base_string.with_emoji_images
-      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+  describe '#with_emoji_from_unicode' do
+    it 'should replace unicode moji with the requested type of HTML tag' do
+      string = "I #{UNIMOJI[:heart]} Emoji"
+      replaced_string = string.with_emoji_from_unicode(use_sprites: false, image_format: :svg)
+      assert_match /I <img.*src=".*2764\.svg".* Emoji/, replaced_string
+
+      replaced_string = string.with_emoji_from_unicode(use_sprites: false, image_format: :png)
+      assert_match /I <img.*src=".*2764\.png".* Emoji/, replaced_string
+
+      replaced_string = string.with_emoji_from_unicode(use_sprites: true)
+      assert_match /I <span.*class="emojione emojione-2764".* Emoji/, replaced_string
     end
   end
 
-  describe '#with_emoji_names' do
-    it 'should replace named moji with an img tag' do
-      base_string = "I :heart: Emoji"
-      replaced_string = base_string.with_emoji_names
-      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+  describe '#with_emoji_from_names' do
+    it 'should replace named moji with the requested type of HTML tag' do
+      string = 'I :heart: Emoji'
+      replaced_string = string.with_emoji_from_names(use_sprites: false, image_format: :svg)
+      assert_match /I <img.*src=".*2764\.svg".* Emoji/, replaced_string
+
+      replaced_string = string.with_emoji_from_names(use_sprites: false, image_format: :png)
+      assert_match /I <img.*src=".*2764\.png".* Emoji/, replaced_string
+
+      replaced_string = string.with_emoji_from_names(use_sprites: true)
+      assert_match /I <span.*class="emojione emojione-2764".* Emoji/, replaced_string
     end
   end
 
-  describe '#image_url' do
-    it 'should generate image_url' do
-      assert_equal 'http://localhost:3000/1F300.png', "\u{1f300}".image_url
-      assert_equal 'http://localhost:3000/1F300.png', 'cyclone'.image_url
-    end
-  end
-
-  describe '#emoji_data' do
-    it 'should find data for a name or a moji' do
-      data_from_moji = '❤'.emoji_data
-      data_from_string = 'heart'.emoji_data
-
-      assert_equal data_from_moji, data_from_string
+  describe '#emoji_image_url' do
+    it 'should return the image url for the emoji' do
+      assert_equal 'http://localhost:3000/svg/1F300.svg', UNIMOJI[:cyclone].emoji_image_url(image_format: :svg)
+      assert_equal 'http://localhost:3000/png/1F300.png', UNIMOJI[:cyclone].emoji_image_url(image_format: :png)
+      assert_equal 'http://localhost:3000/svg/1F300.svg', 'cyclone'.emoji_image_url(image_format: :svg)
+      assert_equal 'http://localhost:3000/png/1F300.png', 'cyclone'.emoji_image_url(image_format: :png)
     end
   end
 end
