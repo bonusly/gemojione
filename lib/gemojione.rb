@@ -10,6 +10,7 @@ end
 
 require 'gemojione/index'
 require 'gemojione/configuration'
+require 'gemojione/util'
 
 require 'gemojione/railtie' if defined?(Rails::Railtie)
 require 'gemojione/engine' if defined?(Rails::Engine)
