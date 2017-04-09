@@ -5,19 +5,19 @@ require File.absolute_path File.dirname(__FILE__) + '/test_helper'
 describe Gemojione::Index do
   let(:index) { Gemojione::Index.new }
 
-  describe "find_by_name" do
+  describe 'find_by_name' do
     it 'should find cyclone emoji' do
       assert index.find_by_name('cyclone')
     end
   end
 
-  describe "find_by_moji" do
+  describe 'find_by_moji' do
     it 'should find cyclone emoji by moji character' do
-      assert index.find_by_moji('🌀')
+      assert index.find_by_moji("\u{1f300}")
     end
   end
 
-  describe "find_by_keyword" do
+  describe 'find_by_keyword' do
     it 'should find all emoji with glasses keyword' do
       glasses_emoji = index.find_by_keyword('glasses')
       assert glasses_emoji
@@ -30,7 +30,7 @@ describe Gemojione::Index do
 
   describe 'find by ascii' do
     it 'returns the heart emoji' do
-      assert index.find_by_ascii('<3')['unicode'] == "2764"
+      assert index.find_by_ascii('<3')['unicode'] == '2764'
     end
   end
   
@@ -40,11 +40,11 @@ describe Gemojione::Index do
     end
   end
 
-  describe "unicode_moji_regex" do
-    it "should return complex moji regex" do
-      regex = index.unicode_moji_regex
 
-      assert "🌀".match(regex)
+  describe 'unicode_moji_regex' do
+    it 'should return complex moji regex' do
+      regex = index.regexps[:unicode]
+      assert "\u{1f300}".match(regex)
     end
   end
 end

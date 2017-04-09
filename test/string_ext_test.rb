@@ -21,7 +21,7 @@ describe String, 'with Emoji extensions' do
 
   describe '#image_url' do
     it 'should generate image_url' do
-      assert_equal 'http://localhost:3000/1F300.png', '🌀'.image_url
+      assert_equal 'http://localhost:3000/1F300.png', "\u{1f300}".image_url
       assert_equal 'http://localhost:3000/1F300.png', 'cyclone'.image_url
     end
   end
