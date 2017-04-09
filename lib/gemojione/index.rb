@@ -1,26 +1,26 @@
 module Gemojione
   class Index
-    def initialize(emoji_list=nil)
+    def initialize(emoji_list = nil)
       emoji_list ||= begin
         emoji_json = File.read(File.absolute_path(File.dirname(__FILE__) + '/../../config/index.json'))
         JSON.parse(emoji_json)
       end
 
-      @emoji_by_name = {}
-      @emoji_by_moji = {}
-      @emoji_by_ascii = {}
-      @emoji_by_code = {}
+      @emoji_by_name    = {}
+      @emoji_by_moji    = {}
+      @emoji_by_ascii   = {}
+      @emoji_by_code    = {}
       @emoji_by_keyword = {}
 
       emoji_list.each do |key, emoji_hash|
 
-        emoji_hash["description"] = emoji_hash["name"]
-        emoji_hash["name"] = key
-        @emoji_by_name[key] = emoji_hash if key
+        emoji_hash['description'] = emoji_hash['name']
+        emoji_hash['name']        = key
+        @emoji_by_name[key]       = emoji_hash if key
 
-        emoji_hash["aliases"].each do |emoji_alias|
-          aliased = emoji_alias.tr(':','')
-          @emoji_by_name[aliased] = emoji_hash if aliased
+        emoji_hash['aliases'].each do |emoji_alias|
+          aliased                     = emoji_alias.tr(':', '')
+          @emoji_by_name[aliased]     = emoji_hash if aliased
           @emoji_by_code[emoji_alias] = emoji_hash if aliased
         end
 
@@ -28,10 +28,10 @@ module Gemojione
           @emoji_by_ascii[emoji_ascii] = emoji_hash if emoji_ascii
         end
 
-        code = emoji_hash['shortname']
+        code                 = emoji_hash['shortname']
         @emoji_by_code[code] = emoji_hash if code
 
-        moji = emoji_hash['moji']
+        moji                 = emoji_hash['moji']
         @emoji_by_moji[moji] = emoji_hash if moji
 
         emoji_hash['keywords'].each do |emoji_keyword|
@@ -40,9 +40,11 @@ module Gemojione
         end
       end
 
-      @emoji_code_regex = /#{@emoji_by_code.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
-      @emoji_moji_regex = /#{@emoji_by_moji.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
-      @emoji_ascii_regex = /#{@emoji_by_ascii.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
+      @regexps = {
+          code:    /#{@emoji_by_code.keys.map { |ec| Regexp.escape(ec) }.join('|')}/,
+          unicode: /#{@emoji_by_moji.keys.map { |ec| Regexp.escape(ec) }.join('|')}/,
+          ascii:   /#{@emoji_by_ascii.keys.map { |ec| Regexp.escape(ec) }.join('|')}/
+      }
     end
 
     def find_by_moji(moji)
@@ -65,16 +67,6 @@ module Gemojione
       @emoji_by_code[shortname]
     end
 
-    def unicode_moji_regex
-      @emoji_moji_regex
-    end
-
-    def shortname_moji_regex
-      @emoji_code_regex
-    end
-
-    def ascii_moji_regex
-      @emoji_ascii_regex
-    end
+    attr_reader :regexps
   end
 end
