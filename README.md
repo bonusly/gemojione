@@ -157,7 +157,7 @@ gem 'escape_utils'
 ```
 
 ## Spritesheet scaling
-Default size for sprite tag is 64px x 64px, [zoom](http://caniuse.com/#feat=css-zoom) or [transform: scale()](http://caniuse.com/#feat=transforms2d) can be used for custom scaling. transform: scale() is more widely supported.
+If you’re using spritesheets, customising `Gemojione.default_size` at `config/initializers/gemojione.rb` won’t work. Default size for sprite tag is 64px x 64px, but [`zoom`](http://caniuse.com/#feat=css-zoom) or [`transform: scale()`](http://caniuse.com/#feat=transforms2d) can be used for custom scaling. transform: scale() is more widely supported.
 
 ```css
 .emojione{
