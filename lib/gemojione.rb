@@ -9,8 +9,11 @@ rescue LoadError
 end
 
 require 'gemojione/index'
+require 'gemojione/configuration'
+require 'gemojione/util'
 
 require 'gemojione/railtie' if defined?(Rails::Railtie)
+require 'gemojione/engine' if defined?(Rails::Engine)
 
 module Gemojione
   @asset_host = nil
@@ -153,5 +156,8 @@ module Gemojione
 
   def self.sprites_path
     File.expand_path("../assets/sprites", File.dirname(__FILE__))
+  end
+  def self.configuration
+    @configuration ||= Configuration.new
   end
 end
