@@ -21,6 +21,8 @@ module Gemojione
 
   @escaper = defined?(EscapeUtils) ? EscapeUtils : CGI
 
+  @emoji_svg = {}
+
   def self.asset_host
     @asset_host || 'http://localhost:3000'
   end
@@ -153,5 +155,12 @@ module Gemojione
 
   def self.sprites_path
     File.expand_path("../assets/sprites", File.dirname(__FILE__))
+  end
+
+  def self.svg_for_name(name) # heart, not :heart:
+    if index.find_by_name(name)
+      moji = index.find_by_name(name)
+      @emoji_svg[name] ||= File.read(File.absolute_path(File.expand_path("../assets/svg", File.dirname(__FILE__)) + "/#{moji['unicode']}.svg"))
+    end
   end
 end
