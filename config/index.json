@@ -5860,21 +5860,6 @@
     ],
     "moji": "👮🏿"
   },
-  "copyright": {
-    "moji": "©",
-    "unicode": "00A9",
-    "unicode_alternates": [],
-    "name": "copyright sign",
-    "shortname": ":copyright:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "ip",
-      "license",
-      "symbol"
-    ]
-  },
   "corn": {
     "unicode": "1F33D",
     "unicode_alternates": [],
@@ -30415,25 +30400,6 @@
       "emotion"
     ],
     "moji": "😫"
-  },
-  "tm": {
-    "unicode": "2122",
-    "unicode_alternates": [
-      "2122-FE0F"
-    ],
-    "name": "trade mark sign",
-    "shortname": ":tm:",
-    "category": "symbols",
-    "aliases": [],
-    "aliases_ascii": [],
-    "keywords": [
-      "brand",
-      "trademark",
-      "symbol",
-      "tm",
-      "word"
-    ],
-    "moji": "™"
   },
   "toilet": {
     "unicode": "1F6BD",
