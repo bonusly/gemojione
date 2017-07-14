@@ -191,6 +191,9 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
 * [@naveed-ahmad](https://github.com/naveed-ahmad): ASCII replacement API and Spritesheet support.
 * [@Eric-Guo](https://github.com/Eric-Guo): Usage of `.ruby-version` instead of `.rvmrc`.
+* [@amyspark](https://github.com/amyspark): Add `find_by_shortname` 
+* [@ryosuke-endo](https://github.com/ryosuke-endo): Access to emoji list and `find_by_category`.
+* [@connorshea](https://github.com/connorshea): Bugfixing.
 
 ## Contributing
 

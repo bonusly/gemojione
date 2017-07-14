@@ -1,5 +1,34 @@
 # Change Log
 
+## [v3.3.0](https://github.com/jonathanwiesel/gemojione/tree/v3.3.0) (2017-07-14)
+
+[Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.2.0...v3.3.0)
+
+**Implemented enhancements:**
+
+- Add aliases search support in `replace_named_moji_with_images`.
+- Add emoji finder by shortname.
+- Add access to emoji list.
+- Add emoji finder by category.
+
+**Fixed bugs:**
+
+- Remove trailing comma from `cartwheel_tone4`.
+
+**Merged pull requests:**
+
+- Add aliases search support in replace_named_moji_with_images [\#38](https://github.com/jonathanwiesel/gemojione/pull/38) ([jonathanwiesel](https://github.com/jonathanwiesel))
+
+- Enable emoji retrieval by shortname [\#42](https://github.com/jonathanwiesel/gemojione/pull/42) ([amyspark](https://github.com/amyspark))
+
+- Remove misplaced comma [\#49](https://github.com/jonathanwiesel/gemojione/pull/49) ([connorshea](https://github.com/connorshea))
+
+- Enable emoji access to emoji list [\#43](https://github.com/jonathanwiesel/gemojione/pull/43) ([ryosuke-endo](https://github.com/ryosuke-endo))
+
+- emoji group find by category [\#44](https://github.com/jonathanwiesel/gemojione/pull/44) ([ryosuke-endo](https://github.com/ryosuke-endo))
+
+- Be clearer about spritesheet sizing [\#47](https://github.com/jonathanwiesel/gemojione/pull/47) ([gnclmorais](https://github.com/gnclmorais))
+
 ## [v3.2.0](https://github.com/jonathanwiesel/gemojione/tree/v3.2.0) (2016-08-22)
 
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.1.0...v3.2.0)
