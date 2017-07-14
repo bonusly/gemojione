@@ -46,6 +46,12 @@ describe Gemojione::Index do
     end
   end
 
+  describe 'find by category' do
+    it 'should find people category by category name' do
+      assert index.find_by_category('people')
+    end
+  end
+
   describe "unicode_moji_regex" do
     it "should return complex moji regex" do
       regex = index.unicode_moji_regex
