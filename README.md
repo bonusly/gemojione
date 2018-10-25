@@ -8,6 +8,10 @@ This gem exposes the [emojione](http://emojione.com/) unicode/image assets and A
 
 Easily lookup emoji name, unicode character, or image assets and convert emoji representations.
 
+## Maintainer Notice
+
+This project is not currently maintained, I'm afraid I don't have the time nor the Ruby expertise to carry this project forward anymore. If by any chance someone wants to push this project forward feel free to contact me to discuss it.
+
 ## Installation
 
 Add this line to your application's Gemfile:
