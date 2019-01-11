@@ -63,7 +63,7 @@ module Gemojione
 
   def self.image_url_for_name(name)
     emoji = index.find_by_name(name)
-    "#{asset_host}#{ File.join(asset_path, emoji['unicode']) }.#{ use_svg ? 'svg' : 'png' }"
+    "#{asset_host}#{ File.join(asset_path, emoji['unicode'].downcase) }.#{ use_svg ? 'svg' : 'png' }"
   end
 
   def self.image_url_for_unicode_moji(moji)
