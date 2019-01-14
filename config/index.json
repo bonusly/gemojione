@@ -259,7 +259,7 @@
     "shortname": ":airplane_arriving:",
     "category": "travel",
     "aliases": [
-
+      ":flight_arrival:"
     ],
     "aliases_ascii": [
 
@@ -290,7 +290,7 @@
     "shortname": ":airplane_departure:",
     "category": "travel",
     "aliases": [
-
+      ":flight_departure:"
     ],
     "aliases_ascii": [
 
@@ -2515,7 +2515,8 @@
     "shortname": ":beach_umbrella:",
     "category": "objects",
     "aliases": [
-      ":umbrella_on_ground:"
+      ":umbrella_on_ground:",
+      ":parasol_on_ground:"
     ],
     "aliases_ascii": [
 
@@ -2825,7 +2826,7 @@
     "shortname": ":bicyclist:",
     "category": "activity",
     "aliases": [
-
+      ":biking_man:"
     ],
     "aliases_ascii": [
 
@@ -3683,7 +3684,7 @@
     "shortname": ":bow:",
     "category": "people",
     "aliases": [
-
+      ":bowing_man:"
     ],
     "aliases_ascii": [
 
@@ -4622,7 +4623,8 @@
     "shortname": ":calendar_spiral:",
     "category": "objects",
     "aliases": [
-      ":spiral_calendar_pad:"
+      ":spiral_calendar_pad:",
+      ":spiral_calendar:"
     ],
     "aliases_ascii": [
 
@@ -4837,7 +4839,7 @@
     "shortname": ":camera_with_flash:",
     "category": "objects",
     "aliases": [
-
+      ":camera_flash:"
     ],
     "aliases_ascii": [
 
@@ -5359,7 +5361,8 @@
     "shortname": ":champagne_glass:",
     "category": "food",
     "aliases": [
-      ":clinking_glass:"
+      ":clinking_glass:",
+      ":clinking_glasses:"
     ],
     "aliases_ascii": [
 
@@ -6137,7 +6140,8 @@
     "shortname": ":clock:",
     "category": "objects",
     "aliases": [
-      ":mantlepiece_clock:"
+      ":mantlepiece_clock:",
+      ":mantelpiece_clock:"
     ],
     "aliases_ascii": [
 
@@ -6835,7 +6839,8 @@
     "shortname": ":cloud_tornado:",
     "category": "nature",
     "aliases": [
-      ":cloud_with_tornado:"
+      ":cloud_with_tornado:",
+      ":tornado:"
     ],
     "aliases_ascii": [
 
@@ -7021,7 +7026,7 @@
     "shortname": ":compression:",
     "category": "objects",
     "aliases": [
-
+      ":clamp:"
     ],
     "aliases_ascii": [
 
@@ -7236,7 +7241,7 @@
     "shortname": ":construction_worker:",
     "category": "people",
     "aliases": [
-
+      ":construction_worker_man:"
     ],
     "aliases_ascii": [
 
@@ -7440,7 +7445,7 @@
     "shortname": ":cooking:",
     "category": "food",
     "aliases": [
-
+      ":fried_egg:"
     ],
     "aliases_ascii": [
 
@@ -7489,7 +7494,7 @@
     "shortname": ":cop:",
     "category": "people",
     "aliases": [
-
+      ":policeman:"
     ],
     "aliases_ascii": [
 
@@ -7742,7 +7747,8 @@
     "shortname": ":couple_mm:",
     "category": "people",
     "aliases": [
-      ":couple_with_heart_mm:"
+      ":couple_with_heart_mm:",
+      ":couple_with_heart_man_man:"
     ],
     "aliases_ascii": [
 
@@ -7772,7 +7778,7 @@
     "shortname": ":couple_with_heart:",
     "category": "people",
     "aliases": [
-
+      ":couple_with_heart_woman_man:"
     ],
     "aliases_ascii": [
 
@@ -7799,7 +7805,8 @@
     "shortname": ":couple_ww:",
     "category": "people",
     "aliases": [
-      ":couple_with_heart_ww:"
+      ":couple_with_heart_ww:",
+      ":couple_with_heart_woman_woman:"
     ],
     "aliases_ascii": [
 
@@ -7828,7 +7835,7 @@
     "shortname": ":couplekiss:",
     "category": "people",
     "aliases": [
-
+      ":couplekiss_man_woman:"
     ],
     "aliases_ascii": [
 
@@ -8697,7 +8704,7 @@
     "shortname": ":dancers:",
     "category": "people",
     "aliases": [
-
+      ":dancing_women:"
     ],
     "aliases_ascii": [
 
@@ -10361,7 +10368,7 @@
     "shortname": ":eye_in_speech_bubble:",
     "category": "symbols",
     "aliases": [
-
+      ":eye_speech_bubble:"
     ],
     "aliases_ascii": [
 
@@ -10605,7 +10612,7 @@
     "shortname": ":family:",
     "category": "people",
     "aliases": [
-
+      ":family_man_woman_boy:"
     ],
     "aliases_ascii": [
 
@@ -10637,7 +10644,7 @@
     "shortname": ":family_mmb:",
     "category": "people",
     "aliases": [
-
+      ":family_man_man_boy:"
     ],
     "aliases_ascii": [
 
@@ -10670,7 +10677,7 @@
     "shortname": ":family_mmbb:",
     "category": "people",
     "aliases": [
-
+      ":family_man_man_boy_boy:"
     ],
     "aliases_ascii": [
 
@@ -10703,7 +10710,7 @@
     "shortname": ":family_mmg:",
     "category": "people",
     "aliases": [
-
+      ":family_man_man_girl:"
     ],
     "aliases_ascii": [
 
@@ -10736,7 +10743,7 @@
     "shortname": ":family_mmgb:",
     "category": "people",
     "aliases": [
-
+      ":family_man_man_girl_boy:"
     ],
     "aliases_ascii": [
 
@@ -10770,7 +10777,7 @@
     "shortname": ":family_mmgg:",
     "category": "people",
     "aliases": [
-
+      ":family_man_man_girl_girl:"
     ],
     "aliases_ascii": [
 
@@ -10803,7 +10810,7 @@
     "shortname": ":family_mwbb:",
     "category": "people",
     "aliases": [
-
+      ":family_man_woman_boy_boy:"
     ],
     "aliases_ascii": [
 
@@ -10835,7 +10842,7 @@
     "shortname": ":family_mwg:",
     "category": "people",
     "aliases": [
-
+      ":family_man_woman_girl:"
     ],
     "aliases_ascii": [
 
@@ -10868,7 +10875,7 @@
     "shortname": ":family_mwgb:",
     "category": "people",
     "aliases": [
-
+      ":family_man_woman_girl_boy:"
     ],
     "aliases_ascii": [
 
@@ -10901,7 +10908,7 @@
     "shortname": ":family_mwgg:",
     "category": "people",
     "aliases": [
-
+      ":family_man_woman_girl_girl:"
     ],
     "aliases_ascii": [
 
@@ -10933,7 +10940,7 @@
     "shortname": ":family_wwb:",
     "category": "people",
     "aliases": [
-
+      ":family_woman_woman_boy:"
     ],
     "aliases_ascii": [
 
@@ -10967,7 +10974,7 @@
     "shortname": ":family_wwbb:",
     "category": "people",
     "aliases": [
-
+      ":family_woman_woman_boy_boy:"
     ],
     "aliases_ascii": [
 
@@ -11001,7 +11008,7 @@
     "shortname": ":family_wwg:",
     "category": "people",
     "aliases": [
-
+      ":family_woman_woman_girl:"
     ],
     "aliases_ascii": [
 
@@ -11035,7 +11042,7 @@
     "shortname": ":family_wwgb:",
     "category": "people",
     "aliases": [
-
+      ":family_woman_woman_girl_boy:"
     ],
     "aliases_ascii": [
 
@@ -11070,7 +11077,7 @@
     "shortname": ":family_wwgg:",
     "category": "people",
     "aliases": [
-
+      ":family_woman_woman_girl_girl:"
     ],
     "aliases_ascii": [
 
@@ -11212,7 +11219,8 @@
     "shortname": ":fencer:",
     "category": "activity",
     "aliases": [
-      ":fencing:"
+      ":fencing:",
+      ":person_fencing:"
     ],
     "aliases_ascii": [
 
@@ -11351,7 +11359,7 @@
     "shortname": ":film_frames:",
     "category": "objects",
     "aliases": [
-
+      ":film_strip:"
     ],
     "aliases_ascii": [
 
@@ -11377,7 +11385,8 @@
     "shortname": ":fingers_crossed:",
     "category": "people",
     "aliases": [
-      ":hand_with_index_and_middle_finger_crossed:"
+      ":hand_with_index_and_middle_finger_crossed:",
+      ":crossed_fingers:"
     ],
     "aliases_ascii": [
 
@@ -11574,7 +11583,8 @@
     "shortname": ":first_place:",
     "category": "activity",
     "aliases": [
-      ":first_place_medal:"
+      ":first_place_medal:",
+      ":1st_place_medal:"
     ],
     "aliases_ascii": [
 
@@ -11723,7 +11733,7 @@
     "shortname": ":fist:",
     "category": "people",
     "aliases": [
-
+      ":fist_raised:"
     ],
     "aliases_ascii": [
 
@@ -11901,7 +11911,8 @@
     "shortname": ":flag_ad:",
     "category": "flags",
     "aliases": [
-      ":ad:"
+      ":ad:",
+      ":andorra:"
     ],
     "aliases_ascii": [
 
@@ -11923,7 +11934,8 @@
     "shortname": ":flag_ae:",
     "category": "flags",
     "aliases": [
-      ":ae:"
+      ":ae:",
+      ":united_arab_emirates:"
     ],
     "aliases_ascii": [
 
@@ -11945,7 +11957,8 @@
     "shortname": ":flag_af:",
     "category": "flags",
     "aliases": [
-      ":af:"
+      ":af:",
+      ":afghanistan:"
     ],
     "aliases_ascii": [
 
@@ -11968,7 +11981,8 @@
     "shortname": ":flag_ag:",
     "category": "flags",
     "aliases": [
-      ":ag:"
+      ":ag:",
+      ":antigua_barbuda:"
     ],
     "aliases_ascii": [
 
@@ -11990,7 +12004,8 @@
     "shortname": ":flag_ai:",
     "category": "flags",
     "aliases": [
-      ":ai:"
+      ":ai:",
+      ":anguilla:"
     ],
     "aliases_ascii": [
 
@@ -12012,7 +12027,8 @@
     "shortname": ":flag_al:",
     "category": "flags",
     "aliases": [
-      ":al:"
+      ":al:",
+      ":albania:"
     ],
     "aliases_ascii": [
 
@@ -12035,7 +12051,8 @@
     "shortname": ":flag_am:",
     "category": "flags",
     "aliases": [
-      ":am:"
+      ":am:",
+      ":armenia:"
     ],
     "aliases_ascii": [
 
@@ -12058,7 +12075,8 @@
     "shortname": ":flag_ao:",
     "category": "flags",
     "aliases": [
-      ":ao:"
+      ":ao:",
+      ":angola:"
     ],
     "aliases_ascii": [
 
@@ -12080,7 +12098,8 @@
     "shortname": ":flag_aq:",
     "category": "flags",
     "aliases": [
-      ":aq:"
+      ":aq:",
+      ":antarctica:"
     ],
     "aliases_ascii": [
 
@@ -12100,7 +12119,8 @@
     "shortname": ":flag_ar:",
     "category": "flags",
     "aliases": [
-      ":ar:"
+      ":ar:",
+      ":argentina:"
     ],
     "aliases_ascii": [
 
@@ -12122,7 +12142,8 @@
     "shortname": ":flag_as:",
     "category": "flags",
     "aliases": [
-      ":as:"
+      ":as:",
+      ":american_samoa:"
     ],
     "aliases_ascii": [
 
@@ -12142,7 +12163,8 @@
     "shortname": ":flag_at:",
     "category": "flags",
     "aliases": [
-      ":at:"
+      ":at:",
+      ":austria:"
     ],
     "aliases_ascii": [
 
@@ -12166,7 +12188,8 @@
     "shortname": ":flag_au:",
     "category": "flags",
     "aliases": [
-      ":au:"
+      ":au:",
+      ":australia:"
     ],
     "aliases_ascii": [
 
@@ -12188,7 +12211,8 @@
     "shortname": ":flag_aw:",
     "category": "flags",
     "aliases": [
-      ":aw:"
+      ":aw:",
+      ":aruba:"
     ],
     "aliases_ascii": [
 
@@ -12210,7 +12234,8 @@
     "shortname": ":flag_ax:",
     "category": "flags",
     "aliases": [
-      ":ax:"
+      ":ax:",
+      ":aland_islands:"
     ],
     "aliases_ascii": [
 
@@ -12230,7 +12255,8 @@
     "shortname": ":flag_az:",
     "category": "flags",
     "aliases": [
-      ":az:"
+      ":az:",
+      ":azerbaijan:"
     ],
     "aliases_ascii": [
 
@@ -12253,7 +12279,8 @@
     "shortname": ":flag_ba:",
     "category": "flags",
     "aliases": [
-      ":ba:"
+      ":ba:",
+      ":bosnia_herzegovina:"
     ],
     "aliases_ascii": [
 
@@ -12276,7 +12303,8 @@
     "shortname": ":flag_bb:",
     "category": "flags",
     "aliases": [
-      ":bb:"
+      ":bb:",
+      ":barbados:"
     ],
     "aliases_ascii": [
 
@@ -12298,7 +12326,8 @@
     "shortname": ":flag_bd:",
     "category": "flags",
     "aliases": [
-      ":bd:"
+      ":bd:",
+      ":bangladesh:"
     ],
     "aliases_ascii": [
 
@@ -12320,7 +12349,8 @@
     "shortname": ":flag_be:",
     "category": "flags",
     "aliases": [
-      ":be:"
+      ":be:",
+      ":belgium:"
     ],
     "aliases_ascii": [
 
@@ -12344,7 +12374,8 @@
     "shortname": ":flag_bf:",
     "category": "flags",
     "aliases": [
-      ":bf:"
+      ":bf:",
+      ":burkina_faso:"
     ],
     "aliases_ascii": [
 
@@ -12366,7 +12397,8 @@
     "shortname": ":flag_bg:",
     "category": "flags",
     "aliases": [
-      ":bg:"
+      ":bg:",
+      ":bulgaria:"
     ],
     "aliases_ascii": [
 
@@ -12388,7 +12420,8 @@
     "shortname": ":flag_bh:",
     "category": "flags",
     "aliases": [
-      ":bh:"
+      ":bh:",
+      ":bahrain:"
     ],
     "aliases_ascii": [
 
@@ -12411,7 +12444,8 @@
     "shortname": ":flag_bi:",
     "category": "flags",
     "aliases": [
-      ":bi:"
+      ":bi:",
+      ":burundi:"
     ],
     "aliases_ascii": [
 
@@ -12433,7 +12467,8 @@
     "shortname": ":flag_bj:",
     "category": "flags",
     "aliases": [
-      ":bj:"
+      ":bj:",
+      ":benin:"
     ],
     "aliases_ascii": [
 
@@ -12455,7 +12490,8 @@
     "shortname": ":flag_bl:",
     "category": "flags",
     "aliases": [
-      ":bl:"
+      ":bl:",
+      ":st_barthelemy:"
     ],
     "aliases_ascii": [
 
@@ -12475,7 +12511,8 @@
     "shortname": ":flag_black:",
     "category": "objects",
     "aliases": [
-      ":waving_black_flag:"
+      ":waving_black_flag:",
+      ":black_flag:"
     ],
     "aliases_ascii": [
 
@@ -12496,7 +12533,8 @@
     "shortname": ":flag_bm:",
     "category": "flags",
     "aliases": [
-      ":bm:"
+      ":bm:",
+      ":bermuda:"
     ],
     "aliases_ascii": [
 
@@ -12518,7 +12556,8 @@
     "shortname": ":flag_bn:",
     "category": "flags",
     "aliases": [
-      ":bn:"
+      ":bn:",
+      ":brunei:"
     ],
     "aliases_ascii": [
 
@@ -12540,7 +12579,8 @@
     "shortname": ":flag_bo:",
     "category": "flags",
     "aliases": [
-      ":bo:"
+      ":bo:",
+      ":bolivia:"
     ],
     "aliases_ascii": [
 
@@ -12562,7 +12602,8 @@
     "shortname": ":flag_bq:",
     "category": "flags",
     "aliases": [
-      ":bq:"
+      ":bq:",
+      ":caribbean_netherlands:"
     ],
     "aliases_ascii": [
 
@@ -12582,7 +12623,8 @@
     "shortname": ":flag_br:",
     "category": "flags",
     "aliases": [
-      ":br:"
+      ":br:",
+      ":brazil:"
     ],
     "aliases_ascii": [
 
@@ -12605,7 +12647,8 @@
     "shortname": ":flag_bs:",
     "category": "flags",
     "aliases": [
-      ":bs:"
+      ":bs:",
+      ":bahamas:"
     ],
     "aliases_ascii": [
 
@@ -12627,7 +12670,8 @@
     "shortname": ":flag_bt:",
     "category": "flags",
     "aliases": [
-      ":bt:"
+      ":bt:",
+      ":bhutan:"
     ],
     "aliases_ascii": [
 
@@ -12669,7 +12713,8 @@
     "shortname": ":flag_bw:",
     "category": "flags",
     "aliases": [
-      ":bw:"
+      ":bw:",
+      ":botswana:"
     ],
     "aliases_ascii": [
 
@@ -12691,7 +12736,8 @@
     "shortname": ":flag_by:",
     "category": "flags",
     "aliases": [
-      ":by:"
+      ":by:",
+      ":belarus:"
     ],
     "aliases_ascii": [
 
@@ -12714,7 +12760,8 @@
     "shortname": ":flag_bz:",
     "category": "flags",
     "aliases": [
-      ":bz:"
+      ":bz:",
+      ":belize:"
     ],
     "aliases_ascii": [
 
@@ -12736,7 +12783,8 @@
     "shortname": ":flag_ca:",
     "category": "flags",
     "aliases": [
-      ":ca:"
+      ":ca:",
+      ":canada:"
     ],
     "aliases_ascii": [
 
@@ -12758,7 +12806,8 @@
     "shortname": ":flag_cc:",
     "category": "flags",
     "aliases": [
-      ":cc:"
+      ":cc:",
+      ":cocos_islands:"
     ],
     "aliases_ascii": [
 
@@ -12778,7 +12827,8 @@
     "shortname": ":flag_cd:",
     "category": "flags",
     "aliases": [
-      ":congo:"
+      ":congo:",
+      ":congo_kinshasa:"
     ],
     "aliases_ascii": [
 
@@ -12802,7 +12852,8 @@
     "shortname": ":flag_cf:",
     "category": "flags",
     "aliases": [
-      ":cf:"
+      ":cf:",
+      ":central_african_republic:"
     ],
     "aliases_ascii": [
 
@@ -12824,7 +12875,8 @@
     "shortname": ":flag_cg:",
     "category": "flags",
     "aliases": [
-      ":cg:"
+      ":cg:",
+      ":congo_brazzaville:"
     ],
     "aliases_ascii": [
 
@@ -12846,7 +12898,8 @@
     "shortname": ":flag_ch:",
     "category": "flags",
     "aliases": [
-      ":ch:"
+      ":ch:",
+      ":switzerland:"
     ],
     "aliases_ascii": [
 
@@ -12869,7 +12922,8 @@
     "shortname": ":flag_ci:",
     "category": "flags",
     "aliases": [
-      ":ci:"
+      ":ci:",
+      ":cote_divoire:"
     ],
     "aliases_ascii": [
 
@@ -12891,7 +12945,8 @@
     "shortname": ":flag_ck:",
     "category": "flags",
     "aliases": [
-      ":ck:"
+      ":ck:",
+      ":cook_islands:"
     ],
     "aliases_ascii": [
 
@@ -12933,7 +12988,8 @@
     "shortname": ":flag_cm:",
     "category": "flags",
     "aliases": [
-      ":cm:"
+      ":cm:",
+      ":cameroon:"
     ],
     "aliases_ascii": [
 
@@ -12980,7 +13036,8 @@
     "shortname": ":flag_co:",
     "category": "flags",
     "aliases": [
-      ":co:"
+      ":co:",
+      ":colombia:"
     ],
     "aliases_ascii": [
 
@@ -13022,7 +13079,8 @@
     "shortname": ":flag_cr:",
     "category": "flags",
     "aliases": [
-      ":cr:"
+      ":cr:",
+      ":costa_rica:"
     ],
     "aliases_ascii": [
 
@@ -13044,7 +13102,8 @@
     "shortname": ":flag_cu:",
     "category": "flags",
     "aliases": [
-      ":cu:"
+      ":cu:",
+      ":cuba:"
     ],
     "aliases_ascii": [
 
@@ -13066,7 +13125,8 @@
     "shortname": ":flag_cv:",
     "category": "flags",
     "aliases": [
-      ":cv:"
+      ":cv:",
+      ":cape_verde:"
     ],
     "aliases_ascii": [
 
@@ -13089,7 +13149,8 @@
     "shortname": ":flag_cw:",
     "category": "flags",
     "aliases": [
-      ":cw:"
+      ":cw:",
+      ":curacao:"
     ],
     "aliases_ascii": [
 
@@ -13109,7 +13170,8 @@
     "shortname": ":flag_cx:",
     "category": "flags",
     "aliases": [
-      ":cx:"
+      ":cx:",
+      ":christmas_island:"
     ],
     "aliases_ascii": [
 
@@ -13129,7 +13191,8 @@
     "shortname": ":flag_cy:",
     "category": "flags",
     "aliases": [
-      ":cy:"
+      ":cy:",
+      ":cyprus:"
     ],
     "aliases_ascii": [
 
@@ -13153,7 +13216,8 @@
     "shortname": ":flag_cz:",
     "category": "flags",
     "aliases": [
-      ":cz:"
+      ":cz:",
+      ":czech_republic:"
     ],
     "aliases_ascii": [
 
@@ -13220,7 +13284,8 @@
     "shortname": ":flag_dj:",
     "category": "flags",
     "aliases": [
-      ":dj:"
+      ":dj:",
+      ":djibouti:"
     ],
     "aliases_ascii": [
 
@@ -13242,7 +13307,8 @@
     "shortname": ":flag_dk:",
     "category": "flags",
     "aliases": [
-      ":dk:"
+      ":dk:",
+      ":denmark:"
     ],
     "aliases_ascii": [
 
@@ -13265,7 +13331,8 @@
     "shortname": ":flag_dm:",
     "category": "flags",
     "aliases": [
-      ":dm:"
+      ":dm:",
+      ":dominica:"
     ],
     "aliases_ascii": [
 
@@ -13287,7 +13354,8 @@
     "shortname": ":flag_do:",
     "category": "flags",
     "aliases": [
-      ":do:"
+      ":do:",
+      ":dominican_republic:"
     ],
     "aliases_ascii": [
 
@@ -13309,7 +13377,8 @@
     "shortname": ":flag_dz:",
     "category": "flags",
     "aliases": [
-      ":dz:"
+      ":dz:",
+      ":algeria:"
     ],
     "aliases_ascii": [
 
@@ -13353,7 +13422,8 @@
     "shortname": ":flag_ec:",
     "category": "flags",
     "aliases": [
-      ":ec:"
+      ":ec:",
+      ":ecuador:"
     ],
     "aliases_ascii": [
 
@@ -13375,7 +13445,8 @@
     "shortname": ":flag_ee:",
     "category": "flags",
     "aliases": [
-      ":ee:"
+      ":ee:",
+      ":estonia:"
     ],
     "aliases_ascii": [
 
@@ -13398,7 +13469,8 @@
     "shortname": ":flag_eg:",
     "category": "flags",
     "aliases": [
-      ":eg:"
+      ":eg:",
+      ":egypt:"
     ],
     "aliases_ascii": [
 
@@ -13421,7 +13493,8 @@
     "shortname": ":flag_eh:",
     "category": "flags",
     "aliases": [
-      ":eh:"
+      ":eh:",
+      ":western_sahara:"
     ],
     "aliases_ascii": [
 
@@ -13446,7 +13519,8 @@
     "shortname": ":flag_er:",
     "category": "flags",
     "aliases": [
-      ":er:"
+      ":er:",
+      ":eritrea:"
     ],
     "aliases_ascii": [
 
@@ -13493,7 +13567,8 @@
     "shortname": ":flag_et:",
     "category": "flags",
     "aliases": [
-      ":et:"
+      ":et:",
+      ":ethiopia:"
     ],
     "aliases_ascii": [
 
@@ -13537,7 +13612,8 @@
     "shortname": ":flag_fi:",
     "category": "flags",
     "aliases": [
-      ":fi:"
+      ":fi:",
+      ":finland:"
     ],
     "aliases_ascii": [
 
@@ -13560,7 +13636,8 @@
     "shortname": ":flag_fj:",
     "category": "flags",
     "aliases": [
-      ":fj:"
+      ":fj:",
+      ":fiji:"
     ],
     "aliases_ascii": [
 
@@ -13582,7 +13659,8 @@
     "shortname": ":flag_fk:",
     "category": "flags",
     "aliases": [
-      ":fk:"
+      ":fk:",
+      ":falkland_islands:"
     ],
     "aliases_ascii": [
 
@@ -13605,7 +13683,8 @@
     "shortname": ":flag_fm:",
     "category": "flags",
     "aliases": [
-      ":fm:"
+      ":fm:",
+      ":micronesia:"
     ],
     "aliases_ascii": [
 
@@ -13627,7 +13706,8 @@
     "shortname": ":flag_fo:",
     "category": "flags",
     "aliases": [
-      ":fo:"
+      ":fo:",
+      ":faroe_islands:"
     ],
     "aliases_ascii": [
 
@@ -13673,7 +13753,8 @@
     "shortname": ":flag_ga:",
     "category": "flags",
     "aliases": [
-      ":ga:"
+      ":ga:",
+      ":gabon:"
     ],
     "aliases_ascii": [
 
@@ -13721,7 +13802,8 @@
     "shortname": ":flag_gd:",
     "category": "flags",
     "aliases": [
-      ":gd:"
+      ":gd:",
+      ":grenada:"
     ],
     "aliases_ascii": [
 
@@ -13743,7 +13825,8 @@
     "shortname": ":flag_ge:",
     "category": "flags",
     "aliases": [
-      ":ge:"
+      ":ge:",
+      ":georgia:"
     ],
     "aliases_ascii": [
 
@@ -13767,7 +13850,8 @@
     "shortname": ":flag_gf:",
     "category": "flags",
     "aliases": [
-      ":gf:"
+      ":gf:",
+      ":french_guiana:"
     ],
     "aliases_ascii": [
 
@@ -13787,7 +13871,8 @@
     "shortname": ":flag_gg:",
     "category": "flags",
     "aliases": [
-      ":gg:"
+      ":gg:",
+      ":guernsey:"
     ],
     "aliases_ascii": [
 
@@ -13807,7 +13892,8 @@
     "shortname": ":flag_gh:",
     "category": "flags",
     "aliases": [
-      ":gh:"
+      ":gh:",
+      ":ghana:"
     ],
     "aliases_ascii": [
 
@@ -13829,7 +13915,8 @@
     "shortname": ":flag_gi:",
     "category": "flags",
     "aliases": [
-      ":gi:"
+      ":gi:",
+      ":gibraltar:"
     ],
     "aliases_ascii": [
 
@@ -13851,7 +13938,8 @@
     "shortname": ":flag_gl:",
     "category": "flags",
     "aliases": [
-      ":gl:"
+      ":gl:",
+      ":greenland:"
     ],
     "aliases_ascii": [
 
@@ -13874,7 +13962,8 @@
     "shortname": ":flag_gm:",
     "category": "flags",
     "aliases": [
-      ":gm:"
+      ":gm:",
+      ":gambia:"
     ],
     "aliases_ascii": [
 
@@ -13896,7 +13985,8 @@
     "shortname": ":flag_gn:",
     "category": "flags",
     "aliases": [
-      ":gn:"
+      ":gn:",
+      ":guinea:"
     ],
     "aliases_ascii": [
 
@@ -13919,7 +14009,8 @@
     "shortname": ":flag_gp:",
     "category": "flags",
     "aliases": [
-      ":gp:"
+      ":gp:",
+      ":guadeloupe:"
     ],
     "aliases_ascii": [
 
@@ -13939,7 +14030,8 @@
     "shortname": ":flag_gq:",
     "category": "flags",
     "aliases": [
-      ":gq:"
+      ":gq:",
+      ":equatorial_guinea:"
     ],
     "aliases_ascii": [
 
@@ -13962,7 +14054,8 @@
     "shortname": ":flag_gr:",
     "category": "flags",
     "aliases": [
-      ":gr:"
+      ":gr:",
+      ":greece:"
     ],
     "aliases_ascii": [
 
@@ -13986,7 +14079,8 @@
     "shortname": ":flag_gs:",
     "category": "flags",
     "aliases": [
-      ":gs:"
+      ":gs:",
+      ":south_georgia_south_sandwich_islands:"
     ],
     "aliases_ascii": [
 
@@ -14006,7 +14100,8 @@
     "shortname": ":flag_gt:",
     "category": "flags",
     "aliases": [
-      ":gt:"
+      ":gt:",
+      ":guatemala:"
     ],
     "aliases_ascii": [
 
@@ -14028,7 +14123,8 @@
     "shortname": ":flag_gu:",
     "category": "flags",
     "aliases": [
-      ":gu:"
+      ":gu:",
+      ":guam:"
     ],
     "aliases_ascii": [
 
@@ -14050,7 +14146,8 @@
     "shortname": ":flag_gw:",
     "category": "flags",
     "aliases": [
-      ":gw:"
+      ":gw:",
+      ":guinea_bissau:"
     ],
     "aliases_ascii": [
 
@@ -14074,7 +14171,8 @@
     "shortname": ":flag_gy:",
     "category": "flags",
     "aliases": [
-      ":gy:"
+      ":gy:",
+      ":guyana:"
     ],
     "aliases_ascii": [
 
@@ -14096,7 +14194,8 @@
     "shortname": ":flag_hk:",
     "category": "flags",
     "aliases": [
-      ":hk:"
+      ":hk:",
+      ":hong_kong:"
     ],
     "aliases_ascii": [
 
@@ -14139,7 +14238,8 @@
     "shortname": ":flag_hn:",
     "category": "flags",
     "aliases": [
-      ":hn:"
+      ":hn:",
+      ":honduras:"
     ],
     "aliases_ascii": [
 
@@ -14161,7 +14261,8 @@
     "shortname": ":flag_hr:",
     "category": "flags",
     "aliases": [
-      ":hr:"
+      ":hr:",
+      ":croatia:"
     ],
     "aliases_ascii": [
 
@@ -14184,7 +14285,8 @@
     "shortname": ":flag_ht:",
     "category": "flags",
     "aliases": [
-      ":ht:"
+      ":ht:",
+      ":haiti:"
     ],
     "aliases_ascii": [
 
@@ -14206,7 +14308,8 @@
     "shortname": ":flag_hu:",
     "category": "flags",
     "aliases": [
-      ":hu:"
+      ":hu:",
+      ":hungary:"
     ],
     "aliases_ascii": [
 
@@ -14229,7 +14332,8 @@
     "shortname": ":flag_ic:",
     "category": "flags",
     "aliases": [
-      ":ic:"
+      ":ic:",
+      ":canary_islands:"
     ],
     "aliases_ascii": [
 
@@ -14271,7 +14375,8 @@
     "shortname": ":flag_ie:",
     "category": "flags",
     "aliases": [
-      ":ie:"
+      ":ie:",
+      ":ireland:"
     ],
     "aliases_ascii": [
 
@@ -14295,7 +14400,8 @@
     "shortname": ":flag_il:",
     "category": "flags",
     "aliases": [
-      ":il:"
+      ":il:",
+      ":israel:"
     ],
     "aliases_ascii": [
 
@@ -14320,7 +14426,8 @@
     "shortname": ":flag_im:",
     "category": "flags",
     "aliases": [
-      ":im:"
+      ":im:",
+      ":isle_of_man:"
     ],
     "aliases_ascii": [
 
@@ -14340,7 +14447,8 @@
     "shortname": ":flag_in:",
     "category": "flags",
     "aliases": [
-      ":in:"
+      ":in:",
+      ":india:"
     ],
     "aliases_ascii": [
 
@@ -14363,7 +14471,8 @@
     "shortname": ":flag_io:",
     "category": "flags",
     "aliases": [
-      ":io:"
+      ":io:",
+      ":british_indian_ocean_territory:"
     ],
     "aliases_ascii": [
 
@@ -14383,7 +14492,8 @@
     "shortname": ":flag_iq:",
     "category": "flags",
     "aliases": [
-      ":iq:"
+      ":iq:",
+      ":iraq:"
     ],
     "aliases_ascii": [
 
@@ -14405,7 +14515,8 @@
     "shortname": ":flag_ir:",
     "category": "flags",
     "aliases": [
-      ":ir:"
+      ":ir:",
+      ":iran:"
     ],
     "aliases_ascii": [
 
@@ -14427,7 +14538,8 @@
     "shortname": ":flag_is:",
     "category": "flags",
     "aliases": [
-      ":is:"
+      ":is:",
+      ":iceland:"
     ],
     "aliases_ascii": [
 
@@ -14474,7 +14586,8 @@
     "shortname": ":flag_je:",
     "category": "flags",
     "aliases": [
-      ":je:"
+      ":je:",
+      ":jersey:"
     ],
     "aliases_ascii": [
 
@@ -14496,7 +14609,8 @@
     "shortname": ":flag_jm:",
     "category": "flags",
     "aliases": [
-      ":jm:"
+      ":jm:",
+      ":jamaica:"
     ],
     "aliases_ascii": [
 
@@ -14518,7 +14632,8 @@
     "shortname": ":flag_jo:",
     "category": "flags",
     "aliases": [
-      ":jo:"
+      ":jo:",
+      ":jordan:"
     ],
     "aliases_ascii": [
 
@@ -14565,7 +14680,8 @@
     "shortname": ":flag_ke:",
     "category": "flags",
     "aliases": [
-      ":ke:"
+      ":ke:",
+      ":kenya:"
     ],
     "aliases_ascii": [
 
@@ -14587,7 +14703,8 @@
     "shortname": ":flag_kg:",
     "category": "flags",
     "aliases": [
-      ":kg:"
+      ":kg:",
+      ":kyrgyzstan:"
     ],
     "aliases_ascii": [
 
@@ -14610,7 +14727,8 @@
     "shortname": ":flag_kh:",
     "category": "flags",
     "aliases": [
-      ":kh:"
+      ":kh:",
+      ":cambodia:"
     ],
     "aliases_ascii": [
 
@@ -14633,7 +14751,8 @@
     "shortname": ":flag_ki:",
     "category": "flags",
     "aliases": [
-      ":ki:"
+      ":ki:",
+      ":kiribati:"
     ],
     "aliases_ascii": [
 
@@ -14657,7 +14776,8 @@
     "shortname": ":flag_km:",
     "category": "flags",
     "aliases": [
-      ":km:"
+      ":km:",
+      ":comoros:"
     ],
     "aliases_ascii": [
 
@@ -14679,7 +14799,8 @@
     "shortname": ":flag_kn:",
     "category": "flags",
     "aliases": [
-      ":kn:"
+      ":kn:",
+      ":st_kitts_nevis:"
     ],
     "aliases_ascii": [
 
@@ -14701,7 +14822,8 @@
     "shortname": ":flag_kp:",
     "category": "flags",
     "aliases": [
-      ":kp:"
+      ":kp:",
+      ":north_korea:"
     ],
     "aliases_ascii": [
 
@@ -14746,7 +14868,8 @@
     "shortname": ":flag_kw:",
     "category": "flags",
     "aliases": [
-      ":kw:"
+      ":kw:",
+      ":kuwait:"
     ],
     "aliases_ascii": [
 
@@ -14769,7 +14892,8 @@
     "shortname": ":flag_ky:",
     "category": "flags",
     "aliases": [
-      ":ky:"
+      ":ky:",
+      ":cayman_islands:"
     ],
     "aliases_ascii": [
 
@@ -14791,7 +14915,8 @@
     "shortname": ":flag_kz:",
     "category": "flags",
     "aliases": [
-      ":kz:"
+      ":kz:",
+      ":kazakhstan:"
     ],
     "aliases_ascii": [
 
@@ -14814,7 +14939,8 @@
     "shortname": ":flag_la:",
     "category": "flags",
     "aliases": [
-      ":la:"
+      ":la:",
+      ":laos:"
     ],
     "aliases_ascii": [
 
@@ -14836,7 +14962,8 @@
     "shortname": ":flag_lb:",
     "category": "flags",
     "aliases": [
-      ":lb:"
+      ":lb:",
+      ":lebanon:"
     ],
     "aliases_ascii": [
 
@@ -14859,7 +14986,8 @@
     "shortname": ":flag_lc:",
     "category": "flags",
     "aliases": [
-      ":lc:"
+      ":lc:",
+      ":st_lucia:"
     ],
     "aliases_ascii": [
 
@@ -14881,7 +15009,8 @@
     "shortname": ":flag_li:",
     "category": "flags",
     "aliases": [
-      ":li:"
+      ":li:",
+      ":liechtenstein:"
     ],
     "aliases_ascii": [
 
@@ -14903,7 +15032,8 @@
     "shortname": ":flag_lk:",
     "category": "flags",
     "aliases": [
-      ":lk:"
+      ":lk:",
+      ":sri_lanka:"
     ],
     "aliases_ascii": [
 
@@ -14925,7 +15055,8 @@
     "shortname": ":flag_lr:",
     "category": "flags",
     "aliases": [
-      ":lr:"
+      ":lr:",
+      ":liberia:"
     ],
     "aliases_ascii": [
 
@@ -14947,7 +15078,8 @@
     "shortname": ":flag_ls:",
     "category": "flags",
     "aliases": [
-      ":ls:"
+      ":ls:",
+      ":lesotho:"
     ],
     "aliases_ascii": [
 
@@ -14969,7 +15101,8 @@
     "shortname": ":flag_lt:",
     "category": "flags",
     "aliases": [
-      ":lt:"
+      ":lt:",
+      ":lithuania:"
     ],
     "aliases_ascii": [
 
@@ -14992,7 +15125,8 @@
     "shortname": ":flag_lu:",
     "category": "flags",
     "aliases": [
-      ":lu:"
+      ":lu:",
+      ":luxembourg:"
     ],
     "aliases_ascii": [
 
@@ -15016,7 +15150,8 @@
     "shortname": ":flag_lv:",
     "category": "flags",
     "aliases": [
-      ":lv:"
+      ":lv:",
+      ":latvia:"
     ],
     "aliases_ascii": [
 
@@ -15039,7 +15174,8 @@
     "shortname": ":flag_ly:",
     "category": "flags",
     "aliases": [
-      ":ly:"
+      ":ly:",
+      ":libya:"
     ],
     "aliases_ascii": [
 
@@ -15062,7 +15198,8 @@
     "shortname": ":flag_ma:",
     "category": "flags",
     "aliases": [
-      ":ma:"
+      ":ma:",
+      ":morocco:"
     ],
     "aliases_ascii": [
 
@@ -15085,7 +15222,8 @@
     "shortname": ":flag_mc:",
     "category": "flags",
     "aliases": [
-      ":mc:"
+      ":mc:",
+      ":monaco:"
     ],
     "aliases_ascii": [
 
@@ -15107,7 +15245,8 @@
     "shortname": ":flag_md:",
     "category": "flags",
     "aliases": [
-      ":md:"
+      ":md:",
+      ":moldova:"
     ],
     "aliases_ascii": [
 
@@ -15129,7 +15268,8 @@
     "shortname": ":flag_me:",
     "category": "flags",
     "aliases": [
-      ":me:"
+      ":me:",
+      ":montenegro:"
     ],
     "aliases_ascii": [
 
@@ -15172,7 +15312,8 @@
     "shortname": ":flag_mg:",
     "category": "flags",
     "aliases": [
-      ":mg:"
+      ":mg:",
+      ":madagascar:"
     ],
     "aliases_ascii": [
 
@@ -15194,7 +15335,8 @@
     "shortname": ":flag_mh:",
     "category": "flags",
     "aliases": [
-      ":mh:"
+      ":mh:",
+      ":marshall_islands:"
     ],
     "aliases_ascii": [
 
@@ -15216,7 +15358,8 @@
     "shortname": ":flag_mk:",
     "category": "flags",
     "aliases": [
-      ":mk:"
+      ":mk:",
+      ":macedonia:"
     ],
     "aliases_ascii": [
 
@@ -15238,7 +15381,8 @@
     "shortname": ":flag_ml:",
     "category": "flags",
     "aliases": [
-      ":ml:"
+      ":ml:",
+      ":mali:"
     ],
     "aliases_ascii": [
 
@@ -15260,7 +15404,8 @@
     "shortname": ":flag_mm:",
     "category": "flags",
     "aliases": [
-      ":mm:"
+      ":mm:",
+      ":myanmar:"
     ],
     "aliases_ascii": [
 
@@ -15283,7 +15428,8 @@
     "shortname": ":flag_mn:",
     "category": "flags",
     "aliases": [
-      ":mn:"
+      ":mn:",
+      ":mongolia:"
     ],
     "aliases_ascii": [
 
@@ -15306,7 +15452,8 @@
     "shortname": ":flag_mo:",
     "category": "flags",
     "aliases": [
-      ":mo:"
+      ":mo:",
+      ":macau:"
     ],
     "aliases_ascii": [
 
@@ -15329,7 +15476,8 @@
     "shortname": ":flag_mp:",
     "category": "flags",
     "aliases": [
-      ":mp:"
+      ":mp:",
+      ":northern_mariana_islands:"
     ],
     "aliases_ascii": [
 
@@ -15349,7 +15497,8 @@
     "shortname": ":flag_mq:",
     "category": "flags",
     "aliases": [
-      ":mq:"
+      ":mq:",
+      ":martinique:"
     ],
     "aliases_ascii": [
 
@@ -15369,7 +15518,8 @@
     "shortname": ":flag_mr:",
     "category": "flags",
     "aliases": [
-      ":mr:"
+      ":mr:",
+      ":mauritania:"
     ],
     "aliases_ascii": [
 
@@ -15392,7 +15542,8 @@
     "shortname": ":flag_ms:",
     "category": "flags",
     "aliases": [
-      ":ms:"
+      ":ms:",
+      ":montserrat:"
     ],
     "aliases_ascii": [
 
@@ -15414,7 +15565,8 @@
     "shortname": ":flag_mt:",
     "category": "flags",
     "aliases": [
-      ":mt:"
+      ":mt:",
+      ":malta:"
     ],
     "aliases_ascii": [
 
@@ -15436,7 +15588,8 @@
     "shortname": ":flag_mu:",
     "category": "flags",
     "aliases": [
-      ":mu:"
+      ":mu:",
+      ":mauritius:"
     ],
     "aliases_ascii": [
 
@@ -15458,7 +15611,8 @@
     "shortname": ":flag_mv:",
     "category": "flags",
     "aliases": [
-      ":mv:"
+      ":mv:",
+      ":maldives:"
     ],
     "aliases_ascii": [
 
@@ -15481,7 +15635,8 @@
     "shortname": ":flag_mw:",
     "category": "flags",
     "aliases": [
-      ":mw:"
+      ":mw:",
+      ":malawi:"
     ],
     "aliases_ascii": [
 
@@ -15503,7 +15658,8 @@
     "shortname": ":flag_mx:",
     "category": "flags",
     "aliases": [
-      ":mx:"
+      ":mx:",
+      ":mexico:"
     ],
     "aliases_ascii": [
 
@@ -15526,7 +15682,8 @@
     "shortname": ":flag_my:",
     "category": "flags",
     "aliases": [
-      ":my:"
+      ":my:",
+      ":malaysia:"
     ],
     "aliases_ascii": [
 
@@ -15548,7 +15705,8 @@
     "shortname": ":flag_mz:",
     "category": "flags",
     "aliases": [
-      ":mz:"
+      ":mz:",
+      ":mozambique:"
     ],
     "aliases_ascii": [
 
@@ -15571,7 +15729,8 @@
     "shortname": ":flag_na:",
     "category": "flags",
     "aliases": [
-      ":na:"
+      ":na:",
+      ":namibia:"
     ],
     "aliases_ascii": [
 
@@ -15593,7 +15752,8 @@
     "shortname": ":flag_nc:",
     "category": "flags",
     "aliases": [
-      ":nc:"
+      ":nc:",
+      ":new_caledonia:"
     ],
     "aliases_ascii": [
 
@@ -15618,7 +15778,8 @@
     "shortname": ":flag_ne:",
     "category": "flags",
     "aliases": [
-      ":ne:"
+      ":ne:",
+      ":niger:"
     ],
     "aliases_ascii": [
 
@@ -15640,7 +15801,8 @@
     "shortname": ":flag_nf:",
     "category": "flags",
     "aliases": [
-      ":nf:"
+      ":nf:",
+      ":norfolk_island:"
     ],
     "aliases_ascii": [
 
@@ -15682,7 +15844,8 @@
     "shortname": ":flag_ni:",
     "category": "flags",
     "aliases": [
-      ":ni:"
+      ":ni:",
+      ":nicaragua:"
     ],
     "aliases_ascii": [
 
@@ -15704,7 +15867,8 @@
     "shortname": ":flag_nl:",
     "category": "flags",
     "aliases": [
-      ":nl:"
+      ":nl:",
+      ":netherlands:"
     ],
     "aliases_ascii": [
 
@@ -15728,7 +15892,8 @@
     "shortname": ":flag_no:",
     "category": "flags",
     "aliases": [
-      ":no:"
+      ":no:",
+      ":norway:"
     ],
     "aliases_ascii": [
 
@@ -15751,7 +15916,8 @@
     "shortname": ":flag_np:",
     "category": "flags",
     "aliases": [
-      ":np:"
+      ":np:",
+      ":nepal:"
     ],
     "aliases_ascii": [
 
@@ -15773,7 +15939,8 @@
     "shortname": ":flag_nr:",
     "category": "flags",
     "aliases": [
-      ":nr:"
+      ":nr:",
+      ":nauru:"
     ],
     "aliases_ascii": [
 
@@ -15795,7 +15962,8 @@
     "shortname": ":flag_nu:",
     "category": "flags",
     "aliases": [
-      ":nu:"
+      ":nu:",
+      ":niue:"
     ],
     "aliases_ascii": [
 
@@ -15817,7 +15985,8 @@
     "shortname": ":flag_nz:",
     "category": "flags",
     "aliases": [
-      ":nz:"
+      ":nz:",
+      ":new_zealand:"
     ],
     "aliases_ascii": [
 
@@ -15840,7 +16009,8 @@
     "shortname": ":flag_om:",
     "category": "flags",
     "aliases": [
-      ":om:"
+      ":om:",
+      ":oman:"
     ],
     "aliases_ascii": [
 
@@ -15863,7 +16033,8 @@
     "shortname": ":flag_pa:",
     "category": "flags",
     "aliases": [
-      ":pa:"
+      ":pa:",
+      ":panama:"
     ],
     "aliases_ascii": [
 
@@ -15885,7 +16056,8 @@
     "shortname": ":flag_pe:",
     "category": "flags",
     "aliases": [
-      ":pe:"
+      ":pe:",
+      ":peru:"
     ],
     "aliases_ascii": [
 
@@ -15907,7 +16079,8 @@
     "shortname": ":flag_pf:",
     "category": "flags",
     "aliases": [
-      ":pf:"
+      ":pf:",
+      ":french_polynesia:"
     ],
     "aliases_ascii": [
 
@@ -15931,7 +16104,8 @@
     "shortname": ":flag_pg:",
     "category": "flags",
     "aliases": [
-      ":pg:"
+      ":pg:",
+      ":papua_new_guinea:"
     ],
     "aliases_ascii": [
 
@@ -15954,7 +16128,8 @@
     "shortname": ":flag_ph:",
     "category": "flags",
     "aliases": [
-      ":ph:"
+      ":ph:",
+      ":philippines:"
     ],
     "aliases_ascii": [
 
@@ -15977,7 +16152,8 @@
     "shortname": ":flag_pk:",
     "category": "flags",
     "aliases": [
-      ":pk:"
+      ":pk:",
+      ":pakistan:"
     ],
     "aliases_ascii": [
 
@@ -15999,7 +16175,8 @@
     "shortname": ":flag_pl:",
     "category": "flags",
     "aliases": [
-      ":pl:"
+      ":pl:",
+      ":poland:"
     ],
     "aliases_ascii": [
 
@@ -16022,7 +16199,8 @@
     "shortname": ":flag_pm:",
     "category": "flags",
     "aliases": [
-      ":pm:"
+      ":pm:",
+      ":st_pierre_miquelon:"
     ],
     "aliases_ascii": [
 
@@ -16042,7 +16220,8 @@
     "shortname": ":flag_pn:",
     "category": "flags",
     "aliases": [
-      ":pn:"
+      ":pn:",
+      ":pitcairn_islands:"
     ],
     "aliases_ascii": [
 
@@ -16062,7 +16241,8 @@
     "shortname": ":flag_pr:",
     "category": "flags",
     "aliases": [
-      ":pr:"
+      ":pr:",
+      ":puerto_rico:"
     ],
     "aliases_ascii": [
 
@@ -16084,7 +16264,8 @@
     "shortname": ":flag_ps:",
     "category": "flags",
     "aliases": [
-      ":ps:"
+      ":ps:",
+      ":palestinian_territories:"
     ],
     "aliases_ascii": [
 
@@ -16106,7 +16287,8 @@
     "shortname": ":flag_pt:",
     "category": "flags",
     "aliases": [
-      ":pt:"
+      ":pt:",
+      ":portugal:"
     ],
     "aliases_ascii": [
 
@@ -16128,7 +16310,8 @@
     "shortname": ":flag_pw:",
     "category": "flags",
     "aliases": [
-      ":pw:"
+      ":pw:",
+      ":palau:"
     ],
     "aliases_ascii": [
 
@@ -16151,7 +16334,8 @@
     "shortname": ":flag_py:",
     "category": "flags",
     "aliases": [
-      ":py:"
+      ":py:",
+      ":paraguay:"
     ],
     "aliases_ascii": [
 
@@ -16173,7 +16357,8 @@
     "shortname": ":flag_qa:",
     "category": "flags",
     "aliases": [
-      ":qa:"
+      ":qa:",
+      ":qatar:"
     ],
     "aliases_ascii": [
 
@@ -16196,7 +16381,8 @@
     "shortname": ":flag_re:",
     "category": "flags",
     "aliases": [
-      ":re:"
+      ":re:",
+      ":reunion:"
     ],
     "aliases_ascii": [
 
@@ -16216,7 +16402,8 @@
     "shortname": ":flag_ro:",
     "category": "flags",
     "aliases": [
-      ":ro:"
+      ":ro:",
+      ":romania:"
     ],
     "aliases_ascii": [
 
@@ -16238,7 +16425,8 @@
     "shortname": ":flag_rs:",
     "category": "flags",
     "aliases": [
-      ":rs:"
+      ":rs:",
+      ":serbia:"
     ],
     "aliases_ascii": [
 
@@ -16284,7 +16472,8 @@
     "shortname": ":flag_rw:",
     "category": "flags",
     "aliases": [
-      ":rw:"
+      ":rw:",
+      ":rwanda:"
     ],
     "aliases_ascii": [
 
@@ -16307,7 +16496,8 @@
     "category": "flags",
     "aliases": [
       ":saudiarabia:",
-      ":saudi:"
+      ":saudi:",
+      ":saudi_arabia:"
     ],
     "aliases_ascii": [
 
@@ -16330,7 +16520,8 @@
     "shortname": ":flag_sb:",
     "category": "flags",
     "aliases": [
-      ":sb:"
+      ":sb:",
+      ":solomon_islands:"
     ],
     "aliases_ascii": [
 
@@ -16352,7 +16543,8 @@
     "shortname": ":flag_sc:",
     "category": "flags",
     "aliases": [
-      ":sc:"
+      ":sc:",
+      ":seychelles:"
     ],
     "aliases_ascii": [
 
@@ -16375,7 +16567,8 @@
     "shortname": ":flag_sd:",
     "category": "flags",
     "aliases": [
-      ":sd:"
+      ":sd:",
+      ":sudan:"
     ],
     "aliases_ascii": [
 
@@ -16398,7 +16591,8 @@
     "shortname": ":flag_se:",
     "category": "flags",
     "aliases": [
-      ":se:"
+      ":se:",
+      ":sweden:"
     ],
     "aliases_ascii": [
 
@@ -16421,7 +16615,8 @@
     "shortname": ":flag_sg:",
     "category": "flags",
     "aliases": [
-      ":sg:"
+      ":sg:",
+      ":singapore:"
     ],
     "aliases_ascii": [
 
@@ -16443,7 +16638,8 @@
     "shortname": ":flag_sh:",
     "category": "flags",
     "aliases": [
-      ":sh:"
+      ":sh:",
+      ":st_helena:"
     ],
     "aliases_ascii": [
 
@@ -16465,7 +16661,8 @@
     "shortname": ":flag_si:",
     "category": "flags",
     "aliases": [
-      ":si:"
+      ":si:",
+      ":slovenia:"
     ],
     "aliases_ascii": [
 
@@ -16508,7 +16705,8 @@
     "shortname": ":flag_sk:",
     "category": "flags",
     "aliases": [
-      ":sk:"
+      ":sk:",
+      ":slovakia:"
     ],
     "aliases_ascii": [
 
@@ -16530,7 +16728,8 @@
     "shortname": ":flag_sl:",
     "category": "flags",
     "aliases": [
-      ":sl:"
+      ":sl:",
+      ":sierra_leone:"
     ],
     "aliases_ascii": [
 
@@ -16552,7 +16751,8 @@
     "shortname": ":flag_sm:",
     "category": "flags",
     "aliases": [
-      ":sm:"
+      ":sm:",
+      ":san_marino:"
     ],
     "aliases_ascii": [
 
@@ -16574,7 +16774,8 @@
     "shortname": ":flag_sn:",
     "category": "flags",
     "aliases": [
-      ":sn:"
+      ":sn:",
+      ":senegal:"
     ],
     "aliases_ascii": [
 
@@ -16596,7 +16797,8 @@
     "shortname": ":flag_so:",
     "category": "flags",
     "aliases": [
-      ":so:"
+      ":so:",
+      ":somalia:"
     ],
     "aliases_ascii": [
 
@@ -16618,7 +16820,8 @@
     "shortname": ":flag_sr:",
     "category": "flags",
     "aliases": [
-      ":sr:"
+      ":sr:",
+      ":suriname:"
     ],
     "aliases_ascii": [
 
@@ -16640,7 +16843,8 @@
     "shortname": ":flag_ss:",
     "category": "flags",
     "aliases": [
-      ":ss:"
+      ":ss:",
+      ":south_sudan:"
     ],
     "aliases_ascii": [
 
@@ -16660,7 +16864,8 @@
     "shortname": ":flag_st:",
     "category": "flags",
     "aliases": [
-      ":st:"
+      ":st:",
+      ":sao_tome_principe:"
     ],
     "aliases_ascii": [
 
@@ -16683,7 +16888,8 @@
     "shortname": ":flag_sv:",
     "category": "flags",
     "aliases": [
-      ":sv:"
+      ":sv:",
+      ":el_salvador:"
     ],
     "aliases_ascii": [
 
@@ -16705,7 +16911,8 @@
     "shortname": ":flag_sx:",
     "category": "flags",
     "aliases": [
-      ":sx:"
+      ":sx:",
+      ":sint_maarten:"
     ],
     "aliases_ascii": [
 
@@ -16725,7 +16932,8 @@
     "shortname": ":flag_sy:",
     "category": "flags",
     "aliases": [
-      ":sy:"
+      ":sy:",
+      ":syria:"
     ],
     "aliases_ascii": [
 
@@ -16747,7 +16955,8 @@
     "shortname": ":flag_sz:",
     "category": "flags",
     "aliases": [
-      ":sz:"
+      ":sz:",
+      ":swaziland:"
     ],
     "aliases_ascii": [
 
@@ -16789,7 +16998,8 @@
     "shortname": ":flag_tc:",
     "category": "flags",
     "aliases": [
-      ":tc:"
+      ":tc:",
+      ":turks_caicos_islands:"
     ],
     "aliases_ascii": [
 
@@ -16809,7 +17019,8 @@
     "shortname": ":flag_td:",
     "category": "flags",
     "aliases": [
-      ":td:"
+      ":td:",
+      ":chad:"
     ],
     "aliases_ascii": [
 
@@ -16832,7 +17043,8 @@
     "shortname": ":flag_tf:",
     "category": "flags",
     "aliases": [
-      ":tf:"
+      ":tf:",
+      ":french_southern_territories:"
     ],
     "aliases_ascii": [
 
@@ -16852,7 +17064,8 @@
     "shortname": ":flag_tg:",
     "category": "flags",
     "aliases": [
-      ":tg:"
+      ":tg:",
+      ":togo:"
     ],
     "aliases_ascii": [
 
@@ -16875,7 +17088,8 @@
     "shortname": ":flag_th:",
     "category": "flags",
     "aliases": [
-      ":th:"
+      ":th:",
+      ":thailand:"
     ],
     "aliases_ascii": [
 
@@ -16898,7 +17112,8 @@
     "shortname": ":flag_tj:",
     "category": "flags",
     "aliases": [
-      ":tj:"
+      ":tj:",
+      ":tajikistan:"
     ],
     "aliases_ascii": [
 
@@ -16921,7 +17136,8 @@
     "shortname": ":flag_tk:",
     "category": "flags",
     "aliases": [
-      ":tk:"
+      ":tk:",
+      ":tokelau:"
     ],
     "aliases_ascii": [
 
@@ -16941,7 +17157,8 @@
     "shortname": ":flag_tl:",
     "category": "flags",
     "aliases": [
-      ":tl:"
+      ":tl:",
+      ":timor_leste:"
     ],
     "aliases_ascii": [
 
@@ -16985,7 +17202,8 @@
     "shortname": ":flag_tn:",
     "category": "flags",
     "aliases": [
-      ":tn:"
+      ":tn:",
+      ":tunisia:"
     ],
     "aliases_ascii": [
 
@@ -17008,7 +17226,8 @@
     "shortname": ":flag_to:",
     "category": "flags",
     "aliases": [
-      ":to:"
+      ":to:",
+      ":tonga:"
     ],
     "aliases_ascii": [
 
@@ -17052,7 +17271,8 @@
     "shortname": ":flag_tt:",
     "category": "flags",
     "aliases": [
-      ":tt:"
+      ":tt:",
+      ":trinidad_tobago:"
     ],
     "aliases_ascii": [
 
@@ -17096,7 +17316,8 @@
     "shortname": ":flag_tw:",
     "category": "flags",
     "aliases": [
-      ":tw:"
+      ":tw:",
+      ":taiwan:"
     ],
     "aliases_ascii": [
 
@@ -17119,7 +17340,8 @@
     "shortname": ":flag_tz:",
     "category": "flags",
     "aliases": [
-      ":tz:"
+      ":tz:",
+      ":tanzania:"
     ],
     "aliases_ascii": [
 
@@ -17141,7 +17363,8 @@
     "shortname": ":flag_ua:",
     "category": "flags",
     "aliases": [
-      ":ua:"
+      ":ua:",
+      ":ukraine:"
     ],
     "aliases_ascii": [
 
@@ -17164,7 +17387,8 @@
     "shortname": ":flag_ug:",
     "category": "flags",
     "aliases": [
-      ":ug:"
+      ":ug:",
+      ":uganda:"
     ],
     "aliases_ascii": [
 
@@ -17233,7 +17457,8 @@
     "shortname": ":flag_uy:",
     "category": "flags",
     "aliases": [
-      ":uy:"
+      ":uy:",
+      ":uruguay:"
     ],
     "aliases_ascii": [
 
@@ -17255,7 +17480,8 @@
     "shortname": ":flag_uz:",
     "category": "flags",
     "aliases": [
-      ":uz:"
+      ":uz:",
+      ":uzbekistan:"
     ],
     "aliases_ascii": [
 
@@ -17278,7 +17504,8 @@
     "shortname": ":flag_va:",
     "category": "flags",
     "aliases": [
-      ":va:"
+      ":va:",
+      ":vatican_city:"
     ],
     "aliases_ascii": [
 
@@ -17300,7 +17527,8 @@
     "shortname": ":flag_vc:",
     "category": "flags",
     "aliases": [
-      ":vc:"
+      ":vc:",
+      ":st_vincent_grenadines:"
     ],
     "aliases_ascii": [
 
@@ -17322,7 +17550,8 @@
     "shortname": ":flag_ve:",
     "category": "flags",
     "aliases": [
-      ":ve:"
+      ":ve:",
+      ":venezuela:"
     ],
     "aliases_ascii": [
 
@@ -17344,7 +17573,8 @@
     "shortname": ":flag_vg:",
     "category": "flags",
     "aliases": [
-      ":vg:"
+      ":vg:",
+      ":british_virgin_islands:"
     ],
     "aliases_ascii": [
 
@@ -17364,7 +17594,8 @@
     "shortname": ":flag_vi:",
     "category": "flags",
     "aliases": [
-      ":vi:"
+      ":vi:",
+      ":us_virgin_islands:"
     ],
     "aliases_ascii": [
 
@@ -17386,7 +17617,8 @@
     "shortname": ":flag_vn:",
     "category": "flags",
     "aliases": [
-      ":vn:"
+      ":vn:",
+      ":vietnam:"
     ],
     "aliases_ascii": [
 
@@ -17409,7 +17641,8 @@
     "shortname": ":flag_vu:",
     "category": "flags",
     "aliases": [
-      ":vu:"
+      ":vu:",
+      ":vanuatu:"
     ],
     "aliases_ascii": [
 
@@ -17431,7 +17664,8 @@
     "shortname": ":flag_wf:",
     "category": "flags",
     "aliases": [
-      ":wf:"
+      ":wf:",
+      ":wallis_futuna:"
     ],
     "aliases_ascii": [
 
@@ -17474,7 +17708,8 @@
     "shortname": ":flag_ws:",
     "category": "flags",
     "aliases": [
-      ":ws:"
+      ":ws:",
+      ":samoa:"
     ],
     "aliases_ascii": [
 
@@ -17497,7 +17732,8 @@
     "shortname": ":flag_xk:",
     "category": "flags",
     "aliases": [
-      ":xk:"
+      ":xk:",
+      ":kosovo:"
     ],
     "aliases_ascii": [
 
@@ -17519,7 +17755,8 @@
     "shortname": ":flag_ye:",
     "category": "flags",
     "aliases": [
-      ":ye:"
+      ":ye:",
+      ":yemen:"
     ],
     "aliases_ascii": [
 
@@ -17542,7 +17779,8 @@
     "shortname": ":flag_yt:",
     "category": "flags",
     "aliases": [
-      ":yt:"
+      ":yt:",
+      ":mayotte:"
     ],
     "aliases_ascii": [
 
@@ -17562,7 +17800,8 @@
     "shortname": ":flag_za:",
     "category": "flags",
     "aliases": [
-      ":za:"
+      ":za:",
+      ":south_africa:"
     ],
     "aliases_ascii": [
 
@@ -17583,7 +17822,8 @@
     "shortname": ":flag_zm:",
     "category": "flags",
     "aliases": [
-      ":zm:"
+      ":zm:",
+      ":zambia:"
     ],
     "aliases_ascii": [
 
@@ -17605,7 +17845,8 @@
     "shortname": ":flag_zw:",
     "category": "flags",
     "aliases": [
-      ":zw:"
+      ":zw:",
+      ":zimbabwe:"
     ],
     "aliases_ascii": [
 
@@ -17915,7 +18156,8 @@
     "shortname": ":fork_knife_plate:",
     "category": "food",
     "aliases": [
-      ":fork_and_knife_with_plate:"
+      ":fork_and_knife_with_plate:",
+      ":plate_with_cutlery:"
     ],
     "aliases_ascii": [
 
@@ -18036,7 +18278,8 @@
     "shortname": ":frame_photo:",
     "category": "objects",
     "aliases": [
-      ":frame_with_picture:"
+      ":frame_with_picture:",
+      ":framed_picture:"
     ],
     "aliases_ascii": [
 
@@ -19228,7 +19471,7 @@
     "shortname": ":haircut:",
     "category": "people",
     "aliases": [
-
+      ":haircut_woman:"
     ],
     "aliases_ascii": [
 
@@ -20265,7 +20508,8 @@
     "shortname": ":helmet_with_cross:",
     "category": "people",
     "aliases": [
-      ":helmet_with_white_cross:"
+      ":helmet_with_white_cross:",
+      ":rescue_worker_helmet:"
     ],
     "aliases_ascii": [
 
@@ -20394,7 +20638,7 @@
     "shortname": ":hockey:",
     "category": "activity",
     "aliases": [
-
+      ":ice_hockey:"
     ],
     "aliases_ascii": [
 
@@ -20436,7 +20680,8 @@
     "shortname": ":homes:",
     "category": "travel",
     "aliases": [
-      ":house_buildings:"
+      ":house_buildings:",
+      ":houses:"
     ],
     "aliases_ascii": [
 
@@ -20852,7 +21097,8 @@
     "shortname": ":house_abandoned:",
     "category": "travel",
     "aliases": [
-      ":derelict_house_building:"
+      ":derelict_house_building:",
+      ":derelict_house:"
     ],
     "aliases_ascii": [
 
@@ -20909,7 +21155,8 @@
     "shortname": ":hugging:",
     "category": "people",
     "aliases": [
-      ":hugging_face:"
+      ":hugging_face:",
+      ":hugs:"
     ],
     "aliases_ascii": [
 
@@ -21158,7 +21405,7 @@
     "shortname": ":information_desk_person:",
     "category": "people",
     "aliases": [
-
+      ":tipping_hand_woman:"
     ],
     "aliases_ascii": [
 
@@ -22019,7 +22266,8 @@
     "shortname": ":kiss_mm:",
     "category": "people",
     "aliases": [
-      ":couplekiss_mm:"
+      ":couplekiss_mm:",
+      ":couplekiss_man_man:"
     ],
     "aliases_ascii": [
 
@@ -22048,7 +22296,8 @@
     "shortname": ":kiss_ww:",
     "category": "people",
     "aliases": [
-      ":couplekiss_ww:"
+      ":couplekiss_ww:",
+      ":couplekiss_woman_woman:"
     ],
     "aliases_ascii": [
 
@@ -22229,7 +22478,8 @@
     "shortname": ":kiwi:",
     "category": "food",
     "aliases": [
-      ":kiwifruit:"
+      ":kiwifruit:",
+      ":kiwi_fruit:"
     ],
     "aliases_ascii": [
 
@@ -22248,7 +22498,7 @@
     "shortname": ":knife:",
     "category": "objects",
     "aliases": [
-
+      ":hocho:"
     ],
     "aliases_ascii": [
 
@@ -22533,7 +22783,8 @@
     "shortname": ":left_facing_fist:",
     "category": "people",
     "aliases": [
-      ":left_fist:"
+      ":left_fist:",
+      ":fist_left:"
     ],
     "aliases_ascii": [
 
@@ -22811,7 +23062,8 @@
     "shortname": ":levitate:",
     "category": "activity",
     "aliases": [
-      ":man_in_business_suit_levitating:"
+      ":man_in_business_suit_levitating:",
+      ":business_suit_levitating:"
     ],
     "aliases_ascii": [
 
@@ -24360,7 +24612,7 @@
     "shortname": ":massage:",
     "category": "people",
     "aliases": [
-
+      ":massage_woman:"
     ],
     "aliases_ascii": [
 
@@ -24513,7 +24765,8 @@
     "shortname": ":medal:",
     "category": "activity",
     "aliases": [
-      ":sports_medal:"
+      ":sports_medal:",
+      ":medal_sports:"
     ],
     "aliases_ascii": [
 
@@ -24999,7 +25252,7 @@
     "shortname": ":military_medal:",
     "category": "activity",
     "aliases": [
-
+      ":medal_military:"
     ],
     "aliases_ascii": [
 
@@ -25025,7 +25278,8 @@
     "shortname": ":milk:",
     "category": "food",
     "aliases": [
-      ":glass_of_milk:"
+      ":glass_of_milk:",
+      ":milk_glass:"
     ],
     "aliases_ascii": [
 
@@ -25366,7 +25620,7 @@
     "shortname": ":motorboat:",
     "category": "travel",
     "aliases": [
-
+      ":motor_boat:"
     ],
     "aliases_ascii": [
 
@@ -25487,7 +25741,7 @@
     "shortname": ":mountain_bicyclist:",
     "category": "activity",
     "aliases": [
-
+      ":mountain_biking_man:"
     ],
     "aliases_ascii": [
 
@@ -25751,7 +26005,8 @@
     "shortname": ":mouse_three_button:",
     "category": "objects",
     "aliases": [
-      ":three_button_mouse:"
+      ":three_button_mouse:",
+      ":computer_mouse:"
     ],
     "aliases_ascii": [
 
@@ -26572,7 +26827,8 @@
     "shortname": ":newspaper2:",
     "category": "objects",
     "aliases": [
-      ":rolled_up_newspaper:"
+      ":rolled_up_newspaper:",
+      ":newspaper_roll:"
     ],
     "aliases_ascii": [
 
@@ -26769,7 +27025,7 @@
     "shortname": ":no_good:",
     "category": "people",
     "aliases": [
-
+      ":no_good_woman:"
     ],
     "aliases_ascii": [
 
@@ -27259,7 +27515,8 @@
     "shortname": ":notepad_spiral:",
     "category": "objects",
     "aliases": [
-      ":spiral_note_pad:"
+      ":spiral_note_pad:",
+      ":spiral_notepad:"
     ],
     "aliases_ascii": [
 
@@ -29124,7 +29381,8 @@
     "shortname": ":pen_ballpoint:",
     "category": "objects",
     "aliases": [
-      ":lower_left_ballpoint_pen:"
+      ":lower_left_ballpoint_pen:",
+      ":pen:"
     ],
     "aliases_ascii": [
 
@@ -29147,7 +29405,8 @@
     "shortname": ":pen_fountain:",
     "category": "objects",
     "aliases": [
-      ":lower_left_fountain_pen:"
+      ":lower_left_fountain_pen:",
+      ":fountain_pen:"
     ],
     "aliases_ascii": [
 
@@ -29327,7 +29586,7 @@
     "shortname": ":person_frowning:",
     "category": "people",
     "aliases": [
-
+      ":frowning_woman:"
     ],
     "aliases_ascii": [
 
@@ -29480,7 +29739,7 @@
     "shortname": ":person_with_blond_hair:",
     "category": "people",
     "aliases": [
-
+      ":blonde_man:"
     ],
     "aliases_ascii": [
 
@@ -29633,7 +29892,7 @@
     "shortname": ":person_with_pouting_face:",
     "category": "people",
     "aliases": [
-
+      ":pouting_woman:"
     ],
     "aliases_ascii": [
 
@@ -30035,7 +30294,7 @@
     "shortname": ":play_pause:",
     "category": "symbols",
     "aliases": [
-
+      ":play_or_pause_button:"
     ],
     "aliases_ascii": [
 
@@ -31709,7 +31968,7 @@
     "shortname": ":punch:",
     "category": "people",
     "aliases": [
-
+      ":fist_oncoming:"
     ],
     "aliases_ascii": [
 
@@ -32374,7 +32633,7 @@
     "shortname": ":raised_hand:",
     "category": "people",
     "aliases": [
-
+      ":hand:"
     ],
     "aliases_ascii": [
 
@@ -32660,7 +32919,7 @@
     "shortname": ":raising_hand:",
     "category": "people",
     "aliases": [
-
+      ":raising_hand_woman:"
     ],
     "aliases_ascii": [
 
@@ -32936,7 +33195,7 @@
     "shortname": ":red_car:",
     "category": "travel",
     "aliases": [
-
+      ":car:"
     ],
     "aliases_ascii": [
 
@@ -33354,7 +33613,8 @@
     "shortname": ":right_facing_fist:",
     "category": "people",
     "aliases": [
-      ":right_fist:"
+      ":right_fist:",
+      ":fist_right:"
     ],
     "aliases_ascii": [
 
@@ -33596,7 +33856,8 @@
     "shortname": ":rolling_eyes:",
     "category": "people",
     "aliases": [
-      ":face_with_rolling_eyes:"
+      ":face_with_rolling_eyes:",
+      ":roll_eyes:"
     ],
     "aliases_ascii": [
 
@@ -33744,7 +34005,7 @@
     "shortname": ":rowboat:",
     "category": "activity",
     "aliases": [
-
+      ":rowing_man:"
     ],
     "aliases_ascii": [
 
@@ -33926,7 +34187,7 @@
     "shortname": ":runner:",
     "category": "people",
     "aliases": [
-
+      ":running_man:"
     ],
     "aliases_ascii": [
 
@@ -34484,7 +34745,7 @@
     "shortname": ":satellite_orbital:",
     "category": "travel",
     "aliases": [
-
+      ":artificial_satellite:"
     ],
     "aliases_ascii": [
 
@@ -34641,7 +34902,7 @@
     "shortname": ":scooter:",
     "category": "travel",
     "aliases": [
-
+      ":kick_scooter:"
     ],
     "aliases_ascii": [
 
@@ -34816,7 +35077,8 @@
     "shortname": ":second_place:",
     "category": "activity",
     "aliases": [
-      ":second_place_medal:"
+      ":second_place_medal:",
+      ":2nd_place_medal:"
     ],
     "aliases_ascii": [
 
@@ -35280,7 +35542,7 @@
     "shortname": ":shopping_bags:",
     "category": "objects",
     "aliases": [
-
+      ":shopping:"
     ],
     "aliases_ascii": [
 
@@ -35689,7 +35951,7 @@
     "shortname": ":sleeping_accommodation:",
     "category": "objects",
     "aliases": [
-
+      ":sleeping_bed:"
     ],
     "aliases_ascii": [
 
@@ -37602,7 +37864,7 @@
     "shortname": ":surfer:",
     "category": "activity",
     "aliases": [
-
+      ":surfing_man:"
     ],
     "aliases_ascii": [
 
@@ -37922,7 +38184,7 @@
     "shortname": ":swimmer:",
     "category": "activity",
     "aliases": [
-
+      ":swimming_man:"
     ],
     "aliases_ascii": [
 
@@ -38423,7 +38685,7 @@
     "shortname": ":ten:",
     "category": "symbols",
     "aliases": [
-
+      ":keycap_ten:"
     ],
     "aliases_ascii": [
 
@@ -38568,7 +38830,8 @@
     "shortname": ":third_place:",
     "category": "activity",
     "aliases": [
-      ":third_place_medal:"
+      ":third_place_medal:",
+      ":3rd_place_medal:"
     ],
     "aliases_ascii": [
 
@@ -38914,7 +39177,8 @@
     "shortname": ":thunder_cloud_rain:",
     "category": "nature",
     "aliases": [
-      ":thunder_cloud_and_rain:"
+      ":thunder_cloud_and_rain:",
+      ":cloud_with_lightning_and_rain:"
     ],
     "aliases_ascii": [
 
@@ -39408,7 +39672,8 @@
     "shortname": ":track_next:",
     "category": "symbols",
     "aliases": [
-      ":next_track:"
+      ":next_track:",
+      ":next_track_button:"
     ],
     "aliases_ascii": [
 
@@ -39431,7 +39696,8 @@
     "shortname": ":track_previous:",
     "category": "symbols",
     "aliases": [
-      ":previous_track:"
+      ":previous_track:",
+      ":previous_track_button:"
     ],
     "aliases_ascii": [
 
@@ -40983,7 +41249,8 @@
     "shortname": ":vulcan:",
     "category": "people",
     "aliases": [
-      ":raised_hand_with_part_between_middle_and_ring_fingers:"
+      ":raised_hand_with_part_between_middle_and_ring_fingers:",
+      ":vulcan_salute:"
     ],
     "aliases_ascii": [
 
@@ -41131,7 +41398,7 @@
     "shortname": ":walking:",
     "category": "people",
     "aliases": [
-
+      ":walking_man:"
     ],
     "aliases_ascii": [
 
@@ -41760,7 +42027,7 @@
     "shortname": ":waxing_gibbous_moon:",
     "category": "nature",
     "aliases": [
-
+      ":moon:"
     ],
     "aliases_ascii": [
 
@@ -42157,7 +42424,8 @@
     "shortname": ":white_sun_cloud:",
     "category": "nature",
     "aliases": [
-      ":white_sun_behind_cloud:"
+      ":white_sun_behind_cloud:",
+      ":sun_behind_large_cloud:"
     ],
     "aliases_ascii": [
 
@@ -42181,7 +42449,8 @@
     "shortname": ":white_sun_rain_cloud:",
     "category": "nature",
     "aliases": [
-      ":white_sun_behind_cloud_with_rain:"
+      ":white_sun_behind_cloud_with_rain:",
+      ":sun_behind_rain_cloud:"
     ],
     "aliases_ascii": [
 
@@ -42206,7 +42475,8 @@
     "shortname": ":white_sun_small_cloud:",
     "category": "nature",
     "aliases": [
-      ":white_sun_with_small_cloud:"
+      ":white_sun_with_small_cloud:",
+      ":sun_behind_small_cloud:"
     ],
     "aliases_ascii": [
 
@@ -42248,7 +42518,7 @@
     "shortname": ":wind_blowing_face:",
     "category": "nature",
     "aliases": [
-
+      ":wind_face:"
     ],
     "aliases_ascii": [
 
