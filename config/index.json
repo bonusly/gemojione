@@ -43302,5 +43302,1810 @@
       "goodnight"
     ],
     "moji": "💤"
+  },
+  "frowning_face": {
+    "unicode": "2639",
+    "name": "frowning face",
+    "shortname": ":frowning_face:",
+    "category": "people",
+    "moji": "☹️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "blonde_woman": {
+    "unicode": "1f471-2640",
+    "name": "blond-haired woman",
+    "shortname": ":blonde_woman:",
+    "category": "people",
+    "moji": "👱‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_with_turban": {
+    "unicode": "1f473-2640",
+    "name": "woman wearing turban",
+    "shortname": ":woman_with_turban:",
+    "category": "people",
+    "moji": "👳‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "policewoman": {
+    "unicode": "1f46e-2640",
+    "name": "woman police officer",
+    "shortname": ":policewoman:",
+    "category": "people",
+    "moji": "👮‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "construction_worker_woman": {
+    "unicode": "1f477-2640",
+    "name": "woman construction worker",
+    "shortname": ":construction_worker_woman:",
+    "category": "people",
+    "moji": "👷‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "guardswoman": {
+    "unicode": "1f482-2640",
+    "name": "woman guard",
+    "shortname": ":guardswoman:",
+    "category": "people",
+    "moji": "💂‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "female_detective": {
+    "unicode": "1f575-2640",
+    "name": "woman detective",
+    "shortname": ":female_detective:",
+    "category": "people",
+    "moji": "🕵️‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "male_detective": {
+    "unicode": "1f575",
+    "name": "detective",
+    "shortname": ":male_detective:",
+    "category": "people",
+    "moji": "🕵️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_health_worker": {
+    "unicode": "1f469-2695",
+    "name": "woman health worker",
+    "shortname": ":woman_health_worker:",
+    "category": "people",
+    "moji": "👩‍⚕️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_health_worker": {
+    "unicode": "1f468-2695",
+    "name": "man health worker",
+    "shortname": ":man_health_worker:",
+    "category": "people",
+    "moji": "👨‍⚕️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_farmer": {
+    "unicode": "1f469-1f33e",
+    "name": "woman farmer",
+    "shortname": ":woman_farmer:",
+    "category": "people",
+    "moji": "👩‍🌾",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_farmer": {
+    "unicode": "1f468-1f33e",
+    "name": "man farmer",
+    "shortname": ":man_farmer:",
+    "category": "people",
+    "moji": "👨‍🌾",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_cook": {
+    "unicode": "1f469-1f373",
+    "name": "woman cook",
+    "shortname": ":woman_cook:",
+    "category": "people",
+    "moji": "👩‍🍳",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_cook": {
+    "unicode": "1f468-1f373",
+    "name": "man cook",
+    "shortname": ":man_cook:",
+    "category": "people",
+    "moji": "👨‍🍳",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_student": {
+    "unicode": "1f469-1f393",
+    "name": "woman student",
+    "shortname": ":woman_student:",
+    "category": "people",
+    "moji": "👩‍🎓",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_student": {
+    "unicode": "1f468-1f393",
+    "name": "man student",
+    "shortname": ":man_student:",
+    "category": "people",
+    "moji": "👨‍🎓",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_singer": {
+    "unicode": "1f469-1f3a4",
+    "name": "woman singer",
+    "shortname": ":woman_singer:",
+    "category": "people",
+    "moji": "👩‍🎤",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_singer": {
+    "unicode": "1f468-1f3a4",
+    "name": "man singer",
+    "shortname": ":man_singer:",
+    "category": "people",
+    "moji": "👨‍🎤",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_teacher": {
+    "unicode": "1f469-1f3eb",
+    "name": "woman teacher",
+    "shortname": ":woman_teacher:",
+    "category": "people",
+    "moji": "👩‍🏫",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_teacher": {
+    "unicode": "1f468-1f3eb",
+    "name": "man teacher",
+    "shortname": ":man_teacher:",
+    "category": "people",
+    "moji": "👨‍🏫",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_factory_worker": {
+    "unicode": "1f469-1f3ed",
+    "name": "woman factory worker",
+    "shortname": ":woman_factory_worker:",
+    "category": "people",
+    "moji": "👩‍🏭",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_factory_worker": {
+    "unicode": "1f468-1f3ed",
+    "name": "man factory worker",
+    "shortname": ":man_factory_worker:",
+    "category": "people",
+    "moji": "👨‍🏭",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_technologist": {
+    "unicode": "1f469-1f4bb",
+    "name": "woman technologist",
+    "shortname": ":woman_technologist:",
+    "category": "people",
+    "moji": "👩‍💻",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_technologist": {
+    "unicode": "1f468-1f4bb",
+    "name": "man technologist",
+    "shortname": ":man_technologist:",
+    "category": "people",
+    "moji": "👨‍💻",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_office_worker": {
+    "unicode": "1f469-1f4bc",
+    "name": "woman office worker",
+    "shortname": ":woman_office_worker:",
+    "category": "people",
+    "moji": "👩‍💼",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_office_worker": {
+    "unicode": "1f468-1f4bc",
+    "name": "man office worker",
+    "shortname": ":man_office_worker:",
+    "category": "people",
+    "moji": "👨‍💼",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_mechanic": {
+    "unicode": "1f469-1f527",
+    "name": "woman mechanic",
+    "shortname": ":woman_mechanic:",
+    "category": "people",
+    "moji": "👩‍🔧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_mechanic": {
+    "unicode": "1f468-1f527",
+    "name": "man mechanic",
+    "shortname": ":man_mechanic:",
+    "category": "people",
+    "moji": "👨‍🔧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_scientist": {
+    "unicode": "1f469-1f52c",
+    "name": "woman scientist",
+    "shortname": ":woman_scientist:",
+    "category": "people",
+    "moji": "👩‍🔬",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_scientist": {
+    "unicode": "1f468-1f52c",
+    "name": "man scientist",
+    "shortname": ":man_scientist:",
+    "category": "people",
+    "moji": "👨‍🔬",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_artist": {
+    "unicode": "1f469-1f3a8",
+    "name": "woman artist",
+    "shortname": ":woman_artist:",
+    "category": "people",
+    "moji": "👩‍🎨",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_artist": {
+    "unicode": "1f468-1f3a8",
+    "name": "man artist",
+    "shortname": ":man_artist:",
+    "category": "people",
+    "moji": "👨‍🎨",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_firefighter": {
+    "unicode": "1f469-1f692",
+    "name": "woman firefighter",
+    "shortname": ":woman_firefighter:",
+    "category": "people",
+    "moji": "👩‍🚒",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_firefighter": {
+    "unicode": "1f468-1f692",
+    "name": "man firefighter",
+    "shortname": ":man_firefighter:",
+    "category": "people",
+    "moji": "👨‍🚒",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_pilot": {
+    "unicode": "1f469-2708",
+    "name": "woman pilot",
+    "shortname": ":woman_pilot:",
+    "category": "people",
+    "moji": "👩‍✈️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_pilot": {
+    "unicode": "1f468-2708",
+    "name": "man pilot",
+    "shortname": ":man_pilot:",
+    "category": "people",
+    "moji": "👨‍✈️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_astronaut": {
+    "unicode": "1f469-1f680",
+    "name": "woman astronaut",
+    "shortname": ":woman_astronaut:",
+    "category": "people",
+    "moji": "👩‍🚀",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_astronaut": {
+    "unicode": "1f468-1f680",
+    "name": "man astronaut",
+    "shortname": ":man_astronaut:",
+    "category": "people",
+    "moji": "👨‍🚀",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_judge": {
+    "unicode": "1f469-2696",
+    "name": "woman judge",
+    "shortname": ":woman_judge:",
+    "category": "people",
+    "moji": "👩‍⚖️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_judge": {
+    "unicode": "1f468-2696",
+    "name": "man judge",
+    "shortname": ":man_judge:",
+    "category": "people",
+    "moji": "👨‍⚖️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "bowing_woman": {
+    "unicode": "1f647-2640",
+    "name": "woman bowing",
+    "shortname": ":bowing_woman:",
+    "category": "people",
+    "moji": "🙇‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "tipping_hand_man": {
+    "unicode": "1f481-2642",
+    "name": "man tipping hand",
+    "shortname": ":tipping_hand_man:",
+    "category": "people",
+    "moji": "💁‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "no_good_man": {
+    "unicode": "1f645-2642",
+    "name": "man gesturing NO",
+    "shortname": ":no_good_man:",
+    "category": "people",
+    "moji": "🙅‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "ok_man": {
+    "unicode": "1f646-2642",
+    "name": "man gesturing OK",
+    "shortname": ":ok_man:",
+    "category": "people",
+    "moji": "🙆‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "raising_hand_man": {
+    "unicode": "1f64b-2642",
+    "name": "man raising hand",
+    "shortname": ":raising_hand_man:",
+    "category": "people",
+    "moji": "🙋‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_facepalming": {
+    "unicode": "1f926-2640",
+    "name": "woman facepalming",
+    "shortname": ":woman_facepalming:",
+    "category": "people",
+    "moji": "🤦‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_facepalming": {
+    "unicode": "1f926-2642",
+    "name": "man facepalming",
+    "shortname": ":man_facepalming:",
+    "category": "people",
+    "moji": "🤦‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_shrugging": {
+    "unicode": "1f937-2640",
+    "name": "woman shrugging",
+    "shortname": ":woman_shrugging:",
+    "category": "people",
+    "moji": "🤷‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_shrugging": {
+    "unicode": "1f937-2642",
+    "name": "man shrugging",
+    "shortname": ":man_shrugging:",
+    "category": "people",
+    "moji": "🤷‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "pouting_man": {
+    "unicode": "1f64e-2642",
+    "name": "man pouting",
+    "shortname": ":pouting_man:",
+    "category": "people",
+    "moji": "🙎‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "frowning_man": {
+    "unicode": "1f64d-2642",
+    "name": "man frowning",
+    "shortname": ":frowning_man:",
+    "category": "people",
+    "moji": "🙍‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "haircut_man": {
+    "unicode": "1f487-2642",
+    "name": "man getting haircut",
+    "shortname": ":haircut_man:",
+    "category": "people",
+    "moji": "💇‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "massage_man": {
+    "unicode": "1f486-2642",
+    "name": "man getting massage",
+    "shortname": ":massage_man:",
+    "category": "people",
+    "moji": "💆‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "dancing_men": {
+    "unicode": "1f46f-2642",
+    "name": "men with bunny ears partying",
+    "shortname": ":dancing_men:",
+    "category": "people",
+    "moji": "👯‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "walking_woman": {
+    "unicode": "1f6b6-2640",
+    "name": "woman walking",
+    "shortname": ":walking_woman:",
+    "category": "people",
+    "moji": "🚶‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "running_woman": {
+    "unicode": "1f3c3-2640",
+    "name": "woman running",
+    "shortname": ":running_woman:",
+    "category": "people",
+    "moji": "🏃‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_woman_boy": {
+    "unicode": "1f469-1f466",
+    "name": "family: woman, boy",
+    "shortname": ":family_woman_boy:",
+    "category": "people",
+    "moji": "👩‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_woman_girl": {
+    "unicode": "1f469-1f467",
+    "name": "family: woman, girl",
+    "shortname": ":family_woman_girl:",
+    "category": "people",
+    "moji": "👩‍👧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_woman_girl_boy": {
+    "unicode": "1f469-1f467-1f466",
+    "name": "family: woman, girl, boy",
+    "shortname": ":family_woman_girl_boy:",
+    "category": "people",
+    "moji": "👩‍👧‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_woman_boy_boy": {
+    "unicode": "1f469-1f466-1f466",
+    "name": "family: woman, boy, boy",
+    "shortname": ":family_woman_boy_boy:",
+    "category": "people",
+    "moji": "👩‍👦‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_woman_girl_girl": {
+    "unicode": "1f469-1f467-1f467",
+    "name": "family: woman, girl, girl",
+    "shortname": ":family_woman_girl_girl:",
+    "category": "people",
+    "moji": "👩‍👧‍👧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_man_boy": {
+    "unicode": "1f468-1f466",
+    "name": "family: man, boy",
+    "shortname": ":family_man_boy:",
+    "category": "people",
+    "moji": "👨‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_man_girl": {
+    "unicode": "1f468-1f467",
+    "name": "family: man, girl",
+    "shortname": ":family_man_girl:",
+    "category": "people",
+    "moji": "👨‍👧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_man_girl_boy": {
+    "unicode": "1f468-1f467-1f466",
+    "name": "family: man, girl, boy",
+    "shortname": ":family_man_girl_boy:",
+    "category": "people",
+    "moji": "👨‍👧‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_man_boy_boy": {
+    "unicode": "1f468-1f466-1f466",
+    "name": "family: man, boy, boy",
+    "shortname": ":family_man_boy_boy:",
+    "category": "people",
+    "moji": "👨‍👦‍👦",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "family_man_girl_girl": {
+    "unicode": "1f468-1f467-1f467",
+    "name": "family: man, girl, girl",
+    "shortname": ":family_man_girl_girl:",
+    "category": "people",
+    "moji": "👨‍👧‍👧",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "open_umbrella": {
+    "unicode": "2602",
+    "name": "umbrella",
+    "shortname": ":open_umbrella:",
+    "category": "people",
+    "moji": "☂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "snowman_with_snow": {
+    "unicode": "2603",
+    "name": "snowman",
+    "shortname": ":snowman_with_snow:",
+    "category": "nature",
+    "moji": "☃️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "weight_lifting_woman": {
+    "unicode": "1f3cb-2640",
+    "name": "woman lifting weights",
+    "shortname": ":weight_lifting_woman:",
+    "category": "activity",
+    "moji": "🏋️‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "weight_lifting_man": {
+    "unicode": "1f3cb",
+    "name": "person lifting weights",
+    "shortname": ":weight_lifting_man:",
+    "category": "activity",
+    "moji": "🏋️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "women_wrestling": {
+    "unicode": "1f93c-2640",
+    "name": "women wrestling",
+    "shortname": ":women_wrestling:",
+    "category": "activity",
+    "moji": "🤼‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "men_wrestling": {
+    "unicode": "1f93c-2642",
+    "name": "men wrestling",
+    "shortname": ":men_wrestling:",
+    "category": "activity",
+    "moji": "🤼‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_cartwheeling": {
+    "unicode": "1f938-2640",
+    "name": "woman cartwheeling",
+    "shortname": ":woman_cartwheeling:",
+    "category": "activity",
+    "moji": "🤸‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_cartwheeling": {
+    "unicode": "1f938-2642",
+    "name": "man cartwheeling",
+    "shortname": ":man_cartwheeling:",
+    "category": "activity",
+    "moji": "🤸‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "basketball_woman": {
+    "unicode": "26f9-2640",
+    "name": "woman bouncing ball",
+    "shortname": ":basketball_woman:",
+    "category": "activity",
+    "moji": "⛹️‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "basketball_man": {
+    "unicode": "26f9",
+    "name": "person bouncing ball",
+    "shortname": ":basketball_man:",
+    "category": "activity",
+    "moji": "⛹️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_playing_handball": {
+    "unicode": "1f93e-2640",
+    "name": "woman playing handball",
+    "shortname": ":woman_playing_handball:",
+    "category": "activity",
+    "moji": "🤾‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_playing_handball": {
+    "unicode": "1f93e-2642",
+    "name": "man playing handball",
+    "shortname": ":man_playing_handball:",
+    "category": "activity",
+    "moji": "🤾‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "golfing_woman": {
+    "unicode": "1f3cc-2640",
+    "name": "woman golfing",
+    "shortname": ":golfing_woman:",
+    "category": "activity",
+    "moji": "🏌️‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "golfing_man": {
+    "unicode": "1f3cc",
+    "name": "person golfing",
+    "shortname": ":golfing_man:",
+    "category": "activity",
+    "moji": "🏌️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "surfing_woman": {
+    "unicode": "1f3c4-2640",
+    "name": "woman surfing",
+    "shortname": ":surfing_woman:",
+    "category": "activity",
+    "moji": "🏄‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "swimming_woman": {
+    "unicode": "1f3ca-2640",
+    "name": "woman swimming",
+    "shortname": ":swimming_woman:",
+    "category": "activity",
+    "moji": "🏊‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_playing_water_polo": {
+    "unicode": "1f93d-2640",
+    "name": "woman playing water polo",
+    "shortname": ":woman_playing_water_polo:",
+    "category": "activity",
+    "moji": "🤽‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_playing_water_polo": {
+    "unicode": "1f93d-2642",
+    "name": "man playing water polo",
+    "shortname": ":man_playing_water_polo:",
+    "category": "activity",
+    "moji": "🤽‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "rowing_woman": {
+    "unicode": "1f6a3-2640",
+    "name": "woman rowing boat",
+    "shortname": ":rowing_woman:",
+    "category": "activity",
+    "moji": "🚣‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "biking_woman": {
+    "unicode": "1f6b4-2640",
+    "name": "woman biking",
+    "shortname": ":biking_woman:",
+    "category": "activity",
+    "moji": "🚴‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "mountain_biking_woman": {
+    "unicode": "1f6b5-2640",
+    "name": "woman mountain biking",
+    "shortname": ":mountain_biking_woman:",
+    "category": "activity",
+    "moji": "🚵‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "woman_juggling": {
+    "unicode": "1f939-2640",
+    "name": "woman juggling",
+    "shortname": ":woman_juggling:",
+    "category": "activity",
+    "moji": "🤹‍♀️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "man_juggling": {
+    "unicode": "1f939-2642",
+    "name": "man juggling",
+    "shortname": ":man_juggling:",
+    "category": "activity",
+    "moji": "🤹‍♂️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "boat": {
+    "unicode": "26f5",
+    "name": "sailboat",
+    "shortname": ":boat:",
+    "category": "places",
+    "moji": "⛵️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "phone": {
+    "unicode": "260e",
+    "name": "telephone",
+    "shortname": ":phone:",
+    "category": "objects",
+    "moji": "☎️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "balance_scale": {
+    "unicode": "2696",
+    "name": "balance scale",
+    "shortname": ":balance_scale:",
+    "category": "objects",
+    "moji": "⚖️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "heavy_heart_exclamation": {
+    "unicode": "2763",
+    "name": "heavy heart exclamation",
+    "shortname": ":heavy_heart_exclamation:",
+    "category": "symbols",
+    "moji": "❣️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "fleur_de_lis": {
+    "unicode": "269c",
+    "name": "fleur-de-lis",
+    "shortname": ":fleur_de_lis:",
+    "category": "symbols",
+    "moji": "⚜️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
+  },
+  "white_flag": {
+    "unicode": "1f3f3",
+    "name": "white flag",
+    "shortname": ":white_flag:",
+    "category": "flags",
+    "moji": "🏳️",
+    "unicode_alternates": [
+
+    ],
+    "aliases": [
+
+    ],
+    "aliases_ascii": [
+
+    ],
+    "keywords": [
+
+    ]
   }
 }
