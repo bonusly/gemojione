@@ -5,23 +5,23 @@ require File.absolute_path File.dirname(__FILE__) + '/test_helper'
 describe Gemojione do
   describe "image_url_for_name" do
     it 'should generate url' do
-      assert_equal 'http://localhost:3000/1F300.png', Gemojione.image_url_for_name('cyclone')
+      assert_equal 'http://localhost:3000/1f300.png', Gemojione.image_url_for_name('cyclone')
     end
 
     it 'should generate url' do
-      assert_equal 'http://localhost:3000/1F44D.png', Gemojione.image_url_for_name('+1')
+      assert_equal 'http://localhost:3000/1f44d.png', Gemojione.image_url_for_name('+1')
     end
 
     it 'should generate url' do
       with_emoji_config(:use_svg, true) do
-        assert_equal 'http://localhost:3000/1F44D.svg', Gemojione.image_url_for_name('+1')
+        assert_equal 'http://localhost:3000/1f44d.svg', Gemojione.image_url_for_name('+1')
       end
     end
   end
 
   describe "image_url_for_unicode_moji" do
     it 'should generate url' do
-      assert_equal 'http://localhost:3000/1F300.png', Gemojione.image_url_for_unicode_moji('🌀')
+      assert_equal 'http://localhost:3000/1f300.png', Gemojione.image_url_for_unicode_moji('🌀')
     end
   end
 
@@ -63,12 +63,12 @@ describe Gemojione do
 
   describe 'image_tag_for_moji' do
     it 'should generate a clean img tag if default_size undefined' do
-      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png">', Gemojione.image_tag_for_moji('🌀')
+      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1f300.png">', Gemojione.image_tag_for_moji('🌀')
     end
 
     it 'should generate a img tag with style tag if default_size is defined' do
       Gemojione.default_size='42px'
-      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1F300.png" style="width: 42px;">', Gemojione.image_tag_for_moji('🌀')
+      assert_equal '<img alt="🌀" class="emoji" src="http://localhost:3000/1f300.png" style="width: 42px;">', Gemojione.image_tag_for_moji('🌀')
       Gemojione.default_size=nil
     end
 
@@ -104,7 +104,7 @@ describe Gemojione do
     end
 
     it 'should escape regex breaker mojis' do
-      assert_equal "<img alt=\"*⃣\" class=\"emoji\" src=\"http://localhost:3000/002A-20E3.png\">", Gemojione.replace_unicode_moji_with_images('*⃣')
+      assert_equal "<img alt=\"*⃣\" class=\"emoji\" src=\"http://localhost:3000/002a-20e3.png\">", Gemojione.replace_unicode_moji_with_images('*⃣')
     end
 
     it 'should handle nil string' do
@@ -189,7 +189,7 @@ describe Gemojione do
     it 'should replace aliased moji with img tag' do
       base_string = "Good one :+1:"
       replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-      assert_equal "Good one <img alt=\"👍\" class=\"emoji\" src=\"http://localhost:3000/1F44D.png\">", replaced_string
+      assert_equal "Good one <img alt=\"👍\" class=\"emoji\" src=\"http://localhost:3000/1f44d.png\">", replaced_string
     end
 
     it 'should handle nil string' do
@@ -260,7 +260,7 @@ describe Gemojione do
   describe "replace_ascii_moji_with_images" do
     it 'should replace ascii moji with img tag' do
       replaced_string = Gemojione.replace_ascii_moji_with_images("Emoji is :-)")
-      assert_equal "Emoji is <img alt=\"😄\" class=\"emoji\" src=\"http://localhost:3000/1F604.png\">", replaced_string
+      assert_equal "Emoji is <img alt=\"😄\" class=\"emoji\" src=\"http://localhost:3000/1f604.png\">", replaced_string
     end
 
     it 'should replace ascii moji with span tag for sprite' do
