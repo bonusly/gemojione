@@ -10,10 +10,6 @@ This gem exposes the [emojione](http://emojione.com/) unicode/image assets and A
 
 Easily lookup emoji name, unicode character, or image assets and convert emoji representations.
 
-## Maintainer Notice
-
-This project is not currently maintained, I'm afraid I don't have the time nor the Ruby expertise to carry this project forward anymore. If by any chance someone wants to push this project forward feel free to contact me to discuss it.
-
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -149,6 +145,11 @@ and call methods directly on your string to return the same results:
 > '❤'.emoji_data
 => {"moji"=>"❤", "unicode"=>"2764", "unicode_alternates"=>["2764-FE0F"], "name"=>"heart", "shortname"=>":heart:", "category"=>"symbols", "aliases"=>[], "aliases_ascii"=>["<3"], "keywords"=>["like", "love", "red", "pink", "black", "heart", "love", "passion", "romance", "intense", "desire", "death", "evil", "cold", "valentines"], "description"=>"heavy black heart"}
 ```
+
+## Upgrading to 4
+Version 4 is a large update and may introduce breaking changes. Please feel free to open issues.
+
+Emojione v4 dropped support for free SVGs. The SVG images included in this gem are from v2.3. If you would like to use the newer emojis, please use PNG or spritesheet.
 
 ## HTML Safety and Performance
 
