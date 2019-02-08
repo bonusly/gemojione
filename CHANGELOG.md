@@ -1,5 +1,12 @@
 # Change Log
 
+## [v4.0.0](https://github.com/jonathanwiesel/gemojione/tree/v3.3.0) (2019-02-08)
+
+**Implemented enhancements:**
+
+- Upgraded to EmojiOne version 4.5
+
+
 ## [v3.3.0](https://github.com/jonathanwiesel/gemojione/tree/v3.3.0) (2017-07-14)
 
 [Full Changelog](https://github.com/jonathanwiesel/gemojione/compare/v3.2.0...v3.3.0)
@@ -111,7 +118,7 @@
 ```ruby
 config.assets.paths << Gemojione.index.images_path
 
-# to 
+# to
 
 config.assets.paths << Gemojione.images_path
 ```
@@ -238,7 +245,7 @@ wired_keyboard
 
 **Fixed bugs:**
 
-- Clean duplicate keywords. 
+- Clean duplicate keywords.
 - Make all `unicode-alternates` an array, uppercase value.
 
 
