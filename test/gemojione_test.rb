@@ -74,7 +74,7 @@ describe Gemojione do
 
     it 'should generate spritesheet tag' do
       with_emoji_config(:use_sprite, true) do
-        assert_equal "<span class=\"emojione emojione-1f300\" alt=\"🌀\" title=\"🌀\">🌀</span>", Gemojione.image_tag_for_moji('🌀')
+        assert_equal "<span class=\"emojione emojione-1f300\" alt=\"cyclone\" title=\":cyclone:\">🌀</span>", Gemojione.image_tag_for_moji('🌀')
       end
     end
   end
@@ -99,7 +99,7 @@ describe Gemojione do
       with_emoji_config(:use_sprite, true) do
         base_string = "I ❤ Emoji"
         replaced_string = Gemojione.replace_unicode_moji_with_images(base_string)
-        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji", replaced_string
+        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"heart\" title=\":heart:\">❤</span> Emoji", replaced_string
       end
     end
 
@@ -167,7 +167,7 @@ describe Gemojione do
       with_emoji_config(:use_sprite, true) do
         base_string = "I :heart: Emoji"
         replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"❤\" title=\"❤\">❤</span> Emoji", replaced_string
+        assert_equal "I <span class=\"emojione emojione-2764\" alt=\"heart\" title=\":heart:\">❤</span> Emoji", replaced_string
       end
     end
 
@@ -266,7 +266,7 @@ describe Gemojione do
     it 'should replace ascii moji with span tag for sprite' do
       with_emoji_config(:use_sprite, true) do
         replaced_string = Gemojione.replace_ascii_moji_with_images("Emoji is :-)")
-        assert_equal "Emoji is <span class=\"emojione emojione-1f604\" alt=\"😄\" title=\"😄\">😄</span>", replaced_string
+        assert_equal "Emoji is <span class=\"emojione emojione-1f604\" alt=\"smile\" title=\":smile:\">😄</span>", replaced_string
       end
     end
   end

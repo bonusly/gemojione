@@ -75,7 +75,7 @@ module Gemojione
   def self.image_tag_for_moji(moji)
     if use_sprite
       emoji = index.find_by_moji(moji)
-      %Q{<span class="emojione emojione-#{emoji['unicode'].to_s.downcase}" alt="#{ moji }" title="#{ moji }">#{ moji }</span>}
+      %Q{<span class="emojione emojione-#{emoji['unicode'].to_s.downcase}" alt="#{ emoji['name'] }" title="#{ emoji['shortname'] }">#{ moji }</span>}
     else
       %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
     end
