@@ -14,7 +14,7 @@ describe Gemojione do
 
     it 'should generate url' do
       with_emoji_config(:use_svg, true) do
-        assert_equal 'http://localhost:3000/1f44d.svg', Gemojione.image_url_for_name('+1')
+        assert_equal 'http://localhost:3000/1F44D.svg', Gemojione.image_url_for_name('+1')
       end
     end
   end
