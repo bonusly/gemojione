@@ -1,6 +1,8 @@
 # Gemojione
 
-[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl] [![Dependencies][gemnasiumDeps]][gemnasiumProject] [![Coverage][coverage]][codeclimate] [![GPA][gpa]][codeClimate]
+[![Build Status][travisUrl]][travisProject] [![Downloads][downs]][rubyUrl] [![Version][version]][rubyUrl]
+[![Emojione][emojiver]][emojionelink]
+[![Dependencies][gemnasiumDeps]][gemnasiumProject] [![Coverage][coverage]][codeclimate] [![GPA][gpa]][codeClimate]
 
 A gem for EmojiOne
 
@@ -112,8 +114,8 @@ You can also serve the assets directly from the gem in your rails app:
 ```ruby
 # config/application.rb
 config.assets.paths << Gemojione.images_path
-config.assets.precompile << "emoji/*.png" 
-# or 
+config.assets.precompile << "emoji/*.png"
+# or
 config.assets.precompile << "emoji/*.svg"
 
 #for spritesheets
@@ -176,7 +178,7 @@ If you’re using spritesheets, customising `Gemojione.default_size` at `config/
 * [Gollum](https://github.com/gollum/gollum)
 * [EpicBuzz](https://www.epicbuzz.net)
 
-If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here. 
+If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here.
 
 
 ## Contributors: :heart:
@@ -190,12 +192,12 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 * [@jonathanwiesel](https://github.com/jonathanwiesel): Emojione support
 * [@balasankarc](https://github.com/balasankarc): Asset executable bit cleaning.
 * [@tsigo](https://github.com/tsigo): Ability to serve assets directly from the gem in a rails app.
-* [@ZJvandeWeg](https://github.com/ZJvandeWeg): "Find by ASCII" feature. 
+* [@ZJvandeWeg](https://github.com/ZJvandeWeg): "Find by ASCII" feature.
 * [@kendrikat](https://github.com/kendrikat): Railtie dependecy checker, default size option support and new `replace_named_moji_with_images` feature.
 * [@gnclmorais](https://github.com/gnclmorais): Add `replace_named_moji_with_images ` missing ext helper.
 * [@naveed-ahmad](https://github.com/naveed-ahmad): ASCII replacement API and Spritesheet support.
 * [@Eric-Guo](https://github.com/Eric-Guo): Usage of `.ruby-version` instead of `.rvmrc`.
-* [@amyspark](https://github.com/amyspark): Add `find_by_shortname` 
+* [@amyspark](https://github.com/amyspark): Add `find_by_shortname`
 * [@ryosuke-endo](https://github.com/ryosuke-endo): Access to emoji list and `find_by_category`.
 * [@connorshea](https://github.com/connorshea): Bugfixing.
 
@@ -212,6 +214,9 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 ## Notes
 Run `rake resprite` to regenerate the spritesheets if you're adding new images
 
+[emojionelink]: https://www.emojione.com/blog/emojione-45-now-available
+[emojiver]:
+https://img.shields.io/badge/emojione-v4.5-blue.svg
 [travisUrl]: https://travis-ci.org/jonathanwiesel/gemojione.svg?branch=master
 [travisProject]: https://travis-ci.org/jonathanwiesel/gemojione
 [downs]: https://img.shields.io/gem/dt/gemojione.svg
