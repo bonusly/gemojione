@@ -6,11 +6,11 @@ require 'gemojione/version'
 Gem::Specification.new do |spec|
   spec.name          = "gemojione"
   spec.version       = Gemojione::VERSION
-  spec.authors       = ["Steve Klabnik", "Winfield Peterson", "Jonathan Wiesel"]
-  spec.email         = ["steve@steveklabnik.com", "winfield.peterson@gmail.com", "jonathanwiesel@gmail.com"]
+  spec.authors       = ["Steve Klabnik", "Winfield Peterson", "Jonathan Wiesel", "Allan McLelland"]
+  spec.email         = ["steve@steveklabnik.com", "winfield.peterson@gmail.com", "jonathanwiesel@gmail.com", "allan@bonus.ly"]
   spec.description   = %q{A gem for EmojiOne}
   spec.summary       = %q{A gem for EmojiOne}
-  spec.homepage      = "http://github.com/jonathanwiesel/gemojione"
+  spec.homepage      = "https://github.com/bonusly/gemojione"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
