@@ -1,7 +1,6 @@
 require 'pry'
 require 'httparty'
 
-# IndexImporter.import_from_emojione
 class IndexImporter
   SOURCE = 'https://raw.githubusercontent.com/joypixels/emojione/master/emoji.json'
 
@@ -62,6 +61,36 @@ class IndexImporter
     }
 
     File.open(file, 'w') do |f|
+      f.write(JSON.pretty_generate(emoji_list))
+    end
+  end
+
+  def self.prettyify_index
+    file = File.absolute_path(File.dirname(__FILE__) + '/../config/index.json')
+    emoji_list ||= begin
+      emoji_json = File.read(file)
+      JSON.parse(emoji_json)
+    end
+
+     File.open(file, 'w') do |f|
+      f.write(JSON.pretty_generate(emoji_list))
+    end
+  end
+
+  def self.add_alias(moji, new_alias)
+    file = File.absolute_path(File.dirname(__FILE__) + '/../config/index.json')
+    emoji_list ||= begin
+      emoji_json = File.read(file)
+      JSON.parse(emoji_json)
+    end
+
+     index = Index.new
+    return if index.find_by_moji(moji).nil?
+
+     name = index.find_by_moji(moji)['name']
+    emoji_list[name]['aliases'] << ":#{new_alias}:"
+
+     File.open(file, 'w') do |f|
       f.write(JSON.pretty_generate(emoji_list))
     end
   end
