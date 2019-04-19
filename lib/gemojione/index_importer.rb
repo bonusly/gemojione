@@ -1,6 +1,3 @@
-# require 'pry'
-# require 'httparty'
-#
 # class IndexImporter
 #   SOURCE = 'https://raw.githubusercontent.com/joypixels/emojione/master/emoji.json'
 #
