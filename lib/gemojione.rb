@@ -9,7 +9,7 @@ rescue LoadError
 end
 
 require 'gemojione/index'
-require 'gemojione/index_importer'
+# require 'gemojione/index_importer'
 
 require 'gemojione/railtie' if defined?(Rails::Railtie)
 
