@@ -11889,7 +11889,8 @@
     "shortname": ":flag_ac:",
     "category": "flags",
     "aliases": [
-      ":ac:"
+      ":ac:",
+      ":ascension:"
     ],
     "aliases_ascii": [
 
@@ -12693,7 +12694,8 @@
     "shortname": ":flag_bv:",
     "category": "flags",
     "aliases": [
-      ":bv:"
+      ":bv:",
+      ":bouvet_island:"
     ],
     "aliases_ascii": [
 
@@ -13011,7 +13013,8 @@
     "shortname": ":flag_cn:",
     "category": "flags",
     "aliases": [
-      ":cn:"
+      ":cn:",
+      ":china:"
     ],
     "aliases_ascii": [
 
@@ -13059,7 +13062,8 @@
     "shortname": ":flag_cp:",
     "category": "flags",
     "aliases": [
-      ":cp:"
+      ":cp:",
+      ":clipperton_island:"
     ],
     "aliases_ascii": [
 
@@ -13240,7 +13244,8 @@
     "shortname": ":flag_de:",
     "category": "flags",
     "aliases": [
-      ":de:"
+      ":de:",
+      ":germany:"
     ],
     "aliases_ascii": [
 
@@ -13264,7 +13269,8 @@
     "shortname": ":flag_dg:",
     "category": "flags",
     "aliases": [
-      ":dg:"
+      ":dg:",
+      ":diego_garcia:"
     ],
     "aliases_ascii": [
 
@@ -13402,7 +13408,8 @@
     "shortname": ":flag_ea:",
     "category": "flags",
     "aliases": [
-      ":ea:"
+      ":ea:",
+      ":ceuta_melilla:"
     ],
     "aliases_ascii": [
 
@@ -13543,7 +13550,8 @@
     "shortname": ":flag_es:",
     "category": "flags",
     "aliases": [
-      ":es:"
+      ":es:",
+      ":spain:"
     ],
     "aliases_ascii": [
 
@@ -13592,7 +13600,8 @@
     "shortname": ":flag_eu:",
     "category": "flags",
     "aliases": [
-      ":eu:"
+      ":eu:",
+      ":european_union:"
     ],
     "aliases_ascii": [
 
@@ -13730,7 +13739,8 @@
     "shortname": ":flag_fr:",
     "category": "flags",
     "aliases": [
-      ":fr:"
+      ":fr:",
+      ":france:"
     ],
     "aliases_ascii": [
 
@@ -13776,7 +13786,8 @@
     "shortname": ":flag_gb:",
     "category": "flags",
     "aliases": [
-      ":gb:"
+      ":gb:",
+      ":great_britain:"
     ],
     "aliases_ascii": [
 
@@ -14562,7 +14573,8 @@
     "shortname": ":flag_it:",
     "category": "flags",
     "aliases": [
-      ":it:"
+      ":it:",
+      ":italy:"
     ],
     "aliases_ascii": [
 
@@ -14656,7 +14668,8 @@
     "shortname": ":flag_jp:",
     "category": "flags",
     "aliases": [
-      ":jp:"
+      ":jp:",
+      ":japan:"
     ],
     "aliases_ascii": [
 
@@ -14845,7 +14858,8 @@
     "shortname": ":flag_kr:",
     "category": "flags",
     "aliases": [
-      ":kr:"
+      ":kr:",
+      ":korea:"
     ],
     "aliases_ascii": [
 
@@ -15292,7 +15306,8 @@
     "shortname": ":flag_mf:",
     "category": "flags",
     "aliases": [
-      ":mf:"
+      ":mf:",
+      ":saint_martin:"
     ],
     "aliases_ascii": [
 
@@ -16449,7 +16464,8 @@
     "shortname": ":flag_ru:",
     "category": "flags",
     "aliases": [
-      ":ru:"
+      ":ru:",
+      ":russia:"
     ],
     "aliases_ascii": [
 
@@ -16978,7 +16994,8 @@
     "shortname": ":flag_ta:",
     "category": "flags",
     "aliases": [
-      ":ta:"
+      ":ta:",
+      ":tristan_da_cunha:"
     ],
     "aliases_ascii": [
 
@@ -17249,7 +17266,8 @@
     "shortname": ":flag_tr:",
     "category": "flags",
     "aliases": [
-      ":tr:"
+      ":tr:",
+      ":turkey:"
     ],
     "aliases_ascii": [
 
@@ -17430,7 +17448,8 @@
     "shortname": ":flag_us:",
     "category": "flags",
     "aliases": [
-      ":us:"
+      ":us:",
+      ":united_states:"
     ],
     "aliases_ascii": [
 
