@@ -95,6 +95,12 @@ describe Gemojione do
       assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
+    it 'should replace diversity unicode moji properly' do
+      base_string = "Woman elf tone5 🧝🏿‍♀️"
+      replaced_string = Gemojione.replace_unicode_moji_with_images(base_string)
+      assert_equal "Woman elf tone5 <img alt=\"🧝🏿‍♀️\" class=\"emoji\" src=\"http://localhost:3000/1f9dd-1f3ff-2640.png\">", replaced_string
+    end
+
     it 'should replace unicode moji with span tag for spritesheet' do
       with_emoji_config(:use_sprite, true) do
         base_string = "I ❤ Emoji"
@@ -177,19 +183,19 @@ describe Gemojione do
 
     it 'should escape html in non html_safe aware strings' do
       replaced_string = Gemojione.replace_named_moji_with_images(':heart:<script>')
-      assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+      assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
     end
 
     it 'should replace coded moji with img tag' do
       base_string = "I :heart: Emoji"
       replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+      assert_equal "I <img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
     it 'should replace aliased moji with img tag' do
       base_string = "Good one :+1:"
       replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-      assert_equal "Good one <img alt=\"👍\" class=\"emoji\" src=\"http://localhost:3000/1f44d.png\">", replaced_string
+      assert_equal "Good one <img alt=\"thumbsup\" class=\"emoji\" src=\"http://localhost:3000/1f44d.png\">", replaced_string
     end
 
     it 'should handle nil string' do
@@ -204,7 +210,7 @@ describe Gemojione do
           Gemojione.replace_named_moji_with_images(string)
         end
 
-        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+        assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
       end
 
       it 'should escape non html_safe? strings in all strings' do
@@ -224,7 +230,7 @@ describe Gemojione do
           Gemojione.replace_named_moji_with_images(string)
         end
 
-        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"><a href=\"harmless\">", replaced_string
+        assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"><a href=\"harmless\">", replaced_string
       end
 
       it 'should always return an html_safe string for emoji' do
@@ -275,6 +281,11 @@ describe Gemojione do
     it 'should replace unicode mojis with their shortnames' do
       replaced_string = Gemojione.replace_unicode_moji_with_names("Emoji is 😄")
       assert_equal "Emoji is :smile:", replaced_string
+    end
+
+    it 'replaces diversity mojis with their shortnames properly' do
+      replaced_string = Gemojione.replace_unicode_moji_with_names("Emoji is 🧝🏿‍♀️")
+      assert_equal "Emoji is :woman_elf_tone5:", replaced_string
     end
   end
 

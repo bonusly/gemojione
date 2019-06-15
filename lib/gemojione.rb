@@ -9,6 +9,8 @@ rescue LoadError
 end
 
 require 'gemojione/index'
+require 'gemojione/categories'
+# require 'gemojione/index_importer'
 
 require 'gemojione/railtie' if defined?(Rails::Railtie)
 
@@ -73,11 +75,20 @@ module Gemojione
   end
 
   def self.image_tag_for_moji(moji)
+    emoji = index.find_by_moji(moji)
     if use_sprite
-      emoji = index.find_by_moji(moji)
       %Q{<span class="emojione emojione-#{emoji['unicode'].to_s.downcase}" alt="#{ emoji['name'] }" title="#{ emoji['shortname'] }">#{ moji }</span>}
     else
-      %Q{<img alt="#{moji}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
+      %Q{<img alt="#{emoji['moji']}" class="emoji" src="#{ image_url_for_unicode_moji(moji) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
+    end
+  end
+
+  def self.image_tag_for_unicode(unicode)
+    emoji = index.find_by_unicode(unicode)
+    if use_sprite
+      %Q{<span class="emojione emojione-#{emoji['unicode'].to_s.downcase}" alt="#{ emoji['name'] }" title="#{ emoji['shortname'] }">#{ emoji['moji'] }</span>}
+    else
+      %Q{<img alt="#{emoji['name']}" class="emoji" src="#{ image_url_for_unicode_moji(emoji['moji']) }"#{ default_size ? ' style="width: '+default_size+';"' : '' }>}
     end
   end
 
@@ -105,8 +116,8 @@ module Gemojione
     safe_string = safe_string(string.dup)
     safe_string.gsub!(index.shortname_moji_regex) do |code|
       name = code.tr(':','')
-      moji = index.find_by_name(name)['moji']
-      Gemojione.image_tag_for_moji(moji)
+      moji = index.find_by_name(name)
+      Gemojione.image_tag_for_unicode(moji['unicode'])
     end
     safe_string = safe_string.html_safe if safe_string.respond_to?(:html_safe)
 
