@@ -37,7 +37,7 @@ module Gemojione
         @emoji_by_code[code] = emoji_hash if code
 
         moji = emoji_hash['moji']
-        @emoji_by_moji[moji] = emoji_hash if moji
+        @emoji_by_moji[moji] = emoji_hash if moji && @emoji_by_moji[moji].nil?
 
         unicode = emoji_hash['unicode']
         @emoji_by_unicode[unicode] = emoji_hash if unicode
@@ -97,12 +97,6 @@ module Gemojione
 
     def ascii_moji_regex
       @emoji_ascii_regex
-    end
-
-    def categorical_list
-      Gemojione::Categories.people.map do |name|
-        find_by_name(name)
-      end
     end
   end
 end

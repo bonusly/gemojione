@@ -18,14 +18,11 @@ module Gemojione
 
     def categories
       %w[people nature food activity travel objects symbols flags]
-      # %w[people nature food]
     end
 
     def mojis_for_category(category)
       send(category).map do |name|
-        moji = index.find_by_name(name)
-        raise "Moji not found: #{name}" if moji.nil?
-        moji
+        index.find_by_name(name)
       end
     end
 
