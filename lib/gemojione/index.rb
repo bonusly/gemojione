@@ -98,5 +98,11 @@ module Gemojione
     def ascii_moji_regex
       @emoji_ascii_regex
     end
+
+    def categorical_list
+      Gemojione::Categories.people.map do |name|
+        find_by_name(name)
+      end
+    end
   end
 end
