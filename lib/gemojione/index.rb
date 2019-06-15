@@ -37,7 +37,7 @@ module Gemojione
         @emoji_by_code[code] = emoji_hash if code
 
         moji = emoji_hash['moji']
-        @emoji_by_moji[moji] = emoji_hash if moji && @emoji_by_moji[moji].nil?
+        @emoji_by_moji[moji] = emoji_hash if moji
 
         unicode = emoji_hash['unicode']
         @emoji_by_unicode[unicode] = emoji_hash if unicode
