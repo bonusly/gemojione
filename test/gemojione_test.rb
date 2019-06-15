@@ -271,6 +271,13 @@ describe Gemojione do
     end
   end
 
+  describe "replace_unicode_moji_with_names" do
+    it 'should replace unicode mojis with their shortnames' do
+      replaced_string = Gemojione.replace_unicode_moji_with_names("Emoji is 😄")
+      assert_equal "Emoji is :smile:", replaced_string
+    end
+  end
+
   describe "images_path" do
     it "should always return a valid default path" do
       path = Gemojione.images_path
