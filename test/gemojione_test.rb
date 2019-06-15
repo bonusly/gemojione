@@ -177,19 +177,19 @@ describe Gemojione do
 
     it 'should escape html in non html_safe aware strings' do
       replaced_string = Gemojione.replace_named_moji_with_images(':heart:<script>')
-      assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+      assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
     end
 
     it 'should replace coded moji with img tag' do
       base_string = "I :heart: Emoji"
       replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-      assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
+      assert_equal "I <img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
     it 'should replace aliased moji with img tag' do
       base_string = "Good one :+1:"
       replaced_string = Gemojione.replace_named_moji_with_images(base_string)
-      assert_equal "Good one <img alt=\"👍\" class=\"emoji\" src=\"http://localhost:3000/1f44d.png\">", replaced_string
+      assert_equal "Good one <img alt=\"thumbsup\" class=\"emoji\" src=\"http://localhost:3000/1f44d.png\">", replaced_string
     end
 
     it 'should handle nil string' do
@@ -204,7 +204,7 @@ describe Gemojione do
           Gemojione.replace_named_moji_with_images(string)
         end
 
-        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
+        assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\">&lt;script&gt;", replaced_string
       end
 
       it 'should escape non html_safe? strings in all strings' do
@@ -224,7 +224,7 @@ describe Gemojione do
           Gemojione.replace_named_moji_with_images(string)
         end
 
-        assert_equal "<img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"><a href=\"harmless\">", replaced_string
+        assert_equal "<img alt=\"heart\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"><a href=\"harmless\">", replaced_string
       end
 
       it 'should always return an html_safe string for emoji' do
