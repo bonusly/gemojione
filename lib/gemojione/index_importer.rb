@@ -19,8 +19,7 @@ class IndexImporter
           unicode,
           hash['name'],
           hash['category'],
-          # [unicode.downcase.to_i(16)].pack('U'),
-          hash['fully_qualified'].split('-').map { |u| u.downcase.to_i(16) }.pack('U*'),
+          hash['code_points']['fully_qualified'].split('-').map { |u| u.downcase.to_i(16) }.pack('U*'),
           hash['shortname_alternates']
         )
       end
