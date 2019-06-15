@@ -95,6 +95,12 @@ describe Gemojione do
       assert_equal "I <img alt=\"❤\" class=\"emoji\" src=\"http://localhost:3000/2764.png\"> Emoji", replaced_string
     end
 
+    it 'should replace diversity unicode moji properly' do
+      base_string = "Woman elf tone5 🧝🏿‍♀️"
+      replaced_string = Gemojione.replace_unicode_moji_with_images(base_string)
+      assert_equal "Woman elf tone5 <img alt=\"🧝🏿‍♀️\" class=\"emoji\" src=\"http://localhost:3000/1f9dd-1f3ff-2640.png\">", replaced_string
+    end
+
     it 'should replace unicode moji with span tag for spritesheet' do
       with_emoji_config(:use_sprite, true) do
         base_string = "I ❤ Emoji"
@@ -275,6 +281,11 @@ describe Gemojione do
     it 'should replace unicode mojis with their shortnames' do
       replaced_string = Gemojione.replace_unicode_moji_with_names("Emoji is 😄")
       assert_equal "Emoji is :smile:", replaced_string
+    end
+
+    it 'replaces diversity mojis with their shortnames properly' do
+      replaced_string = Gemojione.replace_unicode_moji_with_names("Emoji is 🧝🏿‍♀️")
+      assert_equal "Emoji is :woman_elf_tone5:", replaced_string
     end
   end
 
