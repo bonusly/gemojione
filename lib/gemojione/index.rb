@@ -55,7 +55,7 @@ module Gemojione
       end
 
       @emoji_code_regex = /#{@emoji_by_code.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
-      @emoji_moji_regex = /#{@emoji_by_moji.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
+      @emoji_moji_regex = /#{@emoji_by_moji.keys.sort { |a, b| b.length <=> a.length }.map{|ec| Regexp.escape(ec)}.join('|')}/
       @emoji_ascii_regex = /#{@emoji_by_ascii.keys.map{|ec| Regexp.escape(ec)}.join('|')}/
     end
 
