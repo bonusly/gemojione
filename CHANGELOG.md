@@ -1,5 +1,11 @@
 # Change Log
 
+## v4.2.0 (2019-06-15)
+
+**Implemented enhancements:**
+
+- Updated to include all missing emojis
+
 ## [v4.0.0](https://github.com/bonusly/gemojione/tree/v3.3.0) (2019-02-08)
 
 **Implemented enhancements:**
