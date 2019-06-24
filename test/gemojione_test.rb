@@ -263,6 +263,13 @@ describe Gemojione do
     end
   end
 
+  describe 'replace_named_moji_with_unicode_moji' do
+    it 'should replace emoji name with unicode moji' do
+      replaced_string = Gemojione.replace_named_moji_with_unicode_moji("Going for a walk! :woman_walking:")
+      assert_equal "Going for a walk! 🚶‍♀️", replaced_string
+    end
+  end
+
   describe "replace_ascii_moji_with_images" do
     it 'should replace ascii moji with img tag' do
       replaced_string = Gemojione.replace_ascii_moji_with_images("Emoji is :-)")
