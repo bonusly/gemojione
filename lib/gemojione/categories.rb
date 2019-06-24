@@ -101,7 +101,7 @@ module Gemojione
     def activity
       """
         soccer basketball football baseball tennis volleyball rugby_football 8ball ping_pong badminton goal hockey field_hockey
-        cricket golf bow_and_arrow fishing_pole_and_fish boxing_glove martial_arts_uniform ice_skate ski skier snowboarder
+        golf bow_and_arrow fishing_pole_and_fish boxing_glove martial_arts_uniform ice_skate ski skier snowboarder
         woman_lifting_weights man_lifting_weights person_fencing women_wrestling men_wrestling woman_cartwheeling
         man_cartwheeling woman_bouncing_ball man_bouncing_ball woman_playing_handball man_playing_handball woman_golfing
         man_golfing woman_surfing man_surfing woman_swimming man_swimming woman_playing_water_polo
