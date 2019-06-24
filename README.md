@@ -94,6 +94,13 @@ Emoji Library Index APIs:
 => {"unicode"=>"1F604", "unicode_alternates"=>[], "name"=>"smile", "shortname"=>":smile:", "category"=>"people", "aliases"=>[], "aliases_ascii"=>[":)", ":-)", "=]", "=)", ":]"], "keywords"=>["face", "funny", "haha", "happy", "joy", "laugh", "smile", "smiley", "smiling", "emotion"], "moji"=>"😄","description"=>"smiling face with open mouth and smiling eyes"}
 ```
 
+Other:
+
+```ruby
+> Gemojione.replace_named_moji_with_unicode_moji("Going for a walk! :woman_walking:")
+=> "Going for a walk! 🚶‍♀️"
+```
+
 Default configuration integrates with Rails, but you can change it with an initializer:
 
 ```ruby
