@@ -185,6 +185,7 @@ If you’re using spritesheets, customising `Gemojione.default_size` at `config/
 * [Gitlab](https://github.com/gitlabhq/gitlabhq)
 * [Gollum](https://github.com/gollum/gollum)
 * [EpicBuzz](https://www.epicbuzz.net)
+* [Compony](https://www.compony.io)
 
 If your application uses the gem, open a PR and show your project's :heart: for the gem so it gets listed here.
 
