@@ -222,6 +222,14 @@ This gem is a former fork of the [emoji](https://github.com/wpeterson/emoji) gem
 ## Notes
 Run `rake resprite` to regenerate the spritesheets if you're adding new images
 
+## About Bonusly
+
+![Bonusly Logo](https://bonusly-files.s3.amazonaws.com/bonusly-logo.png?small)
+
+Bonusly is the fun and easy way to engage all of your employees and improve retention and productivity at every level of your organization.
+
+Check out [our product](https://bonus.ly) or [our engineering blog](https://engineering.bonus.ly).
+
 [emojionelink]: https://www.emojione.com/blog/emojione-45-now-available
 [emojiver]:
 https://img.shields.io/badge/emojione-v4.5-blue.svg
@@ -235,3 +243,4 @@ https://img.shields.io/badge/emojione-v4.5-blue.svg
 [coverage]: https://img.shields.io/codeclimate/coverage/github/jonathanwiesel/gemojione.svg
 [codeclimate]: https://codeclimate.com/github/jonathanwiesel/gemojione
 [gpa]: https://img.shields.io/codeclimate/github/jonathanwiesel/gemojione.svg
+
