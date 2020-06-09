@@ -1,16 +1,20 @@
 module Gemojione
   class Categories
-    def self.all
-      new.all
+    def self.all(hide_explicit=false)
+      new.all(hide_explicit)
     end
 
-    def all
+    def all(hide_explicit)
+      @hide_explicit = hide_explicit
+
       categories.each_with_object({}) do |category, hash|
         hash[category.capitalize] = mojis_for_category(category)
       end
     end
 
     private
+
+    attr_reader :hide_explicit
 
     def index
       @index ||= Gemojione::Index.new
@@ -22,8 +26,9 @@ module Gemojione
 
     def mojis_for_category(category)
       send(category).map do |name|
-        index.find_by_name(name)
-      end
+        moji = index.find_by_name(name)
+        moji unless hide_explicit && moji['explicit']
+      end.compact
     end
 
     def people

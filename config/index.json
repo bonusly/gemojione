@@ -25149,6 +25149,7 @@
     ],
     "name": "reversed hand with middle finger extended",
     "shortname": ":middle_finger:",
+    "explicit": "true",
     "category": "people",
     "aliases": [
       ":reversed_hand_with_middle_finger_extended:"
@@ -50356,6 +50357,7 @@
     "shortname": ":face_with_symbols_over_mouth:",
     "category": "people",
     "moji": "🤬",
+    "explicit": "true",
     "unicode_alternates": [
 
     ],
