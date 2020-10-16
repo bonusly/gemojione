@@ -9,6 +9,7 @@ rvm:
   - rbx-2
   - ruby-head
   - jruby-head
+  - truffleruby-head
 
 matrix:
   allow_failures:
