@@ -4,7 +4,7 @@ module Gemojione
 
     def initialize(emoji_list=nil)
       emoji_list ||= begin
-        emoji_json = File.read(File.absolute_path(File.dirname(__FILE__) + '/../../config/index.json'))
+        emoji_json = File.read(File.absolute_path(File.dirname(__FILE__) + '/../../config/index.json'), :encoding => 'UTF-8')
         JSON.parse(emoji_json)
       end
 
